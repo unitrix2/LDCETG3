@@ -6,8 +6,11 @@
     <title>Indian Railways - JE Mock Test</title>
     <style>
         :root { 
+            /* Default Theme (Railway Red) */
             --primary: #b71c1c; 
             --primary-dark: #7f0000;
+            --primary-light: #ffcdd2;
+            
             --secondary: #eceff1; 
             --text: #263238; 
             --correct: #2e7d32; 
@@ -17,7 +20,7 @@
             --header-bg: #fff;
         }
         
-        body { font-family: 'Segoe UI', 'Roboto', sans-serif; margin: 0; background: var(--secondary); color: var(--text); display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+        body { font-family: 'Segoe UI', 'Roboto', sans-serif; margin: 0; background: var(--secondary); color: var(--text); display: flex; flex-direction: column; height: 100vh; overflow: hidden; transition: background 0.3s; }
         
         /* --- LOADER --- */
         #loader { position: fixed; top:0; left:0; width:100%; height:100%; background:rgba(255,255,255,0.98); z-index:9999; display:flex; justify-content:center; align-items:center; flex-direction:column; }
@@ -33,45 +36,51 @@
             justify-content: space-between; 
             align-items: center; 
             flex-shrink: 0; 
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08); 
             border-bottom: 3px solid var(--primary);
             z-index: 20;
+            flex-wrap: wrap;
+            gap: 10px;
         }
         
         .header-left { display: flex; align-items: center; gap: 15px; }
-        .header-right { display: flex; align-items: center; gap: 15px; }
+        
+        /* CONTROLS SECTION (Right Side) */
+        .header-controls { display: flex; align-items: center; gap: 20px; }
 
         .railway-logo { 
             width: 45px; height: 45px; 
-            background: url('https://upload.wikimedia.org/wikipedia/commons/8/83/Indian_Railways.svg') no-repeat center center; 
+            background: url('https://images.seeklogo.com/logo-png/31/1/indian-railways-logo-png_seeklogo-310214.png') no-repeat center center; 
             background-size: contain;
         }
 
         .title-group h2 { margin: 0; font-size: 1.3rem; color: var(--primary); line-height: 1.2; font-weight: 700; }
         .title-group p { margin: 0; font-size: 0.75rem; color: #666; font-weight: 500; }
 
-        /* --- DROPDOWN SELECTOR --- */
-        .test-selector-container { position: relative; }
-        select#test-dropdown {
-            padding: 8px 35px 8px 15px;
-            font-size: 0.95rem;
-            border: 2px solid #cfd8dc;
-            border-radius: 25px;
-            background-color: #fff;
-            color: #37474f;
-            font-weight: 600;
-            outline: none;
-            cursor: pointer;
-            appearance: none;
-            min-width: 220px;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-        }
-        select#test-dropdown:hover { border-color: var(--primary); }
-        select#test-dropdown:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(183, 28, 28, 0.1); }
+        /* --- STYLISH DROPDOWN --- */
+        .selector-group { display: flex; align-items: center; gap: 10px; }
+        .selector-label { font-size: 0.9rem; font-weight: 700; color: #546e7a; text-transform: uppercase; letter-spacing: 0.5px; }
         
-        /* Custom Arrow for Dropdown */
-        .test-selector-container::after {
+        .custom-select-wrapper { position: relative; }
+        select#test-dropdown {
+            appearance: none;
+            background-color: #f1f8e9;
+            border: 2px solid var(--primary);
+            border-radius: 30px;
+            padding: 8px 40px 8px 20px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--primary-dark);
+            cursor: pointer;
+            outline: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            min-width: 250px;
+        }
+        select#test-dropdown:hover { background-color: #fff; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transform: translateY(-1px); }
+        
+        /* Custom Arrow */
+        .custom-select-wrapper::after {
             content: '▼';
             font-size: 0.7rem;
             color: var(--primary);
@@ -82,11 +91,61 @@
             pointer-events: none;
         }
 
-        .timer { 
-            background: #fff; color: var(--primary); padding: 6px 15px; border-radius: 20px; 
-            font-weight: 800; border: 2px solid var(--primary); min-width: 80px; text-align: center; 
-            font-size: 1.1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        /* --- TIMER & THEME --- */
+        .tools-group { display: flex; align-items: center; gap: 10px; background: #f5f5f5; padding: 5px 10px; border-radius: 30px; border: 1px solid #ddd; }
+        
+        .timer-display { 
+            font-family: 'Courier New', monospace;
+            font-weight: 800; 
+            font-size: 1.2rem; 
+            color: var(--primary);
+            min-width: 70px;
+            text-align: center;
         }
+
+        .timer-input {
+            width: 40px;
+            padding: 4px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            text-align: center;
+            font-size: 0.8rem;
+        }
+        
+        .tool-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 30px; 
+            height: 30px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            display: flex; align-items: center; justify-content: center;
+            transition: 0.2s;
+        }
+        .tool-btn:hover { transform: scale(1.1); }
+
+        /* Theme Palette */
+        .theme-panel {
+            position: absolute;
+            top: 70px;
+            right: 20px;
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+            display: none; /* Hidden by default */
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            z-index: 50;
+            border: 1px solid #eee;
+        }
+        .theme-dot {
+            width: 25px; height: 25px; border-radius: 50%; cursor: pointer; border: 2px solid white; box-shadow: 0 0 0 1px #ccc;
+            transition: transform 0.2s;
+        }
+        .theme-dot:hover { transform: scale(1.2); }
 
         /* --- MAIN LAYOUT --- */
         .container { display: flex; flex: 1; overflow: hidden; padding: 15px; gap: 15px; position: relative; }
@@ -105,13 +164,13 @@
             justify-content: space-between;
             box-shadow: 0 2px 8px rgba(0,0,0,0.15);
         }
-        .active-test-banner span { opacity: 0.9; font-size: 0.9rem; font-weight: 400; }
+        .active-test-banner span { opacity: 0.9; font-size: 0.9rem; font-weight: 400; background: rgba(255,255,255,0.2); padding: 2px 8px; border-radius: 4px; }
 
         .q-scroll-area { padding: 25px; overflow-y: auto; flex: 1; }
 
         /* --- QUESTION STYLES --- */
         .q-meta { margin-bottom: 15px; display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
-        .q-idx { font-weight: 700; color: var(--primary); font-size: 1.1rem; background: #ffebee; padding: 5px 12px; border-radius: 15px; }
+        .q-idx { font-weight: 700; color: var(--primary); font-size: 1.1rem; background: var(--primary-light); padding: 5px 12px; border-radius: 15px; }
         
         .q-text { font-size: 1.25rem; margin-bottom: 10px; font-weight: 600; color: #263238; line-height: 1.4; }
         .q-hindi { font-size: 1.15rem; margin-bottom: 25px; color: #455a64; font-family: 'Nirmala UI', sans-serif; }
@@ -120,7 +179,7 @@
         .options label { display: flex; align-items: flex-start; padding: 15px; margin-bottom: 12px; border: 2px solid #e0e0e0; border-radius: 8px; cursor: pointer; transition: 0.2s; background: #fff; position: relative; }
         .options label:hover { background: #fafafa; border-color: var(--primary); }
         .options input { margin-right: 15px; margin-top: 4px; transform: scale(1.3); accent-color: var(--primary); flex-shrink: 0; }
-        .options input:checked + span { font-weight: 600; color: var(--primary-dark); }
+        .options input:checked + span { font-weight: 600; color: var(--primary); }
 
         .clear-btn { background: #fff; border: 1px solid #ef5350; color: #ef5350; padding: 6px 15px; border-radius: 20px; cursor: pointer; font-size: 0.85rem; margin-top: 15px; transition: 0.2s; font-weight: 600; display: inline-flex; align-items: center; gap: 5px; }
         .clear-btn:hover { background: #ef5350; color: white; box-shadow: 0 2px 5px rgba(239, 83, 80, 0.3); }
@@ -195,13 +254,14 @@
         .bg-ski { background-color: var(--skipped); }
 
         @media (max-width: 768px) { 
+            header { flex-direction: column; align-items: stretch; gap: 10px; }
+            .header-controls { flex-wrap: wrap; justify-content: space-between; }
             .container { flex-direction: column; overflow-y: auto; } 
             .q-area { flex: none; min-height: 450px; }
             .sidebar { flex: none; max-width: 100%; max-height: 250px; order: 2; margin-top: 10px; }
             .score-row, .chart-row { flex-direction: column; }
-            header { flex-direction: row; flex-wrap: wrap; gap: 10px; }
-            .header-right { margin-left: auto; }
-            .active-test-banner { font-size: 1rem; padding: 10px 15px; }
+            .custom-select-wrapper { width: 100%; }
+            select#test-dropdown { width: 100%; min-width: unset; }
         }
     </style>
 </head>
@@ -210,6 +270,17 @@
 <div id="loader">
     <div class="spinner"></div>
     <p id="loader-text" style="margin-top:15px; font-weight:bold; color:#555;">Initializing...</p>
+</div>
+
+<div class="theme-panel" id="theme-panel">
+    <div class="theme-dot" style="background:#b71c1c;" onclick="setTheme('#b71c1c', '#7f0000', '#ffcdd2')" title="Railway Red"></div>
+    <div class="theme-dot" style="background:#1565c0;" onclick="setTheme('#1565c0', '#003c8f', '#bbdefb')" title="Ocean Blue"></div>
+    <div class="theme-dot" style="background:#2e7d32;" onclick="setTheme('#2e7d32', '#005005', '#c8e6c9')" title="Forest Green"></div>
+    <div class="theme-dot" style="background:#6a1b9a;" onclick="setTheme('#6a1b9a', '#38006b', '#e1bee7')" title="Royal Purple"></div>
+    <div class="theme-dot" style="background:#00695c;" onclick="setTheme('#00695c', '#003d33', '#b2dfdb')" title="Teal"></div>
+    <div class="theme-dot" style="background:#37474f;" onclick="setTheme('#37474f', '#102027', '#cfd8dc')" title="Dark Slate"></div>
+    <div class="theme-dot" style="background:#e65100;" onclick="setTheme('#e65100', '#ac1900', '#ffe0b2')" title="Orange"></div>
+    <div class="theme-dot" style="background:#283593;" onclick="setTheme('#283593', '#001064', '#c5cae9')" title="Indigo"></div>
 </div>
 
 <header>
@@ -221,21 +292,31 @@
         </div>
     </div>
     
-    <div class="header-right">
-        <div class="test-selector-container">
-            <select id="test-dropdown" onchange="switchTest(this.value)">
-                <option value="" disabled selected>Select a Test...</option>
-                </select>
+    <div class="header-controls">
+        <button class="tool-btn" onclick="toggleThemePanel()" title="Change Color Theme">🎨</button>
+
+        <div class="tools-group">
+            <input type="number" id="manual-timer" class="timer-input" placeholder="Mins">
+            <button class="tool-btn" onclick="setCustomTime()" title="Set Timer">Set</button>
+            <div class="timer-display" id="timer">60:00</div>
         </div>
-        <div class="timer" id="timer">60:00</div>
+
+        <div class="selector-group">
+            <span class="selector-label">Select Test:</span>
+            <div class="custom-select-wrapper">
+                <select id="test-dropdown" onchange="switchTest(this.value)">
+                    <option value="" disabled selected>Loading Tests...</option>
+                </select>
+            </div>
+        </div>
     </div>
 </header>
 
 <div class="container" id="quiz-ui">
     <div class="q-area">
         <div class="active-test-banner">
-            <div id="active-test-name">Loading...</div>
-            <span>Questions: <span id="q-count">0</span></span>
+            <div id="active-test-name">Please Select a Test</div>
+            <span><span id="q-count">0</span> Questions</span>
         </div>
 
         <div class="q-scroll-area">
@@ -287,8 +368,54 @@
 
     window.onload = async function() {
         await fetchExamsFromGitHub();
+        
+        // Close theme panel when clicking outside
+        document.addEventListener('click', function(event) {
+            const panel = document.getElementById('theme-panel');
+            const btn = document.querySelector('.tool-btn[onclick="toggleThemePanel()"]');
+            if (!panel.contains(event.target) && !btn.contains(event.target)) {
+                panel.style.display = 'none';
+            }
+        });
     };
 
+    // --- THEME LOGIC ---
+    function toggleThemePanel() {
+        const panel = document.getElementById('theme-panel');
+        panel.style.display = panel.style.display === 'grid' ? 'none' : 'grid';
+    }
+
+    function setTheme(primary, dark, light) {
+        document.documentElement.style.setProperty('--primary', primary);
+        document.documentElement.style.setProperty('--primary-dark', dark);
+        document.documentElement.style.setProperty('--primary-light', light);
+        document.getElementById('theme-panel').style.display = 'none';
+    }
+
+    // --- TIMER LOGIC ---
+    function setCustomTime() {
+        const min = parseInt(document.getElementById('manual-timer').value);
+        if (min > 0) {
+            time = min * 60;
+            clearInterval(timerInt);
+            startTimer();
+            alert(`Timer set to ${min} minutes!`);
+        } else {
+            alert("Please enter a valid number of minutes.");
+        }
+    }
+
+    function startTimer() {
+        clearInterval(timerInt);
+        timerInt = setInterval(() => {
+            time--;
+            let m = Math.floor(time/60), s = time%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(time <= 0) finish();
+        }, 1000);
+    }
+
+    // --- GITHUB FETCH ---
     async function fetchExamsFromGitHub() {
         const apiUrl = `https://api.github.com/repos/${GH_USERNAME}/${GH_REPO}/contents/${FOLDER_PATH}`;
         try {
@@ -328,6 +455,7 @@
 
     function populateDropdown() {
         const dropdown = document.getElementById('test-dropdown');
+        dropdown.innerHTML = '<option value="" disabled selected>Select a Test...</option>';
         availableTests.forEach(test => {
             const option = document.createElement('option');
             option.value = test.url;
@@ -362,7 +490,7 @@
             // Reset State
             qIdx = 0; 
             answers = {}; 
-            time = 3600;
+            time = 3600; // Reset to 60 mins default on load
             
             // Update UI
             document.getElementById('active-test-name').innerText = examName;
@@ -377,16 +505,6 @@
             loader.style.display = 'none';
             alert("Error loading test data.");
         }
-    }
-
-    function startTimer() {
-        clearInterval(timerInt);
-        timerInt = setInterval(() => {
-            time--;
-            let m = Math.floor(time/60), s = time%60;
-            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
-            if(time <= 0) finish();
-        }, 1000);
     }
 
     function renderQ() {
@@ -409,6 +527,7 @@
         document.getElementById('clear-btn').style.display = (answers[qIdx] !== undefined) ? 'inline-flex' : 'none';
         
         updPal();
+        // Auto scroll palette to current
         setTimeout(() => {
             const btn = document.getElementById(`p-${qIdx}`);
             if(btn) btn.scrollIntoView({behavior: 'smooth', block: 'nearest'});
