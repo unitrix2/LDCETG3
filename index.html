@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Mock Test Engine</title>
+    <style>
+        :root { --primary: #0056b3; --secondary: #f4f6f9; --text: #333; --correct: #28a745; --wrong: #dc3545; --warning: #ffc107; --skipped: #6c757d; }
+        
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background: var(--secondary); color: var(--text); display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+        
+        /* Loader */
+        #loader { position: fixed; top:0; left:0; width:100%; height:100%; background:rgba(255,255,255,0.98); z-index:999; display:flex; justify-content:center; align-items:center; flex-direction:column; }
+        .spinner { width: 40px; height: 40px; border: 4px solid #f3f3f3; border-top: 4px solid var(--primary); border-radius: 50%; animation: spin 1s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* Header */
+        header { background: var(--primary); color: white; padding: 10px 20px; display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .timer { background: white; color: #d9534f; padding: 5px 15px; border-radius: 5px; font-weight: bold; border: 2px solid #d9534f; min-width: 80px; text-align: center; font-size: 1.1rem; }
+        
+        /* Tabs Bar */
+        .tabs-wrapper { background: #004494; padding: 0 10px; overflow-x: auto; white-space: nowrap; flex-shrink: 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1); min-height: 50px; display: flex; align-items: center; }
+        .tab-btn { background: transparent; border: none; color: rgba(255,255,255,0.7); padding: 10px 20px; cursor: pointer; font-weight: bold; border-bottom: 3px solid transparent; transition: 0.3s; font-size: 0.9rem; text-transform: capitalize; }
+        .tab-btn:hover { color: white; background: rgba(255,255,255,0.05); }
+        .tab-btn.active { color: white; border-bottom-color: white; background: rgba(255,255,255,0.1); }
+
+        /* Main Layout */
+        .container { display: flex; flex: 1; overflow: hidden; padding: 10px; gap: 10px; position: relative; }
+        .q-area { flex: 3; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow-y: auto; display: flex; flex-direction: column; }
+        .sidebar { flex: 1; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow-y: auto; max-width: 320px; border-left: 4px solid var(--primary); }
+
+        /* Question Styles */
+        .q-header { display: flex; justify-content: space-between; border-bottom: 1px solid #eee; padding-bottom: 10px; margin-bottom: 15px; color: #666; font-size: 0.9rem; }
+        .q-text { font-size: 1.2rem; margin-bottom: 8px; font-weight: 600; color: #222; }
+        .q-hindi { font-size: 1.1rem; margin-bottom: 20px; color: #555; font-style: italic; }
+        
+        /* Options */
+        .options label { display: flex; align-items: center; padding: 12px 15px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 6px; cursor: pointer; transition: 0.2s; background: #fff; position: relative; }
+        .options label:hover { background: #f8f9fa; border-color: var(--primary); }
+        .options input { margin-right: 15px; transform: scale(1.3); accent-color: var(--primary); flex-shrink: 0; }
+        .clear-btn { background: transparent; border: 1px solid #dc3545; color: #dc3545; padding: 5px 10px; border-radius: 4px; cursor: pointer; font-size: 0.85rem; margin-top: 10px; width: fit-content; display: inline-block; transition: 0.2s; }
+        .clear-btn:hover { background: #dc3545; color: white; }
+
+        /* Palette Grid */
+        .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-top: 10px; }
+        .p-btn { padding: 8px 0; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; text-align: center; font-size: 0.9rem; font-weight: 600; color:#333; }
+        .p-btn:hover { background: #eee; }
+        .p-btn.done { background: var(--primary); color: white; border-color: var(--primary); }
+        .p-btn.curr { border: 2px solid var(--warning); transform: scale(1.05); box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
+
+        /* Footer */
+        .footer { margin-top: auto; padding-top: 20px; display: flex; justify-content: space-between; border-top: 1px solid #eee; }
+        .btn { padding: 10px 25px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; color: white; font-size: 1rem; }
+        .prev { background: #6c757d; } .next { background: var(--primary); } .sub { background: var(--correct); }
+        
+        /* --- IMPROVED RESULT DASHBOARD CSS --- */
+        #result { display: none; padding: 0; overflow-y: auto; background: #f4f6f9; position: absolute; top:0; left:0; width:100%; height:100%; z-index: 100; }
+        .res-container { max-width: 1000px; margin: 30px auto; padding: 0 20px; padding-bottom: 50px; }
+        
+        .res-header { text-align: center; margin-bottom: 30px; }
+        .res-header h1 { color: var(--primary); margin-bottom: 5px; }
+        
+        .summary-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 30px; }
+        .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); text-align: center; border-bottom: 4px solid var(--primary); }
+        .card h3 { margin: 0; font-size: 2rem; color: #333; }
+        .card p { margin: 5px 0 0; color: #666; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; }
+        
+        .chart-section { display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px; }
+        .chart-box { flex: 1; min-width: 300px; background: white; padding: 25px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        
+        /* CSS Pie Chart */
+        .pie-chart {
+            width: 180px; height: 180px; border-radius: 50%;
+            background: conic-gradient(var(--correct) 0deg 0deg, var(--wrong) 0deg 0deg, var(--skipped) 0deg 360deg);
+            position: relative; margin-bottom: 15px;
+        }
+        .pie-chart::after { content: ""; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 120px; height: 120px; background: white; border-radius: 50%; }
+        .pie-legend { display: flex; gap: 15px; font-size: 0.9rem; }
+        .legend-item { display: flex; align-items: center; gap: 5px; }
+        .dot { width: 12px; height: 12px; border-radius: 50%; }
+        
+        .progress-bar-container { width: 100%; margin-top: 10px; }
+        .progress-label { display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9rem; color: #555; }
+        .progress-track { height: 10px; background: #e9ecef; border-radius: 5px; overflow: hidden; display: flex; }
+        .progress-fill { height: 100%; }
+
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border-bottom: 1px solid #eee; padding: 12px 15px; text-align: left; }
+        th { background: var(--primary); color: white; }
+        .badge { padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; color: white; display: inline-block; min-width: 60px; text-align: center; }
+        .bg-cor { background-color: var(--correct); }
+        .bg-wro { background-color: var(--wrong); }
+        .bg-ski { background-color: var(--skipped); }
+
+        @media (max-width: 768px) { 
+            .container { flex-direction: column; overflow-y: auto; } 
+            .q-area { flex: none; min-height: 400px; }
+            .sidebar { flex: none; max-width: 100%; max-height: 250px; order: 2; margin-top: 10px; }
+            .chart-section { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+
+<div id="loader">
+    <div class="spinner"></div>
+    <p id="loader-text" style="margin-top:15px; font-weight:bold; color:#555;">Connecting to GitHub...</p>
+</div>
+
+<header>
+    <div>
+        <h2 style="margin:0; font-size: 1.4rem;">JE Mock Test Engine</h2>
+        <div style="font-size:0.8rem; opacity:0.8; margin-top:4px;">Auto-Sync | Created by: Salman</div>
+    </div>
+    <div class="timer" id="timer">60:00</div>
+</header>
+
+<div class="tabs-wrapper" id="tabs-bar">
+    </div>
+
+<div class="container" id="quiz-ui">
+    <div class="q-area">
+        <div class="q-header">
+            <span id="q-idx" style="font-weight:bold; color:var(--primary)">Question 1</span>
+            <span id="exam-title" style="color:#666">Select a Test</span>
+        </div>
+        <div id="q-content" style="flex:1;"></div>
+        
+        <button class="clear-btn" onclick="clearResponse()" id="clear-btn" style="display:none;">✕ Clear Response</button>
+
+        <div class="footer">
+            <button class="btn prev" onclick="nav(-1)">Previous</button>
+            <button class="btn sub" onclick="finish()">Submit Test</button>
+            <button class="btn next" onclick="nav(1)">Next</button>
+        </div>
+    </div>
+    <div class="sidebar">
+        <h3 style="margin-top:0; border-bottom:2px solid #eee; padding-bottom:10px;">Question Palette</h3>
+        <div class="grid" id="palette"></div>
+        <div style="font-size:0.8rem; margin-top:15px; display:flex; gap:10px; color:#555;">
+            <span><span style="display:inline-block; width:10px; height:10px; background:var(--primary)"></span> Done</span>
+            <span><span style="display:inline-block; width:10px; height:10px; border:2px solid var(--warning)"></span> Current</span>
+        </div>
+    </div>
+</div>
+
+<div id="result">
+    </div>
+
+<script>
+    // ============================================
+    // CONFIGURATION (EDIT THIS)
+    // ============================================
+    const GH_USERNAME = 'salman';   
+    const GH_REPO = 'LDCE-Test';    
+    const FOLDER_PATH = 'tests';    
+    // ============================================
+
+    let currentQuestions = [];
+    let qIdx = 0;
+    let answers = {};
+    let time = 3600;
+    let timerInt;
+
+    window.onload = async function() {
+        await fetchExamsFromGitHub();
+    };
+
+    async function fetchExamsFromGitHub() {
+        const apiUrl = `https://api.github.com/repos/${GH_USERNAME}/${GH_REPO}/contents/${FOLDER_PATH}`;
+        try {
+            const response = await fetch(apiUrl);
+            if (!response.ok) throw new Error("GitHub API Error");
+            const files = await response.json();
+            const jsonFiles = files.filter(file => file.name.endsWith('.json'));
+            
+            if(jsonFiles.length === 0) {
+                document.getElementById('loader').innerHTML = `<p style="color:red">No JSON files found.</p>`;
+                return;
+            }
+            generateTabs(jsonFiles);
+        } catch (error) {
+            document.getElementById('loader').innerHTML = `
+                <div style="text-align:center; padding:20px;">
+                    <h3 style="color:var(--wrong)">Connection Failed</h3>
+                    <p>Could not fetch file list.</p>
+                    <p style="font-size:0.9rem; color:#666">Check Username, Repo Name & ensure Repo is Public.</p>
+                </div>`;
+        }
+    }
+
+    function generateTabs(files) {
+        const bar = document.getElementById('tabs-bar');
+        bar.innerHTML = '';
+        files.forEach((file, index) => {
+            const btn = document.createElement('button');
+            btn.className = 'tab-btn';
+            let displayName = file.name.replace('.json', '').replace(/_/g, ' ').replace(/-/g, ' ');
+            btn.innerText = displayName;
+            btn.onclick = () => loadExam(file.download_url, btn, displayName);
+            bar.appendChild(btn);
+            if (index === 0) btn.click();
+        });
+        document.getElementById('loader').style.display = 'none';
+    }
+
+    async function loadExam(url, btnElement, examName) {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        if(btnElement) btnElement.classList.add('active');
+        
+        document.getElementById('quiz-ui').style.display = 'flex';
+        document.getElementById('result').style.display = 'none';
+        const loader = document.getElementById('loader');
+        loader.style.display = 'flex';
+        document.getElementById('loader-text').innerText = "Loading Test Data...";
+
+        try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error("File not found");
+            currentQuestions = await response.json();
+            qIdx = 0; answers = {}; time = 3600;
+            document.getElementById('exam-title').innerText = examName;
+            startTimer();
+            renderQ();
+            renderPal();
+            loader.style.display = 'none';
+        } catch (error) {
+            loader.style.display = 'none';
+            alert("Error loading test data.");
+        }
+    }
+
+    function startTimer() {
+        clearInterval(timerInt);
+        timerInt = setInterval(() => {
+            time--;
+            let m = Math.floor(time/60), s = time%60;
+            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            if(time <= 0) finish();
+        }, 1000);
+    }
+
+    function renderQ() {
+        if(currentQuestions.length === 0) return;
+        let q = currentQuestions[qIdx];
+        document.getElementById('q-idx').innerText = `Question ${qIdx+1} / ${currentQuestions.length}`;
+        
+        let html = `<div class="q-text">Q: ${q.q}</div><div class="q-hindi">${q.h}</div><div class="options">`;
+        q.o.forEach((opt, i) => {
+            let chk = answers[qIdx] === i ? 'checked' : '';
+            html += `<label><input type="radio" name="o" onclick="save(${i})" ${chk}> ${String.fromCharCode(65+i)}) ${opt}</label>`;
+        });
+        document.getElementById('q-content').innerHTML = html + '</div>';
+        
+        // Show/Hide Clear Button
+        document.getElementById('clear-btn').style.display = (answers[qIdx] !== undefined) ? 'inline-block' : 'none';
+        
+        updPal();
+        setTimeout(() => {
+            const btn = document.getElementById(`p-${qIdx}`);
+            if(btn) btn.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+        }, 50);
+    }
+
+    function renderPal() {
+        const grid = document.getElementById('palette');
+        grid.innerHTML = '';
+        currentQuestions.forEach((_, i) => {
+            const btn = document.createElement('div');
+            btn.className = 'p-btn';
+            btn.innerText = i + 1;
+            btn.id = `p-${i}`;
+            btn.onclick = () => { qIdx = i; renderQ(); };
+            grid.appendChild(btn);
+        });
+        updPal();
+    }
+
+    function updPal() {
+        currentQuestions.forEach((_, i) => {
+            let el = document.getElementById(`p-${i}`);
+            if(el) {
+                let cls = 'p-btn';
+                if(answers[i] !== undefined) cls += ' done';
+                if(i === qIdx) cls += ' curr';
+                el.className = cls;
+            }
+        });
+    }
+
+    function save(opt) { 
+        answers[qIdx] = opt; 
+        renderQ(); // Re-render to show Clear button
+    }
+
+    // New Function to Clear Response
+    function clearResponse() {
+        delete answers[qIdx];
+        renderQ();
+    }
+
+    function nav(d) { 
+        if(qIdx+d >= 0 && qIdx+d < currentQuestions.length) { 
+            qIdx+=d; renderQ(); 
+        } 
+    }
+
+    function finish() {
+        if(!confirm("Are you sure you want to submit?")) return;
+        clearInterval(timerInt);
+        document.getElementById('quiz-ui').style.display = 'none';
+        const resDiv = document.getElementById('result');
+        resDiv.style.display = 'block';
+
+        let o_cor=0, o_wro=0, p_cor=0, p_wro=0, o_att=0;
+        let attemptsList = Object.keys(answers).map(Number).sort((a,b)=>a-b);
+        let validAttempts = attemptsList.slice(0, 100);
+        let totalQ = currentQuestions.length;
+        let totalAtt = attemptsList.length;
+
+        let tableRows = '';
+
+        currentQuestions.forEach((q, i) => {
+            let u = answers[i], isAtt = u!==undefined, isCor = isAtt && u===q.c;
+            
+            // Practice Stats
+            if(isAtt) { if(isCor) p_cor++; else p_wro++; }
+            // Official Stats
+            if(validAttempts.includes(i)) { o_att++; if(isCor) o_cor++; else o_wro++; }
+            
+            let statusBadge = isCor ? '<span class="badge bg-cor">Correct</span>' : 
+                              (isAtt ? '<span class="badge bg-wro">Wrong</span>' : '<span class="badge bg-ski">Skipped</span>');
+            
+            tableRows += `
+                <tr style="background:${isCor?'#f0fff4':(isAtt?'#fff5f5':'white')}">
+                    <td>${i+1}</td>
+                    <td>${q.q}<br><small style="color:#666">${q.h}</small></td>
+                    <td>${isAtt?q.o[u]:'-'}</td>
+                    <td>${q.o[q.c]}</td>
+                    <td>${statusBadge}</td>
+                </tr>`;
+        });
+
+        // Calculate Scores
+        let o_marks = (o_cor - (o_wro/3)).toFixed(2);
+        let p_marks = (p_cor - (p_wro/3)).toFixed(2);
+        let accuracy = totalAtt > 0 ? ((p_cor/totalAtt)*100).toFixed(1) : 0;
+        let percentage = ((p_marks/totalQ)*100).toFixed(1);
+
+        // Calculate Pie Chart Angles
+        let degCor = (p_cor / totalQ) * 360;
+        let degWro = (p_wro / totalQ) * 360;
+        // Pie Chart Gradients
+        let pieStyle = `conic-gradient(
+            var(--correct) 0deg ${degCor}deg, 
+            var(--wrong) ${degCor}deg ${degCor+degWro}deg, 
+            var(--skipped) ${degCor+degWro}deg 360deg
+        )`;
+
+        let html = `
+            <div class="res-container">
+                <div class="res-header">
+                    <h1>Result Analysis</h1>
+                    <p>${document.getElementById('exam-title').innerText}</p>
+                </div>
+
+                <div class="summary-cards">
+                    <div class="card"><h3>${p_marks} / ${totalQ}</h3><p>Net Score</p></div>
+                    <div class="card"><h3>${percentage}%</h3><p>Percentage</p></div>
+                    <div class="card"><h3>${accuracy}%</h3><p>Accuracy</p></div>
+                    <div class="card"><h3>${totalAtt} / ${totalQ}</h3><p>Attempted</p></div>
+                </div>
+
+                <div class="chart-section">
+                    <div class="chart-box">
+                        <h4 style="margin-bottom:20px;">Performance Chart</h4>
+                        <div class="pie-chart" style="background:${pieStyle}"></div>
+                        <div class="pie-legend">
+                            <div class="legend-item"><span class="dot" style="background:var(--correct)"></span> Correct (${p_cor})</div>
+                            <div class="legend-item"><span class="dot" style="background:var(--wrong)"></span> Wrong (${p_wro})</div>
+                            <div class="legend-item"><span class="dot" style="background:var(--skipped)"></span> Skipped (${totalQ - totalAtt})</div>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-box" style="align-items:flex-start;">
+                        <h4 style="margin-bottom:15px;">Official Rule Check (First 100)</h4>
+                        <div class="progress-bar-container">
+                            <div class="progress-label"><span>Valid Attempts</span><span>${o_att}/100</span></div>
+                            <div class="progress-track"><div class="progress-fill" style="width:${o_att}%; background:var(--primary)"></div></div>
+                        </div>
+                        <p style="margin-top:15px; font-size:0.9rem; color:#666;">
+                            <strong>Official Marks:</strong> <span style="font-size:1.2rem; color:var(--text)">${o_marks}</span><br>
+                            (Considering only first 100 attempted questions with 1/3 negative marking)
+                        </p>
+                    </div>
+                </div>
+
+                <div style="text-align:center; margin-bottom:20px;">
+                    <button class="btn next" onclick="location.reload()">Take Another Test</button>
+                </div>
+
+                <h3>Detailed Question Analysis</h3>
+                <table>
+                    <thead><tr><th>Q</th><th>Question</th><th>Your Answer</th><th>Correct Answer</th><th>Result</th></tr></thead>
+                    <tbody>${tableRows}</tbody>
+                </table>
+            </div>
+        `;
+
+        resDiv.innerHTML = html;
+        window.scrollTo(0, 0);
+    }
+</script>
+
+</body>
+</html>
