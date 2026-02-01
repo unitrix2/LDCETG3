@@ -65,7 +65,7 @@
   {"q":"Minimum diameters of wheel on tread on BOXN Wagon during service is?","h":"सेवा के दौरान बॉक्सएन वैगन पर चलने वाले पहिये का न्यूनतम व्यास क्या है?","o":["1000 mm","960 mm","906 mm","915 mm"],"c":2},
   {"q":"The axle capacity of BVZC, CRT, BTAL, BTAG, BTPGL wagon is?","h":"BVZC, CRT, BTAL, BTAG, BTPGL वैगन की एक्सल क्षमता क्या है?","o":["22.9 t","20.3 t","16.3 t","12.2 t"],"c":1},
   {"q":"The wheel gauge should be measured on?","h":"व्हील गेज किस स्थिति में मापा जाना चाहिए?","o":["None / कोई नहीं","Loaded wagon / लोडेड वैगन","Both condition / दोनों स्थिति","Empty wagon / खाली वैगन"],"c":3},
-  {"q":"The lowest wheel dia permitted by workshop for BOXN wagon is?","h":"BOXN वैगन के लिए वर्कशॉप द्वारा अनुमत न्यूनतम पहिया व्यास क्या है?","o":["919 mm","906 mm","925 mm","860 mm"],"c":0},
+  {"q":"The lowest wheel dia permitted by workshop for BOXN wagon is?","h":"BOXN वैगन के लिए वर्कशॉप द्वारा अनुमत न्यूनतम पहिया व्यास क्या है?","o":["919 mm","906 mm","925 mm","860 mm"],"c":1},
   {"q":"The condemning wheel diameter of BVG is?","h":"बीवीजी का निंदनीय (कंडेमिंग) पहिया व्यास क्या है?","o":["919 mm","906 mm","925 mm","990 mm"],"c":0},
   {"q":"The new diameter of wheel for BOY wagon is?","h":"बॉय वैगन के लिए पहिये का नया व्यास क्या है?","o":["990 mm","1090 mm","1000 mm","915 mm"],"c":2},
   {"q":"Permissible maximum flat surface on tread on IRS BG wagon is?","h":"आईआरएस बीजी वैगन पर ट्रेड पर अनुमेय अधिकतम समतल सतह क्या है?","o":["75 mm","50 mm","60 mm","70 mm"],"c":2},
