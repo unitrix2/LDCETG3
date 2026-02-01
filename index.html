@@ -69,7 +69,7 @@
             background-color: #f1f8e9;
             border: 2px solid var(--primary);
             border-radius: 30px;
-            padding: 6px 35px 6px 15px; /* Compact padding */
+            padding: 6px 35px 6px 15px;
             color: var(--primary-dark);
             font-weight: 600;
             font-size: 0.9rem;
@@ -82,19 +82,11 @@
         }
 
         .select-selected:hover { background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        /* Arrow icon absolute positioning to prevent pushing content */
         .select-selected::after { 
-            content: "▼"; 
-            font-size: 0.7rem; 
-            position: absolute;
-            right: 15px;
-            top: 50%;
-            transform: translateY(-50%);
-            transition: transform 0.3s; 
+            content: "▼"; font-size: 0.7rem; position: absolute; right: 15px; top: 50%; transform: translateY(-50%); transition: transform 0.3s; 
         }
         .select-selected.select-arrow-active::after { transform: translateY(-50%) rotate(180deg); }
 
-        /* The Options List - HEIGHT FIXED HERE */
         .select-items {
             position: absolute;
             background-color: #fff;
@@ -104,14 +96,13 @@
             z-index: 999;
             border-radius: 12px;
             box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-            overflow-y: auto; /* Scroll enabled */
-            max-height: 200px !important; /* FORCED HEIGHT LIMIT */
+            overflow-y: auto;
+            max-height: 200px !important;
             border: 1px solid #eee;
             animation: slideDown 0.2s ease-out;
         }
 
         .select-hide { display: none; }
-
         @keyframes slideDown { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
 
         .select-items div {
@@ -123,7 +114,6 @@
             font-size: 0.9rem;
             transition: background 0.2s;
         }
-
         .select-items div:last-child { border-bottom: none; }
         .select-items div:hover { background-color: var(--primary-fade); color: var(--primary); font-weight: 700; }
         .same-as-selected { background-color: var(--primary); color: #ffffff !important; }
@@ -133,11 +123,7 @@
         
         .timer-display { 
             font-family: 'Courier New', monospace;
-            font-weight: 800; 
-            font-size: 1.1rem; 
-            color: var(--primary);
-            min-width: 60px;
-            text-align: center;
+            font-weight: 800; font-size: 1.1rem; color: var(--primary); min-width: 60px; text-align: center;
         }
 
         .timer-input { width: 35px; padding: 4px; border: 1px solid #ccc; border-radius: 4px; text-align: center; font-size: 0.8rem; }
@@ -158,11 +144,10 @@
         }
         .tool-btn:hover { transform: scale(1.1); }
 
-        /* Theme Panel */
         .theme-panel {
             position: absolute;
             top: 45px;
-            right: -10px; /* Aligned better for mobile */
+            right: -10px;
             background: white;
             padding: 12px;
             border-radius: 12px;
@@ -179,7 +164,6 @@
             border-left: 8px solid transparent; border-right: 8px solid transparent;
             border-bottom: 8px solid white;
         }
-
         .theme-dot { width: 25px; height: 25px; border-radius: 50%; cursor: pointer; border: 2px solid white; box-shadow: 0 0 0 1px #ccc; transition: transform 0.2s; }
         .theme-dot:hover { transform: scale(1.2); }
 
@@ -211,7 +195,6 @@
         .q-text { font-size: 1.25rem; margin-bottom: 10px; font-weight: 600; color: #263238; line-height: 1.4; }
         .q-hindi { font-size: 1.15rem; margin-bottom: 25px; color: #455a64; font-family: 'Nirmala UI', sans-serif; }
         
-        /* --- OPTIONS --- */
         .options label { display: flex; align-items: flex-start; padding: 15px; margin-bottom: 12px; border: 2px solid #e0e0e0; border-radius: 8px; cursor: pointer; transition: 0.2s; background: #fff; position: relative; }
         .options label:hover { background: #fafafa; border-color: var(--primary); }
         .options input { margin-right: 15px; margin-top: 4px; transform: scale(1.3); accent-color: var(--primary); flex-shrink: 0; }
@@ -220,14 +203,12 @@
         .clear-btn { background: #fff; border: 1px solid #ef5350; color: #ef5350; padding: 6px 15px; border-radius: 20px; cursor: pointer; font-size: 0.85rem; margin-top: 15px; transition: 0.2s; font-weight: 600; display: inline-flex; align-items: center; gap: 5px; }
         .clear-btn:hover { background: #ef5350; color: white; box-shadow: 0 2px 5px rgba(239, 83, 80, 0.3); }
 
-        /* --- PALETTE GRID --- */
         .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 15px; }
         .p-btn { padding: 8px 0; background: #fff; border: 1px solid #cfd8dc; border-radius: 6px; cursor: pointer; text-align: center; font-size: 0.9rem; font-weight: 600; color:#455a64; transition: 0.2s; }
         .p-btn:hover { background: #eceff1; }
         .p-btn.done { background: var(--primary); color: white; border-color: var(--primary); }
         .p-btn.curr { border: 2px solid var(--warning); transform: scale(1.1); box-shadow: 0 3px 6px rgba(0,0,0,0.15); z-index: 2; position: relative; }
 
-        /* --- FOOTER --- */
         .footer { padding: 15px 25px; display: flex; justify-content: space-between; border-top: 1px solid #eee; background: #fff; }
         .btn { padding: 10px 25px; border: none; border-radius: 6px; cursor: pointer; font-weight: 700; color: white; font-size: 1rem; text-transform: uppercase; letter-spacing: 0.5px; transition: transform 0.1s; }
         .btn:active { transform: scale(0.98); }
@@ -235,7 +216,6 @@
         .next { background: var(--primary); } 
         .sub { background: var(--correct); box-shadow: 0 4px 10px rgba(46, 125, 50, 0.3); }
         
-        /* --- RESULT SCREEN --- */
         #result { display: none; padding: 0; overflow-y: auto; background: #f0f2f5; position: absolute; top:0; left:0; width:100%; height:100%; z-index: 100; }
         .res-container { max-width: 1100px; margin: 30px auto; padding: 0 20px 60px 20px; }
         
@@ -288,32 +268,42 @@
         .bg-cor { background-color: var(--correct); }
         .bg-wro { background-color: var(--wrong); }
         .bg-ski { background-color: var(--skipped); }
+        
+        /* POPUP CHECK BUTTON */
+        .check-btn {
+            background-color: transparent;
+            color: #1976d2;
+            border: 1px solid #1976d2;
+            padding: 6px 12px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .check-btn:hover {
+            background-color: #1976d2;
+            color: white;
+            box-shadow: 0 2px 5px rgba(25, 118, 210, 0.2);
+        }
 
-        /* --- MOBILE RESPONSIVE TWEAKS --- */
+        /* --- MOBILE RESPONSIVE --- */
         @media (max-width: 768px) { 
-            /* Header Stack */
             header { flex-direction: column; align-items: stretch; gap: 10px; padding: 15px; }
             .header-left { justify-content: center; width: 100%; text-align: center; }
             .header-controls { justify-content: space-between; width: 100%; gap: 10px; }
-            
-            /* Hide Label to save space */
             .selector-label { display: none; }
-            
-            /* Responsive Dropdown */
             .custom-select { width: 100%; flex-grow: 1; }
             .select-selected { font-size: 0.9rem; padding: 8px 15px; }
-            
-            /* Main Content Stack */
             .container { flex-direction: column; overflow-y: auto; padding: 10px; } 
             .q-area { flex: none; min-height: 450px; }
             .sidebar { flex: none; max-width: 100%; max-height: 250px; order: 2; margin-top: 10px; }
-            
-            /* Result Layout */
             .score-row, .chart-row { flex-direction: column; }
-            
-            /* Tools adjustments */
             .tools-group { padding: 4px; }
-            .timer-input { display: none; } /* Hide input on small mobile to prevent clutter */
+            .timer-input { display: none; }
             .tool-btn { width: 28px; height: 28px; }
         }
     </style>
@@ -329,7 +319,7 @@
     <div class="header-left">
         <div class="railway-logo" title="Indian Railways"></div>
         <div class="title-group">
-            <h2>LDCE TECH-III Mock Test</h2>
+            <h2>LDCE Tech-III (C&W) Mock Test</h2>
             <p>Departmental Examination | Created by Salman</p>
         </div>
     </div>
@@ -424,16 +414,13 @@
         await fetchExamsFromGitHub();
         setupCustomDropdown();
         
-        // Close elements when clicking outside
         document.addEventListener('click', function(event) {
-            // Close Theme Panel
             const panel = document.getElementById('theme-panel');
             const btn = document.querySelector('.tool-btn[onclick="toggleThemePanel()"]');
             if (!panel.contains(event.target) && !btn.contains(event.target)) {
                 panel.style.display = 'none';
             }
             
-            // Close Dropdown
             const selectContainer = document.getElementById('custom-select');
             if (!selectContainer.contains(event.target)) {
                 document.getElementById("select-items").classList.add("select-hide");
@@ -441,6 +428,48 @@
             }
         });
     };
+
+    // --- SMART POP-UP WINDOW LOGIC ---
+    function openGoogleSearch(index) {
+        const q = currentQuestions[index];
+        
+        // 1. EXTRACT STRICT ENGLISH QUESTION
+        // Remove Hindi part if present
+        let qText = q.q.split(" / ")[0].trim(); 
+        
+        // 2. PREPARE ENGLISH OPTIONS
+        let optionsText = "";
+        if (q.o && q.o.length > 0) {
+            optionsText = q.o
+                .map(opt => opt.split(" / ")[0].trim()) // Get English Option part
+                .filter(opt => {
+                    let lower = opt.toLowerCase();
+                    // Filter out generic options that confuse search
+                    return !lower.startsWith("none") && !lower.startsWith("all") && !lower.startsWith("both");
+                })
+                .join(" ");
+        }
+
+        // 3. CONSTRUCT SMART QUERY
+        let query = qText;
+        
+        // If question is short (< 100 chars), add options for context
+        if (qText.length < 100 && optionsText) {
+            query += " " + optionsText;
+        }
+
+        // Add context keywords to force direct answer
+        query += " Indian Railways answer";
+
+        // Small floating window (Pop-up)
+        const w = 600;
+        const h = 700;
+        const left = (screen.width / 2) - (w / 2);
+        const top = (screen.height / 2) - (h / 2);
+        const url = 'https://www.google.com/search?q=' + encodeURIComponent(query);
+        
+        window.open(url, 'GoogleVerify', `width=${w},height=${h},top=${top},left=${left},scrollbars=yes,resizable=yes`);
+    }
 
     // --- CUSTOM DROPDOWN LOGIC ---
     function setupCustomDropdown() {
@@ -461,7 +490,7 @@
         items.innerHTML = "";
         
         if(tests.length > 0) {
-            selected.innerHTML = tests[0].name; // Default selection display
+            selected.innerHTML = tests[0].name; 
         }
 
         tests.forEach((test, index) => {
@@ -472,7 +501,6 @@
                     selected.innerHTML = test.name;
                     loadExam(test.url, test.name);
                     
-                    // Highlight selected
                     const siblings = this.parentNode.children;
                     for (let i = 0; i < siblings.length; i++) {
                         siblings[i].classList.remove("same-as-selected");
@@ -509,7 +537,6 @@
             time = min * 60;
             clearInterval(timerInt);
             startTimer();
-            // alert(`Timer set to ${min} minutes!`);
         }
     }
 
@@ -521,13 +548,11 @@
             let display = "";
             
             if (time >= 3600) {
-                // Show H:MM:SS
                 let h = Math.floor(time / 3600);
                 let m = Math.floor((time % 3600) / 60);
                 let s = time % 60;
                 display = `${h}:${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
             } else {
-                // Show MM:SS
                 let m = Math.floor(time / 60);
                 let s = time % 60;
                 display = `${m}:${s < 10 ? '0' : ''}${s}`;
@@ -553,7 +578,6 @@
                 return;
             }
             
-            // Store details
             availableTests = jsonFiles.map(file => ({
                 name: file.name.replace('.json', '').replace(/_/g, ' ').replace(/-/g, ' ').toUpperCase(),
                 url: file.download_url
@@ -561,7 +585,6 @@
 
             populateCustomDropdown(availableTests);
             
-            // Load first test by default
             if(availableTests.length > 0) {
                 loadExam(availableTests[0].url, availableTests[0].name);
             }
@@ -590,12 +613,10 @@
             if (!response.ok) throw new Error("File not found");
             currentQuestions = await response.json();
             
-            // Reset State
             qIdx = 0; 
             answers = {}; 
-            time = 3600; // Default 1 Hour
+            time = 3600; 
             
-            // Update UI
             document.getElementById('active-test-name').innerText = examName;
             document.getElementById('q-count').innerText = currentQuestions.length;
             
@@ -697,13 +718,11 @@
         currentQuestions.forEach((q, i) => {
             let u = answers[i], isAtt = u!==undefined, isCor = isAtt && u===q.c;
             
-            // Practice Stats
             if(isAtt) {
                 p_att++;
                 if(isCor) p_cor++; else p_wro++;
             }
 
-            // Official Stats
             if(validAttempts.includes(i)) {
                 o_att++;
                 if(isCor) o_cor++; else o_wro++;
@@ -714,6 +733,9 @@
             
             let correctOpt = q.o[q.c];
             let userOpt = isAtt ? q.o[u] : '-';
+            
+            // Pop-up Search Button
+            let searchBtn = `<button onclick="openGoogleSearch(${i})" class="check-btn">🔍 Check</button>`;
 
             tableRows += `
                 <tr style="background:${isCor?'#f1f8e9':(isAtt?'#ffebee':'white')}">
@@ -722,6 +744,7 @@
                     <td>${userOpt}</td>
                     <td>${correctOpt}</td>
                     <td>${statusBadge}</td>
+                    <td>${searchBtn}</td>
                 </tr>`;
         });
 
@@ -800,6 +823,7 @@
                                 <th>Your Answer</th>
                                 <th>Correct Answer</th>
                                 <th style="width:100px;">Result</th>
+                                <th style="width:100px;">Verify</th>
                             </tr>
                         </thead>
                         <tbody>${tableRows}</tbody>
