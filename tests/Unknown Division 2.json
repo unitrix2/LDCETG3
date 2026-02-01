@@ -5,7 +5,7 @@
   {"q":"What is the new wheel diameter of LHB wheel?","h":"एलएचबी व्हील का नया व्हील व्यास क्या है?","o":["910 mm","915 mm","912 mm","725 mm"],"c":1},
   {"q":"What is the thickness of wheel flange in LHB coaches?","h":"एलएचबी कोचों में व्हील फ्लैंज की मोटाई क्या है?","o":["24 mm","26.5 mm","26 mm","25 mm"],"c":3},
   {"q":"What is the thickness of brake disc?","h":"ब्रेक डिस्क की मोटाई क्या है?","o":["100 mm","110 mm","105 mm","108 mm"],"c":1},
-  {"q":"What is the maximum temperature limit for TIMKEN CTBU?","h":"TIMKEN CTBU के लिए अधिकतम तापमान सीमा क्या है?","o":["90 C","80 C","85 C","87 C"],"c":1},
+  {"q":"What is the maximum temperature limit for TIMKEN CTBU?","h":"TIMKEN CTBU के लिए अधिकतम तापमान सीमा क्या है?","o":["90°C","80°C","85°C","87°C"],"c":1},
   {"q":"How many shock absorbers are used in LHB Coaches?","h":"एलएचबी कोच में कितने शॉक एब्जॉर्बर का उपयोग किया जाता है?","o":["10","8","18","12"],"c":2},
   {"q":"What is the name of shock absorber connected between bogie and car body?","h":"बोगी और कार बॉडी के बीच जुड़े शॉक एब्जॉर्बर का नाम क्या है?","o":["Primary / प्राथमिक","Secondary / माध्यमिक","Yaw / यव","None / इनमें से कोई नहीं"],"c":2},
   {"q":"What is the length over CBC of LHB Coaches?","h":"एलएचबी कोच की सीबीसी पर लंबाई क्या है?","o":["23590 mm","24000 mm","24095 mm","24225 mm"],"c":1},
