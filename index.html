@@ -6,10 +6,10 @@
     <title>Indian Railways - JE Mock Test</title>
     <style>
         :root { 
-            /* Default Theme (Railway Red) */
             --primary: #b71c1c; 
             --primary-dark: #7f0000;
             --primary-light: #ffcdd2;
+            --primary-fade: rgba(183, 28, 28, 0.1);
             
             --secondary: #eceff1; 
             --text: #263238; 
@@ -38,14 +38,12 @@
             flex-shrink: 0; 
             box-shadow: 0 4px 12px rgba(0,0,0,0.08); 
             border-bottom: 3px solid var(--primary);
-            z-index: 20;
+            z-index: 50;
             flex-wrap: wrap;
             gap: 10px;
         }
         
         .header-left { display: flex; align-items: center; gap: 15px; }
-        
-        /* CONTROLS SECTION (Right Side) */
         .header-controls { display: flex; align-items: center; gap: 20px; }
 
         .railway-logo { 
@@ -57,39 +55,71 @@
         .title-group h2 { margin: 0; font-size: 1.3rem; color: var(--primary); line-height: 1.2; font-weight: 700; }
         .title-group p { margin: 0; font-size: 0.75rem; color: #666; font-weight: 500; }
 
-        /* --- STYLISH DROPDOWN --- */
-        .selector-group { display: flex; align-items: center; gap: 10px; }
+        /* --- CUSTOM DROPDOWN STYLE --- */
+        .selector-group { display: flex; align-items: center; gap: 10px; position: relative; }
         .selector-label { font-size: 0.9rem; font-weight: 700; color: #546e7a; text-transform: uppercase; letter-spacing: 0.5px; }
-        
-        .custom-select-wrapper { position: relative; }
-        select#test-dropdown {
-            appearance: none;
+
+        /* The Container for Custom Select */
+        .custom-select {
+            position: relative;
+            width: 260px;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .select-selected {
             background-color: #f1f8e9;
             border: 2px solid var(--primary);
             border-radius: 30px;
-            padding: 8px 40px 8px 20px;
-            font-size: 0.95rem;
-            font-weight: 600;
+            padding: 8px 20px;
             color: var(--primary-dark);
+            font-weight: 600;
+            font-size: 0.95rem;
             cursor: pointer;
-            outline: none;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            min-width: 250px;
+            user-select: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s;
         }
-        select#test-dropdown:hover { background-color: #fff; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transform: translateY(-1px); }
-        
-        /* Custom Arrow */
-        .custom-select-wrapper::after {
-            content: '▼';
-            font-size: 0.7rem;
-            color: var(--primary);
+
+        .select-selected:hover { background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .select-selected::after { content: "▼"; font-size: 0.7rem; margin-left: 10px; transition: transform 0.3s; }
+        .select-selected.select-arrow-active::after { transform: rotate(180deg); }
+
+        /* The Options List (Hidden by default) */
+        .select-items {
             position: absolute;
-            right: 15px;
-            top: 50%;
-            transform: translateY(-50%);
-            pointer-events: none;
+            background-color: #fff;
+            top: 115%;
+            left: 0;
+            right: 0;
+            z-index: 99;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            overflow: hidden;
+            display: none;
+            border: 1px solid #eee;
+            animation: slideDown 0.2s ease-out;
+            max-height: 300px;
+            overflow-y: auto;
         }
+
+        @keyframes slideDown { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+
+        .select-items div {
+            padding: 12px 20px;
+            cursor: pointer;
+            border-bottom: 1px solid #f0f0f0;
+            color: #333;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+
+        .select-items div:last-child { border-bottom: none; }
+        .select-items div:hover { background-color: var(--primary-fade); color: var(--primary); font-weight: 700; padding-left: 25px; }
+        .same-as-selected { background-color: var(--primary); color: #ffffff !important; }
+
+        .select-hide { display: none; }
 
         /* --- TIMER & THEME --- */
         .tools-group { display: flex; align-items: center; gap: 10px; background: #f5f5f5; padding: 5px 10px; border-radius: 30px; border: 1px solid #ddd; }
@@ -97,28 +127,23 @@
         .timer-display { 
             font-family: 'Courier New', monospace;
             font-weight: 800; 
-            font-size: 1.2rem; 
+            font-size: 1.1rem; 
             color: var(--primary);
-            min-width: 70px;
+            min-width: 80px; /* Slightly wider for hr:mm:ss */
             text-align: center;
         }
 
-        .timer-input {
-            width: 40px;
-            padding: 4px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            text-align: center;
-            font-size: 0.8rem;
-        }
+        .timer-input { width: 40px; padding: 4px; border: 1px solid #ccc; border-radius: 4px; text-align: center; font-size: 0.8rem; }
         
+        /* Pallet Button Wrapper */
+        .palette-wrapper { position: relative; }
+
         .tool-btn {
             background: var(--primary);
             color: white;
             border: none;
             border-radius: 50%;
-            width: 30px; 
-            height: 30px;
+            width: 30px; height: 30px;
             cursor: pointer;
             font-size: 0.8rem;
             display: flex; align-items: center; justify-content: center;
@@ -126,25 +151,30 @@
         }
         .tool-btn:hover { transform: scale(1.1); }
 
-        /* Theme Palette */
+        /* Theme Panel - Fixed Positioning relative to button */
         .theme-panel {
             position: absolute;
-            top: 70px;
-            right: 20px;
+            top: 45px;
+            right: 0;
             background: white;
-            padding: 10px;
-            border-radius: 8px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
-            display: none; /* Hidden by default */
+            padding: 12px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+            display: none;
             grid-template-columns: repeat(4, 1fr);
             gap: 10px;
-            z-index: 50;
+            z-index: 100;
             border: 1px solid #eee;
+            width: 140px;
         }
-        .theme-dot {
-            width: 25px; height: 25px; border-radius: 50%; cursor: pointer; border: 2px solid white; box-shadow: 0 0 0 1px #ccc;
-            transition: transform 0.2s;
+        /* Triangle Arrow for Popup */
+        .theme-panel::before {
+            content: ''; position: absolute; top: -8px; right: 8px;
+            border-left: 8px solid transparent; border-right: 8px solid transparent;
+            border-bottom: 8px solid white;
         }
+
+        .theme-dot { width: 25px; height: 25px; border-radius: 50%; cursor: pointer; border: 2px solid white; box-shadow: 0 0 0 1px #ccc; transition: transform 0.2s; }
         .theme-dot:hover { transform: scale(1.2); }
 
         /* --- MAIN LAYOUT --- */
@@ -260,8 +290,7 @@
             .q-area { flex: none; min-height: 450px; }
             .sidebar { flex: none; max-width: 100%; max-height: 250px; order: 2; margin-top: 10px; }
             .score-row, .chart-row { flex-direction: column; }
-            .custom-select-wrapper { width: 100%; }
-            select#test-dropdown { width: 100%; min-width: unset; }
+            .custom-select { width: 100%; }
         }
     </style>
 </head>
@@ -270,17 +299,6 @@
 <div id="loader">
     <div class="spinner"></div>
     <p id="loader-text" style="margin-top:15px; font-weight:bold; color:#555;">Initializing...</p>
-</div>
-
-<div class="theme-panel" id="theme-panel">
-    <div class="theme-dot" style="background:#b71c1c;" onclick="setTheme('#b71c1c', '#7f0000', '#ffcdd2')" title="Railway Red"></div>
-    <div class="theme-dot" style="background:#1565c0;" onclick="setTheme('#1565c0', '#003c8f', '#bbdefb')" title="Ocean Blue"></div>
-    <div class="theme-dot" style="background:#2e7d32;" onclick="setTheme('#2e7d32', '#005005', '#c8e6c9')" title="Forest Green"></div>
-    <div class="theme-dot" style="background:#6a1b9a;" onclick="setTheme('#6a1b9a', '#38006b', '#e1bee7')" title="Royal Purple"></div>
-    <div class="theme-dot" style="background:#00695c;" onclick="setTheme('#00695c', '#003d33', '#b2dfdb')" title="Teal"></div>
-    <div class="theme-dot" style="background:#37474f;" onclick="setTheme('#37474f', '#102027', '#cfd8dc')" title="Dark Slate"></div>
-    <div class="theme-dot" style="background:#e65100;" onclick="setTheme('#e65100', '#ac1900', '#ffe0b2')" title="Orange"></div>
-    <div class="theme-dot" style="background:#283593;" onclick="setTheme('#283593', '#001064', '#c5cae9')" title="Indigo"></div>
 </div>
 
 <header>
@@ -293,20 +311,32 @@
     </div>
     
     <div class="header-controls">
-        <button class="tool-btn" onclick="toggleThemePanel()" title="Change Color Theme">🎨</button>
+        <div class="palette-wrapper">
+            <button class="tool-btn" onclick="toggleThemePanel()" title="Change Color Theme">🎨</button>
+            <div class="theme-panel" id="theme-panel">
+                <div class="theme-dot" style="background:#b71c1c;" onclick="setTheme('#b71c1c', '#7f0000', '#ffcdd2', 'rgba(183, 28, 28, 0.1)')" title="Railway Red"></div>
+                <div class="theme-dot" style="background:#1565c0;" onclick="setTheme('#1565c0', '#003c8f', '#bbdefb', 'rgba(21, 101, 192, 0.1)')" title="Ocean Blue"></div>
+                <div class="theme-dot" style="background:#2e7d32;" onclick="setTheme('#2e7d32', '#005005', '#c8e6c9', 'rgba(46, 125, 50, 0.1)')" title="Forest Green"></div>
+                <div class="theme-dot" style="background:#6a1b9a;" onclick="setTheme('#6a1b9a', '#38006b', '#e1bee7', 'rgba(106, 27, 154, 0.1)')" title="Royal Purple"></div>
+                <div class="theme-dot" style="background:#00695c;" onclick="setTheme('#00695c', '#003d33', '#b2dfdb', 'rgba(0, 105, 92, 0.1)')" title="Teal"></div>
+                <div class="theme-dot" style="background:#37474f;" onclick="setTheme('#37474f', '#102027', '#cfd8dc', 'rgba(55, 71, 79, 0.1)')" title="Dark Slate"></div>
+                <div class="theme-dot" style="background:#e65100;" onclick="setTheme('#e65100', '#ac1900', '#ffe0b2', 'rgba(230, 81, 0, 0.1)')" title="Orange"></div>
+                <div class="theme-dot" style="background:#283593;" onclick="setTheme('#283593', '#001064', '#c5cae9', 'rgba(40, 53, 147, 0.1)')" title="Indigo"></div>
+            </div>
+        </div>
 
         <div class="tools-group">
-            <input type="number" id="manual-timer" class="timer-input" placeholder="Mins">
-            <button class="tool-btn" onclick="setCustomTime()" title="Set Timer">Set</button>
+            <input type="number" id="manual-timer" class="timer-input" placeholder="Min">
+            <button class="tool-btn" onclick="setCustomTime()" title="Set Timer">✓</button>
             <div class="timer-display" id="timer">60:00</div>
         </div>
 
         <div class="selector-group">
             <span class="selector-label">Select Test:</span>
-            <div class="custom-select-wrapper">
-                <select id="test-dropdown" onchange="switchTest(this.value)">
-                    <option value="" disabled selected>Loading Tests...</option>
-                </select>
+            <div class="custom-select" id="custom-select">
+                <div class="select-selected">Loading...</div>
+                <div class="select-items select-hide" id="select-items">
+                    </div>
             </div>
         </div>
     </div>
@@ -368,16 +398,71 @@
 
     window.onload = async function() {
         await fetchExamsFromGitHub();
+        setupCustomDropdown();
         
-        // Close theme panel when clicking outside
+        // Close elements when clicking outside
         document.addEventListener('click', function(event) {
+            // Close Theme Panel
             const panel = document.getElementById('theme-panel');
             const btn = document.querySelector('.tool-btn[onclick="toggleThemePanel()"]');
             if (!panel.contains(event.target) && !btn.contains(event.target)) {
                 panel.style.display = 'none';
             }
+            
+            // Close Dropdown
+            const selectContainer = document.getElementById('custom-select');
+            if (!selectContainer.contains(event.target)) {
+                document.getElementById("select-items").classList.add("select-hide");
+                document.querySelector(".select-selected").classList.remove("select-arrow-active");
+            }
         });
     };
+
+    // --- CUSTOM DROPDOWN LOGIC ---
+    function setupCustomDropdown() {
+        const selected = document.querySelector(".select-selected");
+        const items = document.getElementById("select-items");
+
+        selected.addEventListener("click", function(e) {
+            e.stopPropagation();
+            items.classList.toggle("select-hide");
+            this.classList.toggle("select-arrow-active");
+        });
+    }
+
+    function populateCustomDropdown(tests) {
+        const items = document.getElementById("select-items");
+        const selected = document.querySelector(".select-selected");
+        
+        items.innerHTML = "";
+        
+        if(tests.length > 0) {
+            selected.innerHTML = tests[0].name; // Default selection display
+        }
+
+        tests.forEach((test, index) => {
+            const div = document.createElement("div");
+            div.innerHTML = test.name;
+            div.addEventListener("click", function() {
+                if(confirm("Start " + test.name + "? Current progress will be lost.")) {
+                    selected.innerHTML = test.name;
+                    loadExam(test.url, test.name);
+                    
+                    // Highlight selected
+                    const siblings = this.parentNode.children;
+                    for (let i = 0; i < siblings.length; i++) {
+                        siblings[i].classList.remove("same-as-selected");
+                    }
+                    this.classList.add("same-as-selected");
+                    
+                    items.classList.add("select-hide");
+                    selected.classList.remove("select-arrow-active");
+                }
+            });
+            if(index === 0) div.classList.add("same-as-selected");
+            items.appendChild(div);
+        });
+    }
 
     // --- THEME LOGIC ---
     function toggleThemePanel() {
@@ -385,10 +470,11 @@
         panel.style.display = panel.style.display === 'grid' ? 'none' : 'grid';
     }
 
-    function setTheme(primary, dark, light) {
+    function setTheme(primary, dark, light, fade) {
         document.documentElement.style.setProperty('--primary', primary);
         document.documentElement.style.setProperty('--primary-dark', dark);
         document.documentElement.style.setProperty('--primary-light', light);
+        document.documentElement.style.setProperty('--primary-fade', fade);
         document.getElementById('theme-panel').style.display = 'none';
     }
 
@@ -399,9 +485,7 @@
             time = min * 60;
             clearInterval(timerInt);
             startTimer();
-            alert(`Timer set to ${min} minutes!`);
-        } else {
-            alert("Please enter a valid number of minutes.");
+            // alert(`Timer set to ${min} minutes!`);
         }
     }
 
@@ -409,8 +493,24 @@
         clearInterval(timerInt);
         timerInt = setInterval(() => {
             time--;
-            let m = Math.floor(time/60), s = time%60;
-            document.getElementById('timer').innerText = `${m}:${s<10?'0':''}${s}`;
+            
+            let display = "";
+            
+            if (time >= 3600) {
+                // Show H:MM:SS
+                let h = Math.floor(time / 3600);
+                let m = Math.floor((time % 3600) / 60);
+                let s = time % 60;
+                display = `${h}:${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
+            } else {
+                // Show MM:SS
+                let m = Math.floor(time / 60);
+                let s = time % 60;
+                display = `${m}:${s < 10 ? '0' : ''}${s}`;
+            }
+
+            document.getElementById('timer').innerText = display;
+            
             if(time <= 0) finish();
         }, 1000);
     }
@@ -435,13 +535,13 @@
                 url: file.download_url
             }));
 
-            populateDropdown();
+            populateCustomDropdown(availableTests);
             
             // Load first test by default
             if(availableTests.length > 0) {
                 loadExam(availableTests[0].url, availableTests[0].name);
-                document.getElementById('test-dropdown').selectedIndex = 1; // 0 is placeholder
             }
+            document.getElementById('loader').style.display = 'none';
 
         } catch (error) {
             document.getElementById('loader').innerHTML = `
@@ -450,27 +550,6 @@
                     <p>Could not fetch file list.</p>
                     <p style="font-size:0.9rem; color:#666">Check Username, Repo Name & ensure Repo is Public.</p>
                 </div>`;
-        }
-    }
-
-    function populateDropdown() {
-        const dropdown = document.getElementById('test-dropdown');
-        dropdown.innerHTML = '<option value="" disabled selected>Select a Test...</option>';
-        availableTests.forEach(test => {
-            const option = document.createElement('option');
-            option.value = test.url;
-            option.textContent = test.name;
-            dropdown.appendChild(option);
-        });
-        document.getElementById('loader').style.display = 'none';
-    }
-
-    function switchTest(url) {
-        const selectedTest = availableTests.find(t => t.url === url);
-        if(selectedTest) {
-            if(confirm("Switching test will reset current progress. Continue?")) {
-                loadExam(url, selectedTest.name);
-            }
         }
     }
 
@@ -490,7 +569,7 @@
             // Reset State
             qIdx = 0; 
             answers = {}; 
-            time = 3600; // Reset to 60 mins default on load
+            time = 3600; // Default 1 Hour
             
             // Update UI
             document.getElementById('active-test-name').innerText = examName;
@@ -527,7 +606,6 @@
         document.getElementById('clear-btn').style.display = (answers[qIdx] !== undefined) ? 'inline-flex' : 'none';
         
         updPal();
-        // Auto scroll palette to current
         setTimeout(() => {
             const btn = document.getElementById(`p-${qIdx}`);
             if(btn) btn.scrollIntoView({behavior: 'smooth', block: 'nearest'});
