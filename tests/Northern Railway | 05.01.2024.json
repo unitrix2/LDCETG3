@@ -8,241 +8,655 @@
   {
     "q": "Which type of brake system is provided in LHB coaches?",
     "h": "एल.एच.बी. कोच में किस प्रकार के ब्रेक सिस्टम लगाये गये हैं?",
-    "o": ["Bogie Mounted Brake System / बोगी माउंटेड ब्रेक सिस्टम", "Bogie Mounted Brake Cylinder / बोगी माउंटेड ब्रेक सिलैण्डर", "Under frame Mounted Brake System / अण्डर फ्रेम माउंटेड ब्रेक सिस्टम", "Axle Mounted Disc Brake System / एक्सल माउंटेड डिस्क ब्रेक सिस्टम"],
+    "o": ["Bogie Mounted Brake System / बोगी माउंटेड ब्रेक सिस्टम", "Bogie Mounted Brake Cylinder / बोगी माउंटेड ब्रेक सिलैण्डर", "Under frame Mounted Brake System / अण्डर फेम माउंटेड ब्रेक सिस्टम", "Axle Mounted Disc Brake System / एक्सल माउंटेड डिस्क ब्रेक सिस्टम"],
     "c": 3
   },
   {
     "q": "At the one end of LHB coaches how many air hose of brake pipe has been provided?",
     "h": "एल.एच.बी. कोच के एक सिरे पर ब्रेक पाइप एयर होज की संख्या कितनी होती है?",
-    "o": ["2 / दो", "4 / चार", "3 / तीन", "8 / आठ"],
-    "c": 0
+    "o": ["Two / दो", "Four / चार", "Three / तीन", "Eight / आठ"],
+    "c": 1
   },
   {
     "q": "At the time of brake application, what is the maximum air pressure built in brake cylinder of LHB coach?",
-    "h": "ब्रेक अप्लीकेशन के समय एल.एच.बी. कोच के ब्रेक सिलैण्डर में अधिकतम एअर प्रेशर कितना बनता है?",
-    "o": ["3.8 kg/cm2 / 3.8 किग्रा/सेमी²", "2.2 kg/cm2 / 2.2 किग्रा/सेमी²", "3.0 kg/cm2 / 3.0 किग्रा/सेमी²", "2.8 kg/cm2 / 2.8 किग्रा/सेमी²"],
+    "h": "एल.एच.बी. कोच में ब्रेक अप्लीकेशन के समय ब्रेक सिलैण्डर मे अधिकतम एअर प्रेशर कितना बनता है?",
+    "o": ["3.8 kg/cm2", "2.2 kg/cm2", "3.0 kg/cm2", "2.8 kg/cm2"],
     "c": 2
   },
   {
     "q": "How many brake disks are provided in LHB Coach?",
-    "h": "एल.एच.बी. कोच में ब्रेक डिस्क की संख्या कितनी होती है?",
-    "o": ["2", "4", "1", "8"],
+    "h": "एल.एच.वी. कोच में ब्रेक डिस्क की संख्या कितनी होती है?",
+    "o": ["Two / दो", "Four / चार", "One / एक", "Eight / आठ"],
     "c": 3
   },
   {
-    "q": "In LHB Coach, Brake indicators turn to red when?",
-    "h": "एल.एच.बी. कोच में लगे ब्रेक इंडिकेटर लाल कब हो जाते हैं?",
+    "q": "In LHB Coach, Brake indicators are turn to red when:",
+    "h": "एल.एच.बी. कोच में लगे ब्रेक इंडडकेटर लाल हो जाऐगे जब:",
     "o": ["1 and 2 is True / 1 एवं 2 सही है", "1, 2 and 4 is True / 1, 2 एवं 4 सही है", "1, 3 is True / 1 एवं 3 सही है", "2, 3 and 4 is True / 2, 3 एवं 4 सही है"],
     "c": 3
   },
   {
     "q": "What is the location of Distributor Valve in LHB Coach?",
-    "h": "एल.एच.बी. कोच में डिस्ट्रीब्यूटर वाल्व (D.V.) कहाँ लगाया गया है?",
-    "o": ["In Under frame / कोच अंडरफ्रेम पर", "Near brake indicators / ब्रेक इंडिकेटर के पास", "On brake control panel / ब्रेक कंट्रोल पैनल पर", "Behind foot step / फुट स्टेप के पीछे"],
+    "h": "एल.एच.बी. कोच में डिस्ट्रीब्यूटर वाल्व कहाँ लगाया गया है?",
+    "o": ["In Under frame of coach / कोच अंडरफ्रेम पर", "Near brake indicators / ब्रेक इंडडकेटर के पास", "On brake control panel / ब्रेक कंट्रोल पैनेल पर", "Behind foot step / फुट स्टेप के पीछे"],
     "c": 2
   },
   {
     "q": "D.V. sensitivity test is carried out at how much air pressure drop?",
-    "h": "डी.वी. का सेंसिटिविटी टेस्ट कितने प्रेशर ड्रॉप पर होता है?",
+    "h": "डी.वी. का सेंसीटीवीटी टेस्ट कितने प्रेशर ड्राप पर होती है?",
     "o": ["0.25 kg/cm2 per min", "0.3 kg/cm2 per min", "0.6 kg/cm2 per 6 sec", "0.2 kg/cm2 per min"],
     "c": 2
   },
   {
-    "q": "During D.V. sensitivity test, brakes should be?",
-    "h": "डी.वी. की सेंसिटिविटी टेस्ट के समय ब्रेक की स्थिति क्या होनी चाहिए?",
-    "o": ["Applied / लगने चाहिए", "Not applied / नहीं लगने चाहिए", "Both a & b / a एवं b दोनों", "None / कोई नहीं"],
+    "q": "During D.V. sensitivity test brake should be:",
+    "h": "डी.वी. की सेंसीटीवीटी टेस्ट के समय ब्रेक:",
+    "o": ["Applied / लगने चाहिए", "Not applied / नही लगने चाटहए", "a & b is True / a एवं b सही है", "a & b is False / a एवं b गलत है"],
     "c": 0
   },
   {
     "q": "What is the B.P. & F.P. pipe diameter in LHB coaches?",
-    "h": "एल.एच.बी. कोच में बी.पी. एवं एफ.पी. पाइप का व्यास कितना होता है?",
+    "h": "एल.एच.वी. कोच में वी.पी. एवं एफ.पी. पाइप का व्यास कितना होता है?",
+    "o": ["23 mm", "25 mm", "28 mm", "32 mm"],
+    "c": 1
+  },
+  {
+    "q": "What is the B.P. & F.P. pipe diameter in ICF (BMBC) coaches?",
+    "h": "आई.सी.एफ. (बी.एम.बी.सी.) कोच में बी.पी. एवं एफ.पी. पाइप का व्यास कितना होता है?",
     "o": ["23 mm", "25 mm", "28 mm", "32 mm"],
     "c": 1
   },
   {
     "q": "How many brake indicators are provided in ICF (BMBC) Coach?",
-    "h": "आई.सी.एफ. (बी.एम.बी.सी.) कोच में ब्रेक इंडिकेटर की संख्या कितनी होती है?",
-    "o": ["Two / दो", "Four / चार", "Nil / कुछ नहीं", "Eight / आठ"],
+    "h": "आई.सी.एफ. (बी.एम.बी.सी.) कोच में ब्रेक इंडडकेटर की संख्या कितनी होती है?",
+    "o": ["Two / दो", "Four / चार", "Nil / कुछ नही", "Eight / आठ"],
     "c": 1
   },
   {
-    "q": "When BP pressure is dropped in air brake system, which reservoir air enters in brake cylinder?",
-    "h": "एयर ब्रेक सिस्टम में बी.पी. प्रेशर गिराने पर किस रिजर्वोयर की हवा ब्रेक सिलैण्डर में जाती है?",
+    "q": "When BP pressure is dropped in air brake system:",
+    "h": "एअर ब्रेक सिस्टम में बी.पी. प्रेशर गिराने पर:",
     "o": ["1 and 3 is True / 1 एवं 3 सही है", "Only 2 is True / सिर्फ 2 सही है", "3 and 4 is True / 3 एवं 4 सही है", "Only 4 is True / सिर्फ 4 सही है"],
     "c": 3
   },
   {
     "q": "How many brake cylinders are provided in BVZC wagon?",
     "h": "बी.व्ही.जेड.सी. वैगन में ब्रेक सिलैण्डर की संख्या कितनी होती है?",
-    "o": ["2", "4", "1", "8"],
+    "o": ["Two / दो", "Four / चार", "One / एक", "Eight / आठ"],
     "c": 2
   },
   {
     "q": "In ICF, when hand brake applied in SLR coach, brakes are applied on how many axles?",
-    "h": "आई.सी.एफ. एस.एल.आर. कोच में हैंड ब्रेक लगाने पर कितने एक्सल पर ब्रेक लगते हैं?",
+    "h": "आई.सी.एफ में एस.एल.आर. कोच में हैड ब्रेक लगाने पर कितने ऐक्सल पर ब्रेक लगते है?",
     "o": ["Two / दो", "Four / चार", "One / एक", "Eight / आठ"],
     "c": 0
   },
   {
     "q": "Which type of coupling is provided in LHB coach?",
-    "h": "एल.एच.बी. कोच में किस प्रकार की कपलिंग लगाई गई है?",
-    "o": ["Screw Coupling / स्क्रू कपलिंग", "H type tight lock CBC / एच टाइप टाइट लॉक सी.बी.सी.", "E type CBC / ई टाइप सी.बी.सी.", "Shaku coupling / शाकू कपलिंग"],
+    "h": "एल.एच.बी. कोच में किस प्रकार की कॅपलिंग लगाई गई है?",
+    "o": ["Screw Coupling / स्कू कॅपलिंग", "H type tight lock CBC / एच टाइप टाइट लाक सी.बी.सी.", "E type CBC / ई टाइप सी.वी.सी.", "Shakoo coupling / शाकू कपललंग"],
+    "c": 1
+  },
+  {
+    "q": "What should be the speed of Loco while coupling with LHB coach train?",
+    "h": "एल.एच.वी. कोच ट्रेन को लोको कपल करते समय लोको की गति कितनी होनी चाहिए?",
+    "o": ["6 to 8 kmph", "2 to 3 kmph", "9 kmph", "5 kmph"],
     "c": 1
   },
   {
     "q": "What will be the maximum buffer height of coaching stock in empty condition?",
-    "h": "कोचिंग स्टॉक में खाली स्थिति में बफर की अधिकतम ऊंचाई कितनी होती है?",
+    "h": "कोचिंग स्टाक में बफर की अधिकतम ऊचाई खाली स्थिति में कितनी होती है?",
     "o": ["1005 mm", "1030 mm", "1105 mm", "1130 mm"],
     "c": 2
   },
   {
     "q": "What will be the minimum buffer height of coaching stock in loaded condition?",
-    "h": "कोचिंग स्टॉक में भरी हुई स्थिति में बफर की न्यूनतम ऊंचाई कितनी होती है?",
+    "h": "कोचिंग स्टाक में बफर की न्युनतम ऊचाई भरी स्थिति में कितनी होती है?",
     "o": ["1005 mm", "1030 mm", "1105 mm", "1130 mm"],
     "c": 1
   },
   {
     "q": "How much difference in height of buffer of coupled coach is permitted?",
-    "h": "कोचिंग स्टॉक में जोड़े जाने वाले कोचों के बफर की ऊंचाई में कितना अंतर अनुमेय है?",
+    "h": "कोचिंग स्टाक में जोडे जाने वाले कोच के बफर के उचाई मे कितना अंतर अनुमेय है?",
     "o": ["55 mm", "65 mm", "75 mm", "85 mm"],
     "c": 2
   },
   {
     "q": "During continuity test in Goods stock, how much B.P. air pressure is dropped by Guard?",
-    "h": "गुड्स स्टॉक में कॉन्टिन्युटी टेस्ट करते समय गार्ड द्वारा कितना बी.पी. प्रेशर गिराया जाता है?",
-    "o": ["5.0 kg/cm2", "3.6 kg/cm2", "1.0 kg/cm2", "4.0 kg/cm2"],
+    "h": "गुड्स स्टाक मे कॉनट्यूनिटी टेस्ट करते समय गार्ड द्वारा कितना बी.पी. प्रेशर गिराया जाता है?",
+    "o": ["5 kg/cm2", "3.6 kg/cm2", "1 kg/cm2", "4 kg/cm2"],
     "c": 2
   },
   {
+    "q": "During continuity test in Coaching stock, upto which limit B.P. air pressure is reduced by Guard?",
+    "h": "कोचिंग स्टाक में कॉनट्यूनिटी टेस्ट करते समय गार्ड द्वारा वी.पी. प्रेशर कितने तक कम किया जाता है?",
+    "o": ["5 kg/cm2", "3.6 kg/cm2", "1 kg/cm2", "4 kg/cm2"],
+    "c": 3
+  },
+  {
     "q": "At the time of emergency brake application by Loco Pilot in Loco how much BP pressure is available in the brake van?",
-    "h": "लोको पायलट द्वारा इमरजेंसी ब्रेक लगाने पर ब्रेक वान में कितना बी.पी. प्रेशर उपलब्ध रहता है?",
-    "o": ["5.0 kg/cm2", "4.8 kg/cm2", "0 kg/cm2", "4.0 kg/cm2"],
+    "h": "लोको पायलट द्वारा लोको से एमरजेंसी ब्रेक लगाने पर ब्रेक वान में कितना वी.पी. प्रेशर उपलब्ध रहता है?",
+    "o": ["5 kg/cm2", "4.8 kg/cm2", "0 kg/cm2", "4.0 kg/cm2"],
+    "c": 2
+  },
+  {
+    "q": "What is the minimum brake power issued to closed circuit rake from originating station?",
+    "h": "क्लोज सकीट रेक को प्रारम्भिक स्टेशन से न्युनतम कितनस ब्रेक पावर प्रतिशत दिया जाता है?",
+    "o": ["95%", "90%", "100%", "75%"],
     "c": 2
   },
   {
     "q": "What is the validity of Premium rake BPC?",
     "h": "प्रीमियम रेक बी.पी.सी. की वैधता कितनी होती है?",
-    "o": ["10+3 days / 10+3 दिन", "15+3 days / 15+3 दिन", "12+3 days / 12+3 दिन", "13+3 days / 13+3 दिन"],
+    "o": ["10 days / 10 दिन", "15 days / 15 दिन", "12+3 days / 12+3 दिन", "13 days / 13 दिन"],
     "c": 2
   },
   {
+    "q": "Mail/Express LHB coach train whose round trip km distance is more than 4000km, BPC to that train will be:",
+    "h": "मेल/एक्स्प्रेस एल.एच.वी. कोच ट्रेन जिसका राउंड ट्रीप अंतर 4000 कि.मी. से अधिक होता है, उस ट्रेन को बी.पी.सी.:",
+    "o": ["Issued by Primary Depot only / सिर्फ प्राइमरी डिपो से", "Primary and Secondary Depot / प्रायमरी एवं सेकंडरी डिपो से", "Secondary Depot only / सिफ सैकेण्डरी डिपो से", "Enroute Depot only / मध्यवती डिपो से"],
+    "c": 1
+  },
+  {
+    "q": "Mail/Express ICF coach train whose round trip km distance is upto 3500km, BPC to that train will be:",
+    "h": "मेल/एक्स्प्रेस आय.सी.एफ. कोच ट्रेन जिसका राउंड टीप अंतर 3500 कि.मी. तक होता है, उस ट्रेन को बी.पी.सी.:",
+    "o": ["Issued by Primary Depot only / सिर्फ प्राइमरी डिपो से", "Primary and Secondary Depot / प्रायमरी एवं सेकंडरी डिपो से", "Secondary Depot only / सिफ सैकेण्डरी डिपो से", "Enroute Depot only / मध्यवती डिपो से"],
+    "c": 0
+  },
+  {
+    "q": "Mail/Express LHB coach train whose round trip km distance is upto 4000km, BPC to that train will be:",
+    "h": "मेल/एक्स्प्रेस एल.एच.वी. कोच ट्रेन जिसका राउंड ट्रीप अंतर 4000 कि.मी. तक होता है, उस ट्रेन को बी.पी.सी.:",
+    "o": ["Issued by Primary Depot only / सिर्फ प्राइमरी डिपो से", "Primary and Secondary Depot / प्रायमरी एवं सेकंडरी डिपो से", "Secondary Depot only / सिफ सैकेण्डरी डिपो से", "Enroute Depot only / मध्यवती डिपो से"],
+    "c": 0
+  },
+  {
+    "q": "During following situations GDR should be carried out:",
+    "h": "निम्नलिखित परिस्थितियों में जी.डी.आर करना है:",
+    "o": ["1,2 and 3 is True / 1,2 एवं 3 सही है", "1,2 and 4 is True / 1,2 एवं 4 सही है", "1 and 3 is True / 1 एवं 3 सही है", "All is True / सभी सही है"],
+    "c": 3
+  },
+  {
     "q": "Which bogie is provided in wagons?",
-    "h": "वैगनों में लगाई गई बोगी का नाम क्या है?",
-    "o": ["FIAT bogie / फियाट बोगी", "CASNUB bogie / कैसनब बोगी", "ICF bogie / आई.सी.एफ. बोगी", "CALIPER bogie / कैलिपर बोगी"],
+    "h": "वैगनो मे लगाई गई बोगी का नाम क्या है?",
+    "o": ["FIAT bogie / फियाट बोगी", "CASNUB bogie / कैसनव बोगी", "ICF bogie / आय.सी.एफ. बोगी", "CALIPER bogie / कैलिपर बोगी"],
     "c": 1
   },
   {
     "q": "Which bearing is provided in LHB coach?",
-    "h": "एल.एच.बी. कोच में लगाई गई बेयरिंग का नाम क्या है?",
-    "o": ["Cartridge Spherical Roller / कार्ट्रिज स्फेरीकल रोलर", "Cartridge Tapper Plain / कार्ट्रिज टेपर प्लेन", "Spherical Roller / स्फेरीकल रोलर", "Cartridge Tapper Roller / कार्ट्रिज टेपर रोलर बेयरिंग"],
+    "h": "एल.एच.बी. कोच मे लगाई गई वैयरिंग का नाम क्या है?",
+    "o": ["Cartridge Spherical Roller / कार्टिज स्फेरीकल रोलर", "Cartridge Tapper Plain / कार्टिज टेपर प्लेन", "Spherical Roller / स्फेरीकल रोलर", "Cartridge Tapper Roller / कार्टिज टेपर रोलर"],
     "c": 3
   },
   {
+    "q": "Which bogie is provided in LHB coach?",
+    "h": "एल.एच.बी. कोच मे लगाई गई बोगी का नाम क्या है?",
+    "o": ["FIAT bogie / फियाट बोगी", "CASNUB bogie / कैसनब बोगी", "ICF bogie / आय.सी.एफ. बोगी", "LCCF20 bogie / एल.सी.सी.एफ 20 बोगी"],
+    "c": 0
+  },
+  {
+    "q": "Which type of secondary suspension may be fitted in LHB coach?",
+    "h": "एल.एच.बी. कोच मे सेकंडरी सस्पेंशन किस प्रकार का हो सकता है?",
+    "o": ["1,2 and 3 is True / 1,2 एवं 3 सही है", "1 and 3 is True / 1 एवं 3 सही है", "1,3 and 4 is True / 1,3 एवं 4 सही है", "All is True / सभी सही है"],
+    "c": 1
+  },
+  {
+    "q": "What is maximum speed of BVZI brake van?",
+    "h": "बी.व्ही.जेड.आई. ब्रेक यान की अधिकतम गति कितनी होती है?",
+    "o": ["160 kmph", "110 kmph", "100 kmph", "120 kmph"],
+    "c": 2
+  },
+  {
     "q": "What is maximum speed of LHB coach?",
-    "h": "एल.एच.बी. कोच की अधिकतम गति कितनी होती है?",
+    "h": "एल.एच.वी. कोच की अधिकतम गति कितनी होती है?",
     "o": ["160 kmph", "110 kmph", "100 kmph", "120 kmph"],
     "c": 0
   },
   {
+    "q": "Due to defect in which bogie part Hot Axle take place?",
+    "h": "बोगी का कौनसा पुर्जा खराब होने पर हॉट एक्सल होता है?",
+    "o": ["Wheel / पहिया", "Bogie Frame / बोगी फ्रेम", "Bearing / वैयरिंग", "Brake Block / ब्रेक ब्लाक"],
+    "c": 2
+  },
+  {
+    "q": "Length of LHB coach is how much more than ICF coach?",
+    "h": "एल.एच.वी. कोच की लंबाई आय.सी.एफ. कोच से कितनी अधिक है?",
+    "o": ["1.2 m", "3.2 m", "4.2 m", "2.2 m"],
+    "c": 3
+  },
+  {
     "q": "Full form of LHB:",
-    "h": "एल.एच.बी. (LHB) का पूरा नाम क्या है:",
-    "o": ["Linke Hofmann Busch / लिंक हाफमैन बुश", "Like Hofmann Busch", "Linke Hofmann Busch", "Linke Hofmann Bag"],
+    "h": "एल.एच.वी. पुरा नाम:",
+    "o": ["Linke Holfmann Bosch / लिंक हाल्फमैन वॉश", "Like Holfmann Bosch", "Linke Holfmann Busch", "Linke Holfmann Bag"],
     "c": 0
   },
   {
     "q": "De-code: WGSCN",
-    "h": "डिकोड करें: WGSCN",
-    "o": ["Vestibule self-gen 2nd class 3-tier / वेस्टीबुल सेल्फ जनरेशन सेकंड क्लास थ्री टियर", "2-tier sleeper / टू टियर स्लीपर", "Chair car / चेयर कार", "None / कोई नहीं"],
+    "h": "डिकोड करे: WGSCN",
+    "o": ["Vestibule self-generation 3-tier sleeper / वेस्टीब्युल सेल्फ जैनरेशन थ्री टियर स्लीपर", "2-tier sleeper / टू टियर स्लीपर", "Chair car / चेयर कार", "LHB 3-tier / एल.एच.बी. थ्री टियर"],
     "c": 0
   },
   {
     "q": "De-code: GSLRD",
-    "h": "डिकोड करें: GSLRD",
-    "o": ["LHB Brake van / एल.एच.बी. ब्रेक यान", "Luggage Disabled coach / लगेज ब्रेक यान (दिव्यांगों हेतु)", "Inspection van / निरीक्षण यान", "Double Decker / डबल डेकर"],
-    "c": 1
-  },
-  {
-    "q": "De-code: NMG",
-    "h": "डिकोड करें: NMG",
-    "o": ["New Medical Goods / न्यू मेडिकल गुड्स", "New Mechanized Goods / न्यू मैकेनाइज्ड गुड्स", "New Modified Guard / न्यू मॉडिफाइड गार्ड", "New Modified Goods / न्यू मॉडिफाइड गुड्स"],
+    "h": "डिकोड करे: GSLRD",
+    "o": ["Self-gen 2nd class LHB Brake van / सेल्फ जनरेशन सेकंड क्लास एल.एच.बी. ब्रेक यान", "Disabled coach / डिसएबल्ड के लिये कोच", "Double Decker / डवल डेकर", "Self-gen 2nd class Luggage Brake van Disabled / सेल्फ जनरेशन सेकंड क्लास लगेज ब्रेक यान डिसएबल्ड"],
     "c": 3
   },
   {
-    "q": "What is full form of WSP?",
-    "h": "डब्लू.एस.पी. (WSP) का पूरा नाम क्या है?",
-    "o": ["Wagon Slide Protection / वैगन स्लाइड प्रोटेक्शन", "Wheel Slide Prevention / व्हील स्लाइड प्रिवेंशन", "Wheel Slide Protection / व्हील स्लाइड प्रोटेक्शन", "Wagon Slide Prevention / वैगन स्लाइड प्रिवेंशन"],
+    "q": "De-code: LWLRRM",
+    "h": "डिकोड करे: LWLRRM",
+    "o": ["LHB Vestibule luggage brake van power car / एल.एच.वी. वेस्स्टव्युल लगेज ब्रेक वान पावर कार", "Vestibule luggage / वेस्ट्स्टव्युल लगेज", "Luggage Vestibule / लगेज वेस्ट्स्टब्युल", "LHB Vestibule inspection car / एल.एच.वी. वेस्ट्स्टव्युल निरीक्षण यान"],
+    "c": 0
+  },
+  {
+    "q": "De-code: WCB",
+    "h": "डिकोड करे: WCB",
+    "o": ["Vestibule Three tier / वेस्ट्स्टव्युल श्री टियर", "Two tier / टू टियर", "Power car / पावर कार", "Vestibule pantry car / वेस्स्टब्युल पैट्री कार"],
+    "c": 3
+  },
+  {
+    "q": "De-code: NMG",
+    "h": "डिकोड करे: NMG",
+    "o": ["New Midical Goods / न्यु मैडिकल गुड्स", "New Mechanized Goods / न्यु मेकेनाईज्ड गुड्स", "New Modified Guard / न्यु मॉडीफाईड गार्ड", "New Modified Goods / न्यु मॉडीफाईड गुडस्"],
+    "c": 3
+  },
+  {
+    "q": "De-code: BTPN",
+    "h": "डिकोड करे: BTPN",
+    "o": ["Tank wagon LPG Air brake / बोगी टैक वैगन लिक्विड पैट्रोलियम गैस एयर ब्रेक", "Petroleum loading Air brake / पेट्रोलियम लोडिंग एअर ब्रेक", "Frame Less Air brake / फ्रेम लेस एअर ब्रेक", "Flurine Liquid Gas Air brake / फ्लुरीन लिक्विड गैस एयर ब्रेक"],
+    "c": 1
+  },
+  {
+    "q": "How brake binding in a vehicle can be identified?",
+    "h": "डिब्बे में ब्रेक बाईंडींग की पहचान कैसे होती है?",
+    "o": ["Axle box hot / एक्सल बॉक्स गरम एवं लाल होने से", "Hammering Sound / हैमरींग साउंड आने से", "Wheel skidding / पहिया घिसटने से", "All / सभी"],
     "c": 2
   },
   {
+    "q": "How train parting in a vehicle can be identified?",
+    "h": "ट्रेन में ट्रेन पार्टिंग की पहचान कैसे होती है?",
+    "o": ["Axle box hot / एक्सल बॉक्स गरम एवं लाल होने से", "Hammering Sound / हैमरींग साउंड आने से", "Wheel skidding / पहिया घिसटने से", "BP pressure drop to zero / लोको मे बी.पी. प्रेशर शुन्य होने से"],
+    "c": 3
+  },
+  {
+    "q": "What is full form of ICF?",
+    "h": "आय.सी.एफ. का प्रा नाम क्या है?",
+    "o": ["Indian rail Coach Factory / इंडियन रेल कोच फॅक्टरी", "Italian Coach Factory", "Integral Coach Factory / ईंटेग्रल कोच फॅक्टरी", "Indian Coach Factory"],
+    "c": 2
+  },
+  {
+    "q": "What is full form of WSP?",
+    "h": "डब्ल्यु.एस.पी. का पुरा नाम क्या है?",
+    "o": ["Wagon Slide Protection", "Wheel Slide Prevention / र्वहील स्लाईड प्रिवेन्शन", "Wheel Slide Protection / व्हील स्लाईड प्रोटेक्शन", "Wagon Slide Prevention"],
+    "c": 2
+  },
+  {
+    "q": "What is full form of LSD?",
+    "h": "एल.एस.डी. का पुरा नाम क्या है?",
+    "o": ["Load Sensing Diode", "Load Sensing Device / लोड सेंसिंग डीवाइस", "Lock Sensing Device", "Load Sensing Design"],
+    "c": 1
+  },
+  {
+    "q": "What is full form of SAB?",
+    "h": "एस.ए.बी. का पुरा नाम क्या है?",
+    "o": ["Slack Adjustor Barrel", "Slip Adjustor Brake regulator", "Slow Adjustor Brake regulator", "Slack Adjustor Brake regulator / स्लैक ऐडजेस्टर ब्रेक रेगुलेटर"],
+    "c": 3
+  },
+  {
+    "q": "What is full form of D.V.?",
+    "h": "डी.वी. का पुरा नाम क्या है?",
+    "o": ["Distribution Valve", "Dump Valve", "Distributor Valve / डिस्ट्रीब्युटर वाल्व", "Distributor Vehicle"],
+    "c": 2
+  },
+  {
+    "q": "What is full form of A.R.?",
+    "h": "ए.आर. का पुरा नाम क्या है?",
+    "o": ["Air Reservoir", "Additional Reservoir", "Auxillary Reservoir / आस्जजलरी रीजरवायर", "Auto Reservoir"],
+    "c": 2
+  },
+  {
+    "q": "What is full form of C.R.?",
+    "h": "सी.आर. का पुरा नाम क्या है?",
+    "o": ["Chamber Reservoir", "Control Reservoir / कंट्रोल रीजरवायर", "Control Relay", "Common Reservoir"],
+    "c": 1
+  },
+  {
     "q": "What is the color of Feed pipe palm head in coaching stock?",
-    "h": "कोचिंग स्टॉक में फीड पाइप पाम हेड का रंग कौन सा होता है?",
+    "h": "कोचिंग स्टाक में फिट पाईप पॉम हैड का रंग कौनसा होता है?",
     "o": ["Green / हरा", "Yellow / पीला", "White / सफेद", "Black / काला"],
     "c": 1
   },
   {
+    "q": "What is full form of C.B.C.?",
+    "h": "सी.बी.सी. का पुरा नाम क्या है?",
+    "o": ["Control Buffer Coupler", "Common Buffer Coupler", "Center Buffer Coupler / सेंटर बफर कपलर", "Center Bracket Coupler"],
+    "c": 2
+  },
+  {
     "q": "FIBA device is related to what?",
-    "h": "फीबा (FIBA) डिवाइस किससे संबंधित है?",
-    "o": ["Brake Binding / ब्रेक बाइंडिंग", "Flat Tyre / फ्लैट टायर", "Hot Axle / हॉट एक्सल", "Failure of Air Spring / एयर स्प्रिंग की विफलता"],
+    "h": "फीबा डिवाईस किस से संबंधित है?",
+    "o": ["Brake Binding / ब्रेक बाईंडडंग से", "Flat Tyre / फलैट टायर से", "Hot Axle / हॉट एक्सल से", "Failure of Air Spring / एयर स्प्रिंग क्षतिग्रस्ट होने से"],
     "c": 3
   },
   {
-    "q": "What is full form of RDSO?",
-    "h": "आर.डी.एस.ओ. (RDSO) का पूरा नाम क्या है?",
-    "o": ["Research Design & Structural", "Research Design & Standard Organization / रिसर्च डिजाइन और स्टैंडर्ड ऑर्गेनाइजेशन", "Research Development", "Railway Development"],
+    "q": "What is full form of ART?",
+    "h": "ए.आर. टी. का पुरा नाम क्या है?",
+    "o": ["Auxiliary Relief Train", "Auto Relief Train", "Accident Relief Train / एक्सीडेंट रिलीफ ट्रेन", "Additional Relief Train"],
+    "c": 2
+  },
+  {
+    "q": "What is the purpose to provide elastomeric pads?",
+    "h": "वैगनों में इलेस्टोमैरिक पैडस् को क्यों लगाया जाता है?",
+    "o": ["Reduce flange wear / व्हील फलैंज वियर को कम करने हेतू", "Improve riding index / राइडिंग इण्डैक्स को सुधारने हेतू", "Increase buffer height / बफर हाईट को बढ़ाने हेतू", "All of the above / उपरोक्त सभी के लिये"],
+    "c": 3
+  },
+  {
+    "q": "What is the full form of RDSO?",
+    "h": "आर. डी. एस. ओ का पूरा नाम क्या है?",
+    "o": ["Research Design & Structural", "Research Design & Standard Organization / रिसर्च डिजाईन और स्टैण्डर्ड ओरगनाईजेशन", "Research Development", "Railway Development"],
+    "c": 1
+  },
+  {
+    "q": "How many dependents are allowed in Complimentary Pass?",
+    "h": "सेर्वोतर मानार्थ पास में कितने आश्रित को शामिल किया जा सकता है?",
+    "o": ["Maximum-2 / अधिकतम -2", "Maximum-1 / अधिकतम - 1", "Maximum-3 / अधिकतम -3", "Maximum-4 / अधिकतम -4"],
+    "c": 0
+  },
+  {
+    "q": "What is full form of RPF?",
+    "h": "आर. पी. एफ का पूरा नाम क्या है?",
+    "o": ["Rail Police Force", "Railway Protection Force / रेलवे प्रोटेक्शन फोर्स", "Railway Public Force", "Rail Protection Force"],
     "c": 1
   },
   {
     "q": "Where is India's first Railway Workshop located?",
-    "h": "भारत का प्रथम रेल कारखाना कहाँ पर स्थित है?",
+    "h": "भारत का प्रथम रेल कारखाना कहां पर स्थित हैं?",
     "o": ["Jamalpur / जमालपुर", "Ajmer / अजमेर", "Chittaranjan / चितरंजन", "Varanasi / वाराणसी"],
     "c": 0
   },
   {
     "q": "Which is the mascot of Indian Railways?",
     "h": "भारतीय रेल का शुभंकर कौन सा है?",
-    "o": ["Janter Manter / जंतर-मंतर", "Bholu (elephant) / भोलू (हाथी)", "Hodori Tiger / होदोरी बाघ", "Railway Engine / रेलवे इंजन"],
+    "o": ["Janter Manter / जन्तर-मन्तर", "Bholu (elephant) / भोलू (हाथी)", "Hodori Tiger / होदोरी बाघ", "Railway Engine / रेलवे इंजन"],
     "c": 1
   },
   {
-    "q": "PNR Stands for:",
-    "h": "पी.एन.आर. (PNR) का अर्थ है:",
-    "o": ["Personal name record / पर्सनल नाम रिकॉर्ड", "Passenger number record", "Passenger name record / पैसेंजर नाम रिकॉर्ड", "Passenger name reservation"],
+    "q": "Children belonging to below age group are charged half ticket.",
+    "h": "भारतीय रेल में निम्न आयु समुह के बच्चों का आधा टिकट लगता है।",
+    "o": ["3 to 10", "3 to 12", "5 to 14", "5 to 12"],
+    "c": 3
+  },
+  {
+    "q": "PNR Stands for",
+    "h": "पी.एन.आर. किस का संक्षिप्त रूप है",
+    "o": ["Personal name record / पर्सनल नाम रिकार्ड", "Passenger number record", "Passenger name record / पैसेंजर नाम रिकार्ड", "Passenger name reservation"],
     "c": 2
   },
   {
-    "q": "POH of LHB Coach is done at the interval of ___ months.",
-    "h": "एल.एच.बी. कोच का पी.ओ.एच. कितने माह के अंतराल पर किया जाता है?",
+    "q": "POH of LHB Coach is done at the interval of ___ month.",
+    "h": "एल. एच. बी कोच का पी. ओ. एच माह के अन्तराल पर किया जाता है।",
     "o": ["24", "12", "18", "36"],
     "c": 3
   },
   {
-    "q": "What is the gauge of IR's Broad Gauge?",
-    "h": "भारतीय रेल के ब्रॉड गेज (BG) की माप कितनी है?",
-    "o": ["1000 mm", "1776 mm", "1676 mm", "2896 mm"],
-    "c": 2
-  },
-  {
-    "q": "Who among the following is known as the father of Indian Railways?",
-    "h": "किसे भारतीय रेल का जनक माना जाता है?",
-    "o": ["Lord Dalhousie / लार्ड डलहौजी", "Lord Ripon / लार्ड रिपन", "Mahatma Gandhi / महात्मा गांधी", "M. Visweswariah / एम. विश्वेश्वरैया"],
-    "c": 0
-  },
-  {
-    "q": "CMPE stands for:",
-    "h": "सी.एम.पी.ई. (CMPE) का अर्थ क्या है:",
-    "o": ["Chief Manpower Planning Engineer", "Chief Motive Power Engineer / चीफ मोटिव पावर इंजीनियर", "Chief Man Power Engineer", "Chief Material Planning Engineer"],
+    "q": "What do you mean of SWTR?",
+    "h": "एस. डब्ल्यु. टी. आर. से आप क्या समझते है?",
+    "o": ["Single wagon test rubber", "Single wagon test rig / सिंगल वैगन टैस्ट रबर", "Sliding wagon test ring", "None / उपरोक्त में से कोई नहीं"],
     "c": 1
   },
   {
-    "q": "What is the colour of BPC for close circuit air brake rake (Goods Stock)?",
-    "h": "गुड्स स्टॉक के क्लोज सर्किट (CC) एयर ब्रेक रेक में बी.पी.सी. का रंग क्या होता है?",
-    "o": ["Yellow / पीला", "Green / हरा", "Blue / नीला", "White / सफेद"],
+    "q": "In one unit of BLC wagon there are ___ car- A unit.",
+    "h": "बी. एल. सी. वैगन के एक यूनिट में कार ए होती है।",
+    "o": ["3", "5", "2", "4"],
+    "c": 2
+  },
+  {
+    "q": "Side bearer oil level in ICF coaches is checked at the interval of ...",
+    "h": "आई.सी.एफ कोचों में साईड बैयरर ऑयल लेवल अन्तराल पर चैक किया जाता है।",
+    "o": ["15 days / 15 दिन", "one month / एक महीना", "Two month / दो महीने", "None / उपरोक्त में से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "No. of dump valve in one LHB coach are.........",
+    "h": "एक एल. एच. बी. कोच में डम्प वाल्व होते है।",
+    "o": ["08", "02", "06", "04"],
+    "c": 3
+  },
+  {
+    "q": "Length of ICF coach is mm",
+    "h": "आई. सी. एफ. कोच की लम्बाई एम.एम होती है",
+    "o": ["23540", "22996", "26740", "24351"],
+    "c": 1
+  },
+  {
+    "q": "Which of the following language is not included in the eighth schedule?",
+    "h": "आठवीं अनुसूची में निम्नलिखित में से कौन सी भाषा शामिल नहीं है?",
+    "o": ["Sindhi / सिंधी", "English / अंग्रेजी", "Kashmiri / कश्मीरी", "Nepali / नेपाली"],
+    "c": 1
+  },
+  {
+    "q": "In which region does Punjab fall on the basis of language?",
+    "h": "भाषा के आधार पर पंजाब किस क्षेत्र में आता है?",
+    "o": ["'क' Region", "'ख' Region", "'ग' Region", "'घ' Region"],
+    "c": 1
+  },
+  {
+    "q": "On which state Official language rules 1976 does not apply?",
+    "h": "राजभाषा नियम 1976 किस राज्य पर लागू नहीं होता है?",
+    "o": ["Gujarat / गुजरात", "Assam / असम", "Tamil Nadu / तमिलनाडू", "Karnataka / कर्नाटक"],
+    "c": 2
+  },
+  {
+    "q": "Which Ministry organizes annual Rajbhasha programme?",
+    "h": "राजभाषा का वार्षिक कार्यकम किस मंत्रालय द्वारा जारी किया जाता है?",
+    "o": ["Home Ministry / गृह मंत्रालय", "Defence Ministry / रक्षा मंत्रालय", "Environment Ministry / पर्यावरण मंत्रालय", "Law Ministry / कानून मंत्रालय"],
     "c": 0
   },
   {
-    "q": "The color of BPC of Premium rakes is:",
-    "h": "प्रीमियम रेक की बी.पी.सी. का रंग कैसा होता है:",
-    "o": ["Yellow / पीला", "Red / लाल", "Green / हरा", "Black / काला"],
+    "q": "When did Hindi was adopted as Official language of Union of India?",
+    "h": "हिन्दी को भारतीय संघ की अधिकारिक राष्ट्र भाषा का दर्जा कब मिला?",
+    "o": ["September 14, 1949 / 14 सितम्बर, 1949", "September 14, 1950", "September 14, 1948", "September 14, 1952"],
+    "c": 0
+  },
+  {
+    "q": "Who is the Chairman of Railway Hindi Advisory Committee?",
+    "h": "रेलवे हिन्दी सलाहकार समिति के अध्यक्ष कौन हैं?",
+    "o": ["Member Staff / मैम्बर स्टाफ", "Chairman Railway Board / चैयरमैन रेलवे बोर्ड", "Chief Hindi Advisor / मुख्य हिन्दी सलाहकार", "Rail Minister / रेलमंत्री"],
+    "c": 3
+  },
+  {
+    "q": "In which language central government offices should have rubber stamps and metal seals?",
+    "h": "केन्द्रीय सरकार के कार्यालय में रबड़ की मोहरें तथा धातु की सीलें किस भाषा में होनी चाहिए?",
+    "o": ["Only in Hindi", "Only in English", "Hindi-English Bilingual / हिन्दी-अग्रेंजी द्विभाषी में", "In local language"],
     "c": 2
+  },
+  {
+    "q": "In which language is it compulsory to reply to the letter received in Hindi?",
+    "h": "हिन्दी में प्राप्त पत्रों के उत्तर किरा भाषा में देना अनिवार्य है?",
+    "o": ["Only in Hindi / केवल हिन्दी में", "Only in English", "Hindi-English bilingual", "Hindi and Local language"],
+    "c": 0
+  },
+  {
+    "q": "On the basis of language, India is divided in how many parts?",
+    "h": "भाषा के आधार पर भारत को कितने भागों में बांटा गया है?",
+    "o": ["4", "5", "3", "6"],
+    "c": 2
+  },
+  {
+    "q": "Hindi pakhwada is from",
+    "h": "हिन्दी पखवाडा कब से कब तक होता है?",
+    "o": ["14-28 Sept. / 14-28 सितम्बर", "1-14 Dec.", "14-28 Nov.", "14-28 Feb."],
+    "c": 0
+  },
+  {
+    "q": "When First train started in India (year) ?",
+    "h": "भारत में पहली गाड़ी कब चली थी?",
+    "o": ["1853", "1854", "1925", "1947"],
+    "c": 0
+  },
+  {
+    "q": "Head Quarter of North Eastern Railway (NER) is situated at",
+    "h": "नार्थ इस्टर्न रेलवे का प्रधान कार्यालय में स्थित है",
+    "o": ["Hazipur / हाजीपुर", "Gorakhpur / गोरखपुर", "Baroda House Delhi", "Kolkata"],
+    "c": 1
+  },
+  {
+    "q": "In coaching trains, auxiliary reservoir is charged to-",
+    "h": "कोचिंग देन में, अगिसल्लरी रेसेर्वियर को कहां तक चार्ज किया जाता है?",
+    "o": ["5.0 Kg/cm2", "6.0 Kg/cm2", "4.8 Kg/cm2", "5.5 Kg/cm2"],
+    "c": 1
+  },
+  {
+    "q": "The maximum LAP can be accumulated in entire service of railway employee is",
+    "h": "सम्पूर्ण नौकरी में एक रेलवे कर्मचारी अधिकतम कितने दिन की एल.ए.पी. संचित कर सकता है?",
+    "o": ["300", "320", "315", "No limit / कोई सीमा नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Who is the chair person of PNM at Divisional level",
+    "h": "मण्डल स्तर की पी.एन.एम का सभापति कौन होता है?",
+    "o": ["DRM / मण्डल रेल प्रबन्धक", "Sr DPO / सीनियर डी. पी. ओ", "ADRM (Infra)", "Branch Secretary of Union"],
+    "c": 0
+  },
+  {
+    "q": "Center pivot pin does not transmit any",
+    "h": "सेंटर पीवेट पिन कोई ट्रांसमिट नहीं करता",
+    "o": ["Horizontal load / होरिजन्टल लोड", "Tractive force", "Breaking force", "Vertical force / वर्टिकल फोर्स"],
+    "c": 3
+  },
+  {
+    "q": "The pressure of air in the feed pipe of air brake system is",
+    "h": "एयर ब्रेक सिस्टम की फीड पाईप में एयर का प्रैशर कितना होता है?",
+    "o": ["5 Kg/Cm2", "6 Kg/Cm2", "0.5 KgCm2/", "10 KgCm2/"],
+    "c": 1
+  },
+  {
+    "q": "Which of the following countries are divided by the Radcliffe Line?",
+    "h": "रेड क्लिफ रेखा निम्न देशों को विभाजित करती है",
+    "o": ["India and Pakistan / भारत और पाकिस्तान को", "India and China", "India and Bangladesh", "India and Nepal"],
+    "c": 0
+  },
+  {
+    "q": "Which is the highest dam in India?",
+    "h": "भारत का सबसे उंचाई पर स्थित बांध कौन सा है?",
+    "o": ["Bhakra Dam / भाखडा बांध", "Nagarjuna Sagar Dam", "Hirakund Dam", "Tehri Dam / टेहरी बांध"],
+    "c": 3
+  },
+  {
+    "q": "Which of the following is the highest point in India?",
+    "h": "निम्न में से भारत का कौन सा सबसे उंचा प्वाइंट है?",
+    "o": ["Mount Everest", "Dodabeta", "Kangchenjunga / कंचनजंगा", "George Everest"],
+    "c": 2
+  },
+  {
+    "q": "What is diameter of new LHB wheel?",
+    "h": "नये एल. एच. बी. व्हील का डायामीटर क्या होता है?",
+    "o": ["910 mm", "912 mm", "915 mm", "830 mm"],
+    "c": 2
+  },
+  {
+    "q": "In LHB coaches, 75 liter AR Tank is used for which purpose.",
+    "h": "एल. एच. बी. कोचों में 75 लिटर ए. आर. टैंक किस लिये इस्तेमाल होता है?",
+    "o": ["Toilet Purpose / टॉयलेट उद्देश्य", "Braking Purpose", "Additional (Standby)", "None / उपरोक्त में से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Environment day is celebrated on",
+    "h": "पर्यावरण दिवस कब मनाया जाता है?",
+    "o": ["5 September", "5 June / 5 जून", "15 April", "15 September"],
+    "c": 1
+  },
+  {
+    "q": "Enquiry of Coaching stock accident involving human life is done by-",
+    "h": "कोचिंग स्टाक एक्सीडेंट की जाँच किसके द्वारा की जाती है?",
+    "o": ["CRS / सी.आर.एस", "GM", "DRM", "CME"],
+    "c": 0
+  },
+  {
+    "q": "How is the weight of the body transferred on trolley in ICF coach?",
+    "h": "आईसीएफ कोच में ट्रॉली पर बॉडी का वजन कैसे स्थानांतरित किया जाता है?",
+    "o": ["Journal", "Wheel", "Side bearer / साईड वैयरर", "Dashpot / डेशपॉट"],
+    "c": 2
+  },
+  {
+    "q": "Brake pipe pressure is Kg/Cm2",
+    "h": "ब्रेक पाईप प्रेशर किलोग्राम / सेंटीमीटर 2 है",
+    "o": ["5", "6", "3.8", "4"],
+    "c": 0
+  },
+  {
+    "q": "Wheel gauge (distance between two wheels) is -",
+    "h": "व्हील गेज (दो पहियों के बीच फासला) हाता है।",
+    "o": ["1650", "1600+2/-1", "1590", "1676±3"],
+    "c": 1
+  },
+  {
+    "q": "Axle is checked by",
+    "h": "ऐक्सल को द्वारा चैक किया जाता है।",
+    "o": ["DPT", "UST / यू. एस. टी.", "Wheel gauge", "None / उपरोक्त में से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "CMPE stands for",
+    "h": "सी.एम.पी.ई. से समझते है",
+    "o": ["Chief Manpower Planning Engineer", "Chief motive power Engineer / चीफ मोटिव पॉवर इंजीनियर", "Chief Man Power Engineer", "Chief Material Planning Engineer"],
+    "c": 1
+  },
+  {
+    "q": "Who among the following is known as the father of Indian Railways?",
+    "h": "निग्न में से किसे भारतीय रेल का जनक जाना जाता है।",
+    "o": ["Lord Dalhousie / लार्ड डलहौजी", "Lord Ripon", "Mahatma Gandhi", "M. Visweswariah"],
+    "c": 0
+  },
+  {
+    "q": "The axle load of AC coaches is",
+    "h": "ए. सी. कोच का ऐक्सल लोड होता है?",
+    "o": ["22.0 tons", "16.25 tons / 16.25 टन", "15.0 tons", "14.50 tons"],
+    "c": 1
+  },
+  {
+    "q": "In Coaches BP means",
+    "h": "कोच से सम्बन्धित बी. पी. का फुल फार्म क्या है?",
+    "o": ["Bye Pass", "Brake Pipe / ब्रेक पाईप", "Bend Pipe", "Brass Pipe"],
+    "c": 1
+  },
+  {
+    "q": "What is the colour recommended for BPC for close circuit air brake rake (Goods Stock)?",
+    "h": "क्लोज सर्किट (Goods Stock) एयर ब्रेक रेक में ब्रेक पॉवर सेर्टिफिकेट का रंग क्या होता है?",
+    "o": ["Yellow / पीला", "Green", "Blue", "White"],
+    "c": 0
+  },
+  {
+    "q": "Newly built BOXN wagon first POH periodicity is",
+    "h": "नये बने बाक्सन वैगन की पहली पी.ओ.एच अवधि.......... है",
+    "o": ["4.5 year / 4.5 वर्ष", "5.5 year", "6.0 year", "6.5 year"],
+    "c": 2
+  },
+  {
+    "q": "Testing of alarm chain is done at -----------Kg weight.",
+    "h": "अलार्म चैन की टैस्टिंग किलोग्राम भार पर की जाती है।",
+    "o": ["05", "10", "25", "20"],
+    "c": 1
+  },
+  {
+    "q": "The colour of BPC of Premium rakes is",
+    "h": "प्रीमियम रेक की बी. पी.सी. का रंग होता है।",
+    "o": ["Yellow", "Red", "Green / हरा", "Black"],
+    "c": 2
+  },
+  {
+    "q": "What is the gauge of IR's Broad Gauge?",
+    "h": "आई.आर के ब्रॉड गेज का गेज कितना होता है?",
+    "o": ["1000 mm", "1776 mm", "1676 mm / 1676 मीमी", "2896 mm"],
+    "c": 2
+  },
+  {
+    "q": "ICF/RCF AC coach has.......... No. of emergency exit windows",
+    "h": "आई.सी.एफ/आर.सी.एफ के वातानुकूलित कोच में कितनी आपातकालीन खिड़कियां होती है?",
+    "o": ["2", "3", "4", "5"],
+    "c": 2
+  },
+  {
+    "q": "Single pipe system works at............pressure",
+    "h": "सिंगल पाईप सिस्टम प्रैशर पर काम करता है",
+    "o": ["Brake pipe / ब्रेक पाईप", "Feed pipe", "Brake cylinder", "AR"],
+    "c": 0
   }
 ]
