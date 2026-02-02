@@ -1,43 +1,43 @@
 [
   {
-    "q": "LHB means?",
-    "h": "एल एच बी का अर्थ क्या है?",
-    "o": ["Lang Hofmann Busch / लैंग होफमैन बूश", "Linke Half Busch / लिंकहॉफ बूश", "Linke Hofmann Busch / लिंक होफमैन बूश", "Linke Hofmann Bus / लिंक होफमैन बस"],
+    "q": "LHB means",
+    "h": "एल एच बी का अर्थ",
+    "o": ["Lang Hofmann Busch / लैंग होफमैन बूश", "Linke Hofmann Busch / लिंक होफमैन बूश", "Linke Half Busch / लिंकहॉफ बूश", "Linke Hofmann Bus / लिंक होफमैन बस"],
     "c": 2
   },
   {
-    "q": "WLRRM means (LHB coaches)?",
-    "h": "LHB कोचों में WLRRM का अर्थ क्या है?",
+    "q": "WLRRM means (LHB coaches)",
+    "h": "डब्लूआरआरएम का अर्थ (LHB कोच)",
     "o": ["AC 2 tier / AC 2 टियर", "AC 3 tier / AC 3 टियर", "Guard van / गार्ड वैन", "General coach / सामान्य कोच"],
     "c": 2
   },
   {
-    "q": "BPC means?",
-    "h": "बीपीसी (BPC) का अर्थ क्या है?",
+    "q": "BPC means",
+    "h": "बीपीसी का अर्थ",
     "o": ["Brake Power Certificate / ब्रेक पॉवर सर्टिफिकेट", "Block Competency Certificate / ब्लॉक कॉमपेनटेंसी सर्टिफिकेट", "Block Test Certificate / ब्लॉक टेस्ट सर्टिफिकेट", "None of these / इनमें से कोई नहीं"],
     "c": 0
   },
   {
     "q": "How many wagons in BLC set?",
-    "h": "बीएलसी (BLC) सेट में कितने वैगन होते हैं?",
+    "h": "बीएलसी सेट में कितने वैगन होते है?",
     "o": ["4", "5", "6", "7"],
     "c": 1
   },
   {
-    "q": "DV mechanically means?",
-    "h": "मैकेनिकल विभाग में डी वी (DV) का क्या अर्थ है?",
+    "q": "DV mechanically means",
+    "h": "डी वी मैकनीकली का अर्थ",
     "o": ["Damaged vehicles / डैमेज्ड विहिकल", "Distributor valve / डिसट्रिब्यूटर वाल्व", "Distributor Vacuum / डिसट्रिब्यूटर वैक्यूम", "None of these / इनमें से कोई नहीं"],
     "c": 1
   },
   {
-    "q": "What are the effects of Flat tyre?",
-    "h": "फ्लैट टायर के क्या प्रभाव होते हैं?",
+    "q": "What are the effects of Flat tyre",
+    "h": "फ्लैट टायर के क्या प्रभाव होते है",
     "o": ["Rail fracture / रेल फ्रेक्चर", "Derailment / डिरेलमेंट", "Hot axle / हॉट एक्सल", "None of these / इनमें से कोई नहीं"],
     "c": 0
   },
   {
     "q": "What are the effects of Brake Binding?",
-    "h": "ब्रेक बाइंडिंग के क्या प्रभाव होते हैं?",
+    "h": "ब्रेक बाइडिंग के क्या प्रभाव होते है",
     "o": ["Derailment / डिरेलमेंट", "Flat Tyre / फ्लैट टायर", "Hot axle / हॉट एक्सल", "None of these / इनमें से कोई नहीं"],
     "c": 1
   },
@@ -48,44 +48,44 @@
     "c": 2
   },
   {
-    "q": "BVZI is what types of Vehicle?",
-    "h": "बीवीजेड़ आई (BVZI) किस प्रकार का वाहन है?",
+    "q": "BVZI is what types of Vehicle",
+    "h": "बीवीजेड़ आई किस प्रकार का वाहन है",
     "o": ["2 Wheeler Brake Van / 2 व्हिलर ब्रेक वैन", "Air brake Van / एयर ब्रेक वैन", "8 Wheeler Brake Van / 8 व्हिलर ब्रेक वैन", "None of these / इनमें से कोई नहीं"],
     "c": 2
   },
   {
     "q": "How many wagons in a formation of BTPN?",
-    "h": "बीटीपीएन (BTPN) के फॉर्मेशन में कितने वैगन होते हैं?",
+    "h": "बीटीपीएन के फॉर्मेशन में कितने वैगन होते है?",
     "o": ["50+BV", "50+2 BV", "49+2 BV", "52+BV"],
     "c": 0
   },
   {
     "q": "What is the colour of Brake pipe?",
-    "h": "ब्रेक पाइप किस रंग का होता है?",
+    "h": "ब्रेक पाईप किस रंग का होता है?",
     "o": ["White / सफेद", "Green / हरा", "Red / लाल", "None of these / इनमें से कोई नहीं"],
     "c": 1
   },
   {
-    "q": "CBC means?",
-    "h": "सीबीसी (CBC) का अर्थ क्या है?",
+    "q": "CBC means",
+    "h": "सीबीसी का अर्थ",
     "o": ["Centre Buffer coupling / सेंटर बफर कपलिंग", "IR coupling / आईआर कपलिंग", "Centre Ball Bearing / सेंटर बॉल बियरिंग", "None of these / इनमें से कोई नहीं"],
     "c": 0
   },
   {
-    "q": "Premium BPC is valid for?",
-    "h": "प्रीमियम बीपीसी किसके लिए मान्य है?",
+    "q": "Premium BPC Valid for",
+    "h": "प्रिमियम बीपीसी किसके लिए बैद्य है",
     "o": ["12+3 days (orig 100%, enroute 75%)", "12+3 days (orig 90%, enroute 70%)", "12+3 days (orig 95%, enroute 75%)", "6000 km/30 days"],
     "c": 2
   },
   {
-    "q": "CC rake BPC valid for?",
-    "h": "सीसी रेक बीपीसी किसके लिए मान्य है?",
+    "q": "CC rake BPC Valid for",
+    "h": "सीसी रेक बीपीसी के लिए बैध है",
     "o": ["12+3 days (orig 100%, enroute 75%)", "12+3 days (orig 90%, enroute 70%)", "12+3 days (orig 95%, enroute 75%)", "6000 km/30 days or 7500 km/35 days"],
     "c": 3
   },
   {
-    "q": "Train 18 has been manufactured by?",
-    "h": "ट्रेन 18 (वंदे भारत) किसके द्वारा बनायी गई है?",
+    "q": "Train 18 has been manufactured by",
+    "h": "ट्रेन 18 किसके द्वारा बनायी गई है",
     "o": ["RCF / आरसीएफ", "ICF / आईसीएफ", "DRDO / डीआरडीओ", "RDSO / आरडीएसओ"],
     "c": 1
   },
@@ -96,63 +96,63 @@
     "c": 0
   },
   {
-    "q": "BTPN wagon is a?",
-    "h": "बीटीपीएन (BTPN) वैगन क्या है?",
-    "o": ["Tank wagon / टैंक वैगन", "Hopper wagon / होप्पर वैगन", "Covered wagon / कवर्ड वैगन", "Container wagon / कंटेनर वैगन"],
+    "q": "BTPN wagon is",
+    "h": "बीटीपीएन वैगन है",
+    "o": ["Tank wagon / टैंक बैगन", "Hopper wagon / होप्पर वैगन", "Covered wagon / कवर्ड वैगन", "Container wagon / कंटेनर वैटन"],
     "c": 0
   },
   {
-    "q": "Derailment falls under which class of accident?",
-    "h": "डिरेलमेंट किस श्रेणी के एक्सीडेंट के अंदर आता है?",
+    "q": "Derailment falls under class accident.",
+    "h": "डिरेलमेंट, किस श्रेणी की एक्सीडेंट के अंदर आती है",
     "o": ["R", "L", "D", "G"],
     "c": 2
   },
   {
     "q": "How minor leakages in air brake system are arrested?",
-    "h": "एयर ब्रेक में होने वाली माइनर लीकेज को किस प्रकार ठीक किया जाता है?",
-    "o": ["With CELLO Tape / सेलो टेप के द्वारा", "With NYLON Tape / नॉयलॉन टेप के द्वारा", "With TEFFLON Tape / टेफ्लोन टेप के द्वारा", "With INSULATION Tape / इंसुलेशन टेप के द्वारा"],
+    "h": "एयर ब्रेक में होनी वाली माइनर लिकेज को किस प्रकार ठीक किया जाता है?",
+    "o": ["With CELLO Tape / सेलो टेप के द्वारा", "With NYLON Tape / नॉयलॉन टेप के द्वारा", "With TEFFLON Tape / टेफ्लोन टेप के द्वारा", "With INSULATION Tape / इंसुलेशन के द्वारा"],
     "c": 2
   },
   {
     "q": "What will result if knuckle is broken in a goods train on run?",
-    "h": "यदि चलती मालगाड़ी का नकल टूट जाता है तो इसका क्या परिणाम होगा?",
-    "o": ["Hot Axle / हॉट एक्सल", "Train Parting / ट्रेन पार्टिंग", "Derailment / डिरेलमेंट", "Track circuit failure / ट्रैक सर्किट फेलियर"],
+    "h": "यदि चलती मालगाड़ी का जोड़ टुट जाता है तो इसका परिणाम क्या होगा?",
+    "o": ["Hot Axle / हॉट एक्सल", "Train Parting / ट्रेन पार्टीग", "Derailment / डिरेलमेंट", "Track circuit failure / ट्रैक सर्किट फेलियर"],
     "c": 1
   },
   {
     "q": "What is the permissible flat on wheel tread in goods train?",
-    "h": "मालगाड़ी (Goods train) में अनुमत फ्लैट व्हील की सीमा क्या है?",
+    "h": "माल गाड़ी में प्रेमेसिबल फ्लैट व्हील क्या है?",
     "o": ["50 mm", "60 mm", "70 mm", "80 mm"],
     "c": 1
   },
   {
     "q": "What is full form of ROH?",
-    "h": "आरओएच (ROH) का पूर्ण रूप क्या होता है?",
-    "o": ["Regular Overhauling", "Rational Overhauling", "Risk Overhauling", "Routine Overhauling / रूटीन ओवरहॉलिंग"],
+    "h": "आरओएच का पूर्ण रूप क्या होता है?",
+    "o": ["Regular Overhauling / रेगुलर ओवरहॉलिंग", "Rational Overhauling / रेशनल ओवरहॉलिंग", "Risk Overhauling / रिस्क ओवरहॉलिंग", "Routine Overhauling / रूटीन ओवरहॉलिंग"],
     "c": 3
   },
   {
     "q": "What is full form of IOH?",
-    "h": "आईओएच (IOH) का पूर्ण रूप क्या होता है?",
-    "o": ["Integrated Overhauling", "Intermediate Overhauling / इंटरमिडियेट ओवरहॉलिंग", "Immediate overhauling", "Intermittent Overhauling"],
+    "h": "आईओएच का पूर्ण रूप क्या होता है?",
+    "o": ["Integrated Overhauling / इंटरग्रेटेड ओवरहॉलिंग", "Intermediate Overhauling / इंटरमिडियेट ओवरहॉलिंग", "Immediate overhauling / इमिडियेट ओवरहॉलिंग", "Intermittent Overhauling / इटंरमिटेंट ओवरहॉलिंग"],
     "c": 1
   },
   {
     "q": "What is full form of C.R.?",
-    "h": "सी.आर. (C.R.) का पूर्ण रूप क्या होता है?",
-    "o": ["Chamber Reservoir", "Control Reservoir / कंट्रोल रिजर्वर", "Control Relay", "Common Reservoir"],
+    "h": "सी.आर. का पूर्ण रूप क्या होता है?",
+    "o": ["Chamber Reservoir / चेंबर रिजर्वर", "Control Reservoir / कंट्रोल रिजर्वर", "Control Relay / कंट्रोल रिले", "Common Reservoir / कॉमन रिजर्वर"],
     "c": 1
   },
   {
     "q": "De-code: WGSCZ",
-    "h": "WGSCZ का डिकोड क्या है?",
-    "o": ["Vestibule self-gen 2-tier sleeper / 2 टियर स्लिपर कोच", "Vestibule self-gen 2-tier chair coach / 2 टियर चेयर कोच", "Vestibule self-generation chair car / चेयर कार", "Vestibule self-gen 3-tier sleeper / 3 टियर स्लिपर कोच"],
+    "h": "डी-कोड: WGSCZ",
+    "o": ["Vestibule self-gen 2rd class 2-tier sleeper / वेस्टेबूल सेल्फ जेनरेशन सेकेंड क्लास टू टियर स्लिपर कोच", "Vestibule self-gen 2nd class 2-tier chair coach / वेस्टेबूल सेल्फ जेनरेशन सेकेंड क्लास टू टियर चेयर कोच", "Vestibule self-generation second class chair car / बेस्टेबूल सेल्फ जेनरेशन सेकेंड क्लास टू टियर चेयर कार", "Vestibule self-gen 2nd class 3-tier sleeper / वेस्टेबूल सेल्फ जेनरेशन सेकेंड क्लास थ्री टियर स्लिपर कोच"],
     "c": 2
   },
   {
     "q": "De-code: BOXNHS",
-    "h": "BOXNHS का डिकोड क्या है?",
-    "o": ["Bogie Open wagon High sided Air brake High Loading", "Bogie Open wagon High sided Air brake High axle load Low tare weight", "Bogie Open wagon High sided Air brake High Speed / हाई स्पीड", "Bogie Open wagon High sided Vacuum brake High Speed"],
+    "h": "डी-कोड BOXNHS",
+    "o": ["Bogie Open wagon High sided Air brake High Loading", "Bogie Open wagon High sided Air brake High axle load Low tare weight", "Bogie Open wagon High sided Air brake High Speed / हाई स्पिड", "Bogie Open wagon High sided Vacuum brake High Speed"],
     "c": 2
   },
   {
@@ -163,56 +163,56 @@
   },
   {
     "q": "In LHB coach what is SS called?",
-    "h": "एलएचबी कोच में एसएस (SS) को क्या कहा जाता है?",
-    "o": ["Shed Schedule", "Shop Schedule / शॉप सेड्यूल", "Sick Schedule", "Show Schedule"],
+    "h": "एलएचबी कोच में एसएस को क्या कहा जाता है?",
+    "o": ["Shed Schedule / शेंड सेड्यूल", "Shop Schedule / शॉप सेड्यूल", "Sick Schedule / सिक सेड्यूल", "Show Schedule / शो सेड्यूल"],
     "c": 1
   },
   {
     "q": "What is the validity of Premium rake BPC?",
-    "h": "प्रीमियम रैक बीपीसी की वैधता क्या है?",
-    "o": ["10 days + 3 days grace / 10 दिन + 3 दिन रियायत", "15 days + 3 days grace", "12 days + 3 days grace / 12 दिन + 3 दिन रियायत", "13 days + 3 days grace"],
+    "h": "प्रिमियम रैक बीपीसी की बैद्यता क्या है?",
+    "o": ["10 days + 3 days grace / 10 दिन मल्टीपल लोडिंग 3 दिन रियायत अवधि", "15 days + 3 days grace / 15 दिन मल्टीपल लोडिंग 3 दिन रियायत अवधि", "12 days + 3 days grace / 12 दिन मल्टीपल लोडिंग 3 दिन रियायत अवधि", "13 days + 3 days grace / 13 दिन मल्टीपल लोडिंग 3 दिन रियायत अवधि"],
     "c": 2
   },
   {
-    "q": "What will be the brake power % if 3 wagons' DV isolated in 60 wagon BOXN train?",
-    "h": "यदि 60 वैगन वाली BOXN ट्रेन में 3 वैगन के डीवी अलग कर दिए जाएं तो ब्रेक प्रतिशत क्या होगा?",
+    "q": "What will be the brake power percentage if 3 wagons' DV isolated in 60 wagon BOXN train?",
+    "h": "यदि किसी 60 बॉक्सन वैगन वाली ट्रेन से 3 वैगन डीवी को अलग कर दिया जाए तो उस रेल गाड़ी के बैंक का प्रतिशत क्या होगा?",
     "o": ["90%", "60%", "95%", "75%"],
     "c": 2
   },
   {
-    "q": "End to end rake BPC will be invalid if?",
-    "h": "रेक बीपीसी शुरू से अंत तक अमान्य कब माना जाएगा?",
-    "o": ["Stable for >24 Hrs at exam station", "Destination not mentioned on BPC", "Replacement of >4 wagons", "All are true / सभी सही है"],
+    "q": "End to end rake BPC will be invalid if",
+    "h": "रेक बीपीसी शुरू से अंत तक अमान्य माना जाएगा",
+    "o": ["Stable > 24 Hrs in exam station / जांच स्टेशन पर 24 घंटे से अधिक समय तक स्थिर", "Destination not mentioned / लोडेड बीपीसी ट्रेन पर गंतव्य नहीं लिखा होना", "Replacement > 4 wagons / चार वैगनो से अधिक के बदलाव होने पर", "All are true / सभी सही है"],
     "c": 3
   },
   {
     "q": "How many brake discs are available in LHB Coach?",
-    "h": "एलएचबी कोच में कुल कितने ब्रेक डिस्क होते हैं?",
+    "h": "एलएचबी कोच में कितने ब्रेक डिस्क होते है?",
     "o": ["Two / दो", "Four / चार", "One / एक", "Eight / आठ"],
     "c": 3
   },
   {
     "q": "What are hot axle symptoms?",
-    "h": "हॉट एक्सल के क्या लक्षण हैं?",
-    "o": ["Warm axle box", "Red hot axle box", "Grease splashing", "All are true / सभी सही है"],
+    "h": "हॉट एक्सल के क्या लक्ष्ण है?",
+    "o": ["Warm axle box / गर्म एक्सल बॉक्स", "Red hot axle box / लाल गर्म एक्सल बॉक्स", "Grease splashing / ग्रीस स्पलैशिंग", "Hammering sound / हथौड़े मारने की ध्वनि"],
     "c": 3
   },
   {
     "q": "In LHB coach, from where ACP reset done?",
-    "h": "एलएचबी कोच में एसीपी (ACP) को कहाँ पर रिसेट किया जाता है?",
-    "o": ["On end panel of coach / कोच के अंतिम पैनल पर", "Inside the coach", "In brake control panel / ब्रेक कंट्रोल पैनल में", "under frame of coach"],
+    "h": "एलएचबी कोच में एसीपी को कहाँ पर रिसेट किया जाता है?",
+    "o": ["On end panel of coach / कोच के अंतिम पैनल पर", "Inside the coach / कोट के अंदर", "In brake control panel / ब्रेक कंट्रोल पैनल में", "under frame of coach / कोच के अंडर फ्रेम"],
     "c": 2
   },
   {
-    "q": "What is the feature of H type tight lock CBC in LHB?",
-    "h": "एलएचबी कोच में दिए गए एच प्रकार टाईट लॉक सीबीसी की क्या खासियत है?",
-    "o": ["Anti-telescopic", "Anti-collision", "Anti-skid", "Anti-climbing / एंटीक्लाइंबींग"],
+    "q": "What is the feature of H type tight lock CBC provided in LHB coach?",
+    "h": "एलएचबी कोच में दिए गये एच प्रकार टाईट लॉक सीबीसी का खासियत क्या है?",
+    "o": ["Anti-telescopic / एंटी-टेलिसकॉपिक", "Anti-collision / एंटी कॉलींज़न", "Anti-skid / एंटी-एस्किड", "Anti-climbing / एंटीक्लाइंबींग"],
     "c": 3
   },
   {
     "q": "How brake binding in a vehicle can be identified?",
-    "h": "किसी वाहन में ब्रेक बाइंडिंग की पहचान कैसे की जा सकती है?",
-    "o": ["Red hot axle box", "Hammering Sound / हथौड़े मारने की ध्वनि", "Wheel skidding / व्हिल स्किडिंग", "BP pressure zero in Loco"],
+    "h": "किसी व्हिकल में ब्रेक बाइंडिंग को कैसे पहचान सकते हैं?",
+    "o": ["Axle box red hot / एक्स बॉक्स के लाल गर्म होने पर", "Hammering Sound / हथौड़े मारने की ध्वनि", "Wheel skidding / व्हिल स्किडिंग", "BP pressure zero in Loco / लोको में बीपी दाब शुन्य होने पर"],
     "c": 2
   },
   {
@@ -222,128 +222,128 @@
     "c": 2
   },
   {
-    "q": "Riding Index of ICF Coach is?",
-    "h": "आईसीएफ कोच का सवारी सूचकांक (Riding Index) क्या है?",
+    "q": "Riding Index of ICF Coach is",
+    "h": "आईसीएफ कोच में सवारी सूचकांक",
     "o": ["3.5", "4.78", "5.8", "2.2"],
     "c": 0
   },
   {
-    "q": "Condemn height of Elastomeric Pad is ___ mm?",
-    "h": "ईलास्टोमेरीक पैड की अनउपयोगी हाईट कितने मिमी है?",
-    "o": ["40", "42", "46", "None"],
+    "q": "Condemn height of Elastomeric Pad is ___ mm.",
+    "h": "ईलास्टोमेरीक पैड का अन उपयोगी हाईट ___ मिमी है।",
+    "o": ["40", "42", "46", "None / कोईनहीं"],
     "c": 1
   },
   {
-    "q": "___ mm packing is used in CASNUB Bogie to adjust CBC height?",
-    "h": "कैसनब बोगी में कितने मिमी की पैकिंग का प्रयोग सीबीसी ऊंचाई के लिए किया जाता है?",
-    "o": ["37", "25", "35", "None of these"],
+    "q": "___ mm packing is used in CASNUB Bogie to adjust CBC height",
+    "h": "कैसनब बोगी में ___ मिमी पैंकिंग का प्रयोग कर सीबीसी के ऊचाँई को समानियोजीत किया जाता है।",
+    "o": ["37", "25", "35", "None / कोई नहीं"],
     "c": 0
   },
   {
-    "q": "Centre pivot of CASNUB Bogie is made of?",
-    "h": "कैसनब बोगी का सेंटर पीवोट किससे बना होता है?",
-    "o": ["Cast Iron / कच्चा लोहा", "Cast steel / कच्चा स्टील", "Mild Steel", "Stainless Steel"],
+    "q": "Centre pivot of CASNUB Bogie is made of",
+    "h": "सेंटर पीवोट कैसनॉब बोगी ___ का बना होता है।",
+    "o": ["Cast Iron / कच्चा लोहा", "Cast steel / कच्चा स्टील", "Mild Steel / नरम स्टील", "Stainless Steel / स्टेनलेश स्टील"],
     "c": 1
   },
   {
-    "q": "Which bearing is used in CASNUB bogie?",
-    "h": "कैसनब बोगी में किस बेयरिंग का उपयोग किया जाता है?",
-    "o": ["Cylindrical", "Spherical", "CTRB", "None of these"],
+    "q": "___ bearing is used in CASNUB bogie",
+    "h": "___ बेयरिंग का उपयोग कैसनब बोगी में किया जाता है।",
+    "o": ["Cylindrical / बेलनाकार", "Spherical / गोलाकार", "CTRB / सीटीआरबी", "None / कोई नहीं"],
     "c": 2
   },
   {
-    "q": "Piston stroke of BTPN (empty condition) is ___ mm?",
-    "h": "बीटीपीएन (खाली स्थिति में) का पीस्टन स्ट्रोक कितने मिमी का होता है?",
+    "q": "Piston stroke of BTPN (empty condition) ___ mm.",
+    "h": "बीटीपीएन (खाली स्थिति में) का पीस्टन स्ट्रोक ___ ममी. का होता है।",
     "o": ["70±10", "87±10", "130±10", "117±10"],
     "c": 1
   },
   {
-    "q": "No. of dump valve in one LHB coach are?",
-    "h": "एक एलएचबी कोच में कुल कितने डम्प वाल्व होते हैं?",
+    "q": "No. of dump valve in one LHB coach are",
+    "h": "एक एलएचबी कोच में ___ डम्प वाल्व होते हैं।",
     "o": ["08", "02", "06", "04"],
     "c": 0
   },
   {
-    "q": "Total no. of dampers in fiat bogie are?",
-    "h": "किसी फियट बोगी में कुल कितने डेम्पर होते हैं?",
-    "o": ["04", "08", "09", "None of these"],
+    "q": "Total no. of dampers in fiat bogie are",
+    "h": "किसी फियट बोगी में कुल कितने डेम्पर होते है।",
+    "o": ["04", "08", "09", "None / कोई नहीं"],
     "c": 2
   },
   {
-    "q": "Size of anti rotation lug is ___ mm?",
-    "h": "एंटी रोटेशन लग का आकार कितने मिमी का होता है?",
+    "q": "Size of anti rotation lug is ___ mm",
+    "h": "एंटी रोटेशन लग का आकार ___ मिमी. का होता है।",
     "o": ["210x16x16", "220x16x16", "235x12x12", "310x16x16"],
     "c": 0
   },
   {
-    "q": "The periodicity of pest control in AC coaches is?",
-    "h": "एसी कोचों में पेस्ट कंट्रोल की अवधि कितनी होती है?",
-    "o": ["15 days / 15 दिन", "7 days / 7 दिन", "1 month / 1 महीना", "None of these"],
+    "q": "The periodicity of pest control in AC coaches is",
+    "h": "एसी कोचों में पेस्ट कंट्रोल की अवधी ___ होती है।",
+    "o": ["15 days / 15 दिन", "7 days / 7 दिन", "1 month / 1 महीना", "None / कोई नहीं"],
     "c": 0
   },
   {
-    "q": "After reaching on a accident site first step to?",
-    "h": "किसी दुर्घटना स्थल पर पहुँच कर आप का पहला कार्य क्या है?",
-    "o": ["Prima facie cause / दुर्घटना का प्राथमिक कारण", "First aid of injured / घायलो का प्राथमिक उपचार", "Protection of site / स्थल सुरक्षा", "Arranging food / खानपान की व्यवस्था"],
+    "q": "After reaching on a accident site first step to",
+    "h": "किसी दुर्घटना स्थल पर पहुँच कर आप का पहला कार्य ___ है।",
+    "o": ["Prima facie cause / दुर्घटना का प्रथमिक कारण", "First aid of injured / घायलो का प्रथमिक उपचार", "Protection of site / म्थल सुरक्षा", "Arranging food / खनपान की व्यवस्था"],
     "c": 1
   },
   {
-    "q": "Maintenance manual of BOXN wagon fitted with CASNUB?",
-    "h": "कैसनब बोगी वाले बॉक्सन वैगन का रखरखाव मैनुअल कौन सा है?",
-    "o": ["G 97", "G 95", "G 70", "None of these"],
+    "q": "The Maintenance manual of BOXN wagon fitted with CASNUB",
+    "h": "कैसनब बोगी से फिट बॉक्सन वैगन का रखरखाव मैनुअल",
+    "o": ["G 97", "G 95", "G 70", "None / कोई नहीं"],
     "c": 1
   },
   {
     "q": "Which chemical is used for disinfection of bio-toilet discharge?",
-    "h": "बायो टॉयलेट में कीटाणु नाशक के रूप में किस रसायन का प्रयोग किया जाता है?",
-    "o": ["Chlorine / क्लोरीन", "Sulphuric acid", "Sodium bicarbonate", "Hydrogen peroxide"],
+    "h": "बायो टॉयलेट में किटानु नाशक के रुप में किस रसायन का प्रयोग किया जाता है?",
+    "o": ["Chlorine / क्लोरीन", "Sulphuric acid / सल्फूरिक एसीड", "Sodium bicarbonate / सोडीयमबाईकाबर्बोनेट", "Hydrogen peroxide / हॉईड्रोजन पेरोक्साइड"],
     "c": 0
   },
   {
-    "q": "What is the thickness of brake disc?",
-    "h": "ब्रेक डिस्क की मोटाई कितनी होती है?",
+    "q": "What is the thickness of brake disc.?",
+    "h": "ब्रेक डिस की मोटाई कितनी होती है?",
     "o": ["100 mm", "140 mm", "105 mm", "108 mm"],
     "c": 3
   },
   {
-    "q": "D3 Maintenance Schedule of LHB Coach is done after?",
-    "h": "एलएचबी कोच के D3 रखरखाव की सारणी कितने दिनों बाद है?",
+    "q": "D3 Maintenance Schedule of LHB Coach is done",
+    "h": "LHB कोच के D3 के रखरखाव की सारणी कितने दिनो बाद है?",
     "o": ["150 days±1day", "120 days±3days", "180 days±15days", "90 days±7days"],
     "c": 2
   },
   {
-    "q": "Yaw damper is fitted on?",
-    "h": "यॉव डेम्पर कहाँ फिट होता है?",
-    "o": ["Sole bar", "Bogie", "Under frame", "Between under frame and bogie frame"],
+    "q": "Yaw damper is fitted on",
+    "h": "यॉव डेम्पर ___ पर फीट होता है",
+    "o": ["Sole bar / सोलर बार", "Bogie / बोगी", "Under frame / अंडर फ्रेम", "Between under frame and bogie frame / अंडर फ्रेम और बोगी फ्रेम के मध्य"],
     "c": 3
   },
   {
     "q": "Which part is not used in ICF trolley?",
-    "h": "निम्न में से किस पार्ट का उपयोग आईसीएफ ट्रॉली में नहीं होता है?",
-    "o": ["Dashpot", "Side bearer", "Shock absorber", "Drag link / ड्रेम लिंक"],
+    "h": "निम्न में से किस पॉर्ट का उपयोग आईसीएफ ट्रॉली में नहीं होता है।",
+    "o": ["Dashpot / डैशपॉट", "Side bearer / साईड बिर्यर", "Shock absorber / शॉक एबज़ोरबर", "Drag link / ड्रेम लिंक"],
     "c": 3
   },
   {
     "q": "What defect is detecting UST test?",
-    "h": "यूएसटी (UST) जाँच में किस खराबी को जाँचा जाता है?",
-    "o": ["Internal crack / आंतरिक दरार", "External crack", "Air flow crack", "None of the above"],
+    "h": "यूएसटी जाँच में किस खराबी को जाँचा जाता है?",
+    "o": ["Internal crack / आंतरिक दरार", "External crack / बाहरी दरार", "Air flow crack / एयर फ्लो क्रैक", "None / कोई नहीं"],
     "c": 0
   },
   {
-    "q": "Permissible variation in wheel tread dia for 4-wheeled trolley on BG (while turning)?",
-    "h": "बीजी लाइन पर चार पहिये वाली ट्रॉली में एक ही एक्सल पर व्हील टर्निंग के समय अनुमत अंतर?",
+    "q": "Permissible variations in wheel tread diameter for four-wheeled trolley (IRS-Non IRS) same axle on BG",
+    "h": "बीजी लाइन पर चार पहिये बाली ट्रॉली में पहियों को उसी एक्सल पर ट्रेड डाईयमीटर की विविधताएं अनुमेय है (टूनिंग के समय)",
     "o": ["0.5 mm", "0.49 mm", "0.30 mm", "0.45 mm"],
     "c": 0
   },
   {
-    "q": "During full service application, Brake pipe pressure is dropped to?",
-    "h": "फुल सर्विस एप्लिकेशन के दौरान, ब्रेक पाइप का दबाव कितना गिर जाता है?",
+    "q": "During full service application, Brake pipe pressure is dropped to",
+    "h": "फुल सर्विस एपलिकेशन के दौरान, ब्रेक पाइप का दबाव ___ गिर जाता है",
     "o": ["2.0 Kg/cm2", "1.0 Kg/cm2", "3.0 Kg/cm2", "1.5 Kg/cm2"],
     "c": 3
   },
   {
-    "q": "Brake should not apply during insensitivity test within?",
-    "h": "असंवेदनशील जाँच (insensitivity test) के दौरान कितने समय के अंदर ब्रेक नहीं लगने चाहिए?",
+    "q": "Brake should not apply during insensitivity test with in",
+    "h": "असंवेदनशील जाँच के दौरान ___ के अंदर ब्रेक नहीं लगानी चाहिए",
     "o": ["50 sec", "60 sec", "40 sec", "30 sec"],
     "c": 1
   },
@@ -354,309 +354,309 @@
     "c": 1
   },
   {
-    "q": "The weight of the coach is transferred through?",
-    "h": "कोच का भार किसके द्वारा स्थानांतरित किया जाता है?",
-    "o": ["Side bearer / साइड बैरीयर", "Equalizing stay", "Helical spring", "Bolster"],
+    "q": "The weight of the coach is transferred through",
+    "h": "कोच के भार ___ द्वारा स्थांननतरित किया जाता है",
+    "o": ["Side bearer / साइड बैरीयर", "Equalizing stay / ईक्कालाइजिंग स्टे", "Helical spring / हेलिकल स्प्रिंग", "Bolster / बोल्सटर"],
     "c": 0
   },
   {
-    "q": "The color code of helical spring of ICF bogie is?",
-    "h": "आईसीएफ बोगियों की हेलिकल स्प्रिंग का कलर कोड क्या है?",
-    "o": ["Yellow, blue, green", "Yellow, red, green", "White, blue, green", "White, red, green"],
+    "q": "The color code of helical spring of ICF bogie is",
+    "h": "आईसीएफ बोगियों की हेलिकल स्प्रिंग का रंग (कलर) कोड",
+    "o": ["Yellow, blue, green / पीला, नीला, हरा", "Yellow, red, green / पीला, लाल, हरा", "White, blue, green / सफेद, नीला, हरा", "White, red, green / मफेद, लाल, हरा"],
     "c": 1
   },
   {
-    "q": "Between what, crown clearance 'A' is measured?",
-    "h": "क्रॉउन क्लियरेंस 'A' को किसके बीच मापा जाता है?",
-    "o": ["Bolster and side frame", "Anchor link and primary suspension", "Axle box crown and crown bolt", "None of the above"],
+    "q": "Between what, crown clearance 'A' is measured",
+    "h": "क्रॉउन क्लियरेंस 'A' को किसके बीच मापा जाता है।",
+    "o": ["Between bolster & side frame / बोल्सटर एवं साइड फ्रेम के बीच", "Between anchor link and primary suspension / एकर लिंक एवं प्राइमरी संसपेनशन के बीच", "Between axle box crown and the crown bolt / एक्सल बॉक्स क्रॉउन एवं क्रॉउन बोल्ट के बीच", "None / कोई नहीं"],
     "c": 2
   },
   {
-    "q": "The '99' code shown on micro processor means?",
-    "h": "माइक्रो प्रोसेसर पर '99' कोड का अर्थ क्या है?",
-    "o": ["System working perfectly / प्रणाली पूरी तरह से कार्य कर रही है", "Choking in air pipeline", "Defect in speed sensor", "None of these"],
+    "q": "The '99' code shown on micro processor means",
+    "h": "माइक्रो प्रोसेसर पर '99' कोड का अर्थ",
+    "o": ["Whole system working perfectly / प्रणाली पूरी तरह से कार्य कर रही है", "Choking in air pipeline / एयर पाईप लाइन में अवरोध", "Some defect in speed sensor / स्पीड सेंसर में कोई दोष", "None / कोई नहीं"],
     "c": 0
   },
   {
-    "q": "Fins are provided in between the brake discs for?",
-    "h": "ब्रेक डीस्कों के बीच फींस क्यों दिए जाते हैं?",
-    "o": ["Effective cooling / कूलिंग के प्रभाव को बढ़ाने के लिए", "Minimize weight", "Provide strength", "Increase friction"],
+    "q": "The Fins provided in between the brake discs for",
+    "h": "ब्रेक डीस्कों के बीच फींस ___ दिया जाता है",
+    "o": ["Effective cooling during braking / ब्रेकिंग के दौरान कूलिंग के प्रभाव को बढ़ाने के लिए", "Minimize weight / ब्रेक डिस्क के भार को कम करने के लिए", "Provide strength / ब्रेक डिस्क को क्षमता प्रदान करने के लिए", "Increase friction property / ब्रेक डिस्क के घर्षण गूण को बढ़ाने के लिए"],
     "c": 0
   },
   {
-    "q": "Charging time of CR in coaches is?",
-    "h": "कोचों में सी आर (CR) का चार्जिंग समय क्या है?",
+    "q": "Charging time of CR in coaches is",
+    "h": "कोचो में सीआर का चार्जिंग समय है",
     "o": ["150 Sec.", "160 Sec.", "140 Sec.", "120 Sec"],
     "c": 1
   },
   {
-    "q": "Oil is strictly prohibited on?",
-    "h": "किस पर तेल का उपयोग पूर्ण रूप से निषेध है?",
-    "o": ["Uncoupling device of CBC", "Supporting device of CBC", "Coupler head knuckle and locks of CBC", "None of these"],
+    "q": "Oil is strictly prohibited on",
+    "h": "___ में तेल को उपयोग पूर्ण रूप से निषेध है",
+    "o": ["Uncoupling device of CBC / सीबीसी के खूलें यंत्र", "Supporting device of CBC / सीबीसी के सहायक यंत्र", "Coupler head knuckle and locks of CBC / सीबीसी के कपलर हेड नकल एवं लॉक", "None / कोई नहीं"],
     "c": 2
   },
   {
-    "q": "If both side lateral dampers removed from bogies?",
-    "h": "यदि बोगी से दोनों छोर के लेटरल डेम्पर को निकाल दिया जाए?",
-    "o": ["Coach may derail", "Centre pivots may displace", "Bolster top plank may twist", "Lateral shocks may increase / लेटरल शॉक बढ़ जाएगा"],
+    "q": "If both side lateral dampers removed from bogies",
+    "h": "यदि बोगी से दोनों छोर के लेटरल डेम्पर को निकाल दिया जाए",
+    "o": ["The coach may derail / कोच पटरी से उतर जाएगी", "The centre pivots may displace / केंद्रीय धूरी विस्थापित होजाएगी", "Bolster top plank may twist / बोस्टर टॉप प्लेंक टेढ़ी हो जाएगी", "Lateral socks may increase / लेटरल स्टॉक में बढ़ जाएगी"],
     "c": 3
   },
   {
-    "q": "Primary maintenance is a type of?",
-    "h": "प्राथमिक रखरखाव (Primary maintenance) किसका एक प्रकार है?",
-    "o": ["Break down maintenance", "Preventive maintenance / निरोधक रखरखाव", "Safe to run examination", "None of these"],
+    "q": "Primary maintenance is a type of",
+    "h": "प्राथमिक रखरखाव ___ का एक प्रकार है",
+    "o": ["Break down maintenance / ब्रेक डॉऊन रखरखाव", "Preventive maintenance / निरोधक रखरखाव", "Safe to run examination / सूरक्षित परिचालन के लिए जाँच", "None / कोई नहीं"],
     "c": 1
   },
   {
-    "q": "The main function of anti roll bar is?",
-    "h": "एंटी रोल बार का मुख्य कार्य क्या है?",
-    "o": ["Allow rolling action", "Prevent Rolling action / रोलिंग कार्य को प्रतिबंधित करना", "Provide strength", "Negotiate track curve"],
+    "q": "The main function of anti roll bar is",
+    "h": "एन्टी रोल बॉर का मूख्य कार्य ___ है",
+    "o": ["Allow rolling action / कोच के रोलिंग कार्य को अनुमति देना", "Prevent Rolling action / कोच के रोलिंग कार्य को प्रतिबंधित करना", "Provide strength for bogie / बोगी को क्षमता प्रदान करना", "Negotiate the track curve / ट्रैक कर्भ को नेगोसिएट करना"],
     "c": 1
   },
   {
-    "q": "Grease of anti roll bar should be replaced during every?",
-    "h": "एंटी रोल बार के ग्रीस को प्रत्येक ___ के दौरान बदल देना चाहिए?",
-    "o": ["Trip schedule", "D1 schedule", "D2 schedule", "D3 schedule"],
+    "q": "Grease of anti roll bar should be replace during every",
+    "h": "प्रत्येक ___ के दौरान एन्टी रोल बॉर के ग्रिस को बदल देना चाहिए",
+    "o": ["Trip schedule / ट्रीप सेड्यूल", "D1 schedule / D1 सेड्यूल", "D2 schedule / D2 सेड्यूल", "D3 schedule / D3 सेड्यूल"],
     "c": 3
   },
   {
-    "q": "How many under slung water tanks are provided on WLRRM coaches?",
-    "h": "WLRRM कोचों में अंडर स्लंग के तहत कितने पानी के टैंक लगाए गए हैं?",
-    "o": ["2", "3", "4", "None"],
+    "q": "How many under slung water tanks are provided on WLRRM coaches",
+    "h": "WLRRM कोचों में अंडर स्लंग के तहत कितने पानी के ट्रैक लगाए गए है?",
+    "o": ["2", "3", "4", "None / कोई नहीं"],
     "c": 3
   },
   {
-    "q": "If speed of all axles same and emergency braking applied, dump valve will?",
-    "h": "यदि सभी एक्सलों की गति बराबर हो और आपातकालीन ब्रेक लगाया जाए तो डम्प वाल्व?",
-    "o": ["Does not respond / प्रतिक्रिया नहीं देगा", "Definitely respond", "Only one will respond", "May be respond"],
+    "q": "If the speed of all axles is same and emergency braking is applied the dump valve will",
+    "h": "यदि सभी एक्सलों का गति बराबर हो एवं आपातकालीन ब्रेक लगा दिया जाए तो डम्प वाल्व ___ हो जाएगा?",
+    "o": ["Does not respond / प्रतिक्या नहीं देगा", "Definitely respond / अवश्य प्रतिक्रिया देगा", "Only one will respond / सिर्फ एक ही प्रतिक्रिया देगा", "May be respond / प्रतिक्रिया हो सकती है"],
     "c": 0
   },
   {
-    "q": "The wheel gauge measures?",
-    "h": "व्हील गेज क्या मापता है?",
-    "o": ["Distance between flanges / पहियों के निकले हुए किनारो के बीच की दूरी", "Distance between dia and axle", "Distance between journal and bearing", "Distance between two wheel"],
+    "q": "The wheel gauge measures",
+    "h": "व्हील गेज नापता है?",
+    "o": ["Distance between flanges same axle / एक ही एक्सल पर उपलब्ध दो पहियों के निकले हुए किनारो के बीच की दूरी", "Distance between dia and axle / व्यास और एक्सल के बीच की दूरी", "Distance between journal and bearing / जरनल और बैरिंग के बीच की दूरी", "Distance between two wheel / दो पहियों के बीच की दूरी"],
     "c": 0
   },
   {
     "q": "What is the function of Control reservoir in air Brake system?",
     "h": "एयर ब्रेक प्रणाली में कंट्रोल रिजरवर का क्या कार्य है?",
-    "o": ["Control air pressure", "Control DV main valve / डीवी मेन वाल्व को नियंत्रित करना", "Control brake system", "Control AR"],
+    "o": ["To control the air pressure / हवा के दबाव को नियंत्रित करना", "To control the DV main valve / डीवी मेन वाल्व को नियंत्रित करना", "To control the brake system / ब्रेक प्रणाली को नियंत्रित करना", "To control the AR / एआर को नियंत्रित करना"],
     "c": 1
   },
   {
-    "q": "Variation in camber between any two springs on bogie under load should not exceed?",
-    "h": "लोडेड बोगी के किन्हीं दो स्प्रिंग के कैम्बर में कितना अंतर अनुमत है?",
+    "q": "Variation in camber between any two spring on a bogie under load should not exceed",
+    "h": "किसी लोडेड बोगी के दो स्प्रिंग के कैम्बर में कितना अंतर होना चाहिए",
     "o": ["10 mm", "11 mm", "13 mm", "14 mm"],
     "c": 2
   },
   {
     "q": "What is the condemning wheel diameter in all CASNUB versions?",
-    "h": "सभी CASNUB संस्करणों में कंडम पहिये का व्यास कितना होता है?",
+    "h": "सभी CASNUB संस्करणों में खराब पहिये का व्यास कितना होता है?",
     "o": ["916 mm", "906 mm", "936 mm", "963 mm"],
     "c": 1
   },
   {
     "q": "What is the condemning/wear limit of narrow jaw/wide jaw Adopter crown lugs?",
-    "h": "सकरी/चौड़ी जाव एडॉप्टर क्रॉउन लग्स की वियर लिमिट कितनी होती है?",
+    "h": "सकरी जाव/चौड़ी जाव एडोप्टर क्रॉउन लग्स की उपयोग के लायक नही/वियर लिमिट कितनी होती है?",
     "o": ["2 mm", "4 mm", "6 mm", "8 mm"],
     "c": 3
   },
   {
-    "q": "How many bearing springs are used in primary suspension for UIC bogie?",
-    "h": "UIC बोगियों के प्राथमिक सस्पेंशन के लिए कितने वियरिंग स्प्रिंग का उपयोग किया जाता है?",
+    "q": "How many bearing springs are used in primary suspension for UIC bogie",
+    "h": "UIC बोगियों के प्राथमिक संस्पेशन के लिए कितने वियरिंग स्प्रिंग का उपयोग किया जाता है",
     "o": ["4", "6", "8", "10"],
     "c": 2
   },
   {
-    "q": "Pay load of BTPN tank wagon is ___ tons?",
-    "h": "बीटीपीएन (BTPN) टैंक वैगन की भार क्षमता कितनी है?",
-    "o": ["58.88", "54.28", "55.80", "52.3"],
+    "q": "Pay load of BTPN tank wagon is",
+    "h": "BTPN ट्रंक वैगन की भार क्षमता है",
+    "o": ["58.88 tons", "54.28 tons", "55.80 tons", "52.3 tons"],
     "c": 1
   },
   {
-    "q": "During Hydraulic testing of master valve, water to be filled up to?",
-    "h": "मास्टर वाल्व की हाइड्रोलिक जाँच के दौरान, पानी कितनी ऊंचाई तक भरा होना चाहिए?",
+    "q": "During Hydraulic testing of master valve of tank wagon, the water to be filled up to be",
+    "h": "ट्रैक वैगन के मास्टर वाल्व के हॉयड्रोलिक जाँच के दौरान, पानी ___ तक भरी होनी चाहिए",
     "o": ["130 cm", "150 cm", "180 cm", "200 cm"],
     "c": 1
   },
   {
-    "q": "The tare weight of A-car of BLC wagon is ___ tons?",
-    "h": "BLC वैगन के A-कार का खाली भार (Tare weight) कितना होता है?",
-    "o": ["21.20", "19.10", "19.80", "20.22"],
+    "q": "The tare weight of A-car of BLC wagon is",
+    "h": "BLC वैगन के A-कार का धारक भार ___ होता है।",
+    "o": ["21.20 ton", "19.10 ton", "19.80 ton", "20.22 ton"],
     "c": 1
   },
   {
-    "q": "How many automatic twist locks are used in BLC wagon?",
-    "h": "बीएलसी (BLC) वैगन में कितने ऑटोमेटिक ट्विस्ट लॉक का उपयोग होता है?",
+    "q": "How many automatic twist locks are used in BLC wagon ?",
+    "h": "BLC वैगन में कितने ऑटोमेटिक द्विस्ट लॉक का उपयोग होता है?",
     "o": ["6", "8", "10", "12"],
     "c": 1
   },
   {
-    "q": "Name the type of coupling used in BLC wagon?",
-    "h": "बीएलसी (BLC) वैगन में किस प्रकार के कपलिंग का उपयोग होता है?",
-    "o": ["CBC & SLD", "HT CBC", "Screw coupling", "Slackness draw bars"],
+    "q": "Name the type of coupling used in BLC wagon ?",
+    "h": "BLC वैगन में कितने प्रकार के कपलिंग का उपयोग होता है?",
+    "o": ["CBC & SLD", "HT CBC", "Screw coupling / स्क्रू कपलिंग", "Slackness draw bars / स्लेकनेस ड्रा बार"],
     "c": 0
   },
   {
-    "q": "What is the length over body of LHB coaches?",
-    "h": "एलएचबी कोचों की बॉडी के ऊपर लंबाई कितनी होती है?",
+    "q": "What is the length over body of LHB coaches ?",
+    "h": "LHB कोचों की लम्बाई कितनी होती है?",
     "o": ["23570 mm", "23545 mm", "23540 mm", "23565 mm"],
     "c": 2
   },
   {
-    "q": "Composite Brake block in yard for air break train should be changed when thickness is?",
-    "h": "यार्ड में एयर ब्रेक ट्रेन के कंपोजिट ब्रेक ब्लॉक की मोटाई कितनी होने पर बदली जाती है?",
+    "q": "The composite Brake block in yard for air break train should be changed when thickness is",
+    "h": "यार्ड में उपलब्ध एयर ब्रेक ट्रेन के कम्पोजिच ब्रेक ब्लॉक की मोटाई ___ होने पर बदली जाती है।",
     "o": ["10.0 mm", "15.0 mm", "20.0 mm", "25.0 mm"],
     "c": 2
   },
   {
-    "q": "In accident manual, train parting is under?",
-    "h": "दुर्घटना नियमावली के अनुसार, ट्रेन पार्टिंग किस क्लास के तहत आती है?",
+    "q": "In accident manual, train parting is under",
+    "h": "दुर्घटना नियामावली के अनुसार, रेलगाड़ी अलग होना ___ !",
     "o": ["J 3 class", "J 4 class", "J 5 class", "J 10 class"],
     "c": 2
   },
   {
     "q": "Which equipments are not charged, when C3W DV is isolated in twin pipe system?",
-    "h": "जब C3W DV को ट्विन पाइप प्रणाली से अलग कर दिया जाता है तो क्या चार्ज नहीं होता?",
-    "o": ["Brake cylinder only", "CR and BC", "CR and AR / कंट्रोल रिजरवायर एवं सहायक रिजरवायर", "AR and BC"],
+    "h": "जब C3W DV को द्विन पाइप प्रणाली से अलग कर दिया जता है तो किस उपकरण को चार्ज नहीं किया जाता है?",
+    "o": ["Brake cylinder only / सिर्फ ब्रेक सिलेंडर", "Control reservoir and brake cylinder / कंट्रोल रिजरवायर एवं ब्रेक सिलेंडर", "Control reservoir and auxiliary reservoir / कंट्रोल रिजरवायर एवं सहायक रिजरवायर", "Auxiliary reservoir and Brake cylinder / सहायक रिजरवायर एवं ब्रेक सिलेंडर"],
     "c": 2
   },
   {
-    "q": "IS-spec of lubricant used to lubricate center pivot of CASNUB trolley?",
-    "h": "कैसनब ट्रॉली के सेंटर पीवोट को चिकना करने के लिए किस ल्यूब्रीकेंट का उपयोग होता है?",
-    "o": ["IS: 495", "IS: 449", "IS: 455", "None of the above"],
+    "q": "IS-spec of lubricant used to lubricate center pivot of the CASNUB trolley?",
+    "h": "CASNUB ट्रॉली के केन्द्रिय धूरी को चिकना करने के लिए IS- विशेष निर्देश के ल्यूबरीकेंट का उपयोग किया जाता है ?",
+    "o": ["IS: 495", "IS: 449", "IS: 455", "None / कोई नहीं"],
     "c": 0
   },
   {
-    "q": "Mechanical code of bitumen tank wagon type is?",
-    "h": "बिटूमन टैंक वैगन का मैकेनिकल कोड क्या है?",
+    "q": "The mechanical code of bitumen tank wagon type is",
+    "h": "एक प्रकार का बिटूमन टैंक वैगन का यांत्रिक कोड है।",
     "o": ["TBT", "TBAT", "TRP", "TPR"],
     "c": 1
   },
   {
-    "q": "Which types of steel are used in side frame column friction plates of CASNUB?",
-    "h": "कैसनब बोगी के साइड फ्रेम घर्षण प्लेट में किस प्रकार के स्टील का उपयोग होता है?",
-    "o": ["Mild steel", "Carbon steel", "Silico manganese steel / सिलिको मैंगनीज स्टील", "None of the above"],
+    "q": "Which types of steel are used in side frame column friction plates of CASNUB bogie?",
+    "h": "CASNUB बोगी के साइड फ्रेम के घर्षण प्लेट में किस प्रकार के स्टील का उपयोग होता है?",
+    "o": ["Mild steel / नरम स्टील", "Carbon steel / कार्बन स्टील", "Silico manganese steel / सिलिको स्टील", "None / कोई नहीं"],
     "c": 2
   },
   {
-    "q": "Article for Hindi as official language and Devanagari script?",
-    "h": "किस अनुच्छेद के तहत हिंदी संघ की राजभाषा और देवनागरी लिपि है?",
-    "o": ["Article 245(6)", "Article 343(1) / अनुछेद 343(1)", "Article 324(2)", "Article 432(3)"],
+    "q": "As per which article, Hindi is the official language of the union and its script is Devanagari ?",
+    "h": "किस अनुछेद के तहत हिंदी संघ की राजभाषा है एवं इसकी लिपि देवनागरी है?",
+    "o": ["Article 245(6)", "Article 343(1)", "Article 324(2)", "Article 432(3)"],
     "c": 1
   },
   {
-    "q": "Curtains and Rexene seats provided on LHB coaches are?",
-    "h": "एलएचबी कोचों में उपलब्ध पर्दा और रेक्सिन सीटें कैसी होती हैं?",
-    "o": ["Fiber made", "Fire retardant / अग्रिरोधी", "Fire proof", "All of above / उपरोक्त सभी"],
+    "q": "Curtains and Rexene seats provided on LHB coaches are",
+    "h": "LHB कोचों में उपलब्ध पर्दा और रेक्सिन सिटे ___ होती है",
+    "o": ["Fiber made / फाईबर की", "Fire retardant / अग्रिरोधी", "Fire proof / अग्निरोधक", "All of above / उपरोक्त सभी"],
     "c": 1
   },
   {
     "q": "The committee of parliament on official language consists of ___ members.",
-    "h": "राजभाषा के संसदीय समिति में कुल कितने सदस्य होते हैं?",
+    "h": "राजभाषा के संसदीय समिति में सदस्य होते हैं।",
     "o": ["26", "32", "54", "30"],
     "c": 3
   },
   {
-    "q": "Action if brake pads are wearing out in taper condition?",
-    "h": "यदि ब्रेक पैड टेपर स्थिति में घिस रहे हैं तो क्या करना चाहिए?",
-    "o": ["Allow same condition", "Replace immediately", "Replace caliper unit / ब्रेक केलिपर इकाई को तुरंत बदले", "None of these"],
+    "q": "If the brake pads are wearing out in taper condition, the correct action will be",
+    "h": "यदि ब्रेक पैड टेपर स्थिति में घसती जा रही है तो उचित क्रिया ___ होगी",
+    "o": ["Allow in same condition / ब्रेक पैड को एक ही स्थिति में लाए", "Replace immediately / ब्रेक पैड को तुरंत बदले", "Replace caliper unit immediately / ब्रेक केलिपर इकाई को तुरंत बदले", "None / कोई नहीं"],
     "c": 2
   },
   {
-    "q": "Official language rules 1976 apply in entire India except the state of?",
-    "h": "राजभाषा अधिनियम 1976 किस राज्य को छोड़कर पूरे भारत में लागू है?",
-    "o": ["Jharkhand", "Kerala", "Tamil Nadu / तमिलनाडू", "Telangana"],
+    "q": "The official language rules 1976 are come into force in entire India except the state of",
+    "h": "___ राज्य को छोड़ कर राजभाषा अधिनियम 1976 को पूरे भारत में लागू किया गया।",
+    "o": ["Jharkhand / झारखण्ड", "Kerala / केरल", "Tamil Nadu / तमिलनाडू", "Telangana / तेलंगाना"],
     "c": 2
   },
   {
-    "q": "Horizontal gathering range of CBC is?",
-    "h": "CBC का हॉरिजॉन्टल गैदरिंग रेंज कितना है?",
-    "o": ["100 mm", "145 mm", "110 mm / 110 मिमी", "119 mm"],
+    "q": "Horizontal gathering range of CBC is",
+    "h": "CBC का होरिजेंटल गेदरिंग रेंज ___ है",
+    "o": ["100 mm", "145 mm", "110 mm", "119 mm"],
     "c": 2
   },
   {
-    "q": "Andaman and Nicobar comes under which region?",
-    "h": "अंडमान और निकोबार किस क्षेत्र के अंतर्गत आते हैं?",
+    "q": "Andaman and Nicobar comes under which region",
+    "h": "अण्डमान और निकोबार किस क्षेत्र के अतंर्गत आते है",
     "o": ["C", "B", "A", "D"],
     "c": 2
   },
   {
-    "q": "Side wall of LHB Coaches are manufactured from?",
-    "h": "एलएचबी कोचों के साइड वाल का निर्माण किससे होता है?",
+    "q": "Side wall of LHB Coaches are manufactured from ?",
+    "h": "LHB कोचों के साईड वाल का निर्माण किससे होता है?",
     "o": ["Austenitic steel (SS 304M)", "IRSM-41", "Ferritic steel (SS-409M)", "IRSM-44"],
     "c": 2
   },
   {
     "q": "When Hindi day celebrated every year?",
     "h": "प्रत्येक वर्ष हिंदी दिवस कब मनाया जाता है?",
-    "o": ["Sep 14 / 14 सितम्बर", "Oct 16", "Sep 16", "Oct 14"],
+    "o": ["Sep 14", "Oct 16", "Sep 16", "Oct 14"],
     "c": 0
   },
   {
-    "q": "One of the function of Anchor links?",
-    "h": "एंकर लिंक के कार्यों में से एक क्या है?",
-    "o": ["Prevent rational movement of bolster / बोल्स्टर के संचलन को रोकना", "Join bolster and side frame", "Connect upper and lower plank", "None of the above"],
+    "q": "One of the function of Anchor links ?",
+    "h": "एंकर लिंक के कार्यों में से एक",
+    "o": ["To prevent rational movement of bolster / बोल्स्टर के यूक्ति संगत संचलन को रोकना", "To join bolster and side frame / बोल्स्टर को साइड फ्रेम से जोड़ना", "To connect upper and lower plank / अपर प्लैंक और लोअर प्लैंक को जोड़ना", "None / कोई नहीं"],
     "c": 0
   },
   {
-    "q": "When was Official Language Act 1963 passed?",
-    "h": "राजभाषा अधिनियम 1963 कब पारित हुआ?",
-    "o": ["05.10.1963", "14.09.1963", "10.05.1963 / 10.05.1963", "14.10.1963"],
+    "q": "When was Official Language Act 1963 passed ?",
+    "h": "राजभाषा अधिनियम 1963 कब पारित हुआ ?",
+    "o": ["05.10.1963", "14.09.1963", "10.05.1963", "14.10.1963"],
     "c": 2
   },
   {
-    "q": "Schedule for over hauling and testing of alarm chain apparatus?",
-    "h": "किस सारणी में अलार्म चेन का ओवरहॉलिंग और जाँच की जाती है?",
-    "o": ["'A' schedule", "'C' schedules / 'C' सारणी", "'B' schedule", "Special schedule"],
+    "q": "At what schedule, the over hauling and testing of alarm chain apparatus is?",
+    "h": "किस सारणी में अलार्म चेन का ओवरहोलिंग और उसकी जाँच की जाती है ?",
+    "o": ["'A' schedule", "'C' schedules", "'B' schedule", "Special schedule"],
     "c": 1
   },
   {
-    "q": "Circulars & Memorandums comes under which section of Official language Act 1963?",
+    "q": "Circulars & Memorandums comes under which section of the Official language Act 1963?",
     "h": "परिपत्र एवं ज्ञापन राजभाषा अधिनियम 1963 के किस खंड के अंतर्गत आता है?",
-    "o": ["Sec 3(1)", "Sec 3(2)", "Sec 3(3) / खंड 3(3)", "sec 3(4)"],
+    "o": ["Sec 3(1)", "Sec 3(2)", "Sec 3(3)", "sec 3(4)"],
     "c": 2
   },
   {
-    "q": "The average coefficient of friction of composite brake block is?",
-    "h": "ब्रेक ब्लॉक के मिश्रित घर्षण का औसत गुणांक क्या है?",
+    "q": "The average coefficient of friction of composite brake block is ?",
+    "h": "ब्रेक ब्लॉक के मिश्रित घर्षण का औसत गुणांक ___ है?",
     "o": ["0.20", "0.30", "0.25", "0.35"],
     "c": 2
   },
   {
     "q": "Department of Official language comes under which Ministry?",
-    "h": "राजभाषा विभाग किस मंत्रालय के अंतर्गत आता है?",
-    "o": ["Ministry of Personnel", "Ministry of Home Affairs / गृह मंत्रालय", "Ministry of Home Parliamentary Affairs", "Ministry of Civil Aviation"],
+    "h": "राजभाषा विभाग किस मंत्रालय के अतंर्गत आता है?",
+    "o": ["Ministry of Personnel / कार्मिक मंत्रालय", "Ministry of Home Affairs / गृह मंत्रालय", "Ministry of Home Parliamentary Affairs / गृह मंत्रालय संसद मामलों", "Ministry of Civil Aviation / नागर विमानन मंत्रालय"],
     "c": 1
   },
   {
-    "q": "Length of LHB coach increased in comparison of ICF coach by?",
-    "h": "आईसीएफ कोच की तुलना में एलएचबी कोच की लंबाई कितनी बढ़ाई गई है?",
-    "o": ["Appx-3.0 meter", "Appx-2.0 meter / लगभग 2 मीटर", "Appx-1.5 meter", "None of the above"],
+    "q": "How much length of LHB coach is increased in compression of ICF coach?",
+    "h": "ICF कोच की तुलना में LHB कोच की लम्बाई कितनी बढ़ाई गई है?",
+    "o": ["Appx-3.0 meter", "Appx-2.0 meter", "Appx-1.5 meter", "None / कोई नहीं"],
     "c": 1
   },
   {
-    "q": "How much marks to be scored by Stenographer to get maximum incentive?",
-    "h": "अधिकतम प्रोत्साहन पाने हेतु स्टेनोग्राफर को परीक्षा में कितने अंक लाने होते हैं?",
+    "q": "How much marks to be scored by Stenographer for passing the prescribed exams to get maximum incentive ?",
+    "h": "अशुलिपिक को अधीकतम प्रोत्साहन पाने हेतू निर्धारित परीक्षा में कितना अंक लाना होता है?",
     "o": ["88% & above", "90% & above", "95% & above", "92% & above"],
     "c": 2
   },
   {
-    "q": "The under frame of LHB coach is fabricated of?",
-    "h": "एलएचबी कोच का अंडर फ्रेम किससे बना होता है?",
-    "o": ["Cast steel", "Silicon steel", "Mild Steel", "Stainless Steel / स्टेनलेश स्टील"],
+    "q": "The under frame of LHB coach is fabricated of .....",
+    "h": "LHB कोच का अंडर फ्रेंम ___ का बना होता है",
+    "o": ["Cast steel / कास्ट स्टील", "Silicon steel / सिलिकोन स्टील", "Mild Steel / नरम स्टील", "Stainless Steel / स्टेनलेश स्टील"],
     "c": 3
   },
   {
     "q": "Who are eligible to be trained in the Hindi courses?",
-    "h": "हिंदी कोर्स में ट्रेनिंग के लिए कौन योग्य होते हैं?",
-    "o": ["Class IV and above / IV श्रेणी एवं उससे ऊपर के सभी", "Class III and above", "Class II and above", "Class I and above"],
+    "h": "हिंदी कोर्स में ट्रेनिंग के लिए कौन योग्य होते है?",
+    "o": ["Central Govt. employees Class IV and above / केन्द्र सरकार के सभी कर्मचारी IV श्रेणी एवं उससे उपर के", "Central Govt. employees Class III and above", "Central Govt. employees Class II and above", "Central Govt. employees Class I and above"],
     "c": 0
   },
   {
-    "q": "What do you mean by CDTS?",
-    "h": "CDTS से आप क्या समझते हैं?",
-    "o": ["Control distance testing system", "Controlled discharge toilet system / कंट्रोल्ड डिसचार्ज टॉयलेट सिस्टम", "Compact disc type system", "None of the above"],
+    "q": "What do you mean by CDTS ?",
+    "h": "CDTS से आप क्या समझते है ?",
+    "o": ["Control distance testing system / कंट्रोल डिस्टेंट टेस्टिंग सिस्टम", "Controlled discharge toilet system / कंट्रोल्ड डिसचार्ज टॉयलेट सिस्टम", "Compact disc type system / कॉम्पेक्ट डिस्क टाईप सिस्टम", "None / कोई नहीं"],
     "c": 1
   }
 ]
