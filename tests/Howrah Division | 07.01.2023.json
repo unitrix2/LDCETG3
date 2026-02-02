@@ -1,644 +1,112 @@
 [
-  {
-    "q": "What is the Full form of LHB?",
-    "h": "एलएचबी (LHB) का फुल फॉर्म क्या है?",
-    "o": ["Linke-Hofmann-Busch", "Linke-Hofmann-Board", "Lower-Hofmann-Busch", "None of these / इनमें से कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the speed of LHB coach?",
-    "h": "एलएचबी कोच की गति क्या है?",
-    "o": ["120 Kmph", "160 Kmph", "130 Kmph", "200 Kmph"],
-    "c": 1
-  },
-  {
-    "q": "Codal life of LHB coach is?",
-    "h": "एलएचबी कोच का कोडल जीवन (Codal life) क्या है?",
-    "o": ["30 years / 30 वर्ष", "25 years / 25 वर्ष", "35 years / 35 वर्ष", "None / कोई नहीं"],
-    "c": 2
-  },
-  {
-    "q": "Overall length of LHB coach is?",
-    "h": "एलएचबी कोच की कुल लंबाई क्या है?",
-    "o": ["23540 mm", "23545 mm", "23550 mm", "23560 mm"],
-    "c": 0
-  },
-  {
-    "q": "What is the Maximum Buffer height of LHB coach?",
-    "h": "एलएचबी कोच की अधिकतम बफर ऊंचाई क्या है?",
-    "o": ["1105 mm", "1100 mm", "1110 mm", "1115 mm"],
-    "c": 0
-  },
-  {
-    "q": "What is the Minimum Buffer height of LHB coach?",
-    "h": "एलएचबी कोच की न्यूनतम बफर ऊंचाई क्या है?",
-    "o": ["1030 mm", "1025 mm", "1020 mm", "1035 mm"],
-    "c": 0
-  },
-  {
-    "q": "What is the Max Axle load of LHB coach?",
-    "h": "एलएचबी कोच का अधिकतम एक्सल लोड क्या है?",
-    "o": ["16 ton", "16.25 ton", "13 ton", "15 ton"],
-    "c": 1
-  },
-  {
-    "q": "What is the Wheel Base of LHB coach?",
-    "h": "एलएचबी कोच का व्हील बेस क्या है?",
-    "o": ["2560 mm", "2890 mm", "2500 mm", "2440 mm"],
-    "c": 0
-  },
-  {
-    "q": "New wheel diameter of LHB coach is?",
-    "h": "एलएचबी कोच का नया पहिया व्यास (Wheel diameter) क्या है?",
-    "o": ["910 mm", "915 mm", "905 mm", "920 mm"],
-    "c": 1
-  },
-  {
-    "q": "Condemning wheel diameter of LHB coach is?",
-    "h": "एलएचबी कोच का कंडमिंग पहिया व्यास क्या है?",
-    "o": ["855 mm", "845 mm", "850 mm", "840 mm"],
-    "c": 1
-  },
-  {
-    "q": "The LHB bogie is known as?",
-    "h": "एलएचबी बोगी को किस नाम से जाना जाता है?",
-    "o": ["FIAT Bogie", "ICF Bogie", "CASNUB Bogie", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "The number of Brake cylinders in a LHB coach is?",
-    "h": "एलएचबी कोच में ब्रेक सिलेंडरों की संख्या क्या है?",
-    "o": ["4", "8", "12", "None / कोई नहीं"],
-    "c": 1
-  },
-  {
-    "q": "Type of Brake system used in LHB coach is?",
-    "h": "एलएचबी कोच में प्रयुक्त ब्रेक सिस्टम का प्रकार क्या है?",
-    "o": ["Axle Mounted Disc Brake / एक्सल माउंटेड डिस्क ब्रेक", "Bogie Mounted Brake / बोगी माउंटेड ब्रेक", "Vacuum Brake / वैक्यूम ब्रेक", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "The number of brake discs in a LHB coach is?",
-    "h": "एक एलएचबी कोच में ब्रेक डिस्क की संख्या क्या है?",
-    "o": ["4", "8", "2", "6"],
-    "c": 1
-  },
-  {
-    "q": "Diameter of LHB Brake Disc is?",
-    "h": "एलएचबी ब्रेक डिस्क का व्यास क्या है?",
-    "o": ["640 mm", "630 mm", "645 mm", "650 mm"],
-    "c": 0
-  },
-  {
-    "q": "BPC for LHB coaching train is valid for?",
-    "h": "एलएचबी कोचिंग ट्रेन के लिए बीपीसी (BPC) कितने समय के लिए मान्य है?",
-    "o": ["3500 Km or 96 hours", "4000 Km or 96 hours", "4500 Km or 96 hours", "None / कोई नहीं"],
-    "c": 1
-  },
-  {
-    "q": "Brake Pipe Pressure of coaching train is?",
-    "h": "कोचिंग ट्रेन का ब्रेक पाइप प्रेशर क्या है?",
-    "o": ["5.0 Kg/cm2", "6.0 Kg/cm2", "4.0 Kg/cm2", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Feed Pipe Pressure of coaching train is?",
-    "h": "कोचिंग ट्रेन का फीड पाइप प्रेशर क्या है?",
-    "o": ["5.0 Kg/cm2", "6.0 Kg/cm2", "10 Kg/cm2", "None / कोई नहीं"],
-    "c": 1
-  },
-  {
-    "q": "Capacity of AR of LHB coach is?",
-    "h": "एलएचबी कोच के एआर (AR) की क्षमता क्या है?",
-    "o": ["125 Litre", "200 Litre", "150 Litre", "75 Litre"],
-    "c": 0
-  },
-  {
-    "q": "Full form of CTRB is?",
-    "h": "सीटीआरबी (CTRB) का फुल फॉर्म क्या है?",
-    "o": ["Cartridge Tapered Roller Bearing", "Center Tapered Roller Bearing", "Cartridge Total Roller Bearing", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the unit of Force?",
-    "h": "बल (Force) की इकाई क्या है?",
-    "o": ["Newton / न्यूटन", "Joule / जूल", "Pascal / पास्कल", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the POH periodicity of LHB coach?",
-    "h": "एलएचबी कोच की पीओएच (POH) अवधि क्या है?",
-    "o": ["18 Months / माह", "24 Months / माह", "36 Months / माह", "None / कोई नहीं"],
-    "c": 2
-  },
-  {
-    "q": "Thickness of new Brake Pad in LHB coach is?",
-    "h": "एलएचबी कोच में नए ब्रेक पैड की मोटाई क्या है?",
-    "o": ["35 mm", "40 mm", "30 mm", "25 mm"],
-    "c": 0
-  },
-  {
-    "q": "Condemning limit of Brake Pad thickness in LHB coach is?",
-    "h": "एलएचबी कोच में ब्रेक पैड की मोटाई की कंडमिंग सीमा क्या है?",
-    "o": ["7 mm", "10 mm", "5 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the Full form of FIBA?",
-    "h": "फीबा (FIBA) का फुल फॉर्म क्या है?",
-    "o": ["Failure Indication and Brake Application", "Failure Indicator and Brake Applier", "Force Indication and Brake Action", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "WSP stands for?",
-    "h": "डब्लूएसपी (WSP) का अर्थ क्या है?",
-    "o": ["Wheel Slide Protection", "Wheel Slip Protection", "Wagon Slide Protection", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many dump valves are in a LHB coach?",
-    "h": "एक एलएचबी कोच में कितने डंप वाल्व होते हैं?",
-    "o": ["4", "8", "2", "6"],
-    "c": 0
-  },
-  {
-    "q": "The primary suspension used in LHB bogie is?",
-    "h": "एलएचबी बोगी में प्रयुक्त प्राथमिक सस्पेंशन (Primary suspension) क्या है?",
-    "o": ["Coil Spring", "Leaf Spring", "Air Spring", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "The secondary suspension used in LHB bogie is?",
-    "h": "एलएचबी बोगी में प्रयुक्त माध्यमिक सस्पेंशन (Secondary suspension) क्या है?",
-    "o": ["Coil Spring", "Air Spring", "Leaf Spring", "None / कोई नहीं"],
-    "c": 1
-  },
-  {
-    "q": "Number of Yaw Dampers in LHB coach is?",
-    "h": "एलएचबी कोच में यॉ डैम्पर्स (Yaw Dampers) की संख्या क्या है?",
-    "o": ["2", "4", "1", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Total number of dampers in LHB coach is?",
-    "h": "एलएचबी कोच में डैम्पर्स की कुल संख्या क्या है?",
-    "o": ["18", "16", "20", "14"],
-    "c": 0
-  },
-  {
-    "q": "What is the condemning limit of wheel tread in coaching stock?",
-    "h": "कोचिंग स्टॉक में व्हील ट्रेड की कंडमिंग सीमा क्या है?",
-    "o": ["50 mm", "60 mm", "40 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "The axle load of ICF AC coach is?",
-    "h": "आईसीएफ एसी कोच का एक्सल लोड क्या है?",
-    "o": ["16.25 ton", "13 ton", "16 ton", "15 ton"],
-    "c": 0
-  },
-  {
-    "q": "What type of coupling used in LHB coach?",
-    "h": "एलएचबी कोच में किस प्रकार की कपलिंग का उपयोग किया जाता है?",
-    "o": ["H-type CBC", "Screw Coupling", "E-type CBC", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the Wheel Base of ICF coach?",
-    "h": "आईसीएफ कोच का व्हील बेस क्या है?",
-    "o": ["2896 mm", "2560 mm", "2440 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Standard Wheel Gauge of BG coach is?",
-    "h": "बीजी (BG) कोच का मानक व्हील गेज क्या है?",
-    "o": ["1600 mm", "1676 mm", "1599 mm", "1602 mm"],
-    "c": 0
-  },
-  {
-    "q": "What is the POH periodicity of ICF coach?",
-    "h": "आईसीएफ कोच की पीओएच (POH) अवधि क्या है?",
-    "o": ["18 Months / माह", "24 Months / माह", "12 Months / माह", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the color of Brake Pipe?",
-    "h": "ब्रेक पाइप का रंग क्या है?",
-    "o": ["Green / हरा", "White / सफेद", "Yellow / पीला", "Red / लाल"],
-    "c": 0
-  },
-  {
-    "q": "What is the color of Feed Pipe?",
-    "h": "फीड पाइप का रंग क्या है?",
-    "o": ["White / सफेद", "Green / हरा", "Yellow / पीला", "Red / लाल"],
-    "c": 1
-  },
-  {
-    "q": "Which of the following is an alloy of Copper and Zinc?",
-    "h": "निम्नलिखित में से कौन तांबा और जस्ता का मिश्र धातु है?",
-    "o": ["Brass / पीतल", "Bronze / कांसा", "Steel / स्टील", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Normal charging time of AR in LHB coach is?",
-    "h": "एलएचबी कोच में एआर (AR) का सामान्य चार्जिंग समय क्या है?",
-    "o": ["175 Sec", "200 Sec", "150 Sec", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the Full form of CDTS?",
-    "h": "सीडीटीएस (CDTS) का फुल फॉर्म क्या है?",
-    "o": ["Controlled Discharge Toilet System", "Center Discharge Toilet System", "Carbon Discharge Toilet System", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "The capacity of Water tank in LHB AC coach is?",
-    "h": "एलएचबी एसी कोच में पानी की टंकी की क्षमता क्या है?",
-    "o": ["685 Litre", "600 Litre", "500 Litre", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Maximum speed of Vande Bharat Express is?",
-    "h": "वंदे भारत एक्सप्रेस की अधिकतम गति क्या है?",
-    "o": ["160 Kmph", "180 Kmph", "130 Kmph", "200 Kmph"],
-    "c": 1
-  },
-  {
-    "q": "Brake Cylinder diameter of LHB coach is?",
-    "h": "एलएचबी कोच के ब्रेक सिलेंडर का व्यास क्या है?",
-    "o": ["10 inch (255 mm)", "8 inch", "12 inch", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Who is the present Railway Minister of India?",
-    "h": "भारत के वर्तमान रेल मंत्री कौन हैं?",
-    "o": ["Ashwini Vaishnaw / अश्विनी वैष्णव", "Piyush Goyal / पीयूष गोयल", "Suresh Prabhu / सुरेश प्रभु", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Where is RCF (Rail Coach Factory) located?",
-    "h": "आरसीएफ (रेल कोच फैक्ट्री) कहाँ स्थित है?",
-    "o": ["Kapurthala / कपूरथला", "Perambur", "Raebareli / रायबरेली", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Where is ICF (Integral Coach Factory) located?",
-    "h": "आईसीएफ (इंटीग्रल कोच फैक्ट्री) कहाँ स्थित है?",
-    "o": ["Perambur (Chennai) / पेरम्बूर (चेन्नई)", "Kapurthala / कपूरथला", "Raebareli / रायबरेली", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Maximum buffer plunger stroke is?",
-    "h": "अधिकतम बफर प्लंजर स्ट्रोक क्या है?",
-    "o": ["127 mm", "110 mm", "130 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Total number of berths in AC 3-tier LHB coach is?",
-    "h": "एसी 3-टियर एलएचबी कोच में बर्थ की कुल संख्या क्या है?",
-    "o": ["72", "80", "64", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the length of LHB coach over buffer?",
-    "h": "बफर के ऊपर एलएचबी कोच की लंबाई क्या है?",
-    "o": ["24000 mm", "23540 mm", "24700 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Width of LHB coach is?",
-    "h": "एलएचबी कोच की चौड़ाई क्या है?",
-    "o": ["3240 mm", "3250 mm", "3200 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Ride Index of LHB coach is?",
-    "h": "एलएचबी कोच का राइड इंडेक्स क्या है?",
-    "o": ["2.5", "2.75", "3.0", "None / कोई नहीं"],
-    "c": 1
-  },
-  {
-    "q": "Ride Index of ICF coach is?",
-    "h": "आईसीएफ कोच का राइड इंडेक्स क्या है?",
-    "o": ["3.5", "3.25", "3.75", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Full form of POH is?",
-    "h": "पीओएच (POH) का फुल फॉर्म क्या है?",
-    "o": ["Periodic Overhauling", "Primary Overhauling", "Partial Overhauling", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Full form of IOH is?",
-    "h": "आईओएच (IOH) का फुल फॉर्म क्या है?",
-    "o": ["Intermediate Overhauling", "Initial Overhauling", "Internal Overhauling", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many shock absorbers are in a FIAT Bogie?",
-    "h": "एक फिएट बोगी में कितने शॉक एब्जॉर्बर होते हैं?",
-    "o": ["9", "8", "10", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Anti-roll bar is used to prevent?",
-    "h": "एंटी-रोल बार का उपयोग किसे रोकने के लिए किया जाता है?",
-    "o": ["Rolling of coach / कोच की रोलिंग", "Pitching of coach", "Bouncing of coach", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "The thickness of LHB coach shell is?",
-    "h": "एलएचबी कोच शेल की मोटाई क्या है?",
-    "o": ["2 mm", "3 mm", "4 mm", "None / कोई नहीं"],
-    "c": 1
-  },
-  {
-    "q": "What is the distance between two side bearers in ICF coach?",
-    "h": "आईसीएफ कोच में दो साइड बियरर्स के बीच की दूरी क्या है?",
-    "o": ["1600 mm", "1500 mm", "1700 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Diameter of Brake pipe in coaching stock is?",
-    "h": "कोचिंग स्टॉक में ब्रेक पाइप का व्यास क्या है?",
-    "o": ["25 mm", "32 mm", "20 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "The AR is charged by which pipe in Twin Pipe system?",
-    "h": "ट्विन पाइप सिस्टम में एआर (AR) किस पाइप से चार्ज होता है?",
-    "o": ["Feed Pipe / फीड पाइप", "Brake Pipe / ब्रेक पाइप", "Both / दोनों", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "In LHB coach, WSP system is manufactured by?",
-    "h": "एलएचबी कोच में डब्लूएसपी (WSP) सिस्टम किसके द्वारा निर्मित किया जाता है?",
-    "o": ["Knorr-Bremse", "SAB WABCO", "Faiveley", "All of these / ये सभी"],
-    "c": 3
-  },
-  {
-    "q": "How many dump valves are in a LHB coach?",
-    "h": "एक एलएचबी कोच में कितने डंप वाल्व होते हैं?",
-    "o": ["4", "8", "2", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Max Gap between Brake disc and pad is?",
-    "h": "ब्रेक डिस्क और पैड के बीच अधिकतम गैप क्या है?",
-    "o": ["1.5 mm", "1.0 mm", "2.0 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the periodicity of SS-I of LHB coach?",
-    "h": "एलएचबी कोच के एसएस-I (SS-I) की अवधि क्या है?",
-    "o": ["1.5 Years or 6 Lakh Km", "1 Year", "2 Years", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the periodicity of SS-II of LHB coach?",
-    "h": "एलएचबी कोच के एसएस-II (SS-II) की अवधि क्या है?",
-    "o": ["3 Years or 12 Lakh Km", "2 Years", "4 Years", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Capacity of AR for Brake system in LHB coach is?",
-    "h": "एलएचबी कोच में ब्रेक सिस्टम के लिए एआर की क्षमता क्या है?",
-    "o": ["125 Litre", "75 Litre", "150 Litre", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Number of FIBA valves in LHB coach is?",
-    "h": "एलएचबी कोच में फीबा (FIBA) वाल्वों की संख्या क्या है?",
-    "o": ["2", "4", "1", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Which type of CBC is used in LHB coaches?",
-    "h": "एलएचबी कोचों में किस प्रकार के सीबीसी का उपयोग किया जाता है?",
-    "o": ["H-type", "E-type", "F-type", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the distance between the two bolster in LHB coach?",
-    "h": "एलएचबी कोच में दो बोल्स्टर के बीच की दूरी क्या है?",
-    "o": ["14900 mm", "15000 mm", "14500 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Emergency braking distance of LHB coach at 160 Kmph is?",
-    "h": "160 Kmph पर एलएचबी कोच की आपातकालीन ब्रेकिंग दूरी क्या है?",
-    "o": ["1200 m", "1000 m", "1500 m", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many phonic wheels are in a LHB coach?",
-    "h": "एक एलएचबी कोच में कितने फोनिक व्हील्स (Phonic wheels) होते हैं?",
-    "o": ["4", "8", "2", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Thickness of floor of LHB coach is?",
-    "h": "एलएचबी कोच के फर्श (Floor) की मोटाई क्या है?",
-    "o": ["1.25 mm", "2 mm", "1 mm", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "LHB coach roof is made of?",
-    "h": "एलएचबी कोच की छत (Roof) किससे बनी होती है?",
-    "o": ["Stainless Steel", "Mild Steel", "Corten Steel", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the thickness of roof sheet of LHB coach?",
-    "h": "एलएचबी कोच की छत की चादर की मोटाई क्या है?",
-    "o": ["1.25 mm", "1.5 mm", "2 mm", "None / कोई नहीं"],
-    "c": 1
-  },
-  {
-    "q": "How many Bio-toilets are in a LHB coach?",
-    "h": "एक एलएचबी कोच में कितने बायो-टॉयलेट होते हैं?",
-    "o": ["4", "3", "2", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Capacity of Bio-toilet tank is?",
-    "h": "बायो-टॉयलेट टैंक की क्षमता क्या है?",
-    "o": ["300 Litre", "400 Litre", "500 Litre", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the full form of D&AR?",
-    "h": "डी एंड एआर (D&AR) का फुल फॉर्म क्या है?",
-    "o": ["Discipline and Appeal Rules / अनुशासन एवं अपील नियम", "Discipline and Action Rules", "Direct and Action Rules", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Standard form SF-5 is used for?",
-    "h": "मानक प्रपत्र SF-5 का उपयोग किसके लिए किया जाता है?",
-    "o": ["Major Penalty / बड़ी शास्ति", "Minor Penalty / छोटी शास्ति", "Suspension / निलंबन", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Standard form SF-11 is used for?",
-    "h": "मानक प्रपत्र SF-11 का उपयोग किसके लिए किया जाता है?",
-    "o": ["Minor Penalty / छोटी शास्ति", "Major Penalty / बड़ी शास्ति", "Suspension / निलंबन", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many days of LAP can be accumulated in entire service?",
-    "h": "पूरी सेवा में कितने दिनों की एलएपी (LAP) जमा की जा सकती है?",
-    "o": ["300 days / दिन", "240 days / दिन", "No limit / कोई सीमा नहीं", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Maximum amount of LHAP can be granted at a time is?",
-    "h": "एक बार में अधिकतम कितनी एलएचएपी (LHAP) स्वीकृत की जा सकती है?",
-    "o": ["24 Months / माह", "12 Months / माह", "No limit / कोई सीमा नहीं", "None / कोई नहीं"],
-    "c": 2
-  },
-  {
-    "q": "What is the period of Maternity Leave?",
-    "h": "प्रसूति अवकाश (Maternity Leave) की अवधि क्या है?",
-    "o": ["180 days / दिन", "135 days / दिन", "120 days / दिन", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Paternity Leave can be granted for?",
-    "h": "पितृत्व अवकाश (Paternity Leave) कितने दिनों के लिए दिया जा सकता है?",
-    "o": ["15 days / दिन", "10 days / दिन", "30 days / दिन", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Maximum number of CCL can be granted in entire service is?",
-    "h": "पूरी सेवा में अधिकतम कितनी सीसीएल (CCL) दी जा सकती है?",
-    "o": ["730 days / दिन", "365 days / दिन", "500 days / दिन", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Who is the Head of Indian Railways?",
-    "h": "भारतीय रेलवे का प्रमुख कौन है?",
-    "o": ["Chairman Railway Board / अध्यक्ष रेलवे बोर्ड", "Railway Minister / रेल मंत्री", "General Manager / महाप्रबंधक", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the official language of India?",
-    "h": "भारत की राजभाषा क्या है?",
-    "o": ["Hindi in Devanagari script / देवनागरी लिपि में हिंदी", "Sanskrit / संस्कृत", "English / अंग्रेजी", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "When is Hindi Diwas celebrated?",
-    "h": "हिंदी दिवस कब मनाया जाता है?",
-    "o": ["September 14 / 14 सितंबर", "January 10 / 10 जनवरी", "August 15 / 15 अगस्त", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "When is World Hindi Day celebrated?",
-    "h": "विश्व हिंदी दिवस कब मनाया जाता है?",
-    "o": ["January 10 / 10 जनवरी", "September 14 / 14 सितंबर", "June 5 / 5 जून", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many languages are in the 8th Schedule of Constitution?",
-    "h": "संविधान की 8वीं अनुसूची में कितनी भाषाएं हैं?",
-    "o": ["22", "18", "15", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "In which region West Bengal falls according to Official Language Rules?",
-    "h": "राजभाषा नियमों के अनुसार पश्चिम बंगाल किस क्षेत्र में आता है?",
-    "o": ["Region C / क्षेत्र ग", "Region A / क्षेत्र क", "Region B / क्षेत्र ख", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "In which region Bihar falls according to Official Language Rules?",
-    "h": "राजभाषा नियमों के अनुसार बिहार किस क्षेत्र में आता है?",
-    "o": ["Region A / क्षेत्र क", "Region B / क्षेत्र ख", "Region C / क्षेत्र ग", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many members are in Parliamentary Committee on Official Language?",
-    "h": "राजभाषा पर संसदीय समिति में कितने सदस्य हैं?",
-    "o": ["30", "20", "10", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many members from Lok Sabha are in Committee on Official Language?",
-    "h": "राजभाषा समिति में लोकसभा के कितने सदस्य हैं?",
-    "o": ["20", "10", "30", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "How many members from Rajya Sabha are in Committee on Official Language?",
-    "h": "राजभाषा समिति में राज्यसभा के कितने सदस्य हैं?",
-    "o": ["10", "20", "30", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the target for Hindi correspondence for Region A?",
-    "h": "क्षेत्र 'क' के लिए हिंदी पत्राचार का लक्ष्य क्या है?",
-    "o": ["100%", "90%", "80%", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the target for Hindi correspondence for Region B?",
-    "h": "क्षेत्र 'ख' के लिए हिंदी पत्राचार का लक्ष्य क्या है?",
-    "o": ["90%", "100%", "80%", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "When was the Official Language Act 1963 passed?",
-    "h": "राजभाषा अधिनियम 1963 कब पारित किया गया था?",
-    "o": ["May 10, 1963 / 10 मई 1963", "Sept 14, 1963 / 14 सितंबर 1963", "Jan 26, 1963 / 26 जनवरी 1963", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "When was first World Hindi Conference held?",
-    "h": "पहला विश्व हिंदी सम्मेलन कब आयोजित किया गया था?",
-    "o": ["1975", "1963", "1950", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Where was the first World Hindi Conference held?",
-    "h": "पहला विश्व हिंदी सम्मेलन कहाँ आयोजित किया गया था?",
-    "o": ["Nagpur / नागपुर", "New Delhi / नई दिल्ली", "Mauritius / मॉरीशस", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "What is the name of award for writing Hindi poetry books?",
-    "h": "हिंदी कविता की पुस्तक लिखने पर दिए जाने वाले पुरस्कार का क्या नाम है?",
-    "o": ["Maithili Sharan Gupta Puraskar / मैथिली शरण गुप्त पुरस्कार", "Ramdhari Singh Dinkar Puraskar / रामधारी सिंह दिनकर पुरस्कार", "Sumitra Nandan Pant Puraskar / सुमित्रा नंदन पंत पुरस्कार", "None of these / इनमें से कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "When was first Hindi translation of Railway Budget prepared?",
-    "h": "रेलवे बजट का प्रथम हिंदी अनुवाद कब तैयार किया गया था?",
-    "o": ["1956", "1972", "1960", "1975"],
-    "c": 0
-  },
-  {
-    "q": "Who chaired the First Railway Hindi Salahakaar Samiti (1973)?",
-    "h": "प्रथम हिंदी सलाहकार समिति (1973) की अध्यक्षता किसने की थी?",
-    "o": ["Shri Lalit Narayan Mishra", "Shri Bal Gangadhar Kher", "Shri Gulzarilal Nanda", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Amount of 'Muktivodh Puraskar' is?",
-    "h": "मुक्तिबोध पुरस्कार की राशि क्या है?",
-    "o": ["Rs. 10,000/-", "Rs. 5,000/-", "Rs. 7,000/-", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "In which city is the Head Quarter of Indian Railways located?",
-    "h": "भारतीय रेलवे का मुख्यालय किस शहर में स्थित है?",
-    "o": ["New Delhi / नई दिल्ली", "Mumbai / मुंबई", "Kolkata / कोलकाता", "None / कोई नहीं"],
-    "c": 0
-  },
-  {
-    "q": "Who is the Chairman of Railway Board?",
-    "h": "रेलवे बोर्ड के अध्यक्ष कौन हैं?",
-    "o": ["Satish Kumar / सतीश कुमार", "Jaya Varma Sinha / जया वर्मा सिन्हा", "V K Tripathi / वी के त्रिपाठी", "None / कोई नहीं"],
-    "c": 0
-  }
+  {"q":"Maximum Speed of LHB Coach is ...... KMPH.","h":"एल.एच.बी. कोच की अधिकतम गति ...... किमी प्रति घंटे है।","o":["120","160","110","130"],"c":1},
+  {"q":"Minimum buffer height of coach from Rail level is ...... mm.","h":"रेल स्तर से कोच की न्यूनतम बफर ऊंचाई ...... मि.मी. होती है।","o":["1030","1105","900","1075"],"c":0},
+  {"q":"Riding index of LHB coach is ......","h":"एल.एच.बी. कोच का राइडिंग इंडेक्स ...... होता है।","o":["2.5","2.0","4.8","None of these / इनमें से कोई नहीं"],"c":0},
+  {"q":"Type of coupler used in LHB coach is...........","h":"एल.एच.बी. कोच में उपयोग किए जाने वाले कपलर का प्रकार ........... है।","o":["H-type / एच-टाइप","HETA / हेटा","Alliance-II / अलायन्स-II","None of these / इनमें से कोई नहीं"],"c":0},
+  {"q":"POH of LHB coach is done in the interval of.....months.","h":"एल.एच.बी. कोच का आवधिक ओवरहाल (POH) ..... महीनों के अंतराल में किया जाता है।","o":["12","18","36","48"],"c":2},
+  {"q":"Capacity of main reservoir of air spring system is ...... Liter.","h":"एयर स्प्रिंग सिस्टम के मुख्य जलाशय (रिजर्वायर) की क्षमता ...... लीटर होती है।","o":["180","170","150","40"],"c":2},
+  {"q":"How many brake disc on one wheel set?","h":"एक व्हील सेट पर कितने ब्रेक डिस्क होते हैं?","o":["One / एक","Two / दो","Three / तीन","Four / चार"],"c":1},
+  {"q":"What is the thickness of brake disc.?","h":"ब्रेक डिस्क की मोटाई कितनी होती है?","o":["100 mm","110 mm","105 mm","108 mm"],"c":1},
+  {"q":"D2 Maintenance Schedule of LHB Coach is done","h":"एल.एच.बी. कोच का डी-2 रखरखाव शेड्यूल कब किया जाता है?","o":["30 days ± 1 days","30 days ± 3 days","30 days ± 5 days","30 days ± 7 days"],"c":1},
+  {"q":"Wheel base of LHB bogie?","h":"एल.एच.बी. बोगी का व्हील बेस क्या है?","o":["2440 mm","2696 mm","2560 mm","2570 mm"],"c":2},
+  {"q":"What is the height over roof of LHB Coaches?","h":"एल.एच.बी. कोचों की छत की ऊंचाई कितनी होती है?","o":["4200 mm","4390 mm","4039 mm","4190 mm"],"c":2},
+  {"q":"Brake power of air brake for Rajdhani coaches from out station is -","h":"आउट स्टेशन से राजधानी कोचों के लिए एयर ब्रेक की ब्रेक पावर कितनी होती है?","o":["90%","100%","85%","95%"],"c":0},
+  {"q":"What is the full form of CDTS?","h":"CDTS का पूर्ण रूप क्या है?","o":["Compact disk toilet system","Compress Disc tuning system","Control discharge toilet system","none of these"],"c":2},
+  {"q":"The anti roll bar must be checked for-","h":"एंटी रोल बार की जांच किसके लिए की जानी चाहिए?","o":["Any wear ness / कोई घिसाव","Free movement / मुक्त संचलन","Any cracks / कोई दरार","All the above / उपरोक्त सभी"],"c":3},
+  {"q":"How much shelling on a wheel can be allowed -","h":"पहिये पर कितनी शेलिंग (shelling) की अनुमति दी जा सकती है -","o":["50 mm","30 mm","20 mm","No shelling allowed / कोई शेलिंग अनुमत नहीं"],"c":3},
+  {"q":"With respect to Kms, Frequency of SS-III is","h":"किलोमीटर के संदर्भ में, SS-III की आवृत्ति क्या है?","o":["10 Lakh Kms","15 Lakh Kms","24 Lakh Kms","20 Lakh Kms"],"c":2},
+  {"q":"What is the purpose to provided yaw dampers?","h":"यॉ डैम्पर्स (yaw dampers) प्रदान करने का उद्देश्य क्या है?","o":["To minimize rolling motion / रोलिंग गति को कम करने के लिए","To minimize scattering action of coach / कोच की बिखरने की क्रिया को कम करने के लिए","To improve riding index / राइडिंग इंडेक्स को बेहतर बनाने के लिए","All the above / उपरोक्त सभी"],"c":3},
+  {"q":"New thickness of primary rubber pad is -","h":"प्राथमिक रबर पैड की नई मोटाई है -","o":["36.7 mm","30.7 mm","35.7 mm","38.2 mm"],"c":0},
+  {"q":"What is the code for ac hot buffet car?","h":"एसी हॉट बुफे कार का कोड क्या है?","o":["LWCBAC","LWACCN","LWSLRD","LWLRRM"],"c":0},
+  {"q":"The torque required for axle end safety disc.","h":"एक्सल एंड सेफ्टी डिस्क के लिए आवश्यक टॉर्क है।","o":["170 Nm","180 Nm","200 Nm","590 Nm"],"c":0},
+  {"q":"Checking of crack, damage of spring is done in","h":"स्प्रिंग की दरार, क्षति की जाँच किसमें की जाती है?","o":["D1 Schedule","D2 Schedule","D1, D2 & D3 Schedule","D3 Schedule"],"c":2},
+  {"q":"Carrying out of functional test on pneumatic brake system in -","h":"वायवीय ब्रेक प्रणाली पर कार्यात्मक परीक्षण किसमें किया जाता है -","o":["D1 Schedule","D2 Schedule","D1, D2 & D3 Schedule","D3 Schedule"],"c":2},
+  {"q":"Frequency of D3 Schedule is -","h":"D3 शेड्यूल की आवृत्ति है -","o":["7 days ± 1 day","180 days ± 15 day","15 days ± 1 day","30 days ± 3 days"],"c":1},
+  {"q":"13 TONNE and 16 TONNE are related to:","h":"13 टन और 16 टन किससे संबंधित हैं:","o":["LHB RMPU UNIT","ICF bogie","LHB bogie","none of these"],"c":1},
+  {"q":"What is the unit of pressure:","h":"दाब की इकाई क्या है:","o":["kg","kg/cm2","meter","newton"],"c":1},
+  {"q":"What is the charging time for control reservoir in ICF coaches?","h":"ICF कोचों में कंट्रोल रिजर्वायर (CR) का चार्जिंग समय क्या है?","o":["260± 20 s","300± 20 s","180± 10 s","60 ± 5 s"],"c":2},
+  {"q":"PEASD is related to","h":"PEASD किससे संबंधित है","o":["Braking / ब्रेकिंग","fire / आग","lavatory / शौचालय","bio-toilet / बायो-टॉयलेट"],"c":0},
+  {"q":"The projection of buffer from head in ICF coaches should be","h":"ICF कोचों में हेडस्टॉक से बफर का प्रोजेक्शन होना चाहिए","o":["580-615 mm","600-635 mm","570-605 mm","670-705 mm"],"c":1},
+  {"q":"What is the ideal seating capacity of GSCN coaches","h":"GSCN कोचों की आदर्श बैठने की क्षमता क्या है","o":["72","48","80","54"],"c":0},
+  {"q":"CDST is related to:","h":"CDST (Control Discharge Toilet System) किससे संबंधित है:","o":["FIRE / आग","EMERGENCY BRAKING / आपातकालीन ब्रेकिंग","TOILET / शौचालय","EMERGENCY ALARM / आपातकालीन अलार्म"],"c":2},
+  {"q":"During sensitivity test:","h":"संवेदनशीलता परीक्षण (sensitivity test) के दौरान:","o":["Brake should apply / ब्रेक लगना चाहिए","Brake should not apply / ब्रेक नहीं लगना चाहिए","Not related to brake application / ब्रेक आवेदन से संबंधित नहीं","none of these / इनमें से कोई नहीं"],"c":0},
+  {"q":"Riding index is higher in","h":"राइडिंग इंडेक्स किसमें अधिक (खराब) होता है","o":["ICF coaches","LHB coaches","Equal in both","none of these"],"c":0},
+  {"q":"Which statement is true regarding air brake test of hose:","h":"होज के एयर ब्रेक परीक्षण के संबंध में कौन सा कथन सत्य है:","o":["FP hose pipe should be connected first","BP hose pipe should be connected first","any hose pipe can be connected first","none of these"],"c":1},
+  {"q":"The minimum wheel gauge of Goods wagon is-","h":"मालगाड़ी के वैगन का न्यूनतम व्हील गेज है-","o":["1599 mm","1601 mm","1600 mm","1602 mm"],"c":0},
+  {"q":"Presently all complaints are being brought on the following single plateform:","h":"वर्तमान में सभी शिकायतें निम्नलिखित एकल प्लेटफॉर्म पर लाई जा रही हैं:","o":["Rail Madad","Twitter","CP GRAM","Coach Mitra"],"c":0},
+  {"q":"What is the length over Headstock of the BOXN wagon?","h":"BOXN वैगन के हेडस्टॉक की लंबाई कितनी है?","o":["9774 mm","9784 mm","9777 mm","9848 mm"],"c":1},
+  {"q":"What do you mean by CC rakes?","h":"CC रेक से आप क्या समझते हैं?","o":["Content contact pad","Close circuit rake","Complete coal rake","None of these"],"c":1},
+  {"q":"As per new wagon numbering scheme, first two digits will indicate-","h":"नई वैगन नंबरिंग योजना के अनुसार, पहले दो अंक क्या दर्शाते हैं-","o":["Owning Railway","Type of wagon","Year of manufacture","Check digit"],"c":1},
+  {"q":"What type of coupler used in brake van match truck (BVM)?","h":"ब्रेक वैन मैच ट्रक (BVM) में किस प्रकार के कपलर का उपयोग किया जाता है?","o":["Screw coupling","CBC","Non-transition","None of the above"],"c":0},
+  {"q":"The colour of Feed Pipe in twin pipe wagon is -","h":"ट्विन पाइप वैगन में फीड पाइप का रंग होता है -","o":["Black","Yellow","Green","White"],"c":3},
+  {"q":"C-class ODC shall be moved during -","h":"C-क्लास ODC को कब स्थानांतरित किया जाएगा -","o":["Day light","Day-night time","Only night time","None of the above"],"c":0},
+  {"q":"The colour for brake power certificate for Premium end-to-end rake is-","h":"प्रीमियम एंड-टू-एंड रेक के लिए ब्रेक पावर सर्टिफिकेट का रंग है-","o":["Green","White","Pink","Yellow"],"c":0},
+  {"q":"The en-route Brake power percentage of goods train should be -","h":"मालगाड़ी का रास्ते में (en-route) ब्रेक पावर प्रतिशत होना चाहिए -","o":["85%","75%","95%","90%"],"c":3},
+  {"q":"The vacuum brake testing procedure is called as -","h":"वैक्यूम ब्रेक परीक्षण प्रक्रिया को कहा जाता है -","o":["Single car-testing","Balance vacuum testing","Ultra sound testing","Single wagon test ring"],"c":1},
+  {"q":"The wheel gauge should be measured on","h":"व्हील गेज को किस स्थिति में मापा जाना चाहिए","o":["Off load condition","Loaded wagon","Both condition","Empty wagon"],"c":0},
+  {"q":"The main valve in DV exhausts pressure from brake cylinder to atmosphere, when","h":"DV में मुख्य वाल्व ब्रेक सिलेंडर से वायुमंडल में दबाव कब छोड़ता है, जब","o":["BP pressure is reduced","BP pressure is raised","FP pressure is reduced","FP pressure is raised"],"c":1},
+  {"q":"Piston stroke of a loaded BCN wagon?","h":"लोडेड BCN वैगन का पिस्टन स्ट्रोक?","o":["140mm","120mm","130mm","110mm"],"c":2},
+  {"q":"Condemning height of EM pad?","h":"ईएम पैड (EM pad) की कंडेमिंग ऊंचाई?","o":["42mm","45mm","56mm","48mm"],"c":0},
+  {"q":"In air brake end-to end rakes, after intensive examination validity of BPC remain up to the -","h":"एयर ब्रेक एंड-टू-एंड रेक में, गहन जांच के बाद BPC की वैधता कहाँ तक रहती है -","o":["Next station","Loading point","Destination point","72 Hours"],"c":2},
+  {"q":"What do you mean of SWTR?","h":"SWTR का क्या अर्थ है?","o":["Single wagon test rubber","Single wagon test rig","Sliding wagon test ring","None of the above"],"c":1},
+  {"q":"The colour for brake power certificate for Premium end-to-end rake is-","h":"प्रीमियम एंड-टू-एंड रेक के लिए ब्रेक पावर सर्टिफिकेट का रंग है-","o":["Green","White","Pink","Yellow"],"c":0},
+  {"q":"In wagon, hand brake is used when -","h":"वैगन में, हैंड ब्रेक का उपयोग कब किया जाता है -","o":["Standing in yard","Running in down gradient","Running in up gradient","None of the above"],"c":0},
+  {"q":"Means of WRA is -","h":"WRA का अर्थ है -","o":["Water raising apparatus","White race assistance","Water recording agreement","None of the above"],"c":0},
+  {"q":"The full name of PEAV is","h":"PEAV का पूरा नाम है","o":["Power energy valve","Passenger entrance alarm valve","Passenger emergency automatic valve","none of these"],"c":1},
+  {"q":"What is the full form of CRSE:","h":"CRSE का पूर्ण रूप क्या है:","o":["Central railway section engineer","Chief rolling stock Engineer","Central rolling stock engineer","Chief Railway Sectional Engineer"],"c":1},
+  {"q":"Destruction tube is provided inside the -","h":"डिस्ट्रक्शन ट्यूब (Destruction tube) किसके अंदर प्रदान की जाती है -","o":["Buffer","Head stock","under sole bar","None"],"c":0},
+  {"q":"Lord Buddha held his first sermon at","h":"भगवान बुद्ध ने अपना पहला उपदेश कहाँ दिया था","o":["Lumbini","Gaya","Sanchi","Sarnath"],"c":3},
+  {"q":"The next number in series in place of Question Mark 5,11,17,25,33,43,?","h":"प्रश्न चिह्न के स्थान पर श्रृंखला में अगली संख्या 5,11,17,25,33,43,?","o":["50","53","51","49"],"c":1},
+  {"q":"Choose the correct option to make a meaningful sentence. She ___ to her father daily.","h":"सार्थक वाक्य बनाने के लिए सही विकल्प चुनें। She ___ to her father daily.","o":["writs","rights","writes","rites"],"c":2},
+  {"q":"What does GST stand for?","h":"GST का पूर्ण रूप क्या है?","o":["Globalised Sales Tax","Gradual Service Tax","Global Support Tax","Goods & Service Tax"],"c":3},
+  {"q":"Good sleep is necessary ___ good health.","h":"अच्छी नींद अच्छे स्वास्थ्य ___ आवश्यक है।","o":["from","for","in","at"],"c":1},
+  {"q":"Find the odd one:","h":"विषम चुनें:","o":["Cauli-Flower / फूलगोभी","Brinjal / बैंगन","Tomato / टमाटर","Potato / आलू (तना/जमीन के नीचे)"],"c":3},
+  {"q":"225 x 120 - 225 x 20 = ?","h":"225 x 120 - 225 x 20 = ?","o":["11000","22500","22000","17500"],"c":1},
+  {"q":"40% of 280 =","h":"280 का 40% =","o":["112","132","122","142"],"c":0},
+  {"q":"1 tonne = ___ kg","h":"1 टन = ___ किग्रा","o":["100","40","1000","10000"],"c":2},
+  {"q":"3√6 + 4√24 =","h":"3√6 + 4√24 =","o":["7√6","9√6","11√6","13√6"],"c":2},
+  {"q":"Her thinking leans ___ democracy.","h":"उसकी सोच लोकतंत्र ___ झुकती है।","o":["towards","into","upon","above"],"c":0},
+  {"q":"Himadas is associated with which sport?","h":"हिमा दास किस खेल से संबंधित हैं?","o":["Weight Lifting","Gymnastics","Athletics","Boxing"],"c":2},
+  {"q":"Who won the FIFA world cup 2022?","h":"फीफा विश्व कप 2022 किसने जीता?","o":["Argentina","France","Spain","Brazil"],"c":0},
+  {"q":"Who won the golden boot award in 2022 FIFA world cup?","h":"2022 फीफा विश्व कप में गोल्डन बूट पुरस्कार किसने जीता?","o":["Messi","Ronaldo","Mbappe","Virat Kohli"],"c":2},
+  {"q":"Chenab rail bridge is in:","h":"चिनाब रेल पुल किसमें है:","o":["Madhya Pradesh","Uttarakhand","Bihar","Jammu & Kashmir"],"c":3},
+  {"q":"Where is Vande Bharat Express being manufactured:","h":"वंदे भारत एक्सप्रेस का निर्माण कहाँ हो रहा है:","o":["MCF, RAIBARELI","ICF, CHENNAI","RCF, KAPURTHALA","TRF, GERMANY"],"c":1},
+  {"q":"RWF, Yelahanka is situated in which state:","h":"RWF, येलहंका किस राज्य में स्थित है:","o":["Karnataka","Tamil Nadu","Andhra Pradesh","Kerala"],"c":0},
+  {"q":"First Train 18 (in India) was run between:","h":"पहली ट्रेन 18 (भारत में) किसके बीच चलाई गई थी:","o":["NDLS-BSB","NDLS-SVDK","NDLS-CDG","HWH-NJP"],"c":0},
+  {"q":"Singular number of knives","h":"Knives (चाकू) का एकवचन","o":["Knife","Knefe","Knive","Knif"],"c":0},
+  {"q":"He jumped ___ the well.","h":"वह कुएं ___ कूद गया।","o":["on","in to","in","at"],"c":1},
+  {"q":"Choose the close opposite of MINOR","h":"MINOR (नाबालिग/छोटा) का विलोम चुनें","o":["Heavy","Tall","Major","Big"],"c":2},
+  {"q":"Choose the adjective.","h":"विशेषण (Adjective) चुनें।","o":["India","Kolkata","beautiful","Cat"],"c":2},
+  {"q":"The ratio of 10 m to 1 km is","h":"10 मीटर और 1 किमी का अनुपात है","o":["1:10","10:1","1:100","100:1"],"c":2},
+  {"q":"√12 x √8 is equal to","h":"√12 x √8 किसके बराबर है","o":["2√6","3√6","4√6","5√6"],"c":2},
+  {"q":"Who is the DRM of Howrah Division","h":"हावड़ा मंडल के डीआरएम कौन हैं (जनवरी 2023 के अनुसार)?","o":["S R GHOSAL","SUSHANT CHANDRA","MANISH JAIN","NONE OF THESE"],"c":2},
+  {"q":"The cube of an even natural number is","h":"एक सम प्राकृत संख्या का घन होता है","o":["Even","Odd","May be even, may be odd","Prime number"],"c":0},
+  {"q":"3 + 6 x (5 + 4) ÷ 3 - 7 = ? (Bracket assumed based on options)","h":"3 + 6 x (5 + 4) ÷ 3 - 7 = ? (विकल्पों के आधार पर कोष्ठक माना गया)","o":["20","26","18","24"],"c":0},
+  {"q":"Where is Indian Railway Institute of Transportation Management (IRITM) located?","h":"भारतीय रेलवे परिवहन प्रबंधन संस्थान (IRITM) कहाँ स्थित है?","o":["Delhi","Lucknow","Bhopal","Banaras"],"c":1},
+  {"q":"What is the full form of OBHS?","h":"OBHS का पूर्ण रूप क्या है?","o":["Onboard Housekeeping Service","Onboard Hygiene Service","Online Housekeeping Service","None of these"],"c":0},
+  {"q":"Who has written \"Gitanjali\"?","h":"\"गीतांजलि\" किसने लिखी है?","o":["Jawahar Lal Nehru","M.K.Gandhi","R.N.Tagore","Ballav Bahi Patel"],"c":2},
+  {"q":"The difference between 7 digit biggest number and 5 digit smallest numbers is","h":"7 अंकों की सबसे बड़ी संख्या और 5 अंकों की सबसे छोटी संख्या के बीच का अंतर है","o":["9989899","9989999","9988899","100000"],"c":1},
+  {"q":"Which one of the following can't be the square of a natural number?","h":"निम्नलिखित में से कौन सा एक प्राकृतिक संख्या का वर्ग नहीं हो सकता है?","o":["42437","20164","81225","32761"],"c":0},
+  {"q":"Find the HCF of 1848, 3058 and 1331.","h":"1848, 3058 और 1331 का HCF ज्ञात कीजिए।","o":["9","14","13","11"],"c":3},
+  {"q":"Find the biggest number which can divide both 324 and 144.","h":"वह सबसे बड़ी संख्या ज्ञात कीजिए जो 324 और 144 दोनों को विभाजित कर सके।","o":["18","36","9","21"],"c":1},
+  {"q":"I saw a ...... of cows in the field.","h":"मैंने खेत में गायों का एक ...... देखा।","o":["group","herd","swarn","flock"],"c":1},
+  {"q":"What is the least number that must be added to 1056, so the number is divisible by 23?","h":"वह छोटी से छोटी संख्या क्या है जिसे 1056 में जोड़ा जाना चाहिए, ताकि संख्या 23 से विभाज्य हो जाए?","o":["1","2","3","4"],"c":1},
+  {"q":"He died ...... cholera.","h":"उसकी मृत्यु हैजा ...... हुई।","o":["Of","with","In","from"],"c":0},
+  {"q":"A student is ranked 13th from the right and 8th from the left. How many students are there in total?","h":"एक छात्र का स्थान दायें से 13वां और बाएं से 8वां है। कुल कितने छात्र हैं?","o":["20","23","19","21"],"c":0},
+  {"q":"Anand ...... to school every day.","h":"आनंद हर दिन स्कूल ...... है।","o":["goes","go","going","gone"],"c":0},
+  {"q":"What are all the 3 Regions as classified under Official Languages Rules?","h":"राजभाषा नियमों के तहत वर्गीकृत सभी 3 क्षेत्र कौन से हैं?","o":["A & B Region","A, B & C Region","A, B, C & D Region","A, B, C, D & E Region"],"c":1},
+  {"q":"According to Official Languages Rules, Andaman & Nicobar Islands fall under which region?","h":"राजभाषा नियमों के अनुसार, अंडमान और निकोबार द्वीप समूह किस क्षेत्र के अंतर्गत आते हैं?","o":["A Region","B Region","C Region","D Region"],"c":0},
+  {"q":"In which year, Hindi (Parliament) Section was established in Railway Board?","h":"रेलवे बोर्ड में हिंदी (संसद) अनुभाग की स्थापना किस वर्ष की गई थी?","o":["1967","1965","1960","1963"],"c":2},
+  {"q":"Who is the Chairman of Central Hindi Samiti (Committee)?","h":"केंद्रीय हिंदी समिति के अध्यक्ष कौन हैं?","o":["President","Prime Minister","Rail minister","CRB"],"c":1},
+  {"q":"How many members are there in the Parliamentary Committee on Official Language?","h":"संसदीय राजभाषा समिति में कितने सदस्य हैं?","o":["20","10","30","40"],"c":2},
+  {"q":"When was the Parliamentary Committee on Official Language constituted?","h":"संसदीय राजभाषा समिति का गठन कब किया गया था?","o":["1967","1975","1976","1968"],"c":2},
+  {"q":"How long (in working days) is the Praveen course conducted under Intensive Training?","h":"गहन प्रशिक्षण (Intensive Training) के तहत प्रवीण पाठ्यक्रम कितने समय (कार्य दिवसों में) आयोजित किया जाता है?","o":["20","10","30","40"],"c":0},
+  {"q":"What is the Target fixed in Annual Programme for letters received in Hindi to be answered in Hindi?","h":"वार्षिक कार्यक्रम में हिंदी में प्राप्त पत्रों का उत्तर हिंदी में देने के लिए क्या लक्ष्य निर्धारित किया गया है?","o":["100%","50%","75%","60%"],"c":0},
+  {"q":"When was first time 'World Hindi Day' is observed?","h":"पहली बार 'विश्व हिंदी दिवस' कब मनाया गया था?","o":["14 Sep, 2006","14 Sep, 2009","10 Jan, 2006","15 Jun, 2009"],"c":2},
+  {"q":"What is the name of the award given for writing Hindi poetry books?","h":"हिंदी कविता की पुस्तकें लिखने के लिए दिए जाने वाले पुरस्कार का नाम क्या है?","o":["Maithili Sharan Gupta Puraskar","Ramdhari Singh Dinkar Puraskar","Sumitra Nanadan Pant Puraskar","none of these"],"c":0},
+  {"q":"In which year, the first Hindi Translation of Railway Budget was prepared?","h":"रेलवे बजट का पहला हिंदी अनुवाद किस वर्ष तैयार किया गया था?","o":["1956","1972","1960","1975"],"c":0},
+  {"q":"Who chaired the First Railway Hindi Salahakaar Samiti constituted in 1973?","h":"1973 में गठित प्रथम रेलवे हिंदी सलाहकार समिति की अध्यक्षता किसने की थी?","o":["Shri Bal Gangadhar Kher","Shri Govind Ballabh Pant","Shri Lalit Narayan Mishra","None of these"],"c":2},
+  {"q":"12*5+25/5=","h":"12*5+25/5 का मान क्या है?","o":["17","18","72","65"],"c":3},
+  {"q":"Choose the verb","h":"क्रिया (verb) चुनें","o":["Good","Work","West Bengal","Fool"],"c":1},
+  {"q":"She.... learning English since 2020.","h":"वह 2020 से अंग्रेजी सीख .... है।","o":["has been","had","will","will be"],"c":0}
 ]
