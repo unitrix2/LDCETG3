@@ -1,0 +1,326 @@
+[
+  {
+    "q": "The colour of Feed Pipe in Coaching train is?",
+    "h": "कोचिंग ट्रेन में फीड पाइप का रंग क्या है?",
+    "o": ["Black / काला", "Yellow / पीला", "Green / हरा", "White / सफेद"],
+    "c": 3
+  },
+  {
+    "q": "Total number of berths in AC 3 Tier coach is",
+    "h": "एसी 3 टियर कोच में कुल बर्थों की संख्या है",
+    "o": ["72", "60", "64", "56"],
+    "c": 2
+  },
+  {
+    "q": "The colour code for 'A' group coil piping is",
+    "h": "'ए' समूह कॉइल पाइपिंग के लिए रंग कोड है",
+    "o": ["Yellow / पीला", "Green / हरा", "Blue / नीला", "White / सफेद"],
+    "c": 0
+  },
+  {
+    "q": "What is the periodicity of POH of ICF BG coaches?",
+    "h": "आईसीएफ बीजी कोचों की पीओएच की आवधिकता क्या है?",
+    "o": ["9 months / 9 महीने", "12 months / 12 महीने", "18 months / 18 महीने", "24 months / 24 महीने"],
+    "c": 2
+  },
+  {
+    "q": "Which type of brake blocks is used in BMBS wagons?",
+    "h": "बीएमबीएस वैगनों में किस प्रकार के ब्रेक ब्लॉक का उपयोग किया जाता है?",
+    "o": ["L type / एल प्रकार", "H type / एच प्रकार", "K type / के प्रकार", "None / कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "How many chambers are there in a biotoilet tank?",
+    "h": "एक बायोटॉयलेट टैंक में कितने चेंबर होते हैं?",
+    "o": ["7", "6", "8", "5"],
+    "c": 0
+  },
+  {
+    "q": "Flat tyre allowed limit in coaching Stock is?",
+    "h": "कोचिंग स्टॉक में फ्लैट टायर की अनुमत सीमा है?",
+    "o": ["30 mm", "50 mm", "75 mm", "80 mm"],
+    "c": 2
+  },
+  {
+    "q": "Which type of CBC is fitted in LHB Coaches?",
+    "h": "एलएचबी कोचों में किस प्रकार का सीबीसी लगाया जाता है?",
+    "o": ["H", "E", "K", "None / कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "What is the maximum buffer plunger stroke in mm?",
+    "h": "अधिकतम बफर प्लंजर स्ट्रोक मिमी में कितना है?",
+    "o": ["131 mm", "129 mm", "127 mm", "133 mm"],
+    "c": 1
+  },
+  {
+    "q": "What does 'C' stands for in BCN wagon?",
+    "h": "बीसीएन वैगन में 'C' का क्या अर्थ है?",
+    "o": ["Cursed / अभिशप्त", "Covered / कवर्ड", "Corner / कोर्नर", "Charge / चार्ज"],
+    "c": 1
+  },
+  {
+    "q": "How many brake cylinders are there in a BMS wagon?",
+    "h": "बीएमएस वैगन में कितने ब्रेक सिलेंडर होते हैं?",
+    "o": ["4", "1", "2", "3"],
+    "c": 2
+  },
+  {
+    "q": "Number of total openings in a modified CASNUB 22 HS bogie is?",
+    "h": "संशोधित CASNUB 22 HS बोगी में कुल खुलने की संख्या है?",
+    "o": ["24", "28", "30", "32"],
+    "c": 1
+  },
+  {
+    "q": "Which is the unidirectional pressure valve?",
+    "h": "एकदिशीय दबाव वाल्व कौन सा है?",
+    "o": ["Angle cock / एंगल कॉक", "Isolating cock / आइसोलेटिंग कॉक", "NRV / एनआरवी", "DV / डीवी"],
+    "c": 2
+  },
+  {
+    "q": "Axle Load of a Non AC LHB Coach is?",
+    "h": "एक नॉन एसी एलएचबी कोच का एक्सल लोड है?",
+    "o": ["14 ton / 14 टन", "18 ton / 18 टन", "19.25 ton / 19.25 टन", "16.25 ton / 16.25 टन"],
+    "c": 3
+  },
+  {
+    "q": "Wheel distance gauge is (Distance between two wheels on an axle) mm?",
+    "h": "व्हील दूरी गेज (एक एक्सल पर दो पहियों के बीच की दूरी) मिमी में है?",
+    "o": ["1600+2", "1600-2", "1600+1", "1600-1"],
+    "c": 2
+  },
+  {
+    "q": "Minimum wheel diameter allowed in running condition in a CASNUB bogie in BOXN is?",
+    "h": "बॉक्सएन में CASNUB बोगी में चलती स्थिति में अनुमत न्यूनतम पहिया व्यास है?",
+    "o": ["1000 mm", "906 mm", "930 mm", "954 mm"],
+    "c": 3
+  },
+  {
+    "q": "What is checked with Knuckle stretch Gauge?",
+    "h": "नकल स्ट्रेच गेज से क्या जांचा जाता है?",
+    "o": ["Striker casting wear / स्ट्राइकर कास्टिंग वियर", "Knuckle pin wear / नकल पिन वियर", "Knuckle wear / नकल वियर", "Draft pad wear / ड्राफ्ट पैड वियर"],
+    "c": 0
+  },
+  {
+    "q": "How many types of adapters are used in wagons?",
+    "h": "वैगनों में कितने प्रकार के एडॉप्टर्स का उपयोग किया जाता है?",
+    "o": ["5", "3", "2", "4"],
+    "c": 1
+  },
+  {
+    "q": "Length of a LHB coach (Coupler to Coupler) is?",
+    "h": "एक एलएचबी कोच की लंबाई (कपलर से कपलर) है?",
+    "o": ["22 m", "24 m", "26 m", "28 m"],
+    "c": 1
+  },
+  {
+    "q": "Which type of Brake system does a LHB coach have?",
+    "h": "एलएचबी कोच में किस प्रकार की ब्रेक प्रणाली होती है?",
+    "o": ["Bogie mounted disc / बोगी माउंटेड डिस्क", "Underframe mounted disc / अंडरफ्रेम माउंटेड डिस्क", "Axle mounted disc / एक्सल माउंटेड डिस्क", "None / कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Brake type of CTR is used in BOXN wagon?",
+    "h": "बॉक्सएन वैगन में सीटीआर का ब्रेक प्रकार कौन सा है?",
+    "o": ["A", "E", "K", "S"],
+    "c": 2
+  },
+  {
+    "q": "BOXNEL wagon has axle load of ___ ton?",
+    "h": "बॉक्सएनईएल वैगन का एक्सल लोड ___ टन है?",
+    "o": ["22.9", "20.9", "25", "20.8"],
+    "c": 0
+  },
+  {
+    "q": "First ROH of BOXNEL wagon after manufacturing occurs in ___ months?",
+    "h": "निर्माण के बाद बॉक्सएनईएल वैगन का पहला आरओएच ___ महीनों में होता है?",
+    "o": ["18", "24", "21", "30"],
+    "c": 0
+  },
+  {
+    "q": "What is the maximum brake cylinder pressure in LHB coach?",
+    "h": "एलएचबी कोच में अधिकतम ब्रेक सिलेंडर दबाव कितना है?",
+    "o": ["3.8 kg/cm²", "2.2 kg/cm²", "3.4 kg/cm²", "1 kg/cm²"],
+    "c": 0
+  },
+  {
+    "q": "APM is also known by which valve?",
+    "h": "एपीएम को किस वाल्व के नाम से भी जाना जाता है?",
+    "o": ["EL45", "EL70", "EL60", "EL80"],
+    "c": 1
+  },
+  {
+    "q": "How many doors are there in BOXN wagon?",
+    "h": "बॉक्सएन वैगन में कितने दरवाजे होते हैं?",
+    "o": ["4", "2", "6", "8"],
+    "c": 0
+  },
+  {
+    "q": "What is 'S' in WSP of LHB coaches?",
+    "h": "एलएचबी कोचों के डब्ल्यूएसपी में 'S' का क्या अर्थ है?",
+    "o": ["Slip / स्लिप", "Safety / सेफ्टी", "Side / साइड", "Skid / स्किड"],
+    "c": 3
+  },
+  {
+    "q": "Which type of bogie has FIBA system?",
+    "h": "किस प्रकार की बोगी में एफआईबीए प्रणाली होती है?",
+    "o": ["Coil Spring / कॉइल स्प्रिंग", "Air Spring / एयर स्प्रिंग", "Helical Spring / हेलिकल स्प्रिंग", "All of them / सभी"],
+    "c": 1
+  },
+  {
+    "q": "HABD is used for detecting?",
+    "h": "एचएबीडी का उपयोग किसका पता लगाने के लिए किया जाता है?",
+    "o": ["Brake Binding / ब्रेक बाइंडिंग", "Load Uncouple / लोड अनकपल", "Hot axle / हॉट एक्सल", "Pressure Transducer / प्रेशर ट्रांसड्यूसर"],
+    "c": 2
+  },
+  {
+    "q": "Which city is known as Silk city in India?",
+    "h": "भारत में किस शहर को सिल्क सिटी के नाम से जाना जाता है?",
+    "o": ["Bhagalpur / भागलपुर", "Varanasi / वाराणसी", "Mysore / मैसूर", "Jaipur / जयपुर"],
+    "c": 0
+  },
+  {
+    "q": "What is the angle of Wedge in CASNUB Bogie?",
+    "h": "कैस्नब बोगी में वेज का कोण कितना है?",
+    "o": ["53°", "30°", "45°", "60°"],
+    "c": 2
+  },
+  {
+    "q": "How many headstocks are there in a wagon?",
+    "h": "एक वैगन में कितने हेडस्टॉक होते हैं?",
+    "o": ["4", "2", "6", "8"],
+    "c": 1
+  },
+  {
+    "q": "What does 'C' stand for in CRO?",
+    "h": "सीआरओ में 'C' का क्या अर्थ है?",
+    "o": ["Compressor / कंप्रेसर", "Condenser / कंडेन्सर", "Cattle / मवेशी", "Cooler / कूलर"],
+    "c": 1
+  },
+  {
+    "q": "Which is a renewable source of energy?",
+    "h": "ऊर्जा का नवीकरणीय स्रोत कौन सा है?",
+    "o": ["Solar / सौर", "Diesel / डीजल", "Coal / कोयला", "Petrol / पेट्रोल"],
+    "c": 0
+  },
+  {
+    "q": "Which is the Longest river in India?",
+    "h": "भारत की सबसे लंबी नदी कौन सी है?",
+    "o": ["Narmada / नर्मदा", "Brahmaputra / ब्रह्मपुत्र", "Ganga / गंगा", "Godavari / गोदावरी"],
+    "c": 1
+  },
+  {
+    "q": "Which is not a fire safety equipment?",
+    "h": "कौन सा अग्नि सुरक्षा उपकरण नहीं है?",
+    "o": ["Fire Extinguisher / अग्निशामक", "Stretcher / स्ट्रेचर", "Fire ball / फायर बॉल", "Fire hydrant / फायर हाइड्रेंट"],
+    "c": 1
+  },
+  {
+    "q": "How much brake pressure leak is allowed in RTR of examined rake in one minute?",
+    "h": "जांचे गए रेक के आरटीआर में एक मिनट में कितना ब्रेक प्रेशर लीक की अनुमति है?",
+    "o": ["0.5 kg/cm²", "0.4 kg/cm²", "0.25 kg/cm²", "1 kg/cm²"],
+    "c": 2
+  },
+  {
+    "q": "What machine is used to cut Stainless Steel in wagons?",
+    "h": "वैगनों में स्टेनलेस स्टील को काटने के लिए किस मशीन का उपयोग किया जाता है?",
+    "o": ["Plasma Cutter / प्लाज्मा कटर", "Welding Machine / वेल्डिंग मशीन", "Gas Cutting / गैस कटिंग", "MIG Welding / एमआईजी वेल्डिंग"],
+    "c": 0
+  },
+  {
+    "q": "What holds a CASNUB Bogie to wagon body during lifting of wagon by EOT crane?",
+    "h": "ईओटी क्रेन द्वारा वैगन उठाने के दौरान कैस्नब बोगी को वैगन बॉडी से क्या जोड़े रखता है?",
+    "o": ["Top Centre Pivot / टॉप सेंटर पिवोट", "Pivot Pin with Buckle lock / बकल लॉक के साथ पिवोट पिन", "Bottom Centre Pivot / बॉटम सेंटर पिवोट", "Door lock Pin / दरवाजा लॉक पिन"],
+    "c": 1
+  },
+  {
+    "q": "Which of the following is a Prime Number?",
+    "h": "निम्नलिखित में से कौन सी एक अभाज्य संख्या है?",
+    "o": ["91", "101", "81", "111"],
+    "c": 1
+  },
+  {
+    "q": "Who is known as father of Indian Constitution?",
+    "h": "भारतीय संविधान के पिता के रूप में किसे जाना जाता है?",
+    "o": ["Mahatma Gandhi / महात्मा गांधी", "Jawaharlal Nehru / जवाहरलाल नेहरू", "B.R. Ambedkar / बी.आर. अम्बेडकर", "Indira Gandhi / इंदिरा गांधी"],
+    "c": 2
+  },
+  {
+    "q": "What gets damaged if welding is done without earthing?",
+    "h": "अर्थिंग किए बिना वेल्डिंग करने पर क्या क्षतिग्रस्त होता है?",
+    "o": ["Axle / एक्सल", "Wheel / पहिया", "CTRB / सीटीआरबी", "Body / बॉडी"],
+    "c": 2
+  },
+  {
+    "q": "Which is not under Ministry of Railway?",
+    "h": "रेल मंत्रालय के अधीन कौन सा नहीं है?",
+    "o": ["Kolkata Metro / कोलकाता मेट्रो", "Delhi Metro / दिल्ली मेट्रो", "Konkan Railway / कोकण रेलवे", "IRCTC / आईआरसीटीसी"],
+    "c": 3
+  },
+  {
+    "q": "Who has developed Freight Maintenance Module?",
+    "h": "फ्रेट मेनटेनेंस मॉड्यूल किसने विकसित किया है?",
+    "o": ["IRCTC / आईआरसीटीसी", "DFCC / डीएफसीसी", "CRIS / क्रिस", "None / कोई नहीं"],
+    "c": 2
+  },
+  {
+    "q": "What is 'R' in RFID?",
+    "h": "आरएफआईडी में 'R' का क्या अर्थ है?",
+    "o": ["Reserve / रिजर्व", "Radio / रेडियो", "Rabio / रेबिओ (गलत वर्तनी)", "Revenue / रेवेन्यू"],
+    "c": 1
+  },
+  {
+    "q": "NMG coaches are used for loading which item?",
+    "h": "एनएमजी कोच किस वस्तु को लोड करने के लिए उपयोग किए जाते हैं?",
+    "o": ["Car / कार", "Rail lines / रेल लाइनें", "Coal / कोयला", "Major / प्रमुख"],
+    "c": 0
+  },
+  {
+    "q": "Which is the highest mountain range in the world?",
+    "h": "दुनिया की सबसे ऊँची पर्वत श्रृंखला कौन सी है?",
+    "o": ["Andes / एंडीज", "Araleli / अरालेली (गलत वर्तनी)", "Himalaya / हिमालय", "Alps / आल्प्स"],
+    "c": 2
+  },
+  {
+    "q": "Number of wheels connected to hand brake in Box N wagon?",
+    "h": "बॉक्स एन वैगन में हैंड ब्रेक से जुड़े पहियों की संख्या है?",
+    "o": ["2", "4", "8", "6"],
+    "c": 1
+  },
+  {
+    "q": "When is Hindi Diwas celebrated?",
+    "h": "हिंदी दिवस कब मनाया जाता है?",
+    "o": ["14 September / 14 सितंबर", "15 August / 15 अगस्त", "26 January / 26 जनवरी", "15 October / 15 अक्टूबर"],
+    "c": 0
+  },
+  {
+    "q": "What does 'I' stand for in WILD?",
+    "h": "डब्ल्यूआईएलडी में 'I' का क्या अर्थ है?",
+    "o": ["Intense / इंटेंस", "Inside / इनसाइड", "Impact / इम्पैक्ट", "Inner / इनर"],
+    "c": 2
+  },
+  {
+    "q": "IRCA part III deals with?",
+    "h": "आईआरसीए भाग III किससे संबंधित है?",
+    "o": ["Loco / लोको", "Crane / क्रेन", "Coal / कोयला", "Wagon / वैगन"],
+    "c": 3
+  },
+  {
+    "q": "What is the Kilometer Validity of BRC of CC rakes?",
+    "h": "सीसी रेकों के बीआरसी की किलोमीटर वैधता कितनी है?",
+    "o": ["7500 km", "10000 km", "5000 km", "12000 km"],
+    "c": 0
+  },
+  {
+    "q": "Air Brake Control Reservoir is fitted on?",
+    "h": "एयर ब्रेक कंट्रोल रिजर्वायर कहाँ लगाया जाता है?",
+    "o": ["Dirt Collector / डर्ट कलेक्टर", "Auxiliary Reservoir / ऑक्जिलियरी रिजर्वायर", "Common pipe bracket / कॉमन पाइप ब्रैकेट", "None / कोई नहीं"],
+    "c": 2
+  },
+  {
+    "q": "A man is thrice as old as his son. After 12 years he will be twice as old as his son. How old is the present age of son?",
+    "h": "एक आदमी अपने बेटे से तीन गुना बूढ़ा है। 12 साल बाद वह अपने बेटे से दोगुना बूढ़ा होगा। बेटे की वर्तमान आयु कितनी है?",
+    "o": ["15", "6", "8", "12"],
+    "c": 3
+  }
+]
