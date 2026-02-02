@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "name": "Amit Kumar",
+    "email": "amit.ncr@railnet.gov.in"
+  },
+  {
+    "username": "user1",
+    "password": "pass1",
+    "name": "Rakesh Singh",
+    "email": "rakesh@gmail.com"
+  }
+]
