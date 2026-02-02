@@ -1,0 +1,248 @@
+[
+  {
+    "q": "How many brake cylinders are provided in LHB Coach?",
+    "h": "एल.एच.बी. कोच में ब्रेक सिलेंडर की संख्या कितनी होती है?",
+    "o": ["2", "4", "1", "8"],
+    "c": 3
+  },
+  {
+    "q": "Which type of brake system is provided in LHB coaches?",
+    "h": "एल.एच.बी. कोच में किस प्रकार के ब्रेक सिस्टम लगाये गये हैं?",
+    "o": ["Bogie Mounted Brake System / बोगी माउंटेड ब्रेक सिस्टम", "Bogie Mounted Brake Cylinder / बोगी माउंटेड ब्रेक सिलैण्डर", "Under frame Mounted Brake System / अण्डर फ्रेम माउंटेड ब्रेक सिस्टम", "Axle Mounted Disc Brake System / एक्सल माउंटेड डिस्क ब्रेक सिस्टम"],
+    "c": 3
+  },
+  {
+    "q": "At the one end of LHB coaches how many air hose of brake pipe has been provided?",
+    "h": "एल.एच.बी. कोच के एक सिरे पर ब्रेक पाइप एयर होज की संख्या कितनी होती है?",
+    "o": ["2 / दो", "4 / चार", "3 / तीन", "8 / आठ"],
+    "c": 0
+  },
+  {
+    "q": "At the time of brake application, what is the maximum air pressure built in brake cylinder of LHB coach?",
+    "h": "ब्रेक अप्लीकेशन के समय एल.एच.बी. कोच के ब्रेक सिलैण्डर में अधिकतम एअर प्रेशर कितना बनता है?",
+    "o": ["3.8 kg/cm2 / 3.8 किग्रा/सेमी²", "2.2 kg/cm2 / 2.2 किग्रा/सेमी²", "3.0 kg/cm2 / 3.0 किग्रा/सेमी²", "2.8 kg/cm2 / 2.8 किग्रा/सेमी²"],
+    "c": 2
+  },
+  {
+    "q": "How many brake disks are provided in LHB Coach?",
+    "h": "एल.एच.बी. कोच में ब्रेक डिस्क की संख्या कितनी होती है?",
+    "o": ["2", "4", "1", "8"],
+    "c": 3
+  },
+  {
+    "q": "In LHB Coach, Brake indicators turn to red when?",
+    "h": "एल.एच.बी. कोच में लगे ब्रेक इंडिकेटर लाल कब हो जाते हैं?",
+    "o": ["1 and 2 is True / 1 एवं 2 सही है", "1, 2 and 4 is True / 1, 2 एवं 4 सही है", "1, 3 is True / 1 एवं 3 सही है", "2, 3 and 4 is True / 2, 3 एवं 4 सही है"],
+    "c": 3
+  },
+  {
+    "q": "What is the location of Distributor Valve in LHB Coach?",
+    "h": "एल.एच.बी. कोच में डिस्ट्रीब्यूटर वाल्व (D.V.) कहाँ लगाया गया है?",
+    "o": ["In Under frame / कोच अंडरफ्रेम पर", "Near brake indicators / ब्रेक इंडिकेटर के पास", "On brake control panel / ब्रेक कंट्रोल पैनल पर", "Behind foot step / फुट स्टेप के पीछे"],
+    "c": 2
+  },
+  {
+    "q": "D.V. sensitivity test is carried out at how much air pressure drop?",
+    "h": "डी.वी. का सेंसिटिविटी टेस्ट कितने प्रेशर ड्रॉप पर होता है?",
+    "o": ["0.25 kg/cm2 per min", "0.3 kg/cm2 per min", "0.6 kg/cm2 per 6 sec", "0.2 kg/cm2 per min"],
+    "c": 2
+  },
+  {
+    "q": "During D.V. sensitivity test, brakes should be?",
+    "h": "डी.वी. की सेंसिटिविटी टेस्ट के समय ब्रेक की स्थिति क्या होनी चाहिए?",
+    "o": ["Applied / लगने चाहिए", "Not applied / नहीं लगने चाहिए", "Both a & b / a एवं b दोनों", "None / कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "What is the B.P. & F.P. pipe diameter in LHB coaches?",
+    "h": "एल.एच.बी. कोच में बी.पी. एवं एफ.पी. पाइप का व्यास कितना होता है?",
+    "o": ["23 mm", "25 mm", "28 mm", "32 mm"],
+    "c": 1
+  },
+  {
+    "q": "How many brake indicators are provided in ICF (BMBC) Coach?",
+    "h": "आई.सी.एफ. (बी.एम.बी.सी.) कोच में ब्रेक इंडिकेटर की संख्या कितनी होती है?",
+    "o": ["Two / दो", "Four / चार", "Nil / कुछ नहीं", "Eight / आठ"],
+    "c": 1
+  },
+  {
+    "q": "When BP pressure is dropped in air brake system, which reservoir air enters in brake cylinder?",
+    "h": "एयर ब्रेक सिस्टम में बी.पी. प्रेशर गिराने पर किस रिजर्वोयर की हवा ब्रेक सिलैण्डर में जाती है?",
+    "o": ["1 and 3 is True / 1 एवं 3 सही है", "Only 2 is True / सिर्फ 2 सही है", "3 and 4 is True / 3 एवं 4 सही है", "Only 4 is True / सिर्फ 4 सही है"],
+    "c": 3
+  },
+  {
+    "q": "How many brake cylinders are provided in BVZC wagon?",
+    "h": "बी.व्ही.जेड.सी. वैगन में ब्रेक सिलैण्डर की संख्या कितनी होती है?",
+    "o": ["2", "4", "1", "8"],
+    "c": 2
+  },
+  {
+    "q": "In ICF, when hand brake applied in SLR coach, brakes are applied on how many axles?",
+    "h": "आई.सी.एफ. एस.एल.आर. कोच में हैंड ब्रेक लगाने पर कितने एक्सल पर ब्रेक लगते हैं?",
+    "o": ["Two / दो", "Four / चार", "One / एक", "Eight / आठ"],
+    "c": 0
+  },
+  {
+    "q": "Which type of coupling is provided in LHB coach?",
+    "h": "एल.एच.बी. कोच में किस प्रकार की कपलिंग लगाई गई है?",
+    "o": ["Screw Coupling / स्क्रू कपलिंग", "H type tight lock CBC / एच टाइप टाइट लॉक सी.बी.सी.", "E type CBC / ई टाइप सी.बी.सी.", "Shaku coupling / शाकू कपलिंग"],
+    "c": 1
+  },
+  {
+    "q": "What will be the maximum buffer height of coaching stock in empty condition?",
+    "h": "कोचिंग स्टॉक में खाली स्थिति में बफर की अधिकतम ऊंचाई कितनी होती है?",
+    "o": ["1005 mm", "1030 mm", "1105 mm", "1130 mm"],
+    "c": 2
+  },
+  {
+    "q": "What will be the minimum buffer height of coaching stock in loaded condition?",
+    "h": "कोचिंग स्टॉक में भरी हुई स्थिति में बफर की न्यूनतम ऊंचाई कितनी होती है?",
+    "o": ["1005 mm", "1030 mm", "1105 mm", "1130 mm"],
+    "c": 1
+  },
+  {
+    "q": "How much difference in height of buffer of coupled coach is permitted?",
+    "h": "कोचिंग स्टॉक में जोड़े जाने वाले कोचों के बफर की ऊंचाई में कितना अंतर अनुमेय है?",
+    "o": ["55 mm", "65 mm", "75 mm", "85 mm"],
+    "c": 2
+  },
+  {
+    "q": "During continuity test in Goods stock, how much B.P. air pressure is dropped by Guard?",
+    "h": "गुड्स स्टॉक में कॉन्टिन्युटी टेस्ट करते समय गार्ड द्वारा कितना बी.पी. प्रेशर गिराया जाता है?",
+    "o": ["5.0 kg/cm2", "3.6 kg/cm2", "1.0 kg/cm2", "4.0 kg/cm2"],
+    "c": 2
+  },
+  {
+    "q": "At the time of emergency brake application by Loco Pilot in Loco how much BP pressure is available in the brake van?",
+    "h": "लोको पायलट द्वारा इमरजेंसी ब्रेक लगाने पर ब्रेक वान में कितना बी.पी. प्रेशर उपलब्ध रहता है?",
+    "o": ["5.0 kg/cm2", "4.8 kg/cm2", "0 kg/cm2", "4.0 kg/cm2"],
+    "c": 2
+  },
+  {
+    "q": "What is the validity of Premium rake BPC?",
+    "h": "प्रीमियम रेक बी.पी.सी. की वैधता कितनी होती है?",
+    "o": ["10+3 days / 10+3 दिन", "15+3 days / 15+3 दिन", "12+3 days / 12+3 दिन", "13+3 days / 13+3 दिन"],
+    "c": 2
+  },
+  {
+    "q": "Which bogie is provided in wagons?",
+    "h": "वैगनों में लगाई गई बोगी का नाम क्या है?",
+    "o": ["FIAT bogie / फियाट बोगी", "CASNUB bogie / कैसनब बोगी", "ICF bogie / आई.सी.एफ. बोगी", "CALIPER bogie / कैलिपर बोगी"],
+    "c": 1
+  },
+  {
+    "q": "Which bearing is provided in LHB coach?",
+    "h": "एल.एच.बी. कोच में लगाई गई बेयरिंग का नाम क्या है?",
+    "o": ["Cartridge Spherical Roller / कार्ट्रिज स्फेरीकल रोलर", "Cartridge Tapper Plain / कार्ट्रिज टेपर प्लेन", "Spherical Roller / स्फेरीकल रोलर", "Cartridge Tapper Roller / कार्ट्रिज टेपर रोलर बेयरिंग"],
+    "c": 3
+  },
+  {
+    "q": "What is maximum speed of LHB coach?",
+    "h": "एल.एच.बी. कोच की अधिकतम गति कितनी होती है?",
+    "o": ["160 kmph", "110 kmph", "100 kmph", "120 kmph"],
+    "c": 0
+  },
+  {
+    "q": "Full form of LHB:",
+    "h": "एल.एच.बी. (LHB) का पूरा नाम क्या है:",
+    "o": ["Linke Hofmann Busch / लिंक हाफमैन बुश", "Like Hofmann Busch", "Linke Hofmann Busch", "Linke Hofmann Bag"],
+    "c": 0
+  },
+  {
+    "q": "De-code: WGSCN",
+    "h": "डिकोड करें: WGSCN",
+    "o": ["Vestibule self-gen 2nd class 3-tier / वेस्टीबुल सेल्फ जनरेशन सेकंड क्लास थ्री टियर", "2-tier sleeper / टू टियर स्लीपर", "Chair car / चेयर कार", "None / कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "De-code: GSLRD",
+    "h": "डिकोड करें: GSLRD",
+    "o": ["LHB Brake van / एल.एच.बी. ब्रेक यान", "Luggage Disabled coach / लगेज ब्रेक यान (दिव्यांगों हेतु)", "Inspection van / निरीक्षण यान", "Double Decker / डबल डेकर"],
+    "c": 1
+  },
+  {
+    "q": "De-code: NMG",
+    "h": "डिकोड करें: NMG",
+    "o": ["New Medical Goods / न्यू मेडिकल गुड्स", "New Mechanized Goods / न्यू मैकेनाइज्ड गुड्स", "New Modified Guard / न्यू मॉडिफाइड गार्ड", "New Modified Goods / न्यू मॉडिफाइड गुड्स"],
+    "c": 3
+  },
+  {
+    "q": "What is full form of WSP?",
+    "h": "डब्लू.एस.पी. (WSP) का पूरा नाम क्या है?",
+    "o": ["Wagon Slide Protection / वैगन स्लाइड प्रोटेक्शन", "Wheel Slide Prevention / व्हील स्लाइड प्रिवेंशन", "Wheel Slide Protection / व्हील स्लाइड प्रोटेक्शन", "Wagon Slide Prevention / वैगन स्लाइड प्रिवेंशन"],
+    "c": 2
+  },
+  {
+    "q": "What is the color of Feed pipe palm head in coaching stock?",
+    "h": "कोचिंग स्टॉक में फीड पाइप पाम हेड का रंग कौन सा होता है?",
+    "o": ["Green / हरा", "Yellow / पीला", "White / सफेद", "Black / काला"],
+    "c": 1
+  },
+  {
+    "q": "FIBA device is related to what?",
+    "h": "फीबा (FIBA) डिवाइस किससे संबंधित है?",
+    "o": ["Brake Binding / ब्रेक बाइंडिंग", "Flat Tyre / फ्लैट टायर", "Hot Axle / हॉट एक्सल", "Failure of Air Spring / एयर स्प्रिंग की विफलता"],
+    "c": 3
+  },
+  {
+    "q": "What is full form of RDSO?",
+    "h": "आर.डी.एस.ओ. (RDSO) का पूरा नाम क्या है?",
+    "o": ["Research Design & Structural", "Research Design & Standard Organization / रिसर्च डिजाइन और स्टैंडर्ड ऑर्गेनाइजेशन", "Research Development", "Railway Development"],
+    "c": 1
+  },
+  {
+    "q": "Where is India's first Railway Workshop located?",
+    "h": "भारत का प्रथम रेल कारखाना कहाँ पर स्थित है?",
+    "o": ["Jamalpur / जमालपुर", "Ajmer / अजमेर", "Chittaranjan / चितरंजन", "Varanasi / वाराणसी"],
+    "c": 0
+  },
+  {
+    "q": "Which is the mascot of Indian Railways?",
+    "h": "भारतीय रेल का शुभंकर कौन सा है?",
+    "o": ["Janter Manter / जंतर-मंतर", "Bholu (elephant) / भोलू (हाथी)", "Hodori Tiger / होदोरी बाघ", "Railway Engine / रेलवे इंजन"],
+    "c": 1
+  },
+  {
+    "q": "PNR Stands for:",
+    "h": "पी.एन.आर. (PNR) का अर्थ है:",
+    "o": ["Personal name record / पर्सनल नाम रिकॉर्ड", "Passenger number record", "Passenger name record / पैसेंजर नाम रिकॉर्ड", "Passenger name reservation"],
+    "c": 2
+  },
+  {
+    "q": "POH of LHB Coach is done at the interval of ___ months.",
+    "h": "एल.एच.बी. कोच का पी.ओ.एच. कितने माह के अंतराल पर किया जाता है?",
+    "o": ["24", "12", "18", "36"],
+    "c": 3
+  },
+  {
+    "q": "What is the gauge of IR's Broad Gauge?",
+    "h": "भारतीय रेल के ब्रॉड गेज (BG) की माप कितनी है?",
+    "o": ["1000 mm", "1776 mm", "1676 mm", "2896 mm"],
+    "c": 2
+  },
+  {
+    "q": "Who among the following is known as the father of Indian Railways?",
+    "h": "किसे भारतीय रेल का जनक माना जाता है?",
+    "o": ["Lord Dalhousie / लार्ड डलहौजी", "Lord Ripon / लार्ड रिपन", "Mahatma Gandhi / महात्मा गांधी", "M. Visweswariah / एम. विश्वेश्वरैया"],
+    "c": 0
+  },
+  {
+    "q": "CMPE stands for:",
+    "h": "सी.एम.पी.ई. (CMPE) का अर्थ क्या है:",
+    "o": ["Chief Manpower Planning Engineer", "Chief Motive Power Engineer / चीफ मोटिव पावर इंजीनियर", "Chief Man Power Engineer", "Chief Material Planning Engineer"],
+    "c": 1
+  },
+  {
+    "q": "What is the colour of BPC for close circuit air brake rake (Goods Stock)?",
+    "h": "गुड्स स्टॉक के क्लोज सर्किट (CC) एयर ब्रेक रेक में बी.पी.सी. का रंग क्या होता है?",
+    "o": ["Yellow / पीला", "Green / हरा", "Blue / नीला", "White / सफेद"],
+    "c": 0
+  },
+  {
+    "q": "The color of BPC of Premium rakes is:",
+    "h": "प्रीमियम रेक की बी.पी.सी. का रंग कैसा होता है:",
+    "o": ["Yellow / पीला", "Red / लाल", "Green / हरा", "Black / काला"],
+    "c": 2
+  }
+]
