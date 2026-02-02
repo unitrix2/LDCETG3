@@ -1,0 +1,662 @@
+[
+  {
+    "q": "World Environment day is celebrated every year on.........",
+    "h": "हर वर्ष विश्व पर्यावरण दिवस मनाया जाता है-",
+    "o": ["25th June", "5th Jan", "14 Sept", "15th June"],
+    "c": 1
+  },
+  {
+    "q": "The Governor of Chhattisgarh is.......",
+    "h": "छत्तीसगढ़ के राज्यपाल हैं-",
+    "o": ["Dinesh Nandan Sahay / दिनेश नंदन सहाय", "Anandi Ben Patel / आनंदी बेन पटेल", "Anusuiya Uikey / अनुसुईया उइके", "None of these / इनमें से कोई नहीं"],
+    "c": 2
+  },
+  {
+    "q": "No. of districts in CG state is........",
+    "h": "छत्तीसगढ़ राज्य में जिलों की संख्या है-",
+    "o": ["30", "28", "33", "15"],
+    "c": 2
+  },
+  {
+    "q": "Vigilance awareness week is celebrated from...",
+    "h": "सतर्कता सप्ताह मनाया जाता है-",
+    "o": ["27 Oct to 02 Nov", "27 Sep to 02 Oct", "27 Nov to 02 Dec", "None of these / इनमें से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "The Chief Justice of India is........",
+    "h": "भारत के मुख्य न्यायाधीश हैं-",
+    "o": ["Justice Bhushan Gavai / जस्टिस भूषण गवई", "Justice Sharad A Bobde / जस्टिस शरद ए बोबड़े", "Justice A.B. Deshpande / जस्टिस ए.बी. देशपांडे", "Justice Jitendra Chaudhary / जस्टिस जितेन्द्र चौधरी"],
+    "c": 1
+  },
+  {
+    "q": "The Kumbh Mela is organized at interval of...........years",
+    "h": "कुम्भ मेला ........ वर्षों के अंतराल में आयोजित होता है-",
+    "o": ["15", "12", "6", "10"],
+    "c": 1
+  },
+  {
+    "q": "Yoga day is celebrated every year on.........",
+    "h": "योग दिवस हर वर्ष ........ को मनाया जाता है-",
+    "o": ["21 May", "20 June", "21 June", "21 Dec"],
+    "c": 2
+  },
+  {
+    "q": "Which is the highest gallantry award in India",
+    "h": "भारत का सर्वोच्च वीरता पुरस्कार है-",
+    "o": ["Shurveer Chakra / शूरवीर चक्र", "Mahaveer Chakra / महावीर चक्र", "Paramveer Chakra / परमवीर चक्र", "Ashok Chakra / अशोक चक्र"],
+    "c": 2
+  },
+  {
+    "q": "The biggest desert of world is......",
+    "h": "विश्व का सबसे बड़ा मरूस्थल है-",
+    "o": ["Sahara / सहारा", "Thar / थार", "Arabian / अरबियन मरूस्थल", "None of these / इनमें से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Which is the biggest State in India.....",
+    "h": "भारत का सबसे बड़ा राज्य है-",
+    "o": ["Rajasthan / राजस्थान", "MP / मध्यप्रदेश", "Maharashtra / महाराष्ट्र", "UP / उत्तर प्रदेश"],
+    "c": 0
+  },
+  {
+    "q": "Who is not been honored with Bharat Ratna....",
+    "h": "इनमें से भारत रत्न कौन नहीं है-",
+    "o": ["Bhupen Hajarika / भूपेन हजारिका", "Bhimsen Joshi / भीमसेन जोशी", "Amratya Sen / अमर्त्य सेन", "Major Dhyanchand / मेजर ध्यानचंद"],
+    "c": 3
+  },
+  {
+    "q": "GM of SEC Railway is......",
+    "h": "द.पू.म.रेलवे के महाप्रबंधक हैं-",
+    "o": ["Goutam Chatterjee / गौतम चटर्जी", "Goutam Bannerjee / गौतम बनर्जी", "Naveen Tandon / नवीन टंडन", "Sunil S Soin / सुनील सिंह सोइन"],
+    "c": 3
+  },
+  {
+    "q": "Which team has won IPL 2020......",
+    "h": "आई.पी.एल. 2020 के विजेजा हैं-",
+    "o": ["Kings XI Punjab", "Delhi Capitals", "Mumbai Indians", "Chennai Superkings"],
+    "c": 2
+  },
+  {
+    "q": "The Ramayan is written by......",
+    "h": "रामायण के रचयिता हैं-",
+    "o": ["Ramanand Sagar / रामानंद सागर", "Moti Sagar / मोती सागर", "Goswami Tulsidas / गोस्वामी तुलसीदास", "Surdas / सूरदास"],
+    "c": 2
+  },
+  {
+    "q": "Messi is player of................",
+    "h": "मेस्सी......के खिलाड़ी हैं-",
+    "o": ["Cricket / क्रिकेट", "Hockey / हॉकी", "Football / फूटबॉल", "Kabaddi / कबड्डी"],
+    "c": 2
+  },
+  {
+    "q": "When did the section 3(3) of official language at come into existence...",
+    "h": "राजभाषा की धारा 3 (3) कब से शुरू हुई",
+    "o": ["26.02.1965", "26.01.1965", "05.09.1967", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "When was the official language rule passed...",
+    "h": "राजभाषा अधिनियम कब पारित हुआ-",
+    "o": ["1970", "1975", "1976", "1979"],
+    "c": 2
+  },
+  {
+    "q": "State of Rajasthan and Bihar come under region-",
+    "h": "राजस्थान एवं बिहार किस क्षेत्र में आते हैं-",
+    "o": ["A", "B", "C", "D"],
+    "c": 0
+  },
+  {
+    "q": "State of Kerala and Odisha come under region -",
+    "h": "केरल एवं उड़ीसा किस क्षेत्र में आते हैं-",
+    "o": ["A", "B", "C", "D"],
+    "c": 2
+  },
+  {
+    "q": "The amount of award on passing Prabodh Examination with 70% marks or more is......",
+    "h": "प्रबोध परीक्षा 70 प्रतिशत या अधिक अंक लाकर पास होने पर.. रुपये का पुरस्कार मिलता है-",
+    "o": ["5000/-", "3000/-", "1600/-", "1000/-"],
+    "c": 2
+  },
+  {
+    "q": "How many hindi couses are prescribed for Central Government Employees...",
+    "h": "केन्द्रीय सरकार के कर्मचारियों के लिए कितने पाठ्यक्रम निर्धारित हैं-",
+    "o": ["8", "2", "4", "3"],
+    "c": 3
+  },
+  {
+    "q": "Who is the Chairman of Central Hindi Committee....",
+    "h": "केन्द्रीय हिन्दी समिति के अध्यक्ष कौन हैं-",
+    "o": ["Rail Minister / रेल मंत्री", "Home Minister / गृह मंत्री", "Prime Minister / प्रधानमंत्री", "President of India / राष्ट्रपति"],
+    "c": 2
+  },
+  {
+    "q": "How many members are there in the parliamentary Committee of official language...",
+    "h": "राजभाषा की संसदीय समिति के कितने सदस्य हैं-",
+    "o": ["40", "10", "30", "20"],
+    "c": 2
+  },
+  {
+    "q": "At present how many sub committees are there in parliamentary committee on official language...",
+    "h": "फिलहाल राजभाषा की संसदीय समिति की कितनी उपसमिति हैं-",
+    "o": ["6", "5", "3", "4"],
+    "c": 2
+  },
+  {
+    "q": "Who prepares the annual programme on official language...",
+    "h": "राजभाषा पर वार्षिक कार्यक्रम कौन तय करता है-",
+    "o": ["Ministry of finance / वित्त मंत्रालय", "Ministry of Agriculture / कृषि मंत्रालय", "Ministry of Home Affairs / गृह मंत्रालय", "Ministry of Human Resources / मानव संसाधन मंत्रालय"],
+    "c": 2
+  },
+  {
+    "q": "Leave encashment again can be claim after a gap of. ...years",
+    "h": "..वर्षों के अंतराल पर दोबारा छुट्टी का नकदीकरण किया जा सकता है।",
+    "o": ["5", "1", "2", "3"],
+    "c": 2
+  },
+  {
+    "q": "How many days of leave encashment including LHAP can be done at the time of retirement.....",
+    "h": "रिटायरमेंट के समय कितने दिन का अर्धसवैतनिक अवकाश मिलाकर भुगतान किया जा सकता है-",
+    "o": ["200", "250", "300", "None of these"],
+    "c": 2
+  },
+  {
+    "q": "What is the maximum limit of maternity leave......",
+    "h": "मातृत्व अवकाश की अधिकतम सीमा क्या है-",
+    "o": ["3 months", "2 months", "6 months", "12 months"],
+    "c": 2
+  },
+  {
+    "q": "What is the maximum limit of CCL granted in a year to eligible women employee....",
+    "h": "अधिकतम कितनी बार एक वर्ष में महिला कर्मचारी को चाईल्ड केयर लीव स्वीकृत की जा सकती है-",
+    "o": ["6 times", "2 times", "3 times", "Anytime"],
+    "c": 2
+  },
+  {
+    "q": "How many days of leave on half stipend can be granted to a Mechanic apprentice on medical certificate in a year....",
+    "h": "एक अप्रैन्टिस मैकेनिक को कितने दिनों का आधी वृत्तिका चिकित्सा प्रमाण पत्र के आधार पर दी जा सकती है-",
+    "o": ["40 days", "30 days", "20 days", "5 days"],
+    "c": 2
+  },
+  {
+    "q": "An eligible male employee can be sanctioned.......days paternity leave..",
+    "h": "एक पात्र पुरुष कर्मचारी को कितने दिन का पितृत्व अवकाश दिया जा सकता है-",
+    "o": ["10", "15", "30", "7"],
+    "c": 1
+  },
+  {
+    "q": "An eligible male employee can be granted paternity leave up to",
+    "h": "एक पात्र पुरुष कर्मचारी को कितने दिनों के बाद तक पितृत्व अवकाश दिया जा सकता है-",
+    "o": ["जन्म के 6 माह तक / Upto 6 month from the date of birth", "जन्म के 3 माह तक / Upto 3 month from the date of birth", "जन्म के 2 माह तक / Upto 2 months from the date of birth", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "Maximum limit of CCL is ....",
+    "h": "अधिकतम चाईल्ड केयर लीव की सीमा है-",
+    "o": ["365 days", "730 days", "210 days", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "...........day joining time can be granted to a railway servant if he joins at same station...",
+    "h": "एक स्टेशन पर पोस्टिंग होने पर ज्वाईनिंग समय है-",
+    "o": ["1 day", "7 days", "3 days", "6 days"],
+    "c": 0
+  },
+  {
+    "q": "...is standard form suspension of a railway servant",
+    "h": "निलंबन का स्टैंडर्ड मानक पत्र है-",
+    "o": ["SF-1", "SF-2", "SF-3", "SF-5"],
+    "c": 0
+  },
+  {
+    "q": "SF-5 is a standard form of",
+    "h": "एस.एफ.-5 ....का मानक पत्र है-",
+    "o": ["Minor penalty / छोटी शास्ति", "Major penalty / बड़ी शास्ति", "Suspension / निलंबन", "Deemed suspension / मान्य निलंबन"],
+    "c": 1
+  },
+  {
+    "q": "Which is not a minor penalty...",
+    "h": "इनमें से छोटी शास्ति नहीं है-",
+    "o": ["Censure / सेन्स्युर", "Stoppage of Pass / पास रोकना", "Stoppage of Increment of one year / एक साल तक वेतनवृद्धि रोकना", "Removal from service / नौकरी से निकाल देना"],
+    "c": 3
+  },
+  {
+    "q": "Which one of the following is a penalty under D & A rule...",
+    "h": "इनमें से कौन डी एण्ड ए नियम के अनुसार एक दण्ड है-",
+    "o": ["Administrative counseling / अधिकारिक मशविरा", "Recorded warning / लिखित चेतावनी", "Confidential Displeasure / गोपनीय असंतोष", "Censure / सेन्स्युर"],
+    "c": 3
+  },
+  {
+    "q": "DV is overhauled during..........",
+    "h": "डी.वी. की मरम्मत....के दौरान की जाती है-",
+    "o": ["POH", "MOH", "During malfunctioning / जब ठीक से काम न करे", "When placed at sick line / जब सिक लाईन में हो"],
+    "c": 0
+  },
+  {
+    "q": "pressure is required to test the air hoses in Air brake system",
+    "h": "एयर ब्रेक सिस्टम में एयर होस को दबाव पर चेक किया जाता है-",
+    "o": ["5 KgCM²", "6 KgCM²", "10 KgCM²", "8.5 KgCM²"],
+    "c": 2
+  },
+  {
+    "q": "A DV is considered non sensitive if on reduction of 0.3 KgCM² in 60 second...",
+    "h": "एक डी.वी. को असंवेदनशील माना जाता है जब 0.3 KgCM² का दबाव 60 सेकंड में घटाने पर-",
+    "o": ["It does not work / काम नहीं करता है", "It applies brake", "It starts releasing", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "A and E dimension are related with........",
+    "h": "ए एवं ई डाईमेंशन.. ...से संबंधित हैं-",
+    "o": ["DV", "Brake cylinder", "AR", "SAB"],
+    "c": 3
+  },
+  {
+    "q": "The distance of a SAB between Control rod head and barrel when brakes are fully released is called.....",
+    "h": "रिलीज अवस्था में एस.ए.बी. बैरल एवं कंट्रोल हेड के बीच की दूरी को कहते हैं-",
+    "o": ["A dimension / ए डाईमेंशन", "E dimension / ई डाईमेंशन", "D dimension / डी डाईमेंशन", "C dimension / सी डाईमेंशन"],
+    "c": 0
+  },
+  {
+    "q": "The piston stroke of a BOXN wagon in load condition is",
+    "h": "लोड अवस्था में BOXN wagon का पिस्टन स्ट्रोक होता है-",
+    "o": ["85+-10", "130+-10", "100+-10", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "In Air Brake system on releasing of brake the air from brake cylinder goes to....",
+    "h": "एयर ब्रेक सिस्टम में रिलीज करने पर ब्रेक सिलिण्डर की हवा जाती है-",
+    "o": ["Atmosphere / वातावरण", "DV / डी.वी.", "AR / ए.आर.", "BP / बी.पी."],
+    "c": 0
+  },
+  {
+    "q": "In a Twin pipe graduated release Air brake system AR is charged through....",
+    "h": "दो पाईप के एयर ब्रेक सिस्टम में ए.आर. चार्ज होता है...के द्वारा-",
+    "o": ["BP", "FP", "BC", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "A draft gear is removed from service for reclamation/condemnation if",
+    "h": "ड्राफ्ट गियर को सर्विस से हटाया जाता है/बनाया जाता है जब-",
+    "o": ["Free slack exceeds 25mm / फ्री स्लैक 25 एम.एम. से ज्यादा हो", "Free slack exceeds 50mm", "Free slack exceeds 60mm", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "CBC Coupler is checked by",
+    "h": "सी.बी.सी. कपलर को.. .से चेक किया जाता है-",
+    "o": ["Contour Gauge / कंटूर गेज", "Snap gauge / स्नैप गेज", "Micro meter", "Screw gauge"],
+    "c": 0
+  },
+  {
+    "q": "Which is not a part of CBC",
+    "h": "इनमें सी.बी.सी. का भाग नहीं है-",
+    "o": ["Coupler body", "Operating handle / ऑपरेटिंग हैण्डल", "Yoke / योक", "Centre pivot / सेंटर पिवट"],
+    "c": 3
+  },
+  {
+    "q": "One coach fitted with screw coupling can be attached to BOXN wagon by",
+    "h": "एक स्क्रू कपलिंग लगा हुआ कोच BOXN wagon के द्वारा जोड़ा जा सकता है-",
+    "o": ["Transition coupler / ट्रांजिशन कपलर", "CBC", "Universal Coupler", "Narrow Gauge"],
+    "c": 0
+  },
+  {
+    "q": "For root run welding of RF361 Draft gear............welding is used",
+    "h": "RF361 Draft gear का रूट रन..... वेल्डिंग द्वारा किया जाता है-",
+    "o": ["Gas welding", "Submerged Arc welding", "MIG Welding", "Laser Beam welding"],
+    "c": 2
+  },
+  {
+    "q": "Which one of the CBC component is likely to fail first on sudden jerk during shunting",
+    "h": "शंटिंग के जर्क के दौरान सबसे ज्यादा कौन सा पार्ट टूटने की संभावना रहती है-",
+    "o": ["Yoke / योक", "Coupler Body", "Yoke Pin", "Knuckle / नकल"],
+    "c": 3
+  },
+  {
+    "q": "The must change item of CTRB is",
+    "h": "सी.टी.आर.बी. ओवरहॉलिंग में इन्हें अवश्य ही बदला जाना चाहिए-",
+    "o": ["Locking plate", "Endcap screw", "Grease seal", "All of them"],
+    "c": 3
+  },
+  {
+    "q": "To tighten the end cap screw the required torque is.....",
+    "h": "इंडकैप स्क्रू को टॉर्क से कसा जाता है-",
+    "o": ["45 KgM", "80 KgM", "40 KgM", "100 KgM"],
+    "c": 2
+  },
+  {
+    "q": "Spherical roller bearing is used in...",
+    "h": "स्फेरिकल रोलर बेरिंग में लगती है-",
+    "o": ["BOXNHL", "BCNHL", "BVZC", "None of these"],
+    "c": 2
+  },
+  {
+    "q": "BVZC is fitted with...",
+    "h": "बी.वी.जेड.सी. में फिट होती है-",
+    "o": ["E class CTRB", "Spherical roller bearing / स्फेरिकल रोलर बेरिंग", "Cylindrical roller bearing / सिलिंड्रिकल रोलर बेरिंग", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "Journal thread holes are checked for their condition by......",
+    "h": "जर्नल का थ्रेड होल जांचा जाता है....... के द्वारा",
+    "o": ["Snap gauge / स्नैप गेज", "Digital Micro meter", "Baker gauge / बेकर गेज", "Stud plug gauge / स्टड प्लग गेज"],
+    "c": 3
+  },
+  {
+    "q": "..no. of brake blocks are fitted in a casnub trolley",
+    "h": "एक कैसनब ट्रॉली में .. ब्रेक ब्लॉक लगते हैं-",
+    "o": ["4", "6", "8", "2"],
+    "c": 2
+  },
+  {
+    "q": "One BOXN wagon is fitted with .........no. of EM pad",
+    "h": "एक BOXN wagon में .ई.एम. पैड लगे होते हैं-",
+    "o": ["4", "8", "12", "16"],
+    "c": 0
+  },
+  {
+    "q": "One CASNUB bogie is fitted with ......no. of snubber spring",
+    "h": "एक कैसनब बोगी में ..स्नबर स्प्रिंग लगे होते हैं-",
+    "o": ["4", "8", "12", "16"],
+    "c": 0
+  },
+  {
+    "q": ".........no of outer springs are fitted in a CASNUB NLB bogie-",
+    "h": "एक एन.एल.बी. कैसनब बोगी में ...आउटर स्प्रिंग फिट होते हैं-",
+    "o": ["4", "6", "8", "12"],
+    "c": 3
+  },
+  {
+    "q": "..........type of springs are fitted in a CASNUB bogie-",
+    "h": "एक कैसनब बोगी में..प्रकार के स्प्रिंग फिट होते हैं-",
+    "o": ["2", "4", "3", "10"],
+    "c": 2
+  },
+  {
+    "q": "One CASNUB bogie is fitted with..........no of PU side bearer-",
+    "h": "एक कैसनब बोगी में नंबर पी.यू. साईड बियरर लगे रहते हैं-",
+    "o": ["1", "2", "3", "5"],
+    "c": 1
+  },
+  {
+    "q": "How many Brake beam pocket liners are used in a BOXN wagon",
+    "h": "एक BOXN wagon में कितने ब्रेक बीम पॉकेट लाईनर लगे होते हैं-",
+    "o": ["4", "8", "12", "16"],
+    "c": 1
+  },
+  {
+    "q": "..variation of wheel dia on same axle is permitted",
+    "h": "एक ही एक्सेल पर दो डिस्क के बीच.........अंतर होना चाहिए-",
+    "o": ["0.05 mm", "0.5 mm", "0.75 mm", "1.5 mm"],
+    "c": 1
+  },
+  {
+    "q": "Which is/are wheel defects.....",
+    "h": "इनमें कौन / कौन से चक्के के डिफेक्ट हैं-",
+    "o": ["Sharp flange", "Deep flange", "Root radius small", "All of them"],
+    "c": 3
+  },
+  {
+    "q": "..........Machine is used at WRS to attend journal ovality",
+    "h": "जर्नल ओवेलिटि को.. मशीन पर ठीक करते हैं-",
+    "o": ["VTL", "Surface wheel lathe", "Wheel press", "AJTB"],
+    "c": 3
+  },
+  {
+    "q": "The punching of UST marking is done on ..........",
+    "h": "यू.एस.टी. की पंचिंग....... पर करते हैं-",
+    "o": ["At wheel rim", "At wheel hub", "In the middle of Axle", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "Baker gauge is used for checking of",
+    "h": "बेकर गेज......के लिए उपयोग होता है-",
+    "o": ["Cup and Cone dia and ovality", "Journal dia", "Thread dia", "Flange thickness"],
+    "c": 0
+  },
+  {
+    "q": "20% of 1800 is......",
+    "h": "1800 का 20 प्रतिशत है-",
+    "o": ["720", "360", "540", "1000"],
+    "c": 1
+  },
+  {
+    "q": "If X+Y=10, X-Y=4 than value of X is....",
+    "h": "यदि X+Y=10, X-Y=4 तो X का मान होगा-",
+    "o": ["7", "3", "5", "10"],
+    "c": 0
+  },
+  {
+    "q": "If 1500/X=5/2 than value of X is........",
+    "h": "यदि 1500/X=5/2 तो X का मान होगा-",
+    "o": ["1200", "600", "300", "1000"],
+    "c": 1
+  },
+  {
+    "q": "100 Cm = .......... Km",
+    "h": "100 सेंमी. = ..........Km",
+    "o": ["0.001 km", "0.0001 km", "1 km", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "4 feet and 3 inch is equal to .........meter",
+    "h": "4 फीट एवं 3 इंच की लंबाई ........ के बराबर होगी-",
+    "o": ["1.29 M", "2.29 M", "2 M", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "If loss of 30% on a dress is 300/- The value of dress is",
+    "h": "एक ड्रेस पर 30 प्रतिशत का नुकसार यदि 300 रूपये है तो ड्रेस की कीमत होगी-",
+    "o": ["1000", "2000", "1500", "500"],
+    "c": 0
+  },
+  {
+    "q": "The value of a plot of 50 x 30 Sqf is 1,50,000/- then the value of a similar plot of size 25 x 20 will be........",
+    "h": "50x30 वर्गफीट के प्लॉट का मूल्य 1,50,000/- है तो 25x20 वर्गफीट के प्लॉट की कीमत होगी-",
+    "o": ["50,000/-", "1,00,000/-", "1,25,000/-", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "The value of (180x0.25)/(250x0.01) =",
+    "h": "(180x0.25)/(250x0.01) =",
+    "o": ["36", "18", "50", "30"],
+    "c": 1
+  },
+  {
+    "q": "The volume of a room of size (12x6) feet base and 4 Feet height is",
+    "h": "(12x6) फीट बेस के कमरे का आयतन होगा, यदि उसकी उंचाई 4 फीट है-",
+    "o": ["288 Cubefeet", "200 cube feet", "300 cube feet", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "The value of pie is",
+    "h": "पाई का मान है-",
+    "o": ["31.4", "3.14", "0.314", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "Two angles of a triangle are 45degree and 60 degree the value of third is -",
+    "h": "एक त्रिभुज के दो कोण यदि 45 एवं 60 डिग्री हैं तो तीसरे कोण का मान ........ डिग्री होगा-",
+    "o": ["45", "75", "55", "100"],
+    "c": 1
+  },
+  {
+    "q": "gas is used in gas welding",
+    "h": "...गैस का उपयोग गैस वेल्डिंग में होता है-",
+    "o": ["Propane / प्रोपेन", "Methane / मेथेन", "Accetelene / एसीटिलीन", "None of these"],
+    "c": 2
+  },
+  {
+    "q": "high capacity draft gear is---",
+    "h": "उच्च क्षमता का ड्रॉफ्ट गियर है-",
+    "o": ["RF 361", "RF 600", "RF 401", "RF 21"],
+    "c": 0
+  },
+  {
+    "q": "Welding of centre pivot and build up of surface electrode is used",
+    "h": "एक सेंटर पिवट की वेल्डिंग एवं सरफेस का निर्माण ........ इलेक्ट्रोड से किया जाता है-",
+    "o": ["A2 class", "E2 class", "MS class", "None of these"],
+    "c": 1
+  },
+  {
+    "q": "The cause of CTRB failures is----------",
+    "h": "एक सी.टी.आर.बी. फेल होने का कारण है-",
+    "o": ["Improper earthing while welding / वेल्डिंग करते समय ठीक से अर्थिंग न करना", "Ingress of water / पानी का प्रवेश होना", "Sudden jerk during loading / अचानक झटके से लोडिंग", "All of them / इनमें सभी"],
+    "c": 3
+  },
+  {
+    "q": "The welding flux is removed by-",
+    "h": "वेल्डिंग फ्लक्स को हटाया जाता है-",
+    "o": ["Sledge hammer / घन के द्वारा", "Chiping hammer / चिपिंग हैमर द्वारा", "Clow hammer / क्लॉ हैमर द्वारा", "Chisel and hammer / छैनी एवं हैमर से"],
+    "c": 1
+  },
+  {
+    "q": "An Axle is rejected when.............",
+    "h": "एक एक्सेल को सर्विस से हटाया जाता है जब.........",
+    "o": ["Low Journel size / कम जर्नल डाया", "Flaw detected in UST / यू.एस.टी. में खराबी", "Notching on axle / एक्सेल में गहरा घर्षण", "All of them / इनमें सभी"],
+    "c": 3
+  },
+  {
+    "q": "The condemning dia of a BOXN wheel is ----",
+    "h": "एक बॉक्सन व्हील का कंडम होने का व्यास है-",
+    "o": ["906", "931", "900", "1000"],
+    "c": 0
+  },
+  {
+    "q": "The condemning dia of a ICF wheel is",
+    "h": "एक आई.सी.एफ. व्हील के कंडम होने का व्यास है-",
+    "o": ["813", "1000", "915", "880"],
+    "c": 0
+  },
+  {
+    "q": "No. of anchor links in a BVZI wagon is..........",
+    "h": "एक बी.वी.जेड.आई. वैगन में .... एंकर लिंक लगे होते हैं-",
+    "o": ["4", "3", "5", "6"],
+    "c": 0
+  },
+  {
+    "q": "Type of spring used in BVZC wagon is............",
+    "h": "एक बी.वी.जेड.सी. वैगन में .... स्प्रिंग लगे होते हैं-",
+    "o": ["Snubber spring", "Coil Spring", "Plated spring", "None of them"],
+    "c": 2
+  },
+  {
+    "q": "If 40% of a amount is 50 then the amount is --------",
+    "h": "यदि किसी मूल्य का 40 प्रतिशत 50 है तो वह मूल्य है-",
+    "o": ["125", "250", "200", "500"],
+    "c": 0
+  },
+  {
+    "q": "type brake blocks are used in a under frame mounted brake system-",
+    "h": "एक अंडर फ्रेम माउंटेड वैगन में .. टाईप ब्रेक ब्लॉक लगे रहते हैं-",
+    "o": ["K type", "L type", "KL type", "G type"],
+    "c": 1
+  },
+  {
+    "q": "FP and BP are having dia...............mm in a wagon",
+    "h": "FP एवं BP का एक वैगन में व्यास होता है-",
+    "o": ["50 mm", "25 mm", "32 mm", "10 mm"],
+    "c": 1
+  },
+  {
+    "q": "Which of the following is not related with computer.......",
+    "h": "इनमें कौन कम्प्यूटर से संबंधित नहीं है-",
+    "o": ["Bacteria / बैक्टिरीया", "Virus / वायरस", "Bluetooth / ब्लूटूथ", "Server / सर्वर"],
+    "c": 0
+  },
+  {
+    "q": "coloured bins are used for serviceable material-",
+    "h": "...... प्रकार का बिन अच्छे सामान को रखने में इस्तेमाल होता है-",
+    "o": ["Yellow / पीला", "Green / हरा", "Red / लाल", "Black / काला"],
+    "c": 1
+  },
+  {
+    "q": "The defect caused by low current during welding is..........",
+    "h": "वेल्डिंग में लो करंट की वजह से ... खराबी होती है-",
+    "o": ["Porosity / पोरोसिटी", "Under cut / अंडर कट", "Lack of fusion / फ्यूजन की कमी", "Excessive penetration / अत्यधिक कटाव"],
+    "c": 2
+  },
+  {
+    "q": "The cause of porosity in a weld is due to",
+    "h": "एक वेल्ड फुसफुसा होने का कारण है-",
+    "o": ["Carbon electrode / कार्बन इलेक्ट्रोड", "Over size electrode", "Low Hydrogen electrode", "Use of electrodes without pre heating / बिना गरम किये हुए इलेक्ट्रोड का उपयोग"],
+    "c": 3
+  },
+  {
+    "q": "is the reason of corrosion in wagon body-",
+    "h": "एक वैगन बॉडी में जंग का कारण है-",
+    "o": ["Water logging / पानी भरना", "Poor quality of painting / खराब पेंटिंग", "Corrosive consignment / कोरोसिव सामान", "All of them / इनमें सभी"],
+    "c": 3
+  },
+  {
+    "q": "FP & BP hoses can be identified by.............",
+    "h": "एफ.पी. एवं बी.पी. होस को .. के द्वारा पहचाना जा सकता है-",
+    "o": ["Colour / रंग", "Size / आकार", "Thickness / मोटाई", "Length / लंबाई"],
+    "c": 0
+  },
+  {
+    "q": "DOM cylinder is fitted in............",
+    "h": "डी.ओ.एम. सिलिंडर लगा होता है.. में",
+    "o": ["BVZC", "BVZI", "BOXN", "BOBRN"],
+    "c": 3
+  },
+  {
+    "q": "Condemning dia of wheel in all casnub versions are",
+    "h": "सभी प्रकार के कैंसनब बोगी के व्हील का कंडमनिंग डाया होता है-",
+    "o": ["Same / बराबर", "Differ for wagon to wagon", "Depends on use", "None of these"],
+    "c": 0
+  },
+  {
+    "q": "Empty load box is used for ...",
+    "h": "एम्प्टी लोड बॉक्स का कार्य है-",
+    "o": ["Speed control / गति नियंत्रण", "Brake application / ब्रेक लगाना", "Piston Stroke adjustment / पिस्टन का स्ट्रोक का निर्धारण", "None of the above"],
+    "c": 2
+  },
+  {
+    "q": "Computer cannot work without.",
+    "h": "एक कम्प्यूटर कार्य नहीं कर सकता बिना... के",
+    "o": ["Scanner", "Internet", "Mouse", "CPU"],
+    "c": 3
+  },
+  {
+    "q": "A Non Gazette employee eligible for .....no. of privilege passes on completion of 5 years service....",
+    "h": "एक अराजपत्रित कर्मचारी को पांच वर्ष की सेवा के पश्चात्.. संख्या सुविधा पास मिलते हैं-",
+    "o": ["3", "1", "2", "4"],
+    "c": 0
+  },
+  {
+    "q": "Manually issued First class A pass coloured with",
+    "h": "मैन्युअली बनाये गये एक प्रथम श्रेणी ए पास का रंग होता है-",
+    "o": ["Pink", "Green", "White", "Yellow"],
+    "c": 2
+  },
+  {
+    "q": "bogie is used in BVZI wagons.",
+    "h": "..बोगी बी.वी.जेड.आई में इस्तेमाल होती है-",
+    "o": ["BLC", "CASNUB", "ICF", "UIC"],
+    "c": 2
+  },
+  {
+    "q": "The No. of privilege PTO to a Non Gazetted staff in a year is",
+    "h": "एक अराजपत्रित कर्मचारी को एक साल में सुविधा पी.टी.ओ. मिलते हैं-",
+    "o": ["4", "6", "3", "10"],
+    "c": 0
+  },
+  {
+    "q": "The center pivot (Top) is fitted with ..nos. of bolts-",
+    "h": "एक सेंटर पिवट (टॉप) में.. नंबर बोल्ट लगे रहते हैं-",
+    "o": ["4", "2", "5", "6"],
+    "c": 0
+  },
+  {
+    "q": "The wheel base of a BOXN bogie is.",
+    "h": "BOXN bogie का व्हील बेस होता है-",
+    "o": ["1000 mm", "1500 mm", "2000 mm", "3000 mm"],
+    "c": 2
+  },
+  {
+    "q": "Rajkumar Hirani is famous",
+    "h": "राजकुमार हिरानी हैं-",
+    "o": ["A Flute player / बांसुरी वादक", "Tabla player / तबला वादक", "A Film director / एक फिल्म निर्देशक", "A politician / एक राजनेता"],
+    "c": 2
+  }
+]
