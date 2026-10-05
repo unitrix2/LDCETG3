@@ -1,0 +1,1212 @@
+[
+  {
+    "q": "The permitted luggage allowance for a railway employee travelling on a First-Class Privilege Pass is --- kg per adult member.",
+    "h": "प्रथम श्रेणी विशेषाधिकार पास पर यात्रा करने वाले रेल कर्मचारी के लिए अनुमत सामान भत्ता प्रति वयस्क सदस्य --- किलोग्राम है।",
+    "o": [
+      "35",
+      "55",
+      "70",
+      "85"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the most common type of damage found to wagons at the Tippler siding?",
+    "h": "टिपलर (Tippler) साइडिंग में वैगनों की सर्वाधिक सामान्य क्षति कौन-सी पाई जाती है?",
+    "o": [
+      "CBC breakage / CBC टूटना",
+      "Center pivot breakageसेंटर पिवट टूटना",
+      "Door locking mechanism & side door damage / डोर लॉकिंग मैकेनिज्म एवं साइड डोर डैमेज",
+      "Air hose cut / एयर होज़ कटना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If repeated complaints about water availability are received from the same coach, what should be done?",
+    "h": "यदि एक ही Coach से Water Availability की बार-बार शिकायतें प्राप्त हों तो क्या किया जाना चाहिए?",
+    "o": [
+      "close the complaint / शिकायत बंद करना",
+      "Declare the coach scrap / Coach को Scrap घोषित करना",
+      "Perform trend analysis and take root cause and preventive action / Trend Analysis कर Root Cause एवं Preventive Action लेना",
+      "Ignore the complaint / शिकायत को Ignore करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The audio visual alarm is activated after a delay of --- seconds following brake application in FSDS system on indian Railway",
+    "h": "भारतीय रेल के FSDS सिस्टम में ब्रेक लगने के बाद --- सेकंड के विलंब से श्रव्य-दृश्य अलार्म सक्रिय होता है।",
+    "o": [
+      "40",
+      "45",
+      "55",
+      "60"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which is the most effective measure to reduce wagon damage in a railway siding",
+    "h": "रेलवे साइडिंग में Wagon Damage कम करने हेतु सबसे प्रभावी उपाय कौन-सा है?",
+    "o": [
+      "Increase loading speed / Loading गति बढ़ाना",
+      "Carry out periodic joint inspection & damage analysis / Periodic Joint Inspection एवं Damage Analysis करना",
+      "increase return of empty wagon / Empty Wagon Return बढ़ाना",
+      "Keep the brake power low / Brake Power कम रखना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "While preparing a response to a CPGRAMS complaint, which of the following should be given special attention?",
+    "h": "CPGRAMS शिकायत का उत्तर तैयार करते समय निम्न में से किस बात का विशेष ध्यान रखा जाना चाहिए?",
+    "o": [
+      "Give name of complainant only / केवल शिकायतकर्ता का नाम।",
+      "Fact-based verification, record-based response, and timely resolution. / तथ्यात्मक जांच, रिकॉर्ड आधारित उत्तर एवं समयबद्ध निस्तारण।",
+      "Oral explanation. / मौखिक स्पष्टीकरण।",
+      "give complaint number only / केवल Complaint Number"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In single car testing, when BP pressure is reduced at the rate of 0.6 Kg",
+    "h": "Cm2 in 6 seconds and the brakes are applied, the test is called as ---- Test / सिंगल कार टेस्टिंग में, जब बीपी दबाव 6 सेकंड में 0.6Kg / Cm2 की दर से कम किया जाता है और ब्रेक लगाया जाता है, इस परीक्षण को कोनसी टेस्ट कहा जाता है?",
+    "o": [
+      "Sensitivity सेंसिटिविटी",
+      "Insensitivity इनसेंसिटिविटी",
+      "Break release ब्रेक रिलीज",
+      "Emergency braking इमरजेंसी टेस्ट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The delegation of powers in regard to Sanction of cash imprest to officers and supervisors are as per SOP ------ of Indian Railways Model SOP 2018.",
+    "h": "अधिकारियों और पर्यवेक्षकों को नकद अग्रदाय (कॅश इम्प्रेस्ट) की मंजूरी के संबंध में शक्तियों का प्रत्यायोजन भारतीय रेलवे मॉडल एसओपी 2018 के एसओपी ------ के अनुसार है।",
+    "o": [
+      "Part A, Works Matter पार्ट ए, वर्क्स मैटर",
+      "Part C, Miscellaneous Matters पार्ट सी, विविध मामले",
+      "Part D, Stores Matters पार्ट डी, स्टोर मैटर्स",
+      "Part E, Commercial Matter पार्ट ई, कमर्शियल मैटर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The difference between the nominal power-supply ON and OFF pressures of the anti-skid device is --- kg",
+    "h": "cm² / एंटी-स्किड उपकरण की विद्युत आपूर्ति चालू और बंद होने के निर्धारित दबावों के बीच का अंतर --- kg/cm² होता है।",
+    "o": [
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The minimum buffer height of ICF coach should be --- mm after POH.",
+    "h": "ICF कोच की न्यूनतम बफर ऊंचाई POH के बाद --- मिमी होनी चाहिए।",
+    "o": [
+      "1050",
+      "1060",
+      "1080",
+      "1090"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What would be the most appropriate course of action in the event of Enroute Pressure Leakage?",
+    "h": "Enroute Pressure Leakage की स्थिति में सबसे उपयुक्त कार्यवाही क्या होगी?",
+    "o": [
+      "apply paint on leak point / Leak Point पर Paint कर देना",
+      "Identify the leakage source and perform repair or isolation, then carry out the Brake Continuity Test / Leakage Source पहचानकर Repair or Isolation कर Brake Continuity Test करना",
+      "Close brake pipe / Brake Pipe बंद कर देना",
+      "Start train without inspection / बिना परीक्षण ट्रेन रवाना करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following preventive actions is most effective for preventing brake binding",
+    "h": "Brake Binding को रोकने हेतु निम्न में से कौन-सा Preventive Action सर्वाधिक प्रभावी है?",
+    "o": [
+      "Replace brake block / Brake Block बदलना",
+      "Periodic inspection of slack adjuster & brake rigging / Slack Adjuster एवं Brake Rigging का नियमित निरीक्षण",
+      "replace wheel / Wheel बदलना",
+      "replace CBC / CBC बदलना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If a Hydraulic Crane lifts a load greater than the Hydraulic Crane Load Chart, what will be the greatest danger?",
+    "h": "यदि Hydraulic Crane Load Chart से अधिक भार उठाती है तो सबसे बड़ा खतरा क्या होगा?",
+    "o": [
+      "Increased fuel consumption / Fuel Consumption बढ़ना",
+      "Heat up of hydraulic oil / Hydraulic Oil गर्म होना",
+      "Crane over turning or boom failure / Crane Overturning अथवा Boom Failure",
+      "engine stop / Engine बंद होना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "As per SOP, SAG officer can not approve Non stock indents of Value more than Rs. ------",
+    "h": "एसओपी के अनुसार, एसएजी अधिकारी ---- रुपये से अधिक मूल्य के नॉन स्टॉक इंडेंटस को स्वीकृति नहीं दे सकता।",
+    "o": [
+      "50 Lac 50 लाख",
+      "45 Lakh 45 लाख",
+      "40 Lakh 40 लाख",
+      "25 Lakh 25 लाख"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The thickness of stainless-steel trough floor of ICF",
+    "h": "RCF coaches is --- mm. / ICF/RCF कोचों के स्टेनलेस-स्टील ट्रफ फ्लोर की मोटाई --- मिमी होती है।",
+    "o": [
+      "0.8",
+      "1.25",
+      "1.7",
+      "2.25"
+    ],
+    "c": 0
+  },
+  {
+    "q": "When a Red Alert is received from HABD, what should the C&W staff do first?",
+    "h": "HABD द्वारा Red Alert प्राप्त होने पर C&W स्टाफ को सर्वप्रथम क्या करना चाहिए?",
+    "o": [
+      "Let the train continue to the next station / ट्रेन को अगले स्टेशन तक चलने देना",
+      "Immediate inspection of the suspected axle box / संबंधित एक्सल बॉक्स का तत्काल निरीक्षण करना",
+      "Record the temperature only / केवल तापमान रिकॉर्ड करना",
+      "Test the brake power / Brake Power Test करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In Indian Railways, Extraordinary Leave (EOL) of up to ---- months can be sanctioned to a permanent railway employee, including other kinds of leave.",
+    "h": "भारतीय रेल में किसी स्थायी रेल कर्मचारी को अन्य प्रकार की छुट्टियों सहित अधिकतम ---- महीनों की असाधारण छुट्टी (EOL) स्वीकृत की जा सकती है।",
+    "o": [
+      "24",
+      "30",
+      "48",
+      "60"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The track parameters generally recorded near the point of derailment are gauge, cross-level and ----.",
+    "h": "पटरी से उतरने के स्थान के निकट सामान्यतः दर्ज किए जाने वाले ट्रैक पैरामीटर गेज, क्रॉस-लेवल और _____ हैं।",
+    "o": [
+      "Gradient ग्रेडीयंट",
+      "Versine वर्साइन",
+      "Cant deficiency कैंट की डेफ़िसियन्सी",
+      "Super-elevation सुपर एलिवेशन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If the Lock Lift Assembly of the CBC Coupler is damaged, what could be the possible result?",
+    "h": "यदि CBC Coupler का Lock Lift Assembly क्षतिग्रस्त हो जाए तो संभावित परिणाम क्या होगा?",
+    "o": [
+      "Brake binding / ब्रेक बाइन्डिंग",
+      "Train parting / ट्रेन पार्टिंग",
+      "Pressure leakage / प्रेशर लीकेज",
+      "Hot axle / हॉट ऐक्सल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The safety item is not available in the depot. In such a situation, what action should the railway supervisor take?",
+    "h": "Depot में Safety Item उपलब्ध नहीं है। ऐसी स्थिति में रेलवे पर्यवेक्षक द्वारा क्या कार्रवाई की जानी चाहिए?",
+    "o": [
+      "Stop the work / कार्य रोक देना।",
+      "Arrange for Imprest or Available Stock or Emergency Procurement as per the rules. / Imprest or Available Stock अथवा नियमानुसार Emergency Procurement की व्यवस्था करना।",
+      "Purchase it yourself. / स्वयं खरीद करना।",
+      "Dispatching the coach without material. / Material के बिना Coach Dispatch करना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the most effective way to prevent the recurrence of RailMadad and CPGRAMS complaints?",
+    "h": "RailMadad एवं CPGRAMS शिकायतों की पुनरावृत्ति रोकने का सबसे प्रभावी उपाय क्या है?",
+    "o": [
+      "close the complaint early / शिकायत जल्दी बंद करना",
+      "issue warning letter to staff only / केवल कर्मचारी को Warning देना",
+      "Implement Root Cause Analysis (RCA) and Corrective & Preventive Action (CAPA) / Root Cause Analysis (RCA) एवं Corrective & Preventive Action (CAPA) लागू करना",
+      "Complete the complaints record / शिकायतों का रिकॉर्ड समाप्त करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Who is the Chief Official Language Officer of Western Railway at present?",
+    "h": "वर्तमान में पश्चिम रेलवे के मुख्यराजभाषा अधिकारी कौन है",
+    "o": [
+      "General Manager / महाप्रबंधक",
+      "Deputy General Manager / ऊप महाप्रबंधक",
+      "Chief administrative officer (construction) / मुख्य प्रशासनिक अधिकारी (निर्माण)",
+      "Chief Personnel Officer / प्रमुख मुख्य कार्मिक अधिकारी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If the Contractor does not complete the work within the stipulated time and an Extension of Time has not been approved, then what can the Railway do?",
+    "h": "यदि Contractor निर्धारित समय में कार्य पूरा नहीं करता तथा Extension of Time स्वीकृत नहीं है, तो रेलवे क्या कर सकता है?",
+    "o": [
+      "Make an additional payment / अतिरिक्त भुगतान करना",
+      "Apply Liquidated Damages (LD) / Liquidated Damages (LD) लागू करना",
+      "Automatically extend the contract / Contract स्वतः बढ़ाना",
+      "Return the Security deposit / Security Deposit वापस करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What should be ensured by the railway supervisor while resolving a RailMadad complaint?",
+    "h": "RailMadad शिकायत का निस्तारण करते समय रेलवे पर्यवेक्षक द्वारा क्या सुनिश्चित किया जाना चाहिए?",
+    "o": [
+      "close the complaint only / केवल Complaint Close करना।",
+      "Enter the Root Cause Analysis and appropriate Disposal Remarks. / Root Cause Analysis एवं उचित Disposal Remarks दर्ज करना।",
+      "delete the complaint / Complaint Delete करना।",
+      "forward the complaint / Complaint Forward करना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In Knorr WSP, codes 13",
+    "h": "23/33/43 indicate /: Knorr WSP में कोड 13/23/33/43 क्या दर्शाते हैं?",
+    "o": [
+      "Speed-sensor interruption / स्पीड-सेंसर इंटरप्शन",
+      "Short circuit of dump valve / डंप वाल्व में शॉर्ट सर्किट",
+      "Safety-monitor fault / सेफ्टी मॉनिटर फॉल्ट",
+      "Hardware fault / हार्डवेयर फॉल्ट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The safe lifting capacity of a railway crane mainly depends on what?",
+    "h": "रेलवे क्रेन की सुरक्षित भार उठाने की क्षमता मुख्यतः किस पर निर्भर करती है?",
+    "o": [
+      "Engine RPM / इंजन RPM",
+      "Wire rope length / वायर रोप की लंबाई",
+      "Load radius & load chart / Load Radius एवं Load Chart",
+      "Hook diameter / हुक का व्यास"
+    ],
+    "c": 0
+  },
+  {
+    "q": "PDCA stands as per ISO 9001 ----",
+    "h": "ISO 9001 के अनुसार PDCA का पूर्ण रूप क्या है?",
+    "o": [
+      "Plan-Do-Check-Act योजना बनाएं-करें-जाँचें-कार्रवाई करें",
+      "Prepare-Develop-Control-Apply तैयार करें-विकसित करें-नियंत्रित करें-लागू करें",
+      "Plan-Develop-Correct-Act योजना बनाएं-विकसित करें-सुधारें-कार्रवाई करें",
+      "Process-Design-Control-Assess प्रक्रिया-डिज़ाइन-नियंत्रण-मूल्यांकन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Yellow strips on the end body of an ICF coach indicate an ---- coach.",
+    "h": "आईसीएफ कोच की एंड बॉडी पर पीली पट्टियाँ ---- कोच को दर्शाती हैं।",
+    "o": [
+      "Air-conditioned coach एयर-कंडीशंड कोच पैंट्री कार",
+      "Anti-telescopic coach एंटी-टेलीस्कोपिक कोच",
+      "Luggage coach सामान वाला कोच",
+      "Pantry car पैंट्री कार"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The ------- Nm torque is required traction rod bolt of size M24 X 120 mm in Fiat bogie.",
+    "h": "फिएट बोगी में M24 X 120 mm साइज के ट्रैक्शन रॉड बोल्ट के लिए --- Nm टॉर्क की जरुरत होती है।",
+    "o": [
+      "170",
+      "340",
+      "200",
+      "590"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The new wheel diameter of the train set is ----- mm.",
+    "h": "ट्रेन सेट के नए पहिए का व्यास ----- मिमी है।",
+    "o": [
+      "915",
+      "952",
+      "942",
+      "925"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The stock of Brake Blocks in the depot has fallen below the Re-order Level. What action should the Railway Supervisor take?",
+    "h": "Depot में Brake Block का Stock Re-order Level से नीचे पहुँच गया है। Railway Supervisor को क्या कार्रवाई करनी चाहिए?",
+    "o": [
+      "Wait until next month / अगले महीने तक प्रतीक्षा करना।",
+      "Send the Demand/Indent in time and replenish the Stock. / समय रहते Demand/Indent भेजकर Stock पुनः उपलब्ध कराना।",
+      "Stop the work / कार्य रोक देना।",
+      "Use scrap material / Scrap Material का उपयोग करना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In which article of the constitution there is a provision regarding the official language of the states?",
+    "h": "सविधान के किस अनुच्छेद में राज्यों की राजभाषा के संबंध में प्रावधान है?",
+    "o": [
+      "343",
+      "344",
+      "345",
+      "346"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following states fall under 'A' region?",
+    "h": "निम्नलिखित में से 'क' क्षेत्र के अंतर्गत आने वाला राज्य कौनसा है",
+    "o": [
+      "Maharashtra / महाराष्ट्र",
+      "Haryana / हरियाणा",
+      "Gujrat / गुजरात",
+      "Punjab / पंजाब"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The air gap between the speed sensor and phonic wheel of the Knorr WSP system should be --- mm.",
+    "h": "Knorr WSP प्रणाली में स्पीड सेंसर और फोनिक व्हील के बीच का एयर गैप --- मिमी होना चाहिए।",
+    "o": [
+      "0.9-1.4",
+      "1.0-1.5",
+      "0.9-1.5",
+      "0.9-1.6"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Sole bar of ICF type coach is having ----- section.",
+    "h": "आईसीएफ प्रकार के कोच के सोल बार में ----- सेक्शन होता है।",
+    "o": [
+      "Z झेड",
+      "I आय",
+      "Y वाय",
+      "U यू"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Brake power certificate issued for Premium rakes is valid for............",
+    "h": "प्रीमियम रेक के लिए जारी किया गया ब्रेक पावर सर्टिफिकेट............ के लिए मान्य होता है।",
+    "o": [
+      "7+/-4 days",
+      "10+/-2 days",
+      "15+/-3 days",
+      "None of these. / इनमे से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The stock of the Safety Item available in the Imprest Store has fallen below the Minimum Level. What should be done in such a situation?",
+    "h": "Imprest Store में उपलब्ध Safety Item का Stock Minimum Level से नीचे पहुँच गया है। ऐसी स्थिति में क्या किया जाना चाहिए?",
+    "o": [
+      "Purchase in next year / अगले वर्ष खरीद करना।",
+      "Initiate action for immediate replenishment / तत्काल Replenishment की कार्रवाई करना।",
+      "Purchase from local market / निजी बाजार से खरीद लेना।",
+      "stop the issue of item / Item को Issue करना बंद कर देना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In Railways, M&P (Machinery & Plant) items are verified once every --- years.",
+    "h": "रेलवे में M&P (मशीनरी एवं प्लांट) मदों का सत्यापन प्रत्येक --- वर्ष में एक बार किया जाता है।",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During the Brake Power Test, the piston movement is not occurring in one brake cylinder of a coach during both brake application and release. What is the most likely cause?",
+    "h": "Brake Power Test के दौरान किसी कोच के एक Brake Cylinder में Brake Apply एवं Release दोनों के समय Piston Movement नहीं हो रहा है। सबसे संभावित कारण क्या है?",
+    "o": [
+      "Distributor valve failure / डी वी फेलयूर",
+      "Brake Cylinder Piston Jam अथवा Brake Rigging Jam / Brake Cylinder Piston Jam अथवा Brake Rigging Jam",
+      "More feed pipe pressure / Feed Pipe Pressure अधिक होना",
+      "CBC misalignment / सीबीसी मिसलिग्न्मेंट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If the End Wall and Side Wall are repeatedly getting damaged in a siding, what should be the very first action taken by the Railway Supervisor?",
+    "h": "यदि किसी साइडिंग में लगातार End Wall एवं Side Wall क्षतिग्रस्त हो रहे हों, तो रेलवे पर्यवेक्षक (Railway Supervisor) द्वारा सर्वप्रथम क्या कार्रवाई की जानी चाहिए?",
+    "o": [
+      "Book wagon for POH / वैगन को POH हेतु भेज देना",
+      "Joint inspection of siding operation & loading equipment / साइडिंग ऑपरेशन एवं Loading Equipment का संयुक्त निरीक्षण करना",
+      "Issue damage memo / केवल Damage Memo जारी करना",
+      "Declare the wagon scrap / वैगन को Scrap घोषित करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Huck bolting machine is used to ____",
+    "h": "हक बोलटिंग मशीन का उपयोग ___ के लिए किया जाता हैं ।",
+    "o": [
+      "provide rivet on wagon body / वेगन बॉडी पर रिवेट लगाने",
+      "bend plates / वेगन बॉडी पर रिवेट लगाने",
+      "make punching operation / पंचिंग करने",
+      "none of these इनमे से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Complaints are repeatedly being received on RailMadad about Bed Roll not being available. In such a situation, what would be the most appropriate action by the railway supervisor?",
+    "h": "RailMadad पर Bed Roll उपलब्ध न होने की शिकायतें बार-बार प्राप्त हो रही हैं। ऐसी स्थिति में रेलवे पर्यवेक्षक द्वारा सबसे उपयुक्त कार्रवाई क्या होगी?",
+    "o": [
+      "Close the complaint / शिकायत बंद कर देना।",
+      "Analyze the train-wise linen supply and loading pattern. / Train-wise Linen Supply एवं Loading Pattern का विश्लेषण करना।",
+      "Issue refund to the passengers / यात्रियों को Refund देना।",
+      "Replace the coach / Coach बदल देना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During the maintenance of the ART, it was found that the Hydraulic Crane's Safe Load Indicator (SLI) is not functioning. What would be the correct course of action in such a situation?",
+    "h": "ART की मेंटेनेंसके दौरान यह पाया गया कि Hydraulic Crane का Safe Load Indicator (SLI) कार्य नहीं कर रहा है। ऐसी स्थिति में सही कार्रवाई क्या होगी?",
+    "o": [
+      "Continue using the crane while lifting a lighter load. / कम भार उठाकर क्रेन का उपयोग जारी रखा जाए।",
+      "Work should be carried out by bypassing the SLI. / SLI को बायपास कर कार्य किया जाए।",
+      "The crane should not be used until the defect is rectified, and it should be put back into service only after repairs. / दोष दूर होने तक क्रेन का उपयोग न किया जाए तथा मरम्मत के बाद ही सेवा में लिया जाए।",
+      "Work should only be carried out with the crane operator's permission. / केवल क्रेन ऑपरेटर की अनुमति से कार्य किया जाए।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The document normally be seized, sealed or authenticated for an accident enquiry is --- Diary and ------ Signal Register",
+    "h": "दुर्घटना जाँच के लिए सामान्यतः जब्त, सीलबंद या प्रमाणित किए जाने वाले दस्तावेज़ों में ----- डायरी और ----- सिग्नल रजिस्टर शामिल हैं।",
+    "o": [
+      "Station, Train स्टेशन, ट्रेन",
+      "Train, Station ट्रेन, स्टेशन",
+      "Maintenance, Train मेंटेनन्स, ट्रेन",
+      "Maintenance, Station मेंटेनन्स, स्टेशन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The weight of the ICF coach is transferred to the bogie through ------",
+    "h": "आयसीएफ कोच का भार बोगी पर --- माध्यम से स्थानांतरित होता है.",
+    "o": [
+      "Side bearer साइड बियरर",
+      "Brake beams ब्रेक बीम",
+      "Centre Pivot सेंटर पिवट",
+      "Axle box guides एक्सल बॉक्स गाइड"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If all the wheels of a coach on a moving train are emitting excessive smoke and the brake blocks are stuck to the wheels, what is the most likely cause?",
+    "h": "यदि चलती ट्रेन में किसी कोच के सभी पहियों से अत्यधिक धुआँ निकल रहा हो तथा ब्रेक ब्लॉक पहियों से चिपके हों, तो सबसे संभावित कारण क्या है?",
+    "o": [
+      "More stroke of SAB / SAB का अधिक स्ट्रोक",
+      "Brake binding / ब्रेक बाइन्डिंग",
+      "Wheel slip / व्हील स्लिप",
+      "CBC failure / सीबीसी फैल्यर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Arrange the following actions in the most appropriate sequence after an accident: 1. Take joint measurements and prepare the Joint Note 2. Preserve and guard important clues 3. Commence restoration after essential evidence is documented 4. Photograph, video-record and prepare the site sketch.",
+    "h": "दुर्घटना के बाद निम्नलिखित कार्योंं को सबसे उपयुक्त क्रम में व्यवस्थित करें: संयुक्त माप लें तथा संयुक्त टिप्पणी (Joint Note) तैयार करें। महत्वपूर्ण साक्ष्यों को सुरक्षित रखें और उनकी निगरानी करें। आवश्यक साक्ष्यों का दस्तावेजीकरण करने के बाद पुनर्स्थापन कार्य प्रारंभ करें। दुर्घटनास्थल की फोटोग्राफी एवं वीडियोग्राफी करें तथा स्थल-रेखाचित्र तैयार करें।",
+    "o": [
+      "3–1–2–4",
+      "2–4–1–3",
+      "1–3–4–2",
+      "4–3–2–1"
+    ],
+    "c": 0
+  },
+  {
+    "q": "For miscarriage, including abortion, --- days of maternity leave may be granted to a female Railway employee during her entire service.",
+    "h": "गर्भपात, जिसमें चिकित्सकीय गर्भसमापन भी शामिल है, के लिए महिला रेल कर्मचारी को उसकी पूरी सेवा अवधि के दौरान --- दिनों का मातृत्व अवकाश प्रदान किया जा सकता है।",
+    "o": [
+      "30",
+      "45",
+      "60",
+      "75"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Water capacity of each tank of Non AC ICF coach is ---- Litres",
+    "h": "नॉन एसी आईसीएफ़ कोच के हर एक पानी की टंकी की क्षमता ----- लिटर होती है|",
+    "o": [
+      "450",
+      "455",
+      "460",
+      "480"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The capacity of the additional reservoir (bolster dome) used for each air spring in an LHB coach is -- litres.",
+    "h": "LHB कोच में प्रत्येक एयर स्प्रिंग के लिए उपयोग किए जाने वाले अतिरिक्त जलाशय (बोल्स्टर डोम) की क्षमता --- लीटर होती है।",
+    "o": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In the OBHS Contract, the KPI (Key Performance Indicators) were found to be below the prescribed level for three consecutive months, and RailMadad complaints continued to increase. In such a situation, what would be the most appropriate action for the railway",
+    "h": "OBHS Contract में लगातार तीन माह तक KPI (Key Performance Indicators) निर्धारित स्तर से ख़राब पाए गए तथा RailMadad शिकायतों में लगातार वृद्धि हुई। ऐसी स्थिति में रेलवे पर्यवेक्षक द्वारा सबसे उपयुक्त कार्रवाई क्या होगी?",
+    "o": [
+      "Resolve the matter by verbally explaining it to the contractor. / Contractor को मौखिक रूप से समझाकर मामला समाप्त करना।",
+      "Prepare a detailed Performance Report based on KPI, RailMadad data, Joint Inspection Report, and Penalty Clauses, and forward it to the competent authority for action in accordance with the terms of the contract. / KPI, RailMadad डेटा, Joint Inspection Report एवं Penalty Clauses के आधार पर विस्तृत Performance Report तैयार कर सक्षम अधिकारी को अनुबंध की शर्तोंं के अनुसार कार्रवाई हेतु भेजना।",
+      "Immediately forfeit the Contractor's Security Deposit. / Contractor का Security Deposit तुरंत जब्त कर लेना।",
+      "Changing the contractor, without the approval of the competent authority. / Contractor बदल देना, बिना सक्षम अधिकारी की स्वीकृति के।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the main objective of ARME?",
+    "h": "ARME का मुख्य उद्देश्य क्या है?",
+    "o": [
+      "Track Repair / ट्रैक रिपेर",
+      "Provide immediate medical assistance to the injured passengers at the accident site / दुर्घटनास्थल पर घायल यात्रियों को तत्काल चिकित्सा सहायता उपलब्ध कराना",
+      "Coach Lifting / कोच को उठाना",
+      "Wagon Shunting / वैगन की शंटिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Speed limit of A Class ODC during day is -------------- kmph.",
+    "h": "दिन के समय A क्लास ODC की गति सीमा -------------- किमी/घंटा है।",
+    "o": [
+      "100",
+      "110",
+      "90",
+      "40"
+    ],
+    "c": 0
+  },
+  {
+    "q": "As per the Model Schedule of Powers 2018, Part C, Para ---- is applicable for the procurement of PC based systems chargeable to revenue on additional account.",
+    "h": "मॉडल शेड्यूल ऑफ पावर्स, 2018 के भाग–C के अनुसार, अतिरिक्त मद में राजस्व से प्रभारित पीसी-आधारित प्रणालियों की खरीद हेतु पैरा संख्या ---- लागू होता है।",
+    "o": [
+      "38(A)",
+      "39(A)",
+      "40(A)",
+      "41(A)"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The quality of the linen under the Laundry Contract is repeatedly found to be poor. In such a situation, what action should be taken by the railway supervisor?",
+    "h": "Laundry Contract के अंतर्गत लिनेन की गुणवत्ता बार-बार खराब पाई जाती है। ऐसी स्थिति में रेलवे पर्यवेक्षक द्वारा क्या कार्रवाई की जानी चाहिए?",
+    "o": [
+      "Ignore the complaint / शिकायत को अनदेखा करना।",
+      "Prepare the inspection report and take action in accordance with the Contract Conditions. / निरीक्षण रिपोर्ट तैयार कर Contract Conditions के अनुसार कार्रवाई करना।",
+      "Inform the Laundry contractor verbally / Laundry Contractor को मौखिक सूचना देना।",
+      "Paying without verification. / बिना जांच के भुगतान करना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "BOXNHL feed pipe pressure is ____ kg",
+    "h": "cm2 / BOXNHL वेगन के फीड पाइप मे हवा का दबाव है ___ किग्रा / सेमी 2",
+    "o": [
+      "5",
+      "6",
+      "3.8",
+      "None of these / इनमे से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The type of bearing fitted in BOXN wagon is _________",
+    "h": "बोक्सेन (BOXN) वैगन मे ___ प्रकार की बेरिंग फिट की जाती हैं ।",
+    "o": [
+      "CTRB / सिटीआरबी",
+      "Cylindrical roller / सिलिन्द्रीकल रोलर",
+      "Spherical / स्पेरिकल",
+      "None of these / इनमे से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The colour of BPC of CC rake is...................",
+    "h": "CC रेक के BPC का रंग ................... है।",
+    "o": [
+      "Yellow",
+      "Red",
+      "Green",
+      "None of these. / इनमे से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The Traction Converter and Auxiliary Converter are situated in the --- Coach and ------ Coach, respectively, in the Train-18 set.",
+    "h": "ट्रेन-18 सेट में ट्रैक्शन कन्वर्टर और ऑक्ज़िलियरी कन्वर्टर क्रमशः --- कोच और ------ कोच में स्थित हैं।",
+    "o": [
+      "Motor, Trailer मोटर, ट्रेलर",
+      "Trailer, Motor ट्रेलर, मोटर",
+      "Driving Trailer, Motor Coach ड्राइविंग ट्रेलर, मोटर कोच",
+      "Non-Driving Trailer, Driving Trailer नॉन-ड्राइविंग ट्रेलर, ड्राइविंग ट्रेलर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In what circumstances can a Performance Guarantee be used to protect the interests of the Railways?",
+    "h": "Performance Guarantee किस परिस्थिति में रेलवे के हितों की सुरक्षा हेतु उपयोग में लाई जा सकती है?",
+    "o": [
+      "while openiing tender / Tender खोलते समय।",
+      "In the event of the Contractor violating the Contract Conditions or failing to complete the work. / Contractor द्वारा Contract Conditions का उल्लंघन अथवा कार्य पूर्ण न करने की स्थिति में।",
+      "For Running Bill payment. / Running Bill भुगतान हेतु।",
+      "For returning the Security Deposit. / Security Deposit वापस करने हेतु।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The pulling force range specified for passenger emergency pull box testing for Faiveley make is ---- Kg.",
+    "h": "फैवली मेक के यात्री आपातकालीन पुल बॉक्स के परीक्षण के लिए निर्धारित खींचने वाले बल की सीमा ---- किग्रा है।",
+    "o": [
+      "9-16",
+      "11-23",
+      "10-14",
+      "12-19"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the main cause of a hot axle?",
+    "h": "Hot Axle बनने का प्रमुख कारण क्या है?",
+    "o": [
+      "More brake power / अधिक Brake Power",
+      "Bearing failure or insuffucuent lubrication / Bearing Failure अथवा अपर्याप्त Lubrication",
+      "air leakage / हवा का लीकेज",
+      "CBC misalignment / सीबीसी मिसलिग्न्मेंट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The diagonal gauge for the axle guide of 13 t and 16.25 t ICF bogies is ---- ± 1.0 mm.",
+    "h": "13 टन एवं 16.25 टन ICF बोगियों के एक्सल गाइड का विकर्ण गेज ---- ± 1.0 मिमी है।",
+    "o": [
+      "3662",
+      "3669",
+      "3619",
+      "3612"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During an en route inspection, a severe flat tyre is found on a wheel. In such a situation, what should be the railway supervisor's first decision?",
+    "h": "Enroute निरीक्षण के दौरान किसी Wheel पर गंभीर Flat Tyre पाया जाता है। ऐसी स्थिति में रेलवे पर्यवेक्षक का प्रथम निर्णय क्या होना चाहिए?",
+    "o": [
+      "Let the train run without taking any action / ट्रेन को बिना किसी कार्रवाई के चलने देना",
+      "According to the Wheel Flat limit, issue a Sick Declaration or impose a Speed Restriction / Wheel Flat की सीमा के अनुसार Sick Declaration अथवा Speed Restriction देना",
+      "Mark the wheel only / केवल Wheel Mark करना",
+      "Replace brake block / Brake Block बदलना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "How many members are there in the Parliamentary Committee on Official Language?",
+    "h": "संसदीय राजभाषा समिति में कितने सदस्य होते हैं?",
+    "o": [
+      "20",
+      "10",
+      "30",
+      "40"
+    ],
+    "c": 0
+  },
+  {
+    "q": "At the originating station, the brake power percentage for a Mail",
+    "h": "Express train should be --- %. / प्रारंभिक स्टेशन पर मेल/एक्सप्रेस ट्रेन की ब्रेक पावर --- प्रतिशत होनी चाहिए।",
+    "o": [
+      "85",
+      "90",
+      "95",
+      "100"
+    ],
+    "c": 0
+  },
+  {
+    "q": "When is World Hindi Day celebrated?",
+    "h": "विश्व हिन्दी दिवस कब मनाया जाता है?",
+    "o": [
+      "13 Sept./ 13 सितंबर",
+      "14 Sept. / 14 सितंबर",
+      "14 Oct. / 14 अक्टूबर",
+      "10 Jan. / 10 जनवरी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The number of teeth in the pinion of the Train Set (Vande Bharat",
+    "h": "Train-18) is --- / ट्रेन सेट (वंदे भारत/ट्रेन-18) के पिनियन में दाँतों की संख्या --- है।",
+    "o": [
+      "17",
+      "18",
+      "19",
+      "21"
+    ],
+    "c": 0
+  },
+  {
+    "q": "How much is the first prize in the Rail Vritant Puraskar Yojana being run by the Railway Board?",
+    "h": "रेलवे बोर्ड द्वारा चलाई जा रही है रेलवृतांत पुरस्कार योजना में प्रथम पुरस्कार कितने रुपए का है",
+    "o": [
+      "10000",
+      "5000",
+      "8000",
+      "3000"
+    ],
+    "c": 0
+  },
+  {
+    "q": "An estimate prepared to obtain administrative approval for a proposed work is known as --- estimate.",
+    "h": "प्रस्तावित कार्य के लिए प्रशासनिक स्वीकृति प्राप्त करने हेतु तैयार किए गए अनुमान को ---- अनुमान कहा जाता है।",
+    "o": [
+      "Detailed विस्तृत",
+      "Revised संशोधित",
+      "Supplementary पूरक",
+      "Abstract सार"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In which state of India does the Rajbhasha Rule not apply?",
+    "h": "भारत के किस राज्य में राजभाषा नियम लागू नहीं हैं?",
+    "o": [
+      "Kerala / केरल",
+      "Sikkim / सिक्किम",
+      "Tamilnadu / तमिल नाडु",
+      "Goa / गोवा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In empty condition of BOXN wagon Piston stroke is ------------mm.",
+    "h": "खाली स्थिति मी बॉक्सन वैगन का पिस्टन स्ट्रोक ______ मी मी",
+    "o": [
+      "75±10",
+      "85±10",
+      "130±10",
+      "60±10"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The effective maximum pressure in brake cylinder during full service application in ICF coaches is ----- Kg",
+    "h": "cm2. / ICF कोचों में पूर्ण सर्विस ब्रेक लगाने के दौरान ब्रेक सिलेंडर में प्रभावी अधिकतम दबाव ----- किग्रा/सेमी² होना चाहिए।",
+    "o": [
+      "2.8",
+      "3.2",
+      "3.6",
+      "3.8"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The oil used in the dashpot guide of an ICF bogie is ----- oil.",
+    "h": "ICF बोगी के डैशपॉट गाइड में किस तेल का उपयोग किया जाता है?",
+    "o": [
+      "Servo RR-606 सर्वो RR-606",
+      "Sevoline 100 सर्वोलाइन-100",
+      "SAE-40",
+      "EP-90"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Who is the Chairman of Kendriya Hindi Samiti?",
+    "h": "केंद्रीय हिंदी समिति का अध्यक्ष कौन होता है",
+    "o": [
+      "Prime Minister / प्रधान मंत्री",
+      "Education Minister / शिक्षा मंत्री",
+      "President of India / राष्ट्रपति",
+      "Chief Hindi Officer / मुख्य हिन्दी अधिकारी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Machinery and Plant (M&P) expenditure is generally classified under ---- Plan Head.",
+    "h": "मशीनरी एवं प्लांट (M&P) व्यय को सामान्यतः किस योजना शीर्ष के अंतर्गत वर्गीकृत किया जाता है?",
+    "o": [
+      "21",
+      "31",
+      "41",
+      "51"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If OBHS staff are found to be absent in a coach, what should the railway supervisor do first?",
+    "h": "यदि किसी कोच में OBHS स्टाफ अनुपस्थित पाया जाता है, तो रेलवे पर्यवेक्षक द्वारा सबसे पहले क्या किया जाना चाहिए?",
+    "o": [
+      "Cancel the train / ट्रेन निरस्त कर देना।",
+      "Inform the Contractor Representative and check attendance and deployment. / Contractor Representative को सूचित कर Attendance एवं Deployment की जांच करना।",
+      "Declare the coach as sick / कोच को Sick घोषित करना।",
+      "give memo to guard / Guard को Memo देना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Officers and senior supervisors present at the accident site should examine the evidence ----.",
+    "h": "दुर्घटना स्थल पर उपस्थित अधिकारियों और वरिष्ठ पर्यवेक्षकों को साक्ष्यों की जाँच ---- करनी चाहिए।",
+    "o": [
+      "after the departure of train ट्रेन के जाने के बाद",
+      "Separately अलग-अलग",
+      "Privately निजी तौर पर",
+      "Jointly संयुक्त रूप से"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During Stock Verification, a shortage is found. In such a situation, what should be the first action taken by the railway supervisor?",
+    "h": "Stock Verification के दौरान Shortage पाई जाती है। ऐसी स्थिति में रेलवे पर्यवेक्षक द्वारा प्रथम कार्रवाई क्या होनी चाहिए?",
+    "o": [
+      "replace the ledger / Ledger बदल देना।",
+      "Prepare the Shortage Report and initiate the investigation as per the rules. / Shortage Report तैयार कर नियमानुसार जांच प्रारम्भ करना।",
+      "Purchase new stock / नया Stock खरीदना।",
+      "Destroy the record / Record नष्ट करना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "As soon as the air-spring pressure falls below ---- ± 0.1 kg",
+    "h": "cm² in either or both bellows of the same bogie, the FIBA equipment exhausts the Brake Pipe pressure and initiates brake application. / जैसे ही एक ही बोगी के किसी एक या दोनों एयर स्प्रिंग बेलो का दबाव --- ± 0.1 किग्रा/सेमी² से नीचे गिरता है, फ़ीबा उपकरण ब्रेक पाइप का दबाव निकालना शुरू कर देता है।",
+    "o": [
+      "1",
+      "2.8",
+      "1.7",
+      "1.5"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Under the CTS (Clean Train Station) scheme, despite the scheduled time, the OBHS",
+    "h": "CTS staff did not clean the coach at a station, resulting in numerous complaints being received on RailMadad. In such a situation, what should be the very first action taken by the railway / CTS (Clean Train Station) योजना के अंतर्गत किसी स्टेशन पर निर्धारित समय के बावजूद OBHS/CTS स्टाफ द्वारा कोच की सफाई नहीं की गई, जिसके कारण RailMadad पर अनेक शिकायतें प्राप्त हुईं। ऐसी स्थिति में रेलवे पर्यवेक्षक द्वारा सर्वप्रथम क्या कार्रवाई की जानी चाहिए?",
+    "o": [
+      "Close the complaints. / शिकायतों को बंद कर देना।",
+      "Conduct a joint inspection of the attendance and performance of the OBHS/CTS staff and compliance with the terms of the contract, prepare a report, and send a proposal for necessary punitive action. / OBHS/CTS स्टाफ की उपस्थिति, कार्य निष्पादन एवं संविदा की शर्तोंं के अनुसार संयुक्त निरीक्षण कर रिपोर्ट तैयार करना तथा आवश्यक दण्डात्मक कार्रवाई हेतु प्रस्ताव भेजना।",
+      "Inform only the station master verbally. / केवल स्टेशन मास्टर को मौखिक सूचना देना।",
+      "Give instructions to have the next train cleaned. / अगली ट्रेन में सफाई कराने का निर्देश देना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The ---- is used for issuing an Order of Deemed Suspension under Rule 5(2) of the Railway Servants (Discipline & Appeal) Rules, 1968",
+    "h": ". नियम 5(2), रेलवे सेवक (अनुशासन एवं अपील) नियम, 1968 के अंतर्गत मानित निलंबन का आदेश जारी करने के लिए ---- का उपयोग किया जाता है।",
+    "o": [
+      "SF-1 एस.एफ. - 1",
+      "SF-2 एस.एफ. - 2",
+      "SF-3 एस.एफ. - 3",
+      "SF-4 एस.एफ. - 4"
+    ],
+    "c": 0
+  },
+  {
+    "q": "On what basis is a Running Account (RA) Bill prepared?",
+    "h": "Running Account (RA) Bill किस आधार पर तैयार किया जाता है?",
+    "o": [
+      "At the contractor's request / Contractor की मांग पर",
+      "Based on the actual progress of the work and measurements (Measurements) / कार्य की वास्तविक प्रगति एवं माप (Measurements) के आधार पर",
+      "Based on the Tender Value / Tender Value के आधार पर",
+      "Based on completion certificate / Completion Certificate के आधार पर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "M&P proposals are generally initiated ---- months in advance of the programme year.",
+    "h": "M&P प्रस्ताव सामान्यतः कार्यक्रम वर्ष से कितने महीने पहले प्रारंभ किए जाते हैं?",
+    "o": [
+      "6-12",
+      "12-18",
+      "18-24",
+      "24-30"
+    ],
+    "c": 0
+  },
+  {
+    "q": "\"A place for everything and everything in its place\" refers to --",
+    "h": "\"हर वस्तु का निश्चित स्थान\" किस S से संबंधित है?",
+    "o": [
+      "Sort Sort / छँटाई",
+      "Set in Order (Seiton) सुव्यवस्थित रखना (सेइतोन)",
+      "Sustain अनुशासन बनाए रखना",
+      "Standardize मानकीकरण"
+    ],
+    "c": 0
+  },
+  {
+    "q": "How many sections are there in the Official Language Act 1963?",
+    "h": "राजभाषा अधिनियम 1963 में कितने सेक्शन हैं?",
+    "o": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The diameter of the buffer plunger face of ICF coaches is ------- mm",
+    "h": "ICF कोच के बफर प्लंजर का व्यास ------है I",
+    "o": [
+      "557 552 मिमी",
+      "457 457 मिमी",
+      "497 493 मिमी",
+      "547 510 मिमी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Before starting the operation of the Hydraulic Crane in the ART, which action is mandatory?",
+    "h": "ART में Hydraulic Crane का संचालन प्रारम्भ करने से पूर्व कौन-सी कार्रवाई अनिवार्य है?",
+    "o": [
+      "Raise boom / Boom Raise करना",
+      "Increase engine RPM / Engine RPM बढ़ाना",
+      "Fully deploy and lock the outriggers / Outriggers पूर्णतः स्थापित एवं लॉक करना",
+      "Open the hook / Hook खोल देना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During the train journey, a complaint was received on RailMadad from coach S-3 that the bedroll was dirty and not fit for use. The investigation found that the Laundry had signed the Quality Check Register. In such a situation, what should the railway supervisor do first?",
+    "h": "ट्रेन में यात्रा के दौरान S-3 कोच से RailMadad पर शिकायत प्राप्त हुई कि बेडरोल गंदा एवं उपयोग योग्य नहीं था। जांच में पाया गया कि Laundry द्वारा Quality Check Register पर हस्ताक्षर किए गए हैं। ऐसी स्थिति में रेलवे पर्यवेक्षक द्वारा सर्वप्रथम क्या किया जाना चाहिए?",
+    "o": [
+      "Close the complaint because Laundry has performed the Quality Check. / शिकायत को बंद कर देना क्योंकि Laundry ने Quality Check किया है।",
+      "Impose a penalty on ACCA immediately. / ACCA पर तुरंत दण्ड लगाना।",
+      "Determine the root cause by reconciling the available Bedroll, Loading Register, Laundry Dispatch Register, and Quality Inspection Record. / उपलब्ध Bedroll, Loading Register, Laundry Dispatch Register तथा Quality Inspection Record का मिलान कर Root Cause निर्धारित करना।",
+      "Change the bedroll at the next station and don't make any record. / अगले स्टेशन पर Bedroll बदल देना और कोई रिकॉर्ड न बनाना।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Slackless drawbar is used in.............wagon",
+    "h": "स्लैकलेस ड्रॉबार का इस्तेमाल ............. वैगन में किया जाता है।",
+    "o": [
+      "BLC / बी एल सी",
+      "BOXNHA / बॉक्सनएचए",
+      "BOXNEL / बॉक्सनएल",
+      "BOXNHL / बॉक्सनएचल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "M&P items with a total value up to ₹---- lakh can be procured under Revenue.",
+    "h": "कुल ₹--- लाख तक मूल्य की M&P मदों की खरीद राजस्व मद के अंतर्गत की जा सकती है।।",
+    "o": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Revised Estimates are prepared for the --- financial year",
+    "h": "संशोधित अनुमान --- वित्तीय वर्ष के लिए तैयार किए जाते हैं।",
+    "o": [
+      "Next five अगले पाँच",
+      "Following आगामी",
+      "Current वर्तमान",
+      "Previous पिछले"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In a moving train, the Brake Pipe Pressure is continuously decreasing but the Feed Pipe Pressure is normal. What could be the most likely cause?",
+    "h": "चलती ट्रेन में Brake Pipe Pressure लगातार कम हो रहा है लेकिन Feed Pipe Pressure सामान्य है। सबसे संभावित कारण क्या हो सकता है?",
+    "o": [
+      "Brake pipe leakage / ब्रेक पाइप मे लीकेज",
+      "Feed Pipe Leakage / फ़ीड पाइप मे लीकेज",
+      "CBC defect / सीबीसी डिफ़ेक्ट",
+      "SAB defect / एस ए बी डिफेक्ट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The Real Time Clock battery of the FDSS shall be replaced after every --- months.",
+    "h": "FDSS की रियल टाइम क्लॉक (RTC) बैटरी को प्रत्येक --- महीने के बाद बदला जाना चाहिए।",
+    "o": [
+      "12",
+      "24",
+      "36",
+      "48"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The V10-T auxiliary compressor operates on a --- supply and can produce a maximum end pressure of ---- bar.",
+    "h": "V10-T सहायक कंप्रेसर --- सप्लाई पर कार्य करता है और अधिकतम ---- बार का अंतिम दबाव उत्पन्न कर सकता है।",
+    "o": [
+      "110V DC, 8",
+      "120V DC, 8",
+      "130V DC, 8",
+      "140V DC, 8"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of material among the following is generally purchased based on a specific requirement (Specific Requirement)?",
+    "h": "निम्न में से किस प्रकार की सामग्री की खरीद सामान्यतः किसी विशेष आवश्यकता (Specific Requirement) के आधार पर की जाती है?",
+    "o": [
+      "Stock item / स्टॉक आइटम",
+      "Imprest item / इम्प्रेस्ट आइटम",
+      "Non-Stock Item / नॉन-स्टॉक आइटम",
+      "consumable item / उपभोग्य"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The number of seats in the DTC (Driving Trailer Coach) of a Train Set is ----",
+    "h": "ट्रेन सेट के DTC (ड्राइविंग ट्रेलर कोच) में सीटों की संख्या ---- है।",
+    "o": [
+      "40",
+      "44",
+      "48",
+      "52"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the main objective of OBHS (On Board Housekeeping Service)?",
+    "h": "OBHS (On Board Housekeeping Service) का मुख्य उद्देश्य क्या है?",
+    "o": [
+      "Coach washing only / केवल Coach Washing करना",
+      "Maintain coach cleanliness and passenger amenities during the journey / यात्रा के दौरान Coach की स्वच्छता एवं Passenger Amenities बनाए रखना",
+      "replace brake pipe / Brake Pipe बदलना",
+      "measure wheel diameter / Wheel Profile मापना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the full form of G&SR?",
+    "h": "G&SR का पूर्ण रूप क्या है?",
+    "o": [
+      "General and Safety Regulations सामान्य एवं सुरक्षा विनियम",
+      "General and Subsidiary Rules सामान्य एवं सहायक नियम",
+      "Government and Service Rules सरकारी एवं सेवा नियम",
+      "General and Station Rules सामान्य एवं स्टेशन नियम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A' dimension of BOXN wagon is ------------mm.",
+    "h": "बॉक्सन वैगन का 'A' आयाम _____ मी मी",
+    "o": [
+      "70 ± 2",
+      "70+2-0",
+      "50 ± 2",
+      "22 ± 2"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The Disciplinary Authority, while passing an order imposing a penalty, should invariably pass --- . अनुशासनिक प्राधिकारी को दंड अधिरोपित करने का आदेश पारित करते समय अनिवार्य रूप से एक ---- पारित करना चाहिए।",
+    "h": "The Disciplinary Authority, while passing an order imposing a penalty, should invariably pass --- . अनुशासनिक प्राधिकारी को दंड अधिरोपित करने का आदेश पारित करते समय अनिवार्य रूप से एक ---- पारित करना चाहिए।",
+    "o": [
+      "Temporary order टेम्पररी ऑर्डर",
+      "Speaking order स्पीकिंग ऑर्डर",
+      "Suspension order सस्पेन्शन ऑर्डर",
+      "SF-5/SF-11 order SF-5/SF-11 ऑर्डर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the main cause of structural damage to the wagon during bulk loading (coal",
+    "h": "ore)? / बल्क लोडिंग (कोयला/अयस्क) के दौरान वैगन की संरचनात्मक क्षति का प्रमुख कारण क्या है?",
+    "o": [
+      "excess brake power / अधिक ब्रेक पावर",
+      "Uneven loading / असमान (Uneven) लोडिंग",
+      "excess air pressure / अधिक एयर प्रेशर",
+      "CBC Wear /"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In LHB coaches, Electricity power required for Dump valve operation is --------",
+    "h": "एल एच बी कोचेस में डंप वाल्व ऑपरेशन के लिए -------- इतनी विद्युत शक्ति आवश्यक होती है|",
+    "o": [
+      "110 volt AC 110 वोल्ट ए.सी.",
+      "110 volt DC 110 वोल्ट डीसी",
+      "24 Volt DC 24 वोल्ट डीसी",
+      "230 Volt AC 230 वोल्ट ए.सी."
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which Indian state has the highest number of Hindi speakers?",
+    "h": "किस भारतीय राज्य में हिंदी बोलने वालों की संख्या सबसे अधिक है?",
+    "o": [
+      "Maharashtra / महाराष्ट्र",
+      "Uttar Pradesh / उत्तर प्रदेश",
+      "Bihar / बिहार",
+      "Madhya Pradesh / मध्य प्रदेश"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Primary Units of Expenditure identify ----",
+    "h": "व्यय की प्राथमिक इकाइयाँ ---- की पहचान करती हैं।",
+    "o": [
+      "Why the expenditure is incurred व्यय क्यों किया गया है",
+      "What the expenditure represents व्यय किसका प्रतिनिधित्व करता है",
+      "Which railway earns the revenue कौन-सा रेलवे राजस्व अर्जित करता है",
+      "Who audits the expenditure व्यय का लेखा-परीक्षण कौन करता है"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In one unit of BLC wagon there are ------------ car A unit.",
+    "h": "एक यूनिट बीएलसी वैगन मे _______ कार A",
+    "o": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Why is it necessary to inspect the Air Brake System before dispatching the ART?",
+    "h": "ART रवाना करने से पूर्व Air Brake System की जांच क्यों आवश्यक है?",
+    "o": [
+      "to save fuel / Fuel बचाने के लिए।",
+      "To ensure safe braking of ART / ART की सुरक्षित ब्रेकिंग सुनिश्चित करने के लिए।",
+      "To check compressor / केवल Compressor की जांच हेतु।",
+      "To check lighting / Lighting जांचने हेतु।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The air-supply equipment in both DTC and NDTC operates on a ---- phase, ---- V auxiliary power supply.",
+    "h": "DTC और NDTC दोनों में एयर-सप्लाई उपकरण ---- फेज, ---- V सहायक विद्युत आपूर्ति पर कार्य करता है।",
+    "o": [
+      "Three, 750 3, 750",
+      "Single, 220 सिंगल, 220",
+      "Single, 110 सिंगल, 110",
+      "Three, 415 3, 415"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following is dead stock?",
+    "h": "निम्न में से कौन-सा Dead Stock है?",
+    "o": [
+      "Brake Block / ब्रेक ब्लॉक",
+      "Air hose / एयर होज़",
+      "Steel Cupboard / स्टील अलमारी",
+      "Brake cylinder / ब्रेक सिलिन्डर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the most common mechanical cause of a train parting (Train Parting) incident?",
+    "h": "ट्रेन पार्टिंग (Train Parting) की घटना का सबसे सामान्य यांत्रिक कारण क्या है?",
+    "o": [
+      "Brake pipe leakage / ब्रेक पाइप मे लीकेज",
+      "CBC Knuckle Fracture / सीबीसी नकल फैल्यर",
+      "Brake cylinder leakage / ब्रेक सिलिन्डर मे लीकेज",
+      "Wheel flat / व्हील फ्लेट Pin NYT355NHKY Subject Name JEC and W 25 Ranker 8S2 A Subject Id 3484 Subject Time 2026-08-08 15:00:27 Question Number Question Id Correct Option(s)/Answer Action Type 1 81914971198 C CORRECT OPTION 2 81914971216 C CORRECT OPTION 3 81914971253 C CORRECT OPTION 4 81914971175 C CORRECT OPTION 5 81914971219 B CORRECT OPTION 6 81914971254 B CORRECT OPTION 7 81914971168 A CORRECT OPTION 8 81914971213 B CORRECT OPTION 9 81914971177 D CORRECT OPTION 10 81914971192 D CORRECT OPTION 11 81914971229 B CORRECT OPTION 12 81914971224 B CORRECT OPTION 13 81914971233 C CORRECT OPTION 14 81914971215 B CORRECT OPTION 15 81914971189 B CORRECT OPTION 16 81914971222 B CORRECT OPTION 17 81914971202 D CORRECT OPTION 18 81914971200 B CORRECT OPTION 19 81914971225 B CORRECT OPTION 20 81914971248 B CORRECT OPTION 21 81914971255 C CORRECT OPTION 22 81914971271 C CORRECT OPTION 23 81914971244 B CORRECT OPTION 24 81914971252 B CORRECT OPTION 25 81914971173 B CORRECT OPTION 26 81914971231 C CORRECT OPTION 27 81914971194 A CORRECT OPTION 28 81914971187 B CORRECT OPTION 29 81914971169 D CORRECT OPTION 30 81914971179 B CORRECT OPTION 31 81914971246 B CORRECT OPTION 32 81914971275 C CORRECT OPTION 33 81914971267 B CORRECT OPTION 34 81914971171 A CORRECT OPTION 35 81914971188 A CORRECT OPTION 36 81914971264 D CORRECT OPTION 37 81914971249 B CORRECT OPTION 38 81914971206 C CORRECT OPTION 39 81914971228 B CORRECT OPTION 40 81914971218 B CORRECT OPTION 41 81914971258 A CORRECT OPTION 42 81914971241 B CORRECT OPTION 43 81914971235 C CORRECT OPTION 44 81914971204 A CORRECT OPTION 45 81914971186 A CORRECT OPTION 46 81914971220 B CORRECT OPTION 47 81914971205 B CORRECT OPTION 48 81914971197 B CORRECT OPTION 49 81914971193 B CORRECT OPTION 50 81914971172 D CORRECT OPTION 51 81914971245 B CORRECT OPTION 52 81914971234 B CORRECT OPTION 53 81914971262 D CORRECT OPTION 54 81914971214 D CORRECT OPTION 55 81914971238 B CORRECT OPTION 56 81914971257 B CORRECT OPTION 57 81914971256 A CORRECT OPTION 58 81914971265 A CORRECT OPTION 59 81914971182 A CORRECT OPTION 60 81914971242 B CORRECT OPTION 61 81914971174 B CORRECT OPTION 62 81914971227 B CORRECT OPTION 63 81914971185 D CORRECT OPTION 64 81914971226 B CORRECT OPTION 65 81914971274 C CORRECT OPTION 66 81914971167 D CORRECT OPTION 67 81914971270 D CORRECT OPTION 68 81914971180 C CORRECT OPTION 69 81914971273 A CORRECT OPTION 70 81914971212 D CORRECT OPTION 71 81914971269 C CORRECT OPTION 72 81914971260 B CORRECT OPTION 73 81914971184 D CORRECT OPTION 74 81914971191 B CORRECT OPTION 75 81914971268 A CORRECT OPTION 76 81914971210 C CORRECT OPTION 77 81914971240 B CORRECT OPTION 78 81914971201 D CORRECT OPTION 79 81914971250 B CORRECT OPTION 80 81914971170 A CORRECT OPTION 81 81914971239 B CORRECT OPTION 82 81914971196 B CORRECT OPTION 83 81914971243 B CORRECT OPTION 84 81914971211 C CORRECT OPTION 85 81914971195 B CORRECT OPTION 86 81914971272 C CORRECT OPTION 87 81914971190 B CORRECT OPTION 88 81914971230 C CORRECT OPTION 89 81914971236 C CORRECT OPTION 90 81914971263 A CORRECT OPTION 91 81914971207 D CORRECT OPTION 92 81914971209 C CORRECT OPTION 93 81914971223 A CORRECT OPTION 94 81914971176 C CORRECT OPTION 95 81914971178 A CORRECT OPTION 96 81914971247 C CORRECT OPTION 97 81914971181 B CORRECT OPTION 98 81914971237 B CORRECT OPTION 99 81914971199 B CORRECT OPTION 100 81914971259 B CORRECT OPTION 101 81914971203 B CORRECT OPTION 102 81914971217 B CORRECT OPTION 103 81914971166 C CORRECT OPTION 104 81914971266 B CORRECT OPTION 105 81914971208 B CORRECT OPTION 106 81914971261 D CORRECT OPTION 107 81914971232 B CORRECT OPTION 108 81914971183 D CORRECT OPTION 109 81914971251 C CORRECT OPTION 110 81914971221 B CORRECT OPTION"
+    ],
+    "c": 0
+  }
+]

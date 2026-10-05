@@ -1,0 +1,332 @@
+[
+  {
+    "q": "Piston stroke of BVZI is ___ mm.",
+    "h": "BVZI का पिस्टन स्ट्रोक ___ मिमी है।",
+    "o": ["22 / 22", "32 / 32", "72 / 72", "85 / 85"],
+    "c": 1
+  },
+  {
+    "q": "What is the location of safety valves fitted in liquefied petroleum gas tank wagon?",
+    "h": "द्रवित पेट्रोलियम गैस टैंक वैगन में लगे सुरक्षा वाल्वों का स्थान कहाँ है?",
+    "o": ["Inside dome / इनसाइड डोम", "Outside dome / आउटसाइड डोम", "Outside on barrel / बाहर बैरल पर", "None of the above / उपरोक्त में से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Which RDSO technical pamphlet is used for inspection and maintenance of CASNUB bogies?",
+    "h": "CASNUB बोगियों के निरीक्षण और रखरखाव के लिए किस RDSO तकनीकी पैम्फलेट का उपयोग किया जाता है?",
+    "o": ["G-97 / जी-97", "G-86 / जी-86", "G-90 / जी-90", "G-95 / जी-95"],
+    "c": 3
+  },
+  {
+    "q": "During Brake application, air flow from ___?",
+    "h": "ब्रेक एप्लिकेशन के दौरान, हवा का प्रवाह कहाँ से होता है?",
+    "o": ["AR to BC / ए.आर से बी.सी", "PB to BC / पी.बी से बी.सी", "BP to BC / बी.पी से बी.सी", "CR to BC / सी.आर से बी.सी"],
+    "c": 0
+  },
+  {
+    "q": "EOT crane has how many motions?",
+    "h": "EOT क्रेन में कितने मोशन होते हैं?",
+    "o": ["02 / 02", "03 / 03", "04 / 04", "08 / 08"],
+    "c": 1
+  },
+  {
+    "q": "Working pressure of BTPN safety valve is?",
+    "h": "BTPN सुरक्षा वाल्व का कार्यशील दबाव क्या है?",
+    "o": ["1.4 kg/cm2 / 1.4 किग्रा/सेमी²", "2.1 kg/cm2 / 2.1 किग्रा/सेमी²", "4.1 kg/cm2 / 4.1 किग्रा/सेमी²", "None / इनमें से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Maximum slack permitted in CBC in wagon stock during service is ___ mm.",
+    "h": "सेवा के दौरान वैगन स्टॉक में CBC में अनुमत अधिकतम स्लैक ___ मिमी है।",
+    "o": ["12 / 12", "19 / 19", "25 / 25", "None / इनमें से कोई नहीं"],
+    "c": 2
+  },
+  {
+    "q": "Condemning height of Elastomeric Pad is ___ mm.",
+    "h": "इलास्टोमेरिक पैड की कंडम ऊँचाई ___ मिमी है।",
+    "o": ["40 / 40", "42 / 42", "46 / 46", "None / कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "DCP Type fire extinguisher is suitable to extinguish which fire?",
+    "h": "DCP टाइप अग्निशामक यंत्र किस प्रकार की आग बुझाने के लिए उपयुक्त है?",
+    "o": ["Diesel / डीजल", "Electric / विद्युत", "Petrol / पेट्रोल", "All / सभी प्रकार"],
+    "c": 3
+  },
+  {
+    "q": "Permissible variation in Wheel dia of same CASNUB bogie of a wagon is ___ mm.",
+    "h": "एक वैगन की एक ही केशनब बोगी में लगे पहियों के व्यास में अनुमत अंतर ___ मिमी है।",
+    "o": ["5 / 5", "10 / 10", "13 / 13", "25 / 25"],
+    "c": 2
+  },
+  {
+    "q": "Track gauge distance on a straight track is ___ mm.",
+    "h": "स्ट्रेट ट्रैक पर ट्रैक गेज की दूरी ___ मिमी होती है।",
+    "o": ["1676 ± 6 / 1676 ± 6", "1600 + 2/-1 / 1600 + 2/-1", "1599 / 1599", "None / इनमें से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Friction coefficient of K type composite brake block is?",
+    "h": "K टाइप कम्पोजिट ब्रेक-ब्लॉक का घर्षण गुणांक क्या है?",
+    "o": ["1.4 / 1.4", "2.8 / 2.8", "1.6 / 1.6", "0.25 / 0.25"],
+    "c": 3
+  },
+  {
+    "q": "Rate of variation in cross level per meter is called?",
+    "h": "प्रति मीटर क्रॉस लेवल में परिवर्तन की दर क्या कहलाती है?",
+    "o": ["Twist / टविस्ट", "Creep / क्रीप", "Cant / केन्ट", "Buckling / बकलिंग"],
+    "c": 0
+  },
+  {
+    "q": "Force required to lock automatic twist lock of BLC wagon is?",
+    "h": "BLC वैगन के ऑटोमैटिक ट्विस्ट लॉक को लॉक करने के लिए आवश्यक बल कितना है?",
+    "o": ["600 kg / 600 किग्रा", "700 kg / 700 किग्रा", "800 kg / 800 किग्रा", "None / इनमें से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "The standard height of platform for BLC wagon from Rail level is?",
+    "h": "रेल स्तर से BLC वैगन के लिए प्लेटफार्म की मानक ऊंचाई क्या है?",
+    "o": ["1010 mm / 1010 मिमी", "1015 mm / 1015 मिमी", "1009 mm / 1009 मिमी", "1100 mm / 1100 मिमी"],
+    "c": 2
+  },
+  {
+    "q": "As per new wagon numbering scheme, first two digits indicate?",
+    "h": "नई वैगन नंबरing योजना के अनुसार, पहले दो अंक क्या दर्शाते हैं?",
+    "o": ["Owning Railway / ओनिंग रेलवे", "Type of wagon / वैगन का प्रकार", "Year of manufacture / निर्माण का वर्ष", "Check digit / चेक अंक"],
+    "c": 1
+  },
+  {
+    "q": "What is the weakest link of the center buffer coupler?",
+    "h": "सेंटर बफर कप्लर की सबसे कमजोर कड़ी क्या है?",
+    "o": ["Knuckle / नकल", "Draft gear / ड्राफ्ट गियर", "Lock / लॉक", "Yoke pin / योक पिन"],
+    "c": 0
+  },
+  {
+    "q": "Track Gauge is measured ___ mm below the rail top.",
+    "h": "ट्रैक गेज रेल टॉप से ___ मिमी नीचे मापा जाता है।",
+    "o": ["13 / 13", "10 / 10", "14 / 14", "08 / 08"],
+    "c": 0
+  },
+  {
+    "q": "Condemning limit of BLC wheel set is ___ mm.",
+    "h": "BLC व्हीलसेट की कंडमिंग सीमा क्या है?",
+    "o": ["900 mm / 900 मिमी", "800 mm / 800 मिमी", "670 mm / 670 मिमी", "780 mm / 780 मिमी"],
+    "c": 3
+  },
+  {
+    "q": "___ test is used to detect internal faults of the Axles.",
+    "h": "एक्सल के आंतरिक दोषों का पता लगाने के लिए किस परीक्षण का उपयोग किया जाता है?",
+    "o": ["Hardness / कठोरता", "UST / यूएसटी", "DPT / डीपीटी", "None / इनमें से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "Name the type of coupling used in BLC wagon?",
+    "h": "BLC वैगन में प्रयुक्त कपलिंग का नाम बताइए?",
+    "o": ["CBC & Slack Less Drawbar / सीबीसी और स्लैक कम ड्रॉ बार", "HT CBC / एच टी सीबीसी", "Screw coupling / स्क्रू कपलिंग", "Slackness draw bars / स्लैकनेस ड्रॉबार"],
+    "c": 0
+  },
+  {
+    "q": "Minimum buffer height of coach from Rail level is ___ mm.",
+    "h": "रेल स्तर से कोच की न्यूनतम बफर ऊंचाई ___ मिमी है।",
+    "o": ["1030 / 1030", "1105 / 1105", "900 / 900", "1075 / 1075"],
+    "c": 0
+  },
+  {
+    "q": "In the passenger train, the diameter of brake pipe & feed pipe is?",
+    "h": "यात्री ट्रेन में ब्रेक पाइप और फीड पाइप का व्यास कितना होता है?",
+    "o": ["20.0 mm / 20.0 मिमी", "25.0 mm / 25.0 मिमी", "28.0 mm / 28.0 मिमी", "30.0 mm / 30.0 मिमी"],
+    "c": 1
+  },
+  {
+    "q": "Condemning limit of brake pad is ___ mm.",
+    "h": "ब्रेक पैड की कंडमिंग सीमा क्या है?",
+    "o": ["10 mm / 10 मिमी", "7 mm / 7 मिमी", "8 mm / 8 मिमी", "9 mm / 9 मिमी"],
+    "c": 1
+  },
+  {
+    "q": "What is the purpose of Dump Valve?",
+    "h": "डंप वाल्व का उद्देश्य क्या है?",
+    "o": ["Speed maintenance / गति नियंत्रण", "Protect against skidding / स्किडिंग से बचाव", "Both A & B / ए और बी दोनों", "None / इनमें से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "What is the new wheel diameter of ICF coach?",
+    "h": "ICF कोच का नया पहिया व्यास क्या है?",
+    "o": ["910 mm / 910 मिमी", "915 mm / 915 मिमी", "930 mm / 930 मिमी", "925 mm / 925 मिमी"],
+    "c": 1
+  },
+  {
+    "q": "'Bar' is the unit of?",
+    "h": "'बार' किसकी इकाई है?",
+    "o": ["Temperature / तापमान", "Heat / ताप", "Pressure / दाब", "Current / करंट"],
+    "c": 2
+  },
+  {
+    "q": "Riding index of LHB coach is?",
+    "h": "LHB कोच का राइडिंग इंडैक्स क्या होता है?",
+    "o": ["2.75 / 2.75", "2.0 / 2.0", "4.8 / 4.8", "None / इनमें से कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "IOH of ICF Coach is done in the interval of ___ months.",
+    "h": "ICF कोच का IOH कितने माह के अन्तराल पर होता है?",
+    "o": ["12 / 12", "09 / 09", "18 / 18", "54 / 54"],
+    "c": 1
+  },
+  {
+    "q": "Number of dump valves in one LHB coach are?",
+    "h": "एक LHB कोच में डम्प-वाल्व की कुल संख्या कितनी होती है?",
+    "o": ["08 / 08", "02 / 02", "06 / 06", "04 / 04"],
+    "c": 3
+  },
+  {
+    "q": "Cylinder Piston stroke of LHB coach is ___ mm.",
+    "h": "LHB कोच के सिलेंडर का पिस्टन स्ट्रोक ___ मिमी होता है।",
+    "o": ["32 / 32", "10 / 10", "15 / 15", "None / इनमें से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "Capacity of main reservoir of air spring system is ___ Liter.",
+    "h": "एयर स्प्रिंग सिस्टम में लगे मेन रिजर्वोयर की क्षमता ___ लीटर होती है।",
+    "o": ["180 / 180", "170 / 170", "150 / 150", "None / इनमें से कोई नहीं"],
+    "c": 2
+  },
+  {
+    "q": "During proper pressure in air spring, the position of leveling valve becomes?",
+    "h": "एयर स्प्रिंग में उचित दबाव के दौरान लेवलिंग वाल्व की स्थिति क्या हो जाती है?",
+    "o": ["Vertical / वर्टिकल", "Horizontal / हॉरिजॉन्टल", "Inclined / इनकलाइंड", "None / इनमें से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "PEASD provided in LHB can be reset from?",
+    "h": "LHB में प्रदान किए गए PEASD को कहाँ से रीसेट किया जा सकता है?",
+    "o": ["Under gear only / केवल अंडरगियर से", "Inside coach anywhere / कोच के अंदर कहीं से भी", "Point of chain pull / उस बिंदु से जहाँ चैन खींची गई", "Both A & B / ए और बी दोनों"],
+    "c": 3
+  },
+  {
+    "q": "The use of 16.25 tons axle load bogie is in?",
+    "h": "16.25 टन एक्सल लोड बोगी का उपयोग किसमें होता है?",
+    "o": ["WGS / डब्ल्यू जी एस", "AC Coach / एसी कोच", "GSLRD / जी एस एल आर डी", "Non AC Coach / नॉन एसी कोच"],
+    "c": 1
+  },
+  {
+    "q": "In twin pipe system, the AR pressure should be ___ kg/cm2.",
+    "h": "ट्विन पाइप प्रणाली में, ए.आर. का दबाव कितना होना चाहिए?",
+    "o": ["5.0 / 5.0", "6.0 / 6.0", "7.0 / 7.0", "8.0 / 8.0"],
+    "c": 1
+  },
+  {
+    "q": "What is the name of shock absorber connected between bogie and car body?",
+    "h": "बोगी और कार बॉडी के बीच जुड़े शॉक एब्जॉर्बर का नाम क्या है?",
+    "o": ["Primary / प्राइमरी", "Secondary / सेकेंडरी", "Yaw / यॉ", "None / इनमें से कोई नहीं"],
+    "c": 2
+  },
+  {
+    "q": "After reaching accident site, what is the first step to do?",
+    "h": "दुर्घटना स्थल पर पहुंचने के बाद सबसे पहला कदम क्या है?",
+    "o": ["Find cause / कारण का पता लगाना", "First aid / प्राथमिक उपचार", "Protection of site / लाइन प्रोटेक्शन", "Arranging food / खाने की व्यवस्था"],
+    "c": 1
+  },
+  {
+    "q": "Maximum diameter of Axle mounted Disc brake in LHB coach is ___ mm.",
+    "h": "LHB कोच में एक्सल माउंटेड डिस्क ब्रेक का अधिकतम व्यास ___ मिमी है।",
+    "o": ["890 / 890", "640 / 640", "540 / 540", "None / इनमें से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "What is the distance between side bearers of ICF coach?",
+    "h": "ICF कोच के साइड बियरर के बीच की दूरी क्या है?",
+    "o": ["1560 mm / 1560 मिमी", "1590 mm / 1590 मिमी", "1600 mm / 1600 मिमी", "1610 mm / 1610 मिमी"],
+    "c": 2
+  },
+  {
+    "q": "Which part is not used in ICF trolley?",
+    "h": "ICF ट्रॉली में किस भाग का उपयोग नहीं किया जाता है?",
+    "o": ["Dashpot / डैशपॉट", "Side bearer / साइड बियरर", "Shock absorber / शॉक एब्जॉर्बर", "Draw link / ड्रॉ लिंक"],
+    "c": 3
+  },
+  {
+    "q": "How many shock absorbers are used in LHB Coaches?",
+    "h": "LHB कोच में कुल कितने शॉक एब्जॉर्बर उपयोग किए जाते हैं?",
+    "o": ["10 / 10", "8 / 8", "18 / 18", "12 / 12"],
+    "c": 2
+  },
+  {
+    "q": "Types of side bearers fitted in CASNUB 22 HS bogie?",
+    "h": "CASNUB 22 HS बोगी में किस प्रकार के साइड बियरर लगे होते हैं?",
+    "o": ["Metal CC type / मैटल सीसी टाईप", "Spring loaded CC & PU / स्प्रिंग लोडेड सीसी और पीयू", "Roller Type / रोलर टाईप", "None / इनमें से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "The World Environment Day is celebrated on?",
+    "h": "विश्व पर्यावरण दिवस कब मनाया जाता है?",
+    "o": ["April 7 / 7 अप्रैल", "June 5 / 5 जून", "August 6 / 6 अगस्त", "June 16 / 16 जून"],
+    "c": 1
+  },
+  {
+    "q": "Choke diameter of PEAV of LHB coach is ___ mm.",
+    "h": "LHB कोच के PEAV का चोक व्यास ___ मिमी है।",
+    "o": ["08 / 08", "19 / 19", "7.5 / 7.5", "None / इनमें से कोई नहीं"],
+    "c": 1
+  },
+  {
+    "q": "What is the Transportation code of inspection carriage (Administrative)?",
+    "h": "निरीक्षण गाड़ी (प्रशासनिक) का परिवहन कोड क्या है?",
+    "o": ["AR / एआर", "CR / सीआर", "IC / आईसी", "RA / आरए"],
+    "c": 3
+  },
+  {
+    "q": "The 'L' type composite brake block should be changed if worn out beyond ___ mm.",
+    "h": "L प्रकार के कंपोजिट ब्रेक ब्लॉक को कितनी घिसावट के बाद बदल देना चाहिए?",
+    "o": ["10 mm / 10 मिमी", "15 mm / 15 मिमी", "20 mm / 20 मिमी", "22 mm / 22 मिमी"],
+    "c": 0
+  },
+  {
+    "q": "Which animal does not cover under definition of cattle as per accident Manual?",
+    "h": "एक्सीडेंट मैनुअल के अनुसार कौन सा जानवर 'कैटल' की परिभाषा में नहीं आता?",
+    "o": ["Cow / गाय", "Elephant / हाथी", "Buffalo / भैंस", "Donkey / गधा"],
+    "c": 1
+  },
+  {
+    "q": "Accidents are classified in 16 categories from A to R, excluding ___?",
+    "h": "एक्सीडेंट्स को A से R तक 16 श्रेणियों में बांटा गया है, किन अक्षरों को छोड़कर?",
+    "o": ["B & D / बी और डी", "I & O / आई और ओ", "P & Q / पी और क्यू", "J & K / जे और के"],
+    "c": 1
+  },
+  {
+    "q": "Who was the first Chairman of the Official Language Commission?",
+    "h": "राजभाषा आयोग के प्रथम अध्यक्ष कौन थे?",
+    "o": ["B.G. Kher / बी जी खेर", "G.B. Pant / जी बी पंत", "Munshi Ayyangar / मुंशी अयंगर", "None / कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Who is the Chairman of the Central Hindi Committee?",
+    "h": "केंद्रीय हिन्दी समिति के अध्यक्ष कौन होते हैं?",
+    "o": ["Prime Minister / प्रधानमंत्री", "President / राष्ट्रपति", "Home Minister / गृहमंत्री", "Railway Minister / रेलमंत्री"],
+    "c": 0
+  },
+  {
+    "q": "How many members from Lok Sabha are in the Parliamentary Official Language Committee?",
+    "h": "संसदीय राजभाषा समिति में लोकसभा के कितने सदस्य होते हैं?",
+    "o": ["20 / 20", "30 / 30", "10 / 10", "None / कोई नहीं"],
+    "c": 0
+  },
+  {
+    "q": "Which award is given for writing poetry collections in Hindi?",
+    "h": "हिन्दी में काव्य संग्रह लिखने पर कौन सा पुरस्कार दिया जाता है?",
+    "o": ["Maithili Sharan Gupt / मैथिलीशरण गुप्त", "Premchand / प्रेमचंद", "Mahadevi Verma / महादेवी वर्मा", "Suryakant Tripathi Nirala / सूर्यकांत त्रिपाठी निराला"],
+    "c": 0
+  },
+  {
+    "q": "When was the Official Language Act 1963 amended?",
+    "h": "राजभाषा अधिनियम 1963 कब संशोधित हुआ?",
+    "o": ["1968 / 1968", "1967 / 1967", "1965 / 1965", "1964 / 1964"],
+    "c": 1
+  },
+  {
+    "q": "DA under D&AR is known as?",
+    "h": "D&AR के अंतर्गत DA का अर्थ क्या है?",
+    "o": ["Divisional Authority / मंडल प्राधिकार", "Disciplinary Authority / अनुशासनिक प्राधिकार", "Disciplinary Appeal / अनुशासनिक अपील", "Dismissed Authority / बर्खास्त प्राधिकार"],
+    "c": 1
+  }
+]

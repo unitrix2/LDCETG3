@@ -1,0 +1,1212 @@
+[
+  {
+    "q": "In ISO 9001:2015, 'risk-based thinking' means:",
+    "h": "ISO 9001:2015 में 'जोखिम-आधारित सोच' का अर्थ है:",
+    "o": [
+      "Avoiding all risks / सभी जोखिमों से बचना",
+      "Identifying and addressing risks and opportunities proactively / जोखिमों और अवसरों की पहचान करना और सक्रिय रूप से उन्हें संबोधित करना",
+      "Ignoring minor risks / मामूली जोखिमों को नजरअंदाज करना",
+      "Documenting risks only / केवल जोखिमों का दस्तावेजीकरण"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In the twin-pipe graduated release air brake system of LHB coaches, the SAB (Slack Adjuster Brake) automatic slack adjuster maintains the brake cylinder piston stroke within a specific range. What is the CORRECT working principle of the SAB slack adjuster?",
+    "h": "LHB कोचों की ट्विन-पाइप ग्रेजुएटेड रिलीज़ एयर ब्रेक प्रणाली में SAB (Slack Adjuster Brake) ऑटोमैटिक स्लैक एडजस्टर ब्रेक सिलेंडर पिस्टन स्ट्रोक को एक निश्चित सीमा में रखता है। SAB स्लैक एडजस्टर का सही कार्य सिद्धांत क्या है?",
+    "o": [
+      "The SAB slack adjuster operates mechanically during each brake application and release cycle; if the piston stroke exceeds the set maximum (due to brake block wear), the adjuster automatically shortens the brake rigging on the release stroke, and if the stroke is too short, it lengthens the rigging — maintaining piston stroke between approximately 90–130 mm / SAB स्लैक एडजस्टर प्रत्येक ब्रेक आवेदन और रिलीज़ चक्र के दौरान यांत्रिक रूप से काम करता है; यदि पिस्टन स्ट्रोक निर्धारित अधिकतम से अधिक हो तो एडजस्टर रिलीज़ स्ट्रोक पर ब्रेक रिगिंग को स्वतः छोटा करता है और यदि स्ट्रोक बहुत कम हो तो रिगिंग को लंबा करता है — पिस्टन स्ट्रोक को लगभग 90–130 मिमी के बीच बनाए रखता है",
+      "The SAB slack adjuster uses brake pipe air pressure to pneumatically reposition the brake rigging after every 10th brake application to compensate for accumulated wear / SAB स्लैक एडजस्टर BP हवा के दबाव का उपयोग करके हर 10वें ब्रेक आवेदन के बाद ब्रेक रिगिंग को वायुवीय रूप से पुनः स्थापित करता है",
+      "The SAB slack adjuster works only during emergency brake applications and has no function during service brake applications; it resets manually by the C&W staff during scheduled maintenance / SAB स्लैक एडजस्टर केवल आपातकालीन ब्रेक आवेदन के दौरान काम करता है और सर्विस ब्रेक आवेदन के दौरान इसका कोई कार्य नहीं है; इसे निर्धारित रखरखाव के दौरान C&W कर्मचारियों द्वारा मैन्युअल रूप से रीसेट किया जाता है",
+      "The SAB slack adjuster adjusts the piston stroke by venting excess brake cylinder pressure to atmosphere whenever the stroke exceeds 150 mm, keeping the pressure constant / SAB स्लैक एडजस्टर जब भी स्ट्रोक 150 मिमी से अधिक हो तो ब्रेक सिलेंडर की अतिरिक्त हवा को वायुमंडल में वेंट करके पिस्टन स्ट्रोक को समायोजित करता है"
+    ],
+    "c": 0
+  },
+  {
+    "q": "CTS in railways stands for:",
+    "h": "रेलवे में CTS का पूर्ण रूप है:",
+    "o": [
+      "Coach Tracking System / कोच ट्रैकिंग सिस्टम",
+      "Centralized Ticketing System / सेंट्रलाइज्ड टिकटिंग सिस्टम",
+      "Coach Trialling System / कोच ट्रायलिंग सिस्टम",
+      "Coaching Traffic Schedule / कोचिंग ट्रैफिक शेड्यूल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "QWS stands for:",
+    "h": "QWS का पूर्ण रूप है:",
+    "o": [
+      "Quick Watering System / क्विक वॉटरिंग सिस्टम",
+      "Quality Work Standard / क्वालिटी वर्क स्टैंडर्ड",
+      "Quick Work Schedule / क्विक वर्क शेड्यूल",
+      "Quick Wash System / क्विक वॉश सिस्टम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The carrying capacity of a BOXN wagon is approximately:",
+    "h": "BOXN वैगन की वहन क्षमता लगभग कितनी है?",
+    "o": [
+      "50 tonnes / 50 टन",
+      "58 tonnes / 58 टन",
+      "60 tonnes / 60 टन",
+      "70 tonnes / 70 टन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which wagon is used to carry automobiles?",
+    "h": "ऑटोमोबाइल ले जाने के लिए किस वैगन का उपयोग किया जाता है?",
+    "o": [
+      "BOXN",
+      "FWCS",
+      "BTPGLN",
+      "NMG"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Bio toilets in coaches should be maintained by:",
+    "h": "कोचों में बायो टॉयलेट का रखरखाव किस प्रकार किया जाना चाहिए?",
+    "o": [
+      "Adding fresh bacteria inoculation when required and not using harsh chemicals / आवश्यकतानुसार ताज़ा बैक्टीरिया इनोकुलेशन जोड़ना और कठोर रसायनों का उपयोग न करना",
+      "Using bleaching powder regularly / नियमित रूप से ब्लीचिंग पाउडर का उपयोग",
+      "Daily flushing with hot water only / केवल गर्म पानी से दैनिक फ्लशिंग",
+      "Using acid-based cleaners / एसिड-आधारित क्लीनर का उपयोग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Linen change for passengers in AC coaches is done:",
+    "h": "AC कोचों में यात्रियों के लिए लिनन परिवर्तन किया जाता है:",
+    "o": [
+      "Once a week / सप्ताह में एक बार",
+      "At originating station for each journey / प्रत्येक यात्रा के लिए प्रारंभिक स्टेशन पर",
+      "Only on demand / केवल मांग पर",
+      "At terminating station only / केवल अंतिम स्टेशन पर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Stock items in Indian Railways are:",
+    "h": "भारतीय रेलवे में स्टॉक आइटम हैं:",
+    "o": [
+      "Items not available in stores / स्टोर में अनुपलब्ध वस्तुएं",
+      "Regularly used items maintained in stores for immediate supply / नियमित रूप से उपयोग की जाने वाली वस्तुएं जो तत्काल आपूर्ति के लिए स्टोर में रखी जाती हैं",
+      "Items purchased only on demand / केवल मांग पर खरीदी जाने वाली वस्तुएं",
+      "Items manufactured in workshops / कार्यशालाओं में निर्मित वस्तुएं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "ACWP stands for:",
+    "h": "ACWP का पूर्ण रूप है:",
+    "o": [
+      "Automatic Coach Washing Plant / ऑटोमेटिक कोच वॉशिंग प्लांट",
+      "Advanced Carriage Washing Process / एडवांस्ड कैरिज वॉशिंग प्रोसेस",
+      "Auto Cleaning Water Plant / ऑटो क्लीनिंग वाटर प्लांट",
+      "Automatic Carriage Washing Programme / ऑटोमेटिक कैरिज वॉशिंग प्रोग्राम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Tare weight of a wagon refers to:",
+    "h": "वैगन का टेयर वजन किसे संदर्भित करता है?",
+    "o": [
+      "Weight of cargo only / केवल कार्गो का वजन",
+      "Weight of empty wagon / खाली वैगन का वजन",
+      "Total weight of loaded wagon / भरे हुए वैगन का कुल वजन",
+      "Weight of bogie only / केवल बोगी का वजन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In a coaching stock air brake system, when the Cut-off Angle Cock (COAC) on the brake pipe is found in the CLOSED position while the train is in service, what is the immediate consequence for that vehicle?",
+    "h": "कोचिंग स्टॉक एयर ब्रेक प्रणाली में, यदि ब्रेक पाइप पर कट-ऑफ एंगल कॉक (COAC) बंद अवस्था में पाया जाए, तो उस वाहन पर तत्काल क्या परिणाम होगा?",
+    "o": [
+      "The brake cylinder of that vehicle gets over-charged to maximum pressure / उस वाहन का ब्रेक सिलेंडर अधिकतम दबाव तक ओवर-चार्ज हो जाएगा",
+      "The auxiliary reservoir of that vehicle gets vented to atmosphere immediately / उस वाहन का ऑक्जिलरी रिज़र्वायर तुरंत वायुमंडल में वेंट हो जाएगा",
+      "The distributor valve of that vehicle gets isolated from the brake pipe; its brakes remain in last- applied position and cannot be released or re-applied through the BP / उस वाहन का डिस्ट्रिब्यूटर वाल्व BP से आइसोलेट हो जाएगा; ब्रेक अंतिम-लागू स्थिति में रहेंगे और BP द्वारा छोड़े या लागू नहीं किए जा सकते",
+      "The direct admission valve (DAV) takes over and applies full brakes automatically / डायरेक्ट एडमिशन वाल्व (DAV) स्वतः पूर्ण ब्रेक लागू कर देगा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Screw coupling is used in:",
+    "h": "स्क्रू कपलिंग का उपयोग किसमें किया जाता है?",
+    "o": [
+      "LHB coaches / LHB कोच",
+      "ICF coaches / ICF कोच",
+      "BOXN wagons / BOXN वैगन",
+      "Diesel locomotives / डीजल लोकोमोटिव"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Medical van in ARME is equipped with:",
+    "h": "ARME में मेडिकल वैन किससे सुसज्जित होती है?",
+    "o": [
+      "Only stretchers / केवल स्ट्रेचर",
+      "First aid kit, medicines, doctor and medical staff / प्राथमिक चिकित्सा किट, दवाइयाँ, डॉक्टर और मेडिकल स्टाफ",
+      "Only oxygen cylinders / केवल ऑक्सीजन सिलेंडर",
+      "Only communication equipment / केवल संचार उपकरण"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Train parting can occur due to:",
+    "h": "ट्रेन विभाजन किस कारण हो सकता है?",
+    "o": [
+      "Excessive speed only / केवल अत्यधिक गति",
+      "Defective coupling, broken drawbar or broken knuckle / दोषपूर्ण कपलिंग, टूटा ड्रॉबार या टूटा नकल",
+      "Over-lubrication / अति-स्नेहन",
+      "High brake cylinder pressure / उच्च ब्रेक सिलेंडर दबाव"
+    ],
+    "c": 0
+  },
+  {
+    "q": "LHB coaches are fitted with which type of brake system?",
+    "h": "LHB कोचों में किस प्रकार की ब्रेक प्रणाली लगाई जाती है?",
+    "o": [
+      "Vacuum brake / वैक्यूम ब्रेक",
+      "Air brake (CASNUB) / एयर ब्रेक (CASNUB)",
+      "Electro-pneumatic brake / इलेक्ट्रो-न्यूमैटिक ब्रेक",
+      "Hydraulic brake / हाइड्रॉलिक ब्रेक"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Air leakage in brake pipe can be detected by:",
+    "h": "ब्रेक पाइप में वायु रिसाव का पता लगाया जा सकता है:",
+    "o": [
+      "Sound test only / केवल ध्वनि परीक्षण",
+      "Soap solution test or electronic leak detector / साबुन के घोल का परीक्षण या इलेक्ट्रॉनिक लीक डिटेक्टर",
+      "Visual inspection only / केवल दृश्य निरीक्षण",
+      "Pressure gauge only / केवल प्रेशर गेज"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of brake system is used in ICF coaches?",
+    "h": "ICF कोचों में किस प्रकार की ब्रेक प्रणाली का उपयोग किया जाता है?",
+    "o": [
+      "Vacuum Brake / वैक्यूम ब्रेक",
+      "Air Brake / एयर ब्रेक",
+      "Hand Brake only / केवल हैंड ब्रेक",
+      "Hydraulic Brake / हाइड्रॉलिक ब्रेक"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What does PPE stand for?",
+    "h": "PPE का पूर्ण रूप क्या है?",
+    "o": [
+      "Personal Protective Equipment / पर्सनल प्रोटेक्टिव इक्विपमेंट",
+      "Public Protection Engine / पब्लिक प्रोटेक्शन इंजन",
+      "Private Protection Equipment / प्राइवेट प्रोटेक्शन इक्विपमेंट",
+      "Professional Protection Ensemble / प्रोफेशनल प्रोटेक्शन एनसेंबल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Hindi Pakhwada in Indian Railways is observed in the month of:",
+    "h": "भारतीय रेलवे में हिंदी पखवाड़ा किस माह में मनाया जाता है?",
+    "o": [
+      "January / जनवरी",
+      "March / मार्च",
+      "September / सितम्बर",
+      "November / नवम्बर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Within how many minutes should ART be dispatched after receiving an accident call?",
+    "h": "दुर्घटना कॉल प्राप्त होने के कितने मिनट बाद ART को भेजा जाना चाहिए?",
+    "o": [
+      "30 minutes / 30 मिनट",
+      "45 minutes / 45 मिनट",
+      "60 minutes / 60 मिनट",
+      "15 minutes / 15 मिनट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following statements correctly describes the 'Graduated Release' feature of the C3W distributor valve used in Indian Railways coaching stock?",
+    "h": "भारतीय रेलवे कोचिंग स्टॉक में उपयोग होने वाले C3W डिस्ट्रिब्यूटर वाल्व की 'ग्रेजुएटेड रिलीज़' विशेषता का सही वर्णन निम्न में से कौन सा है?",
+    "o": [
+      "Once brakes are fully applied, the valve allows the brake cylinder pressure to be reduced in one single step only by fully charging the brake pipe back to 5 kg/cm² / एक बार ब्रेक पूरी तरह लागू होने के बाद, वाल्व ब्रेक सिलेंडर दबाव को केवल एक ही चरण में कम करने की अनुमति देता है जिसके लिए BP को 5 kg/cm² तक पूरी तरह चार्ज करना होता है",
+      "The C3W distributor valve allows partial release of brakes in steps corresponding to incremental increases in brake pipe pressure, without requiring full recharge to 5 kg/cm² / C3W डिस्ट्रिब्यूटर वाल्व BP दबाव में क्रमिक वृद्धि के अनुरूप ब्रेकों को चरणबद्ध तरीके से आंशिक रूप से छोड़ने की अनुमति देता है, बिना 5 kg/cm² तक पूरी तरह रिचार्ज किए",
+      "The graduated release feature applies only to the auxiliary reservoir and has no effect on the brake cylinder pressure during partial releases / ग्रेजुएटेड रिलीज़ विशेषता केवल ऑक्जिलरी रिज़र्वायर पर लागू होती है और आंशिक रिलीज़ के दौरान ब्रेक सिलेंडर दबाव पर कोई प्रभाव नहीं डालती",
+      "Graduated release in C3W means the valve can only be released pneumatically from the guard's van using the guard's brake valve / C3W में ग्रेजुएटेड रिलीज़ का अर्थ है कि वाल्व को केवल गार्ड वैन से गार्ड के ब्रेक वाल्व द्वारा वायुवीय रूप से छोड़ा जा सकता है"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Departmental enquiry (DAR) charges must be served within how many days of detection?",
+    "h": "DAR आरोप-पत्र अपराध की जानकारी के कितने दिनों के भीतर दिया जाना चाहिए?",
+    "o": [
+      "30 days / 30 दिन",
+      "45 days / 45 दिन",
+      "60 days / 60 दिन",
+      "No time limit / कोई समय सीमा नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What precaution should be taken while working with electrical equipment in a coach?",
+    "h": "कोच में विद्युत उपकरण के साथ काम करते समय क्या सावधानी बरतनी चाहिए?",
+    "o": [
+      "No precaution needed / कोई सावधानी नहीं",
+      "Isolate power supply and use insulated tools / बिजली आपूर्ति बंद करें और इन्सुलेटेड उपकरण उपयोग करें",
+      "Only wear gloves / केवल दस्ताने पहनें",
+      "Work only during daytime / केवल दिन के समय काम करें"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The Rajbhasha Vibhag functions under:",
+    "h": "राजभाषा विभाग किसके अंतर्गत कार्य करता है?",
+    "o": [
+      "Ministry of Railways / रेल मंत्रालय",
+      "Ministry of Home Affairs / गृह मंत्रालय",
+      "Ministry of Education / शिक्षा मंत्रालय",
+      "Prime Minister's Office / प्रधानमंत्री कार्यालय"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Annual Railway Pass (privilege pass) for Group C employees entitles travel:",
+    "h": "ग्रुप C कर्मचारियों के लिए वार्षिक रेलवे पास यात्रा का अधिकार देता है:",
+    "o": [
+      "Once a year in any class / किसी भी श्रेणी में वर्ष में एक बार",
+      "Twice a year in entitled class / हकदार श्रेणी में वर्ष में दो बार",
+      "Any number of times / कितनी भी बार",
+      "Only in sleeper class / केवल स्लीपर क्लास में"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Sick note in railway service means:",
+    "h": "रेलवे सेवा में सिक नोट का अर्थ है:",
+    "o": [
+      "Permission to go on leave / अवकाश पर जाने की अनुमति",
+      "Medical certificate from an authorized railway doctor / अधिकृत रेलवे डॉक्टर से मेडिकल सर्टिफिकेट",
+      "Request for promotion / पदोन्नति के लिए अनुरोध",
+      "Permission to work overtime / ओवरटाइम काम करने की अनुमति"
+    ],
+    "c": 0
+  },
+  {
+    "q": "LHB coaches are made of which material?",
+    "h": "LHB कोच किस सामग्री से बने होते हैं?",
+    "o": [
+      "Mild Steel / माइल्ड स्टील",
+      "Stainless Steel / स्टेनलेस स्टील",
+      "Aluminium Alloy / एल्युमिनियम मिश्र धातु",
+      "Cast Iron / कास्ट आयरन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Movement of ODC requires special permission from:",
+    "h": "ODC की आवाजाही के लिए किससे विशेष अनुमति आवश्यक है?",
+    "o": [
+      "Station Master only / केवल स्टेशन मास्टर",
+      "Chief Engineer / competent authority of the concerned railway / संबंधित रेलवे के मुख्य अभियंता/सक्षम प्राधिकारी",
+      "Guard only / केवल गार्ड",
+      "Loco Pilot only / केवल लोको पायलट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "LHB coaches use which coupling system?",
+    "h": "LHB कोच किस कपलिंग प्रणाली का उपयोग करते हैं?",
+    "o": [
+      "Screw coupling / स्क्रू कपलिंग",
+      "Centre Buffer Coupler (CBC) / सेंटर बफर कपलर (CBC)",
+      "Hook and link coupling / हुक एवं लिंक कपलिंग",
+      "Knuckle coupler / नकल कपलर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In the CASNUB bogie freight wagon air brake system, what is the primary function of the Empty-Loaded (Tare-Gross) device also known as PEASD?",
+    "h": "CASNUB बोगी फ्रेट वैगन एयर ब्रेक प्रणाली में, Empty-Loaded (Tare-Gross) डिवाइस जिसे PEASD भी कहते हैं, का प्राथमिक कार्य क्या है?",
+    "o": [
+      "To automatically vary the brake cylinder pressure based on whether the wagon is loaded or empty, preventing wheel skidding on empty wagons and ensuring adequate braking on loaded wagons / वैगन भरा हुआ है या खाली है, इसके आधार पर ब्रेक सिलेंडर दबाव को स्वतः बदलना, जिससे खाली वैगनों पर पहिया स्किडिंग रोकी जा सके और भरे वैगनों पर पर्याप्त ब्रेकिंग सुनिश्चित हो",
+      "To isolate the distributor valve from the brake pipe when the wagon is detected as overloaded beyond its permissible gross load / जब वैगन अनुमेय सकल भार से अधिक भारित पाया जाए तो डिस्ट्रिब्यूटर वाल्व को BP से आइसोलेट करना",
+      "To control the recharging rate of the auxiliary reservoir depending on the train load so that brake pipe pressure stabilises faster / ट्रेन लोड के अनुसार ऑक्जिलरी रिज़र्वायर की रिचार्जिंग दर को नियंत्रित करना ताकि BP दबाव तेज़ी से स्थिर हो",
+      "To detect hot axle box temperature and automatically apply parking brakes when the temperature exceeds the threshold / हॉट एक्सल बॉक्स तापमान का पता लगाना और तापमान सीमा से अधिक होने पर पार्किंग ब्रेक स्वतः लगाना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the maximum permissible speed of ICF coaches on Indian Railways?",
+    "h": "भारतीय रेलवे पर ICF कोचों की अधिकतम अनुमेय गति क्या है?",
+    "o": [
+      "110 kmph / 110 किमी/घंटा",
+      "130 kmph / 130 किमी/घंटा",
+      "160 kmph / 160 किमी/घंटा",
+      "200 kmph / 200 किमी/घंटा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "WILD detects:",
+    "h": "WILD क्या पहचानता है?",
+    "o": [
+      "Flat wheels and overloaded axles / फ्लैट पहिए और अधिक भारित एक्सल",
+      "Hot axle box / गर्म एक्सल बॉक्स",
+      "Rail cracks / रेल दरारें",
+      "Signal failures / सिग्नल खराबी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the maximum permissible speed of LHB coaches?",
+    "h": "LHB कोचों की अधिकतम अनुमेय गति क्या है?",
+    "o": [
+      "130 kmph / 130 किमी/घंटा",
+      "160 kmph / 160 किमी/घंटा",
+      "200 kmph / 200 किमी/घंटा",
+      "250 kmph / 250 किमी/घंटा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What does CASNUB stand for in wagon bogies?",
+    "h": "वैगन बोगियों में CASNUB का पूर्ण रूप क्या है?",
+    "o": [
+      "Cast Steel Nub / कास्ट स्टील नब",
+      "Cast Steel Bogies with Unitized Bearings / कास्ट स्टील बोगी विद यूनिटाइज्ड बियरिंग",
+      "Cast Steel National Unit Bogie / कास्ट स्टील नेशनल यूनिट बोगी",
+      "Centralized Axle Steel NUB / सेंट्रलाइज्ड एक्सल स्टील NUB"
+    ],
+    "c": 0
+  },
+  {
+    "q": "RFID technology in railways is used for:",
+    "h": "रेलवे में RFID तकनीक का उपयोग किया जाता है:",
+    "o": [
+      "Track maintenance / ट्रैक रखरखाव",
+      "Automatic identification of rolling stock / रोलिंग स्टॉक की स्वचालित पहचान",
+      "Communication / संचार",
+      "Passenger information / यात्री सूचना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the full form of RCF in Indian Railways?",
+    "h": "भारतीय रेलवे में RCF का पूर्ण रूप क्या है?",
+    "o": [
+      "Rail Coach Factory / रेल कोच फैक्ट्री",
+      "Railway Central Factory / रेलवे सेंट्रल फैक्ट्री",
+      "Rail Car Foundation / रेल कार फाउंडेशन",
+      "Railway Coach Frame / रेलवे कोच फ्रेम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "OMRS stands for:",
+    "h": "OMRS का पूर्ण रूप है:",
+    "o": [
+      "Online Monitoring of Rolling Stock / ऑनलाइन मॉनिटरिंग ऑफ रोलिंग स्टॉक",
+      "Over-speed Monitoring and Recording System / ओवर-स्पीड मॉनिटरिंग एंड रिकॉर्डिंग सिस्टम",
+      "On-board Maintenance Recording System / ऑन-बोर्ड मेंटेनेंस रिकॉर्डिंग सिस्टम",
+      "Overhead Monitoring Railway System / ओवरहेड मॉनिटरिंग रेलवे सिस्टम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "FIBA stands for:",
+    "h": "FIBA का पूर्ण रूप है:",
+    "o": [
+      "Fail In Brake Application / फेल इन ब्रेक एप्लीकेशन",
+      "Fixed Integrated Brake Assembly / फिक्स्ड इंटीग्रेटेड ब्रेक असेंबली",
+      "Freight Integrated Brake Assembly / फ्रेट इंटीग्रेटेड ब्रेक असेंबली",
+      "Fast In-motion Brake Activation / फास्ट इन-मोशन ब्रेक एक्टिवेशन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Wheel flange depth condemning limit for BG coaches is:",
+    "h": "BG कोचों के लिए व्हील फ्लैंज गहराई निंदा सीमा है:",
+    "o": [
+      "16 mm",
+      "28 mm",
+      "35 mm",
+      "40 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "ICF coaches use which type of suspension system?",
+    "h": "ICF कोच किस प्रकार की सस्पेंशन प्रणाली का उपयोग करते हैं?",
+    "o": [
+      "Coil spring with dashpot / डैशपॉट के साथ कुंडली स्प्रिंग",
+      "Rubber spring / रबर स्प्रिंग",
+      "Leaf spring / पत्ती स्प्रिंग",
+      "Air spring / वायु स्प्रिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The maximum permissible axle load for BG wagons is:",
+    "h": "BG वैगनों के लिए अधिकतम अनुमेय एक्सल लोड है:",
+    "o": [
+      "20.3 tonnes / 20.3 टन",
+      "22.9 tonnes / 22.9 टन",
+      "25 tonnes / 25 टन",
+      "18 tonnes / 18 टन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which article of the Indian Constitution recognises Hindi as the Official Language of the Union?",
+    "h": "भारतीय संविधान का कौन सा अनुच्छेद हिंदी को संघ की राजभाषा के रूप में मान्यता देता है?",
+    "o": [
+      "Article 340 / अनुच्छेद 340",
+      "Article 343 / अनुच्छेद 343",
+      "Article 350 / अनुच्छेद 350",
+      "Article 356 / अनुच्छेद 356"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the normal brake pipe pressure in a train?",
+    "h": "एक ट्रेन में सामान्य ब्रेक पाइप दबाव क्या होता है?",
+    "o": [
+      "4 kg/cm²",
+      "5 kg/cm²",
+      "6 kg/cm²",
+      "7 kg/cm²"
+    ],
+    "c": 0
+  },
+  {
+    "q": "BOXN wagon is primarily used for transportation of:",
+    "h": "BOXN वैगन मुख्य रूप से किसके परिवहन के लिए उपयोग किया जाता है?",
+    "o": [
+      "Coal / कोयला",
+      "Petroleum / पेट्रोलियम",
+      "Cement / सीमेंट",
+      "Automobiles / ऑटोमोबाइल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Hot axle box detection in wagons is done by which equipment?",
+    "h": "वैगनों में गर्म एक्सल बॉक्स की पहचान किस उपकरण द्वारा की जाती है?",
+    "o": [
+      "HABD (Hot Axle Box Detector) / HABD (हॉट एक्सल बॉक्स डिटेक्टर)",
+      "ACP device / ACP डिवाइस",
+      "Brake cylinder gauge / ब्रेक सिलेंडर गेज",
+      "Pressure gauge / प्रेशर गेज"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In an accident enquiry committee, the C&W representative is responsible for:",
+    "h": "दुर्घटना जांच समिति में C&W प्रतिनिधि किसके लिए जिम्मेदार है?",
+    "o": [
+      "Signal failures / सिग्नल खराबी",
+      "Mechanical examination of coaches and wagons involved / संबंधित कोचों और वैगनों की यांत्रिक जांच",
+      "Track inspection / ट्रैक निरीक्षण",
+      "Driver examination / ड्राइवर परीक्षण"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Bio toilets in railway coaches use which process for waste treatment?",
+    "h": "रेलवे कोचों में बायो टॉयलेट अपशिष्ट उपचार के लिए किस प्रक्रिया का उपयोग करते हैं?",
+    "o": [
+      "Chemical treatment / रासायनिक उपचार",
+      "Anaerobic digestion by bacteria / बैक्टीरिया द्वारा अवायवीय पाचन",
+      "Incineration / दहन",
+      "UV treatment / UV उपचार"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The wheel diameter of a new wheel for BG coaches is:",
+    "h": "BG कोचों के नए पहिए का व्यास है:",
+    "o": [
+      "840 mm",
+      "915 mm",
+      "1000 mm",
+      "750 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "LHB coaches use which type of bogie?",
+    "h": "LHB कोच किस प्रकार की बोगी का उपयोग करते हैं?",
+    "o": [
+      "ICF Bogie / ICF बोगी",
+      "FIAT Bogie / FIAT बोगी",
+      "Scheffel Bogie / शेफेल बोगी",
+      "Commonwealth Bogie / कॉमनवेल्थ बोगी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "TOLIC stands for:",
+    "h": "TOLIC का पूर्ण रूप है:",
+    "o": [
+      "Town Official Language Implementation Committee / टाउन ऑफिशियल लैंग्वेज इम्प्लीमेंटेशन कमेटी",
+      "Train Operations and Language Inspection Committee / ट्रेन ऑपरेशंस एंड लैंग्वेज इंस्पेक्शन कमेटी",
+      "Technical Operations and Loco Inspection Committee / टेक्निकल ऑपरेशंस एंड लोको इंस्पेक्शन कमेटी",
+      "Transport Official Language Inspection Council / ट्रांसपोर्ट ऑफिशियल लैंग्वेज इंस्पेक्शन काउंसिल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Privilege Leave (PL) on Indian Railways can be accumulated up to:",
+    "h": "भारतीय रेलवे पर विशेषाधिकार अवकाश (PL) अधिकतम कितने दिन तक संचित किया जा सकता है?",
+    "o": [
+      "120 days / 120 दिन",
+      "180 days / 180 दिन",
+      "300 days / 300 दिन",
+      "365 days / 365 दिन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Before carrying out maintenance work under a coach, one must ensure:",
+    "h": "किसी कोच के नीचे रखरखाव कार्य करने से पहले, सुनिश्चित करना चाहिए:",
+    "o": [
+      "Engine is running / इंजन चालू है",
+      "Proper chocking of wheels and displaying caution boards / पहियों की उचित चॉकिंग और सावधानी बोर्ड लगाना",
+      "Only gloves are worn / केवल दस्ताने पहने हों",
+      "No specific precaution needed / कोई विशेष सावधानी की आवश्यकता नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "ART stands for:",
+    "h": "ART का पूर्ण रूप है:",
+    "o": [
+      "Accident Relief Train / एक्सीडेंट रिलीफ ट्रेन",
+      "Auxiliary Repair Train / ऑक्जिलरी रिपेयर ट्रेन",
+      "Automatic Rescue Train / ऑटोमैटिक रेस्क्यू ट्रेन",
+      "Advanced Railway Train / एडवांस्ड रेलवे ट्रेन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the standard gauge (track width) in Indian Railways?",
+    "h": "भारतीय रेलवे में मानक गेज (ट्रैक चौड़ाई) क्या है?",
+    "o": [
+      "1000 mm",
+      "1435 mm",
+      "1676 mm",
+      "1524 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What type of bearing is used in modern wagons?",
+    "h": "आधुनिक वैगनों में किस प्रकार की बियरिंग का उपयोग किया जाता है?",
+    "o": [
+      "Plain bearing / प्लेन बियरिंग",
+      "Cartridge Tapered Roller Bearing / कार्ट्रिज टेपर्ड रोलर बियरिंग",
+      "Ball bearing / बॉल बियरिंग",
+      "Needle bearing / नीडल बियरिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Hindi Diwas is celebrated on:",
+    "h": "हिंदी दिवस किस तारीख को मनाया जाता है?",
+    "o": [
+      "14 September / 14 सितम्बर",
+      "26 January / 26 जनवरी",
+      "21 February / 21 फरवरी",
+      "14 November / 14 नवम्बर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "WILD stands for:",
+    "h": "WILD का पूर्ण रूप है:",
+    "o": [
+      "Wheel Impact Load Detector / व्हील इम्पैक्ट लोड डिटेक्टर",
+      "Wagon Inspection and Lubrication Device / वैगन इंस्पेक्शन एंड लुब्रिकेशन डिवाइस",
+      "Wheel Integrated Load Device / व्हील इंटीग्रेटेड लोड डिवाइस",
+      "Wagon Impact Load Detector / वैगन इम्पैक्ट लोड डिटेक्टर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "New design wagons are mainly aimed at:",
+    "h": "नई डिज़ाइन वाले वैगन मुख्यतः किसके लिए बनाए गए हैं?",
+    "o": [
+      "Reducing speed / गति कम करना",
+      "Increasing payload capacity and reducing tare weight / पेलोड क्षमता बढ़ाना और टेयर वजन कम करना",
+      "Reducing brake pressure / ब्रेक दबाव कम करना",
+      "Increasing coupling strength only / केवल कपलिंग शक्ति बढ़ाना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "ODC stands for:",
+    "h": "ODC का पूर्ण रूप है:",
+    "o": [
+      "Over Dimensional Consignment / ओवर डायमेंशनल कंसाइनमेंट",
+      "Official Document Certificate / ऑफिशियल डॉक्यूमेंट सर्टिफिकेट",
+      "On Duty Control / ऑन ड्यूटी कंट्रोल",
+      "Open Door Coach / ओपन डोर कोच"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Maximum tread wear limit for a BG coach wheel before condemnation is:",
+    "h": "निंदा से पहले BG कोच पहिए के लिए अधिकतम ट्रेड घिसाव सीमा है:",
+    "o": [
+      "5 mm",
+      "13 mm",
+      "20 mm",
+      "25 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The maximum speed for movement of ODC on Indian Railways is generally:",
+    "h": "भारतीय रेलवे पर ODC की आवाजाही की सामान्य अधिकतम गति है:",
+    "o": [
+      "80 kmph / 80 किमी/घंटा",
+      "60 kmph / 60 किमी/घंटा",
+      "40 kmph / 40 किमी/घंटा",
+      "20 kmph / 20 किमी/घंटा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The underframe of an ICF coach is made of which material?",
+    "h": "ICF कोच का अंडरफ्रेम किस सामग्री से बना होता है?",
+    "o": [
+      "Mild Steel / माइल्ड स्टील",
+      "Stainless Steel / स्टेनलेस स्टील",
+      "Corten Steel / कोर्टेन स्टील",
+      "Cast Iron / कास्ट आयरन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "'Rajbhasha Gaurav Puraskar' is given to:",
+    "h": "'राजभाषा गौरव पुरस्कार' किसे दिया जाता है?",
+    "o": [
+      "Railway employees for writing original work in Hindi / हिंदी में मौलिक कार्य लिखने वाले रेलवे कर्मचारियों को",
+      "Best safety officer / सर्वश्रेष्ठ सुरक्षा अधिकारी",
+      "Best loco pilot / सर्वश्रेष्ठ लोको पायलट",
+      "Best commercial department / सर्वश्रेष्ठ वाणिज्यिक विभाग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the purpose of the CBC (Centre Buffer Coupler) in wagons?",
+    "h": "वैगनों में CBC (सेंटर बफर कपलर) का उद्देश्य क्या है?",
+    "o": [
+      "Connect wagons and absorb shocks / वैगनों को जोड़ना और झटके अवशोषित करना",
+      "Provide braking / ब्रेकिंग प्रदान करना",
+      "Support the underframe / अंडरफ्रेम को सहारा देना",
+      "Carry the load / भार वहन करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Pest and rodent control in coaches is handled by:",
+    "h": "कोचों में कीट एवं कृंतक नियंत्रण किसके द्वारा किया जाता है?",
+    "o": [
+      "C&W department alone / केवल C&W विभाग",
+      "OBHS team and Pest Control contractor / OBHS टीम और कीट नियंत्रण ठेकेदार",
+      "Loco pilot / लोको पायलट",
+      "Commercial department only / केवल वाणिज्यिक विभाग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "HABD detects:",
+    "h": "HABD क्या पहचानता है?",
+    "o": [
+      "Hot axle box / गर्म एक्सल बॉक्स",
+      "Hot wheel / गर्म पहिया",
+      "Overloaded wagon / अधिक भारित वैगन",
+      "Track defect / ट्रैक दोष"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The Official Language Act was passed in:",
+    "h": "राजभाषा अधिनियम कब पारित हुआ?",
+    "o": [
+      "1950",
+      "1960",
+      "1963",
+      "1965"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Mechanized coach cleaning uses:",
+    "h": "यांत्रिक कोच सफाई में उपयोग किया जाता है:",
+    "o": [
+      "Manual labour only / केवल मानव श्रम",
+      "Automated cleaning machines and vacuum cleaners / स्वचालित सफाई मशीनें और वैक्यूम क्लीनर",
+      "Only water jets / केवल वाटर जेट",
+      "Only dry cleaning / केवल ड्राई क्लीनिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The authority for imposing a major penalty under DAR rules is:",
+    "h": "DAR नियमों के तहत प्रमुख दंड लगाने का अधिकार किसे है?",
+    "o": [
+      "Immediate supervisor / तत्काल पर्यवेक्षक",
+      "Disciplinary Authority (DA) not below the rank of appointing authority / अनुशासनिक प्राधिकारी (DA) जो नियुक्ति प्राधिकारी के रैंक से कम न हो",
+      "Workshop manager / कार्यशाला प्रबंधक",
+      "HR department head / HR विभाग प्रमुख"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In the KE (Knorr-Einheitsbauart) type distributor valve used in Indian Railways freight wagons, what is the role of the 'Control Reservoir' (CR), and how does its pressure govern brake application?",
+    "h": "भारतीय रेलवे फ्रेट वैगनों में उपयोग होने वाले KE (Knorr-Einheitsbauart) प्रकार के डिस्ट्रिब्यूटर वाल्व में 'कंट्रोल रिज़र्वायर' (CR) की क्या भूमिका है और इसका दबाव ब्रेक आवेदन को कैसे नियंत्रित करता है?",
+    "o": [
+      "The control reservoir stores compressed air exclusively for the hand brake application and is charged directly from the feed pipe at 6 kg/cm² / कंट्रोल रिज़र्वायर संपीड़ित हवा को विशेष रूप से हैंड ब्रेक आवेदन के लिए संग्रहित करता है और फीड पाइप से 6 kg/cm² पर सीधे चार्ज होता है",
+      "The control reservoir acts as a backup to the auxiliary reservoir; when auxiliary reservoir pressure falls below 4 kg/cm² the CR takes over and directly feeds the brake cylinder / कंट्रोल रिज़र्वायर ऑक्जिलरी रिज़र्वायर के बैकअप के रूप में काम करता है; जब ऑक्जिलरी रिज़र्वायर दबाव 4 kg/cm² से नीचे गिरता है तो CR अपने आप ब्रेक सिलेंडर को सीधे फीड करता है",
+      "The control reservoir is charged to the same pressure as the brake pipe (normally 5 kg/cm²) and the distributor valve compares CR pressure with live brake pipe pressure; any drop in BP pressure below CR pressure causes the valve to admit air from the auxiliary reservoir into the brake cylinder proportional to the pressure difference / कंट्रोल रिज़र्वायर ब्रेक पाइप के समान दबाव (सामान्यतः 5 kg/cm²) पर चार्ज होता है और डिस्ट्रिब्यूटर वाल्व CR दबाव की तुलना लाइव BP दबाव से करता है; BP दबाव में CR दबाव से कोई भी गिरावट वाल्व को दबाव अंतर के अनुपात में ऑक्जिलरी रिज़र्वायर से ब्रेक सिलेंडर में हवा प्रवेश कराने का कारण बनती है",
+      "The control reservoir is vented to atmosphere during brake application so that its pressure drop signals the auxiliary reservoir to recharge the brake cylinder faster / ब्रेक आवेदन के दौरान कंट्रोल रिज़र्वायर वायुमंडल में वेंट होता है ताकि उसका दबाव गिरना ऑक्जिलरी रिज़र्वायर को ब्रेक सिलेंडर को तेज़ी से रिचार्ज करने का संकेत दे"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Non-stock items are procured through:",
+    "h": "गैर-स्टॉक वस्तुओं की खरीद किसके माध्यम से की जाती है?",
+    "o": [
+      "Direct purchase from market / बाज़ार से सीधी खरीद",
+      "Local purchase / स्थानीय खरीद",
+      "Special indent / purchase order / विशेष इंडेंट/खरीद आदेश",
+      "Annual contract only / केवल वार्षिक अनुबंध"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The re-railing equipment in ART includes:",
+    "h": "ART में री-रेलिंग उपकरण में शामिल है:",
+    "o": [
+      "Re-railing ramps and jacks / री-रेलिंग रैम्प और जैक",
+      "Only jacks / केवल जैक",
+      "Only cranes / केवल क्रेन",
+      "Only ropes / केवल रस्से"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What does ICF stand for in Indian Railways coach manufacturing?",
+    "h": "भारतीय रेलवे कोच निर्माण में ICF का पूर्ण रूप क्या है?",
+    "o": [
+      "Integral Coach Factory / इंटीग्रल कोच फैक्ट्री",
+      "Indian Central Factory / इंडियन सेंट्रल फैक्ट्री",
+      "Integral Car Foundation / इंटीग्रल कार फाउंडेशन",
+      "Indian Coach Frame / इंडियन कोच फ्रेम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Brake binding occurs when:",
+    "h": "ब्रेक बाइंडिंग तब होती है जब:",
+    "o": [
+      "Brakes do not apply on demand / मांग पर ब्रेक नहीं लगते",
+      "Brakes remain applied even after releasing / छोड़ने के बाद भी ब्रेक लगे रहते हैं",
+      "Brake cylinder pressure is zero / ब्रेक सिलेंडर दबाव शून्य है",
+      "Air pressure exceeds 6 kg/cm² / वायु दबाव 6 kg/cm² से अधिक है"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Continual improvement in ISO 9001:2015 is achieved through:",
+    "h": "ISO 9001:2015 में निरंतर सुधार किसके माध्यम से प्राप्त किया जाता है?",
+    "o": [
+      "PDCA cycle / PDCA चक्र",
+      "Increasing workforce / कार्यबल बढ़ाना",
+      "Reducing budget / बजट कम करना",
+      "External audit only / केवल बाहरी ऑडिट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Centre pivot in ICF bogie is used for:",
+    "h": "ICF बोगी में सेंटर पिवोट का उपयोग किसके लिए किया जाता है?",
+    "o": [
+      "Braking / ब्रेकिंग",
+      "Transmitting traction/braking forces while allowing bogie to swivel / बोगी को घुमाने की अनुमति देते हुए कर्षण/ब्रेकिंग बल संचारित करना",
+      "Lubrication / स्नेहन",
+      "Supporting axle boxes / एक्सल बॉक्स का सहारा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Casual Leave (CL) on Indian Railways is:",
+    "h": "भारतीय रेलवे पर आकस्मिक अवकाश (CL) है:",
+    "o": [
+      "8 days per year / प्रतिवर्ष 8 दिन",
+      "10 days per year / प्रतिवर्ष 10 दिन",
+      "12 days per year / प्रतिवर्ष 12 दिन",
+      "15 days per year / प्रतिवर्ष 15 दिन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "ISO 9001:2015 is related to:",
+    "h": "ISO 9001:2015 किससे संबंधित है?",
+    "o": [
+      "Environmental Management / पर्यावरण प्रबंधन",
+      "Quality Management System / गुणवत्ता प्रबंधन प्रणाली",
+      "Safety Management / सुरक्षा प्रबंधन",
+      "Financial Management / वित्तीय प्रबंधन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The record of rolling stock maintained by C&W department is called:",
+    "h": "C&W विभाग द्वारा रखा जाने वाला रोलिंग स्टॉक रिकॉर्ड कहलाता है:",
+    "o": [
+      "Stock Register / स्टॉक रजिस्टर",
+      "History Sheet / Register / हिस्ट्री शीट/रजिस्टर",
+      "Asset Register / एसेट रजिस्टर",
+      "Maintenance Log / रखरखाव लॉग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Vacuum toilet system in coaches works on the principle of:",
+    "h": "कोचों में वैक्यूम टॉयलेट प्रणाली किस सिद्धांत पर काम करती है?",
+    "o": [
+      "Gravity flush / ग्रेविटी फ्लश",
+      "Pressure differential / vacuum / दबाव अंतर/वैक्यूम",
+      "Water pressure / जल दबाव",
+      "Suction pump / सक्शन पंप"
+    ],
+    "c": 0
+  },
+  {
+    "q": "ACP stands for:",
+    "h": "ACP का पूर्ण रूप है:",
+    "o": [
+      "Automatic Coupler Pin / ऑटोमैटिक कपलर पिन",
+      "Alarm Chain Pulling / अलार्म चेन पुलिंग",
+      "Auxiliary Control Panel / ऑक्जिलरी कंट्रोल पैनल",
+      "Air Compressor Pressure / एयर कंप्रेसर प्रेशर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Train examination at station is done by:",
+    "h": "स्टेशन पर ट्रेन परीक्षण किसके द्वारा किया जाता है?",
+    "o": [
+      "Loco pilot / लोको पायलट",
+      "Carriage and Wagon (C&W) staff / कैरिज और वैगन (C&W) स्टाफ",
+      "Station master / स्टेशन मास्टर",
+      "Commercial staff / वाणिज्यिक स्टाफ"
+    ],
+    "c": 0
+  },
+  {
+    "q": "ARME stands for:",
+    "h": "ARME का पूर्ण रूप है:",
+    "o": [
+      "Accident Relief Medical Equipment / एक्सीडेंट रिलीफ मेडिकल इक्विपमेंट",
+      "Accident Relief Medical van/Equipment / एक्सीडेंट रिलीफ मेडिकल वैन/इक्विपमेंट",
+      "Auxiliary Rescue Medical Equipment / ऑक्जिलरी रेस्क्यू मेडिकल इक्विपमेंट",
+      "Automated Railway Medical Equipment / ऑटोमेटेड रेलवे मेडिकल इक्विपमेंट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The POH (Periodical Overhauling) schedule for BOXN wagons is:",
+    "h": "BOXN वैगनों के लिए POH (आवधिक ओवरहाल) अनुसूची क्या है?",
+    "o": [
+      "Every 1 year / प्रत्येक 1 वर्ष",
+      "Every 2 years / प्रत्येक 2 वर्ष",
+      "Every 4.5 years / प्रत्येक 4.5 वर्ष",
+      "Every 6 years / प्रत्येक 6 वर्ष"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The distributor valve in an air brake system functions as:",
+    "h": "एयर ब्रेक प्रणाली में डिस्ट्रिब्यूटर वाल्व का कार्य है:",
+    "o": [
+      "A pressure regulator / एक दबाव नियामक",
+      "Control valve that applies/releases brakes based on BP pressure / BP दबाव के आधार पर ब्रेक लगाने/छोड़ने वाला नियंत्रण वाल्व",
+      "A pump for air / हवा के लिए एक पंप",
+      "An isolation valve / एक आइसोलेशन वाल्व"
+    ],
+    "c": 0
+  },
+  {
+    "q": "When ACP (Alarm Chain Pulling) occurs, what happens to the brake pipe pressure?",
+    "h": "जब ACP (अलार्म चेन पुलिंग) होती है, तो ब्रेक पाइप दबाव पर क्या प्रभाव पड़ता है?",
+    "o": [
+      "Pressure increases / दबाव बढ़ता है",
+      "Pressure drops to zero / दबाव शून्य हो जाता है",
+      "Pressure drops partially / दबाव आंशिक रूप से गिरता है",
+      "No change in pressure / दबाव में कोई बदलाव नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The number of Privilege Leave (PL) earned per year by a railway employee is:",
+    "h": "एक रेलवे कर्मचारी प्रतिवर्ष कितने विशेषाधिकार अवकाश (PL) अर्जित करता है?",
+    "o": [
+      "15 days / 15 दिन",
+      "20 days / 20 दिन",
+      "30 days / 30 दिन",
+      "10 days / 10 दिन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Government employees in Region 'A' must do official work in Hindi to what percentage?",
+    "h": "क्षेत्र 'A' में सरकारी कर्मचारियों को कितने प्रतिशत हिंदी में आधिकारिक कार्य करना चाहिए?",
+    "o": [
+      "55%",
+      "70%",
+      "90%",
+      "100%"
+    ],
+    "c": 0
+  },
+  {
+    "q": "DAR stands for:",
+    "h": "DAR का पूर्ण रूप है:",
+    "o": [
+      "Departmental Action Report / डिपार्टमेंटल एक्शन रिपोर्ट",
+      "Discipline and Appeal Rules / डिसिप्लिन एंड अपील रूल्स",
+      "Daily Attendance Register / डेली अटेंडेंस रजिस्टर",
+      "Departmental Assessment Review / डिपार्टमेंटल असेसमेंट रिव्यू"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the function of the Direct Admission Valve (DAV) fitted in the air brake system of Indian Railways coaching stock, and under what specific condition does it operate?",
+    "h": "भारतीय रेलवे कोचिंग स्टॉक की एयर ब्रेक प्रणाली में लगे डायरेक्ट एडमिशन वाल्व (DAV) का क्या कार्य है और यह किस विशेष परिस्थिति में काम करता है?",
+    "o": [
+      "DAV supplements the auxiliary reservoir by directly admitting feed pipe air into the brake cylinder when brake pipe pressure drops below 3.5 kg/cm², bypassing the distributor valve entirely / DAV ऑक्जिलरी रिज़र्वायर की पूर्ति करता है और BP दबाव 3.5 kg/cm² से नीचे गिरने पर फीड पाइप की हवा को सीधे ब्रेक सिलेंडर में प्रवेश कराता है, डिस्ट्रिब्यूटर वाल्व को पूरी तरह बाईपास करते हुए",
+      "DAV directly admits air from the brake pipe into the brake cylinder to provide a quick initial brake application when the rate of brake pipe pressure drop is rapid (emergency/penalty brake), ensuring fast brake response before the distributor valve fully acts / DAV ब्रेक पाइप की हवा को सीधे ब्रेक सिलेंडर में प्रवेश कराता है ताकि BP दबाव तेजी से गिरने (आपातकालीन/पेनल्टी ब्रेक) पर त्वरित प्रारंभिक ब्रेक आवेदन हो, डिस्ट्रिब्यूटर वाल्व के पूरी तरह काम करने से पहले",
+      "DAV acts as a pressure limiting valve that prevents the brake cylinder pressure from exceeding 3.8 kg/cm² during full service application in coaching vehicles / DAV एक दबाव-सीमित वाल्व है जो कोचिंग वाहनों में पूर्ण सर्विस एप्लिकेशन के दौरान ब्रेक सिलेंडर दबाव को 3.8 kg/cm² से अधिक होने से रोकता है",
+      "DAV is a non-return valve that prevents back-flow of air from the brake cylinder to the auxiliary reservoir during graduated release of brakes / DAV एक नॉन-रिटर्न वाल्व है जो ब्रेकों की ग्रेजुएटेड रिलीज़ के दौरान ब्रेक सिलेंडर से ऑक्जिलरी रिज़र्वायर में हवा के वापस प्रवाह को रोकता है"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Electronic in-motion weighbridge is used to:",
+    "h": "इलेक्ट्रॉनिक इन-मोशन वेब्रिज का उपयोग किया जाता है:",
+    "o": [
+      "Weigh coaches while stationary / स्थिर रहते हुए कोचों का वजन करना",
+      "Weigh wagons while moving without stopping the train / ट्रेन रोके बिना चलती ट्रेन के वैगनों का वजन करना",
+      "Detect brake binding / ब्रेक बाइंडिंग का पता लगाना",
+      "Measure track geometry / ट्रैक जियोमेट्री मापना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A vigilance clearance is required for:",
+    "h": "सतर्कता क्लियरेंस किसके लिए आवश्यक है?",
+    "o": [
+      "Ordinary transfers / सामान्य स्थानांतरण",
+      "Promotion / LDCE / DPC / Foreign assignment / पदोन्नति/LDCE/DPC/विदेशी नियुक्ति",
+      "Annual leave / वार्षिक अवकाश",
+      "Casual leave / आकस्मिक अवकाश"
+    ],
+    "c": 0
+  },
+  {
+    "q": "FDS in railway braking system stands for:",
+    "h": "रेलवे ब्रेकिंग प्रणाली में FDS का अर्थ है:",
+    "o": [
+      "Freight Distribution System / फ्रेट डिस्ट्रिब्यूशन सिस्टम",
+      "Fail During Service / फेल ड्यूरिंग सर्विस",
+      "Feed System Distributor / फीड सिस्टम डिस्ट्रिब्यूटर",
+      "Flexible Distribution Set / फ्लेक्सिबल डिस्ट्रिब्यूशन सेट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Automatic Coach Washing Plants use which technology for washing?",
+    "h": "ऑटोमेटिक कोच वॉशिंग प्लांट कोचों की धुलाई के लिए किस तकनीक का उपयोग करते हैं?",
+    "o": [
+      "Manual brushing / मैनुअल ब्रशिंग",
+      "Rotating brushes and high-pressure water jets / घूमते ब्रश और हाई-प्रेशर वाटर जेट",
+      "Only water jets / केवल वाटर जेट",
+      "Steam cleaning / स्टीम क्लीनिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The crane used in ART for restoration is:",
+    "h": "ART में बहाली के लिए उपयोग की जाने वाली क्रेन है:",
+    "o": [
+      "Tower crane / टावर क्रेन",
+      "Breakdown crane / ब्रेकडाउन क्रेन",
+      "Mobile crane / मोबाइल क्रेन",
+      "Portal crane / पोर्टल क्रेन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the anti-telescoping feature in LHB coaches?",
+    "h": "LHB कोचों में एंटी-टेलीस्कोपिंग फीचर क्या है?",
+    "o": [
+      "Crash buffer / क्रैश बफर",
+      "Anti-telescoping device / एंटी-टेलीस्कोपिंग डिवाइस",
+      "Centre buffer coupler / सेंटर बफर कपलर",
+      "Side bearer / साइड बियरर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "As per RDSO",
+    "h": "Indian Railways norms, what is the condemning limit of brake cylinder piston stroke for coaching stock (ICF/LHB), and what is the primary risk if the piston stroke exceeds this limit? / RDSO/भारतीय रेलवे मानकों के अनुसार, कोचिंग स्टॉक (ICF/LHB) के लिए ब्रेक सिलेंडर पिस्टन स्ट्रोक की निंदा सीमा क्या है, और यदि पिस्टन स्ट्रोक इस सीमा से अधिक हो तो मुख्य जोखिम क्या है?",
+    "o": [
+      "Condemning limit is 165 mm; risk is over-pressure in the auxiliary reservoir leading to burst of the reservoir / निंदा सीमा 165 मिमी है; जोखिम ऑक्जिलरी रिज़र्वायर में अत्यधिक दबाव से उसके फटने का है",
+      "Condemning limit is 100 mm; risk is that the brake shoe wears out faster causing increased maintenance cost only / निंदा सीमा 100 मिमी है; जोखिम केवल ब्रेक शू तेज़ी से घिसना और रखरखाव लागत बढ़ना है",
+      "Condemning limit is 200 mm; risk is that the slack adjuster auto-sets the brake rigging to a shorter travel automatically without any risk / निंदा सीमा 200 मिमी है; जोखिम यह है कि स्लैक एडजस्टर स्वतः ब्रेक रिगिंग को छोटे ट्रेवल पर सेट कर देता है बिना किसी जोखिम के",
+      "Condemning limit is 165 mm; risk is insufficient brake force application due to reduced effective stroke, potentially leading to brake failure or increased stopping distance / निंदा सीमा 165 मिमी है; जोखिम प्रभावी स्ट्रोक कम होने के कारण अपर्याप्त ब्रेक बल लगना है, जिससे संभावित ब्रेक फेल या रुकने की दूरी बढ़ सकती है"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the length of a standard LHB coach (over buffers)?",
+    "h": "एक मानक LHB कोच की लंबाई (बफर के ऊपर) कितनी है?",
+    "o": [
+      "21,337 mm",
+      "23,540 mm",
+      "25,000 mm",
+      "20,000 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "PFS in railway coaches stands for:",
+    "h": "रेलवे कोचों में PFS का अर्थ है:",
+    "o": [
+      "Passenger Flush System / पैसेंजर फ्लश सिस्टम",
+      "Pressurized Flushing System / प्रेशराइज्ड फ्लशिंग सिस्टम",
+      "Pre-Filter System / प्री-फिल्टर सिस्टम",
+      "Partial Flush System / पार्शियल फ्लश सिस्टम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "LHB stands for:",
+    "h": "LHB का पूर्ण रूप है:",
+    "o": [
+      "Linke Hofmann Busch / लिंके हॉफमैन बुश",
+      "Long Heavy Body / लॉन्ग हेवी बॉडी",
+      "Light High-speed Body / लाइट हाई-स्पीड बॉडी",
+      "Linear Hydraulic Braking / लीनियर हाइड्रॉलिक ब्रेकिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Under the Official Language Policy, Region 'C' includes:",
+    "h": "राजभाषा नीति के तहत क्षेत्र 'C' में शामिल है:",
+    "o": [
+      "UP, MP, Bihar / उत्तर प्रदेश, मध्य प्रदेश, बिहार",
+      "Maharashtra, Gujarat, Punjab / महाराष्ट्र, गुजरात, पंजाब",
+      "Tamil Nadu, Kerala, West Bengal / तमिलनाडु, केरल, पश्चिम बंगाल",
+      "All Hindi-speaking states / सभी हिंदी भाषी राज्य"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Rajbhasha Shield is awarded to railway zones for:",
+    "h": "रेलवे जोन को राजभाषा शील्ड किसके लिए प्रदान की जाती है?",
+    "o": [
+      "Best financial performance / सर्वश्रेष्ठ वित्तीय प्रदर्शन",
+      "Best implementation of Official Language Policy / राजभाषा नीति के सर्वश्रेष्ठ कार्यान्वयन",
+      "Best safety record / सर्वश्रेष्ठ सुरक्षा रिकॉर्ड",
+      "Best passenger satisfaction / सर्वश्रेष्ठ यात्री संतुष्टि"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which code denotes an open wagon for minerals in Indian Railways?",
+    "h": "भारतीय रेलवे में खनिजों के लिए खुले वैगन को कौन सा कोड दर्शाता है?",
+    "o": [
+      "BOXN",
+      "BCN",
+      "BFNS",
+      "BOBYN"
+    ],
+    "c": 0
+  },
+  {
+    "q": "OBHS stands for:",
+    "h": "OBHS का पूर्ण रूप है:",
+    "o": [
+      "On Board Housekeeping Service / ऑन बोर्ड हाउसकीपिंग सर्विस",
+      "On Board Health Service / ऑन बोर्ड हेल्थ सर्विस",
+      "On Board Helpline Service / ऑन बोर्ड हेल्पलाइन सर्विस",
+      "On Board Handling System / ऑन बोर्ड हैंडलिंग सिस्टम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "HAHW stands for:",
+    "h": "HAHW का पूर्ण रूप है:",
+    "o": [
+      "Hot Axle Hot Wheel / हॉट एक्सल हॉट व्हील",
+      "High Altitude Heavy Wagon / हाई एल्टीट्यूड हेवी वैगन",
+      "Hot Axle and Hot Wheel detector / हॉट एक्सल एंड हॉट व्हील डिटेक्टर",
+      "High Accuracy Height Weight / हाई एक्युरेसी हाइट वेट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The PDCA cycle in ISO 9001 stands for:",
+    "h": "ISO 9001 में PDCA चक्र का अर्थ है:",
+    "o": [
+      "Plan-Do-Check-Act / प्लान-डू-चेक-एक्ट",
+      "Prepare-Design-Control-Audit / प्रिपेयर-डिजाइन-कंट्रोल-ऑडिट",
+      "Plan-Design-Check-Approve / प्लान-डिजाइन-चेक-अप्रूव",
+      "Prepare-Do-Control-Act / प्रिपेयर-डू-कंट्रोल-एक्ट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Earned Leave (EL) in Indian Railways is same as:",
+    "h": "भारतीय रेलवे में अर्जित अवकाश (EL) निम्न के समान है:",
+    "o": [
+      "Casual Leave / आकस्मिक अवकाश",
+      "Privilege Leave / विशेषाधिकार अवकाश",
+      "Sick Leave / बीमारी अवकाश",
+      "Special Casual Leave / विशेष आकस्मिक अवकाश"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The permit to work system is used to:",
+    "h": "काम करने की अनुमति प्रणाली का उपयोग किया जाता है:",
+    "o": [
+      "Speed up maintenance / रखरखाव में तेजी लाना",
+      "Ensure safety by authorizing hazardous work formally / खतरनाक कार्य को औपचारिक रूप से अधिकृत करके सुरक्षा सुनिश्चित करना",
+      "Reduce paperwork / कागजी कार्रवाई कम करना",
+      "Track attendance / उपस्थिति ट्रैक करना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the bogie centre distance in a standard ICF coach?",
+    "h": "एक मानक ICF कोच में बोगी केंद्र दूरी कितनी होती है?",
+    "o": [
+      "13,716 mm",
+      "14,166 mm",
+      "15,000 mm",
+      "12,800 mm"
+    ],
+    "c": 0
+  }
+]

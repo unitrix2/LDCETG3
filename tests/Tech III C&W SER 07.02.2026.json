@@ -1,0 +1,1212 @@
+[
+  {
+    "q": "The minimum permissible wheel gauge of passenger BG coaching stock",
+    "h": "य िी बीजी कोचचंग स्टॉक क न्यूनतम अनुमेय व्हीि गेज",
+    "o": [
+      "1601.5 mm /1601.5 शममी",
+      "1600 mm / 1600 शममी",
+      "1601 mm / 1601 शममी",
+      "1599 mm /1599 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The other name of pilot valve is",
+    "h": "प यिट व ल्व क अन्य न म है",
+    "o": [
+      "PDEAS",
+      "EPASD",
+      "PEASD",
+      "PESAD"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which part is not used in ICF trolley? ICF ट्रॉिी में कौन-स भ ग प्रयुक्त नहीं होत है?",
+    "h": "Which part is not used in ICF trolley? ICF ट्रॉिी में कौन-स भ ग प्रयुक्त नहीं होत है?",
+    "o": [
+      "Drag link/ ड्रैग चिंक - 2 - - 2 -",
+      "Side bearer/ स इड बेयरर",
+      "Dashpot/ डैिपॉट",
+      "Shock absorber/ िॉक एब्जॉबार"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What defect is detected by the UST test?",
+    "h": "UST परीक्षण से कौन-स र्दोष पत चित है?",
+    "o": [
+      "Air flow crack /एयर फ्िो क्रैक",
+      "External crack / ब हरी क्रैक",
+      "Internal crack / आंतररक क्रैक",
+      "None of the above /उपरोक्त में से कोई नहीं/"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Standard buffer projection from headstock is",
+    "h": "हेडस्टॉक से म नक बफर प्रोजेक्िन है",
+    "o": [
+      "635 mm / 635 शममी",
+      "660 mm / 660 शममी",
+      "650 mm / 650 शममी",
+      "620 mm / 620 शममी /"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the maximum speed of an ICF coach?",
+    "h": "ICF कोच की अशिकतम गशत क्य है? /",
+    "o": [
+      "110 kmph /110 दकमी/घं.",
+      "120 kmph /120 दकमी/घं.",
+      "130 kmph /130 दकमी/घं.",
+      "140 kmph /140 दकमी/घं."
+    ],
+    "c": 0
+  },
+  {
+    "q": "What do you mean by SCTR?",
+    "h": "SCTR क क्य अर्ा है?",
+    "o": [
+      "Single container tensile rig / चसंगि कंटेनर टेन्स इि ररग",
+      "Schematic car test rig / स्कीमैरटक क र टेस्ट ररग/",
+      "Single car test rig / चसंगि क र टेस्ट ररग",
+      "None of the above/ उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the function of SAB?",
+    "h": "SAB क क या क्य है? /",
+    "o": [
+      "To maintain slack between pull rod and wheel /पुि रॉड और व्हीि के बीच स्िैक बन ए रखन",
+      "To maintain slack between brake block and wheel tread /ब्रेक ब्िॉक और व्हीि ट्रेड के बीच स्िैक बन ए रखन",
+      "To maintain slack between piston and BC /शपस्टन और BC के बीच स्िैक बन ए रखन",
+      "None of the above /उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Measured ‘A’ dimension between?",
+    "h": "‘A’ आय म दकसके बीच म प ज त है?",
+    "o": [
+      "Pull rod to anchor pin / पुि रॉड से एंकर शपन",
+      "Control rod head to anchor pin / कंट्रोि रॉड हेड से एंकर शपन",
+      "Pull rod to control rod head / पुि रॉड से कंट्रोि रॉड हेड/",
+      "Control rod head and barrel face / कंट्रोि रॉड हेड और बैरि फेस/ - 3 - - 3 -"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of grease is used in roller bearing in ICF coach?",
+    "h": "ICF कोच के रोिर बेयररंग में कौन-स ग्रीस प्रयोग होत है?",
+    "o": [
+      "Servo-20 / सवो-20",
+      "Lithium base / शिशर्यम बेस",
+      "Servo-40 / सवो-40",
+      "Graphite-20 / ग्रेफ इट-20"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the choke size of PEAV?",
+    "h": "PEAV क चोक स इज क्य है?",
+    "o": [
+      "6.0 mm /6.0 शममी",
+      "8.0 mm /8.0 शममी",
+      "5.0 mm /5.0 शममी",
+      "4.0 mm / 4.0 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The number of brake cylinders fitted in a coach bogie mounted ICF air brake system is",
+    "h": "कोच बोगी पर िगे ICF एयर ब्रेक शसस्टम में ब्रेक शसिेंडरों की संख्य है?",
+    "o": [
+      "2",
+      "4",
+      "1",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Piston stroke of bogie mounted brake cylinder is",
+    "h": "बोगी पर िगे ब्रेक शसिेंडर क शपस्टन स्ट्रोक है",
+    "o": [
+      "40 mm",
+      "32 mm",
+      "36 mm",
+      "38 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Tare weight of BCN wagon is",
+    "h": "BCN वैगन क टेयर वज़न है/",
+    "o": [
+      "22.7 tons/ 22.7 टन",
+      "25.37 tons/ 25.37 टन",
+      "27.20 tons/ 27.20 टन",
+      "27.80 tons/27.80 टन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Is the mini rake scheme applicable only to",
+    "h": "शमनी रेक योजन केवि दकस पर ि गू होती है? /",
+    "o": [
+      "Covered wagon / कवरड वैगन",
+      "Open wagon /ओपन वैगन",
+      "Tank wagon / टैंक वैगन",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What do you mean by CC rake?",
+    "h": "CC रेक क अर्ा क्य है?",
+    "o": [
+      "Content contact pad / कंटेंट कॉन्टैक्ट पैड - 4 - - 4 -",
+      "Complete coal rake / कम्प्िीट कोि रेक",
+      "Close circuit rake / क्िोज सर्काट रेक",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Standard diameter of knuckle pivot pin is",
+    "h": "नकि शपवट शपन क म नक व्य स है",
+    "o": [
+      "50 mm / 50 शममी",
+      "43 mm / 43 शममी",
+      "41.28 mm / 41.28 शममी",
+      "34 mm / 34 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Standard dimension of shank wear plate for AAR coupler is AAR",
+    "h": "कपिर के शिए िैंक शवयर ्िेट क म नक आय म है",
+    "o": [
+      "12 mm / 12 शममी",
+      "6 mm /6 शममी",
+      "8 mm / 8 शममी",
+      "14 mm / 14 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which part of the buffer gear assembly absorbs the buffer impact?",
+    "h": "बफर शगयर असेंबिी क कौन-स भ ग बफर इम्पपैक्ट को अविोशषत करत है?",
+    "o": [
+      "Buffer spring /बफर चस्प्रंग",
+      "Plunger / ्िंजर",
+      "Buffer casting / बफर क चस्टंग",
+      "Spindle / चस्पंडि/"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Standard diameter of wheel on tread of BOXN wagon is",
+    "h": "BOXN वैगन के व्हीि ट्रेड पर म नक व्य स है",
+    "o": [
+      "1010 mm / 1010 शममी",
+      "1000 mm / 1000 शममी",
+      "950 mm / 950 शममी",
+      "906 mm / 906 शममी/"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Wheel gauge should be measured on",
+    "h": "व्हीि गेज दकस शस्र्शत में म प ज न च शहए",
+    "o": [
+      "Empty wagon / ख िी वैगन",
+      "Loaded wagon / िोडेड वैगन",
+      "Off load condition / ऑफ िोड कंडीिन",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which is an integrated portion of axle?",
+    "h": "एक्सि क इंटीग्रेटेड भ ग कौन-स है",
+    "o": [
+      "Cap / कैप",
+      "Roller bearing / रोिर बेयररंग - 5 - - 5 -",
+      "Journal / जनाि",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Control rod diameter of air brake wagon is",
+    "h": "एयर ब्रेक वैगन के कंट्रोि रॉड क व्य स है",
+    "o": [
+      "30 mm / 30 शममी",
+      "32 mm /32 शममी",
+      "38 mm / 38 शममी",
+      "40 mm /40 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Capacity of control reservoir in goods train is",
+    "h": "गुड्स ट्रेन में कंट्रोि ररज़रवॉयर की क्षमत है",
+    "o": [
+      "4 Lit / 4 िी.",
+      "6 Lit / 6 िी.",
+      "8 Lit / 8 िी.",
+      "10 Lit / 10 िी."
+    ],
+    "c": 0
+  },
+  {
+    "q": "Colour of Feed Pipe in twin pipe wagon is",
+    "h": "शववन प इप वैगन में फीड प इप क रंग है",
+    "o": [
+      "Black / क ि",
+      "Green / हर",
+      "Yellow / पीि",
+      "White / सफेर्द"
+    ],
+    "c": 0
+  },
+  {
+    "q": "D.V. is directly attached to",
+    "h": "D.V. सीिे दकससे जुड होत है",
+    "o": [
+      "Common pipe bracket / कॉमन प इप ब्रैकेट",
+      "AR / AR से",
+      "Brake pipe / ब्रेक प इप",
+      "Brake cylinder / ब्रेक शसिेंडर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In single pipe system, time taken for release of wagon brake is",
+    "h": "चसंगि प इप शसस्टम में वैगन ब्रेक ररिीज़ होने क समय है",
+    "o": [
+      "60 sec / 60 सेकेंड",
+      "120 sec / 120 सेकेंड",
+      "210 sec / 210 सेकेंड",
+      "90 sec / 90 सेकेंड"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Brake power of CC rake from nodal point is",
+    "h": "नोडि पॉइंट से CC रेक की ब्रेक प वर है",
+    "o": [
+      "90 %",
+      "100 %",
+      "85 %",
+      "75 % - 6 - - 6 -"
+    ],
+    "c": 0
+  },
+  {
+    "q": "BP pressure in working train is",
+    "h": "क यारत ट्रेन में BP प्रेिर होत है",
+    "o": [
+      "6.0 kg/cm² / 6.0 kg/cm²",
+      "5.5 kg/cm² / 5.5 kg/cm²",
+      "5.0 kg/cm² / 5.0 kg/cm²",
+      "15.2 kg/cm² / 15.2 kg/cm²"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During brake release air from BC goes to",
+    "h": "ब्रेक ररिीज़ के र्दौर न BC से हव ज ती है",
+    "o": [
+      "AR / एआर",
+      "CR / सीआर",
+      "DV / डीवी",
+      "Atmosphere / व त वरण"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In conventional air brake system, the diameter of brake cylinder is",
+    "h": "प रंपररक एयर ब्रेक शसस्टम में ब्रेक शसिेंडर क व्य स है",
+    "o": [
+      "255 mm / 255 शममी",
+      "155 mm / 155 शममी",
+      "355 mm / 355 शममी",
+      "455 mm / 455 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "When DV is in working condition the position of DV handle is",
+    "h": "DV क यािीि शस्र्शत में होने पर DV हैंडि की शस्र्शत होती है",
+    "o": [
+      "Vertical / वर्टाकि",
+      "Horizontal / हॉररज़ॉन्टि",
+      "Inclined / इनक्ि इंड",
+      "Parallel / पैरेिि"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The M.R. pressure of engine should be",
+    "h": "इंजन क M.R. प्रेिर होन च शहए",
+    "o": [
+      "6.0 to 8.0 kg/cm²",
+      "8.0 to 10.0 kg/cm²",
+      "10.0 to 12.0 kg/cm²",
+      "12.0 to 15.0 kg/cm²"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Cut off angle cock can be fitted with",
+    "h": "कट ऑफ एंगि कॉक दकसके स र् िग य ज सकत है",
+    "o": [
+      "Feed Pipe only / केवि फीड प इप",
+      "Brake Pipe only / केवि ब्रेक प इप",
+      "Feed Pipe & Brake Pipe both / फीड प इप और ब्रेक प इप र्दोनों",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Total number of MU washers in a twin pipe wagon is",
+    "h": "शववन प इप वैगन में MU वॉिर की कुि संख्य है",
+    "o": [
+      "6",
+      "5 - 7 - - 7 -",
+      "4",
+      "7"
+    ],
+    "c": 0
+  },
+  {
+    "q": "After isolating DV, handle should be",
+    "h": "DV को आइसोिेट करने के ब र्द हैंडि होन च शहए",
+    "o": [
+      "Open the handle / हैंडि खोिे",
+      "Tightened with thread / ि गे से कसें",
+      "Keep horizontal and tightened with wire / हॉररज़ॉन्टि रखकर व यर से कसें",
+      "Tightened with wire / व यर से कसें"
+    ],
+    "c": 0
+  },
+  {
+    "q": "How many side frames are fitted in CASNUB bogie?",
+    "h": "CASNUB बोगी में दकतने स इड फ्रेम िग ए ज ते हैं",
+    "o": [
+      "1",
+      "3",
+      "2",
+      "NIL / कुछ नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Condemning size of elastomeric pad for CASNUB bogie is",
+    "h": "CASNUB बोगी के शिए इि स्टोमेररक पैड क कंडेचमंग स इज है",
+    "o": [
+      "42 mm / 42 शममी",
+      "43 mm / 43 शममी",
+      "44 mm / 44 शममी",
+      "40 mm / 40 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Axle load of BTPN tank wagon is",
+    "h": "BTPN टैंक वैगन क एक्सि िोड है",
+    "o": [
+      "21.35 tons",
+      "22.35 tons",
+      "25.22 tons",
+      "20.32 tons"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Codal life of tank wagon is",
+    "h": "टैंक वैगन की कोडि ि इफ है",
+    "o": [
+      "50 years / 50 वषा",
+      "45 years / 45 वषा",
+      "25 years / 25 वषा",
+      "35 years / 35 वषा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In place of the empty load box, what device is used in the BLC wagon? BLC वैगन में ख िी िोड बॉक्स के स्र् न पर कौन-स उपकरण प्रयोग दकय ज त है?",
+    "h": "In place of the empty load box, what device is used in the BLC wagon? BLC वैगन में ख िी िोड बॉक्स के स्र् न पर कौन-स उपकरण प्रयोग दकय ज त है?",
+    "o": [
+      "SDF / एसडीएफ",
+      "LSD / एिएसडी",
+      "SAB / एसएबी",
+      "BSD / बीएसडी - 8 - - 8 -"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of side bearer arrangement is used in BLC bogie?",
+    "h": "BLC बोगी में दकस प्रक र क स इड बेयरर अरेंजमेंट प्रयोग दकय ज त है?",
+    "o": [
+      "Constant contact type / कॉन्स्टैंट कॉन्टैक्ट ट इप",
+      "Spring loaded side bearer / चस्प्रंग िोडेड स इड बेयरर",
+      "Elastomeric / इि स्टोमेररक",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Rigid wheelbase of ICF BG bogie is",
+    "h": "ICF BG बोगी क रीशजड व्हीिबेस है",
+    "o": [
+      "2803 mm /2803 शममी",
+      "2990 mm /2990 शममी",
+      "2896 mm / 2896 शममी",
+      "2837 mm / 2837 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "‘L’ type composite brake block should be changed if worn beyond",
+    "h": "‘L’ ट इप कम्पपोशज़ट ब्रेक ब्िॉक को बर्दि ज न च शहए यदर्द शघस व हो",
+    "o": [
+      "15 mm",
+      "20 mm",
+      "22 mm",
+      "10 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Length over buffer of ICF",
+    "h": "RCF coach is / ICF / RCF कोच की िंब ई ओवर बफर है",
+    "o": [
+      "21030 mm",
+      "2229 mm",
+      "21996 mm",
+      "22297 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Maintenance manual for IRSA-600 slack adjuster is RDSO pamphlet",
+    "h": "IRSA-600 स्िैक एडजस्टर के मेंटेनेंस मैनुअि हेतु RDSO पैम्पफिेट है",
+    "o": [
+      "G-97 / जी-97",
+      "G-92 / जी-92",
+      "G-67 / जी-67",
+      "G-94 / जी-94"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Standard buffer projection from headstock is",
+    "h": "हेडस्टॉक से म नक बफर प्रोजेक्िन है",
+    "o": [
+      "620 mm",
+      "660 mm",
+      "635 mm",
+      "650 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Bogie wheelbase of ICF",
+    "h": "RCF all coil bogies is / ICF/ RCF सभी कॉइि बोगी क बोगी व्हीिबेस है",
+    "o": [
+      "2997 mm / 2997 शममी - 9 - - 9 -",
+      "2986 mm / 2986 शममी",
+      "2896 mm / 2896 शममी",
+      "2886 mm / 2886 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Minimum shop issue size of ICF solid wheel is",
+    "h": "ICF सॉशिड व्हीि क न्यूनतम िॉप इश्यू स इज है",
+    "o": [
+      "854 mm / 854 शममी",
+      "837 mm / 837 शममी",
+      "870 mm / 870 शममी",
+      "8746 mm / 8746 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Condemning size of radius at top of flange (sharp flange) of BG main line coach is",
+    "h": "BG मेन ि इन कोच के फ्िैन्ज टॉप रेशडयस (ि पा फ्िैन्ज) क कंडेचमंग स इज है",
+    "o": [
+      "10.0 mm / 10.0 शममी",
+      "12.0 mm / 12.0 शममी",
+      "5.0 mm / 5.0 शममी",
+      "8.0 mm / 8.0 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Brake should not apply during insensitivity test within",
+    "h": "इंसेंशसरटशवटी टेस्ट के र्दौर न ब्रेक हॉट.... के अंर्दर अ्ि ई होन च शहए",
+    "o": [
+      "40 sec / 40 सेकेंड",
+      "30 sec / 30 सेकेंड",
+      "50 sec / 50 सेकेंड",
+      "60 sec / 60 सेकेंड"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In coaching trains auxiliary reservoir is charged to",
+    "h": "कोचचंग ट्रेनों में ऑशक्ज़िरी ररज़रवॉयर च जा दकय ज त है",
+    "o": [
+      "4.8 kg/cm² / 4.8 दकग्र /सेमी²",
+      "6.0 kg/cm² / 6.0 दकग्र /सेमी²",
+      "5.0 kg/cm² / 5.0 दकग्र /सेमी²",
+      "5.5 kg/cm² / 5.5 दकग्र /सेमी²"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Reduction in BP pressure for minimum application is",
+    "h": "न्यूनतम एश्िकेिन के शिए BP प्रेिर में कमी है",
+    "o": [
+      "1.0 से 0.5 kg/cm² / 1.0 to 0.5 दकग्र /सेमी²",
+      "0.8 से 1.0 kg/cm² / 0.8 to 1.0 दकग्र /सेमी²",
+      "0.5 से 0.8 kg/cm² / 0.5 to 0.8 दकग्र /सेमी²",
+      "1.0 से 1.5 kg/cm² / 1.0 to 1.5 दकग्र /सेमी²"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Colour of Feed Pipe in coaching train is",
+    "h": "कोचचंग ट्रेन में फीड प इप क रंग है",
+    "o": [
+      "Yellow / पीि - 10 - - 10 -",
+      "Black / क ि",
+      "Green / हर",
+      "White / सफेर्द"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In air brake system brake should not apply when rate of drop of BP pressure is",
+    "h": "एयर ब्रेक शसस्टम में ब्रेक अ्ि ई नहीं होन च शहए जब BP प्रेिर ड्रॉप रेट हो",
+    "o": [
+      "30 sec में 0.5 kg/cm² / 30 सेकेंड में 0.5 दकग्र /सेमी²",
+      "4 sec में 0.4 kg/cm² / 4 सेकेंड में 0.4 दकग्र /सेमी²",
+      "60 sec में 0.3 kg/cm² / 60 सेकेंड में 0.3 दकग्र /सेमी²",
+      "8 sec में 0.8 kg/cm² / 8 सेकेंड में 0.8 दकग्र /सेमी²"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Weight of ICF coach is transferred through",
+    "h": "ICF कोच क वज़न दकसके म ध्यम से ट्र ंसफर होत है",
+    "o": [
+      "Helical spring / हेशिकि चस्प्रंग",
+      "Bolster / बोल्स्टर",
+      "Side bearer / स इड बेयरर",
+      "Equalizing / इक्वि इचज़ंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "clearance between lugs and bottom of safety straps is",
+    "h": "िग्स और सेफ्टी स्ट्रै्स के बॉटम के बीच न्यूनतम शक्ियरेंस है/ Minimum",
+    "o": [
+      "42 mm",
+      "48 mm",
+      "45 mm",
+      "40 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If wheel diameter of ICF coach is 887 mm (889–863), thickness of wooden packing required for buffer height adjustment",
+    "h": "यदर्द ICF कोच क व्हीि ड यमीटर 887 mm (889–863) है तो बफर ह इट एडजस्टमेंट हेतु वुडन पैककंग की मोट ई है/ is",
+    "o": [
+      "38 mm / 38 शममी",
+      "48 mm / 48 शममी",
+      "26 mm / 26 शममी",
+      "13 mm / 13 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Colour code of helical spring of ICF bogie is",
+    "h": "ICF बोगी के हेशिकि चस्प्रंग क किर कोड है",
+    "o": [
+      "White, Red, Green / सफेर्द, ि ि, हर",
+      "Yellow, Red, Green / पीि , ि ि, हर",
+      "Yellow, Blue, Green / पीि , नीि , हर",
+      "White, Blue, Green / सफेर्द, नीि , हर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Length over body of LHB coach is",
+    "h": "LHB कोच की िंब ई ओवर बॉडी है",
+    "o": [
+      "23545 mm / 23545 शममी - 11 - - 11 -",
+      "23565 mm / 23565 शममी",
+      "23540 mm / 23540 शममी",
+      "23570 mm / 23570 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Wheel gauge of LHB wheel is",
+    "h": "LHB व्हीि क व्हीि गेज है",
+    "o": [
+      "1676 ± 1 mm / 1676 ± 1 शममी",
+      "1676 mm / 1676 शममी",
+      "1610 mm / 1610 शममी",
+      "1600 ± 1 mm / 1600 ± 1 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "New wheel diameter of LHB wheel is",
+    "h": "LHB व्हीि क नय व्हीि ड यमीटर है",
+    "o": [
+      "912 mm / 912 शममी",
+      "915 mm / 915 शममी",
+      "910 mm / 910 शममी",
+      "725 mm / 725 शममी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Diameter of brake disc is",
+    "h": "ब्रेक शडस्क क व्य स है",
+    "o": [
+      "630 mm / 630 शममी/",
+      "650 mm /650 शममी/",
+      "640 mm /640 शममी/",
+      "645 mm /645 शममी/"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Maximum temperature limit for TIMKEN CTBU is",
+    "h": "TIMKEN CTBU के शिए अशिकतम त पम न सीम है",
+    "o": [
+      "80 °C",
+      "85 °C",
+      "87 °C",
+      "90 °C"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Approximate riding index of LHB is",
+    "h": "LHB क अनुम शनत र इचडंग इंडेक्स है",
+    "o": [
+      "3.8",
+      "3.0",
+      "2.5",
+      "3.5"
+    ],
+    "c": 0
+  },
+  {
+    "q": "D3 maintenance schedule of LHB coach is done in",
+    "h": "LHB कोच क D3 मेंटेनेंस िेड्यूि दकय ज त है",
+    "o": [
+      "150 days ± 1 day / 150 दर्दन ± 1 दर्दन",
+      "90 days ± 7 days.] / 90 दर्दन ± 7 दर्दन",
+      "120 days ± 3 days / 120 दर्दन ± 3 दर्दन",
+      "180 days ± 15 days / 180 दर्दन ± 15 दर्दन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Trough floor of LHB coach is manufactured from",
+    "h": "LHB कोच क ट्रफ फ्िोर शनर्मात होत है",
+    "o": [
+      "IRSM-41/ आईआरएसएम-41 - 12 - - 12 -",
+      "Ferritic steel (SS-409) / फेरररटक स्टीि (SS-409)",
+      "IRSM-44 / आईआरएसएम-44",
+      "Austenitic steel (SS-304) / ऑस्टेशनरटक स्टीि (SS-304)"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Fire extinguisher used in AC LHB coach is",
+    "h": "AC LHB कोच में प्रयुक्त अशििमक है",
+    "o": [
+      "CO₂ type/ CO₂ ट इप /",
+      "DCP type / डीसीपी ट इप /",
+      "Foam type / फोम ट इप /",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Torque value of brake caliper mounting bolt is",
+    "h": "ब्रेक कैशिपर म उंरटंग बोल्ट क टॉका वैल्यू है",
+    "o": [
+      "150 Nm",
+      "190 Nm",
+      "200 Nm",
+      "170 Nm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Brake accelerator actuates during",
+    "h": "ब्रेक एक्सेिेरेटर दकस र्दौर न क या करत है",
+    "o": [
+      "Emergency brake application / इमरजेंसी ब्रेक एश्िकेिन/",
+      "Every service application / प्रत्येक सर्वास एश्िकेिन/",
+      "Both a & b / ए व बी र्दोनों/",
+      "None of the above / उपरोक्त में से कोई नहीं/"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the purpose of the Dump Valve?",
+    "h": "डम्पप व ल्व क उद्देश्य क्य है",
+    "o": [
+      "To protect wheels against skidding / व्हीि को शस्कचडंग से बच ने के शिए",
+      "To maintain the same speed of all axles / सभी एक्सिों की सम न गशत बन ए रखने के शिए",
+      "Both a & b / ए एवं बी र्दोनों",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Brake caliper unit should be checked for",
+    "h": "ब्रेक कैशिपर यूशनट की ज ंच की ज नी च शहए",
+    "o": [
+      "Free leverage / फ्री िीवरेज",
+      "Worn out pins / शघसे हुए शपन",
+      "Corroded parts / जंग िगे भ ग",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During full brake application, is the maximum pressure in brake cylinder in LHB Coach is?",
+    "h": "फुि ब्रेक एश्िकेिन के र्दौर न ब्रेक शसिेंडर में अशिकतम प्रेिर होत है",
+    "o": [
+      "4.8 kg/cm² / 4.8 दकग्र /सेमी²/",
+      "3.8 kg/cm² / 3.8 दकग्र /सेमी²/",
+      "3.0 kg/cm² / 3.0 दकग्र /सेमी²/",
+      "1.6 kg/cm² / 1.6 दकग्र /सेमी²/ - 13 - - 13 -"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of CBC is fitted in LHB coaches?",
+    "h": "LHB कोच में दकस प्रक र क CBC िग य ज त है",
+    "o": [
+      "H / एच",
+      "EH / ईएच",
+      "E / ई",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Full form of WRA is",
+    "h": "WRA क पूणा रूप है",
+    "o": [
+      "Worker Relief Arrangement / वकार ररिीफ अरेंजमेंट",
+      "Water Raising Apparatus / व टर रेचज़ंग अपरेटस",
+      "Wire Relay Appliance / व यर ररिे ए्ि यंस",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "CBC fitted on LHB coaches has",
+    "h": "LHB कोच में िगे CBC में होत है",
+    "o": [
+      "Only buffing action /केवि बकफंग एक्िन",
+      "Only pulling action / केवि पुचिंग एक्िन",
+      "Both pulling & buffing action / पुचिंग और बकफंग र्दोनों एक्िन",
+      "Either a or b / a य b में से कोई एक"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Axle load capacity of LHB coach is",
+    "h": "LHB कोच की एक्सि िोड क्षमत है",
+    "o": [
+      "16 tons",
+      "16.25 tons",
+      "22 tons",
+      "13 tons"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Free movement of anti-roll bar depends upon",
+    "h": "एंटी-रोि ब र की फ्री मूवमेंट शनभार करती है",
+    "o": [
+      "Condition of grease in bracket / ब्रैकेट में ग्रीस की शस्र्शत",
+      "Condition of bearing at both ends / र्दोनों शसरों पर बेयररंग की शस्र्शत",
+      "Condition of bearing can / बेयररंग कैन की शस्र्शत",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Wheel tapping is done to detect",
+    "h": "व्हीि टैचपंग की ज ती है पत िग ने के शिए",
+    "o": [
+      "Material flow/ मटीररयि फ्िो",
+      "Wheel shelling / व्हीि िेचिंग",
+      "Hair crack / हेयर क्रैक",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "NRV is provided in",
+    "h": "NRV प्रर्द न दकय ज त है",
+    "o": [
+      "BP line / BP ि इन",
+      "BC line / BC ि इन - 14 - - 14 -",
+      "FP line / FP ि इन",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Purpose of providing yaw dampers is",
+    "h": "यॉ डैम्पपर िग ने क उद्देश्य है",
+    "o": [
+      "To minimize hunting action / हंरटंग एक्िन कम करने के शिए",
+      "To minimize rolling motion / रोचिंग मोिन कम करने के शिए",
+      "To improve riding index / र इचडंग इंडेक्स सुि रने के शिए",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Dump valve works only during",
+    "h": "डम्पप व ल्व केवि दकस र्दौर न क या करत है",
+    "o": [
+      "Service application / सर्वास एश्िकेिन",
+      "Difference in speed of wheels / व्हीि की गशत में अंतर",
+      "Difference in wheel diameter / व्हीि ड यमीटर में अंतर",
+      "Emergency braking / इमरजेंसी ब्रेककंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Full form of IGBT is",
+    "h": "IGBT क पूणा रूप है",
+    "o": [
+      "Isolation Gate Binary Transistor / आइसोिेिन गेट ब इनरी ट्र ंशजस्टर",
+      "Induced Gate Bipolar Transistor / इंड्यूस्ड गेट ब इपोिर ट्र ंशजस्टर",
+      "Insulated Gate Bipolar Transistor / इंसुिेटेड गेट ब इपोिर ट्र ंशजस्टर",
+      "Insulated Gate Binary Transistor / इंसुिेटेड गेट ब इनरी ट्र ंशजस्टर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Full form of DPRS is",
+    "h": "DPRS क पूणा रूप है",
+    "o": [
+      "Divisional Power Rolling Stock / शडशवज़नि प वर रोचिंग स्टॉक",
+      "Double Power Rolling Stock / डबि प वर रोचिंग स्टॉक",
+      "Distributed Power Rolling Stock / शडशस्ट्रब्यूटेड प वर रोचिंग स्टॉक",
+      "Divided Propulsion Rolling Stock / शडव इडेड प्रोपल्िन रोचिंग स्टॉक"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Number of powered coaches in one BU of the Vande Bharat train.",
+    "h": "वंर्दे भ रत के एक BU में प वडा कोच की संख्य है",
+    "o": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Main transformer is available in which coach in Vande Bharat train.",
+    "h": "मेन ट्र ंसफॉमार दकस कोच में होत है",
+    "o": [
+      "MC / एमसी",
+      "TC / टीसी",
+      "NDTC / एनडीटीसी",
+      "NDTC-2 / एनडीटीसी -2 - 15 - - 15 -"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Type of coupling used in Vande Bharat is",
+    "h": "वंर्दे भ रत में प्रयुक्त कपचिंग क प्रक र है",
+    "o": [
+      "CBC / सीबीसी",
+      "Screw / स्क्रू",
+      "Semi-Permanent / सेमी-परम नेंट",
+      "(Schaku) / ि फेनबगा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Full form of FIBA is",
+    "h": "FIBA क पूणा रूप है",
+    "o": [
+      "Failure Indication cum Brake Application / फेल्योर इंशडकेिन कम ब्रेक एश्िकेिन",
+      "Floor Indication cum Bio-toilet Application / फ्िोर इंशडकेिन कम ब योटॉयिेट एश्िकेिन",
+      "Function Isolator cum Brake Application / फंक्िन आइसोिेटर कम ब्रेक एश्िकेिन",
+      "Fire Indication cum Brake Application / फ यर इंशडकेिन कम ब्रेक एश्िकेिन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Maximum Child Care Leave during entire service is",
+    "h": "संपूणा सेव अवशि में अशिकतम ब ि र्देखभ ि अवक ि है",
+    "o": [
+      "365 days / 365 दर्दन",
+      "540 days / 540 दर्दन",
+      "730 days / 730 दर्दन",
+      "900 days / 900 दर्दन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Maternity Leave admissible for surviving children is",
+    "h": "जीशवत बच्चों के शिए म तृत्व अवक ि अनुमेय है",
+    "o": [
+      "One / एक/",
+      "Two / र्दो/",
+      "Three / तीन",
+      "No limit / कोई सीम नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Leave cannot be claimed as a matter of",
+    "h": "अवक ि दकसके रूप में र्द व नहीं दकय ज सकत",
+    "o": [
+      "Right / अशिक र",
+      "Policy / नीशत",
+      "Discretion / शववेक",
+      "Rule / शनयम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Time allowed to submit defense statement is normally",
+    "h": "बच व शववरण प्रस्तुत करने हेतु स म न्यतः समय होत है",
+    "o": [
+      "7 days / 7 दर्दन",
+      "10 days / 10 दर्दन",
+      "15 days / 15 दर्दन",
+      "30 days / 30 दर्दन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Inquiry Officer is appointed by",
+    "h": "ज ंच अशिक री की शनयुशक्त करत है",
+    "o": [
+      "Vigilance / सतकात - 16 - - 16 -",
+      "Disciplinary Authority / अनुि सशनक प्र शिक री",
+      "Appellate Authority / अपीिीय प्र शिक री",
+      "Controlling Officer / शनयंिण अशिक री"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Appeal against penalty should be submitted within",
+    "h": "र्दंड के शवरुद्ध अपीि प्रस्तुत की ज नी च शहए",
+    "o": [
+      "30 days/ 30 दर्दन",
+      "45 days/ 45 दर्दन",
+      "60 days/ 60 दर्दन",
+      "90 days/ 90 दर्दन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A dependent son ceases to be eligible for passes after attaining the age of",
+    "h": "आशित पुि……आयु पूणा करने पर प स के शिए प ि नहीं रहत है",
+    "o": [
+      "18 years/ 18 वषा/",
+      "21 years/ 21 वषा/",
+      "25 years/ 25 वषा/",
+      "Marriage/ शवव ह/"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which family member is NOT considered dependent on the pass? प स प्रयोजन हेतु शनम्न में से कौन आशित नहीं म न ज त है",
+    "h": "Which family member is NOT considered dependent on the pass? प स प्रयोजन हेतु शनम्न में से कौन आशित नहीं म न ज त है",
+    "o": [
+      "Wife / पत्नी",
+      "Son below 21 years / 21 वषा से कम आयु क पुि",
+      "Married daughter / शवव शहत पुिी",
+      "Widowed mother / शविव म त"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Volume of a cuboid having length 10 cm, breadth 6 cm and height 4 cm is",
+    "h": "10 सेमी िंब ई, 6 सेमी चौड ई और 4 सेमी ऊँच ई व िे घन भ क आयतन है",
+    "o": [
+      "120 cm³ / 120 सेमी³",
+      "200 cm³ / 200 सेमी³",
+      "240 cm³ / 240 सेमी³",
+      "300 cm³ /300 सेमी³"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Number of milliliters in 3.5 liters is",
+    "h": "3.5 िीटर में शमिीिीटर की संख्य है",
+    "o": [
+      "350 ml/ 350 शमिी",
+      "3500 ml/ 3500 शमिी",
+      "35000 ml / 35000 शमिी",
+      "0.35 ml / 0.35 शमिी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Correct unit for measuring capacity of a bottle is",
+    "h": "बोति की क्षमत म पने की सही इक ई है",
+    "o": [
+      "Kilogram / दकिोग्र म",
+      "Meter / मीटर - 17 - - 17 -",
+      "Liter / िीटर",
+      "Square meter / वगा मीटर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A train running at 60 km",
+    "h": "h will cover distance in 45 minutes / 60 km/h की गशत से चि रही ट्रेन 45 शमनट में तय करेगी",
+    "o": [
+      "30 km / 30 दकमी",
+      "45 km / 45 दकमी",
+      "50 km / 50 दकमी",
+      "60 km / 60 दकमी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which Part of Constitution deals with Official Language?",
+    "h": "संशवि न क कौन-स भ ग र जभ ष से संबंशित है",
+    "o": [
+      "Part-XVI / भ ग-XVI",
+      "Part-XVII / भ ग-XVII",
+      "Part-XVIII / भ ग-XVIII",
+      "Part-XIX / भ ग-XIX"
+    ],
+    "c": 0
+  },
+  {
+    "q": "According to Article 120, Parliament proceedings may be conducted in",
+    "h": "अनुच्छेर्द 120 के अनुस र संसर्द की क याव ही हो सकती है",
+    "o": [
+      "Hindi only / केवि चहंर्दी",
+      "English only / केवि अंग्रेज़ी/",
+      "Hindi or English / चहंर्दी अर्व अंग्रेज़ी",
+      "Regional languages / क्षेिीय भ ष एँ"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Number of sections in Official Languages Act, 1963 is",
+    "h": "र जभ ष अशिशनयम 1963 में ि र ओं की संख्य है",
+    "o": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Section providing continuation of English is",
+    "h": "अंग्रेज़ी के प्रयोग को ज री रखने की ि र है",
+    "o": [
+      "Section 2 / ि र 2",
+      "Section 3 / ि र 3",
+      "Section 4 / ि र 4",
+      "Section 8 / ि र 8"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Chairman of Parliamentary Committee on Official Language is",
+    "h": "संसर्दीय र जभ ष सशमशत के अध्यक्ष होते हैं",
+    "o": [
+      "Prime Minister / प्रि नमंिी",
+      "Home Minister / गृह मंिी - 18 - - 18 -",
+      "Education Minister / शिक्ष मंिी",
+      "President / र ष्ट्रपशत"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the amount of honorarium given to the OLIC Clerk?",
+    "h": "अंिक शिक र जभ ष क य ावन्यन सशमशत शिशपक को दर्दए ज ने व िे म नेर्दय की र शि क्य है?",
+    "o": [
+      "Rs 400 / रु. 400/",
+      "Rs 600 / रु. 600/",
+      "Rs 800 / रु. 800/",
+      "Rs 1000 / रु. 1000/"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Under the Official Language Rules, in which category is it mandatory that replies to letters received in Hindi must be given in Hindi?",
+    "h": "र जभ ष शनयमों के तहत चहंर्दी में प्र प्त पिों क उत्तर अशनव या रूप से चहंर्दी में दर्दए ज ने अपेशक्षत है ?",
+    "o": [
+      "5",
+      "7",
+      "4",
+      "8"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The official Language Commission was constituted in the year?",
+    "h": "र जभ ष आयोग क गठन दकस वषा हुआ र् ?",
+    "o": [
+      "1950",
+      "1952",
+      "1955",
+      "1963"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Article entrusting development and promotion of Hindi is",
+    "h": "चहंर्दी के शवक स एवं प्रच र क अनुच्छेर्द है",
+    "o": [
+      "Article 343/ अनुच्छेर्द 343",
+      "Article 344 / अनुच्छेर्द 344",
+      "Article 351 / अनुच्छेर्द 351",
+      "Article 120 / अनुच्छेर्द 120"
+    ],
+    "c": 0
+  },
+  {
+    "q": "When is World Hindi Day celebrated?",
+    "h": "शवश्व चहंर्दी दर्दवस कब मन य ज त है?",
+    "o": [
+      "14 September / 14 शसतंबर",
+      "5 May / 5 मई",
+      "10 January / 10 जनवरी",
+      "26 January / 26 जनवरी"
+    ],
+    "c": 0
+  }
+]

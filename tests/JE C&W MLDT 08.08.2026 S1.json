@@ -1,0 +1,1212 @@
+[
+  {
+    "q": "What is minimum height of centre line of CBC above rail level for loaded vehicle?",
+    "h": "लोडेड गाड़ी के लिए रेल लेवल से CBC की सेंटर लाइन की न्यूनतम ऊंचाई कितनी होती है?",
+    "o": [
+      "1025",
+      "1030",
+      "1040",
+      "1105"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The mean of five numbers is 18. If one number is removed, the mean becomes 16. The removed number is",
+    "h": "पाँच संख्याओं का माध्य 18 है। यदि एक संख्या हटा दी जाए, तो नया माध्य 16 हो जाता है। हटाई गई संख्या है:",
+    "o": [
+      "20",
+      "22",
+      "26",
+      "28"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Tare weight of Railway wagon is",
+    "h": "रेलवे वैगन का तेएर वजन कितना होता है?",
+    "o": [
+      "Weight of wagon in empty condition/खाली हालत में वैगन का वज़न",
+      "Weight of wagon in loaded condition/भरे हुए वैगन का वज़न",
+      "Weight of consignment loaded in wagon/वैगन में लोड किए गए कंसाइनमेंट का वज़न",
+      "None of the above /इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which city is the headquarters of the Reserve Bank of India (RBI)?",
+    "h": "भारतीय रिज़र्व बैंक (RBI) का मुख्यालय किस शहर में है?",
+    "o": [
+      "New Delhi / नई दिल्ली",
+      "Mumbai / मुंबई",
+      "Chennai / चेन्नई",
+      "Kolkata / कोलकाता"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the concept of Newton's first law of motion?",
+    "h": "न्यूटन के गति के प्रथम नियम की अवधारणा क्या है?",
+    "o": [
+      "Heat / ऊष्मा",
+      "Speed / गति",
+      "Inertia / जड़त्व",
+      "Energy / ऊर्जा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A train 180 m long crosses a platform 220 m long in 20 seconds. Find the speed of the train.",
+    "h": "180 मीटर लंबी एक ट्रेन 220 मीटर लंबे प्लेटफॉर्म को 20 सेकंड में पार करती है। ट्रेन की गति ज्ञात कीजिए।",
+    "o": [
+      "54 km/h (54 किमी/घंटा)",
+      "72 km/h (72 किमी/घंटा)",
+      "60 km/h (60 किमी/घंटा)",
+      "80 km/h (80 किमी/घंटा)"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following is not a catalyst cause of corrosion of wagon",
+    "h": "इनमें से कौन-सा वैगन में जंग लगने का उत्प्रेरक कारण नहीं है?",
+    "o": [
+      "Water logging in crevices /दरारों में पानी का जमाव",
+      "Spillage of corrosion fluids from consignment/खेप से संक्षारक तरल पदार्थोंं का रिसाव",
+      "Contact of panels with salt, fertilizer/पैनल का नमक और खाद के संपर्क में आना",
+      "Use of stainless steel in wagon/वैगन में स्टेनलेस स्टील का इस्तेमाल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A right triangle has legs of 9 cm and 12 cm. Its hypotenuse is",
+    "h": "एक समकोण त्रिभुज की दोनों लंबवत भुजाएँ 9 सेमी और 12 सेमी हैं। उसका कर्ण होगा:",
+    "o": [
+      "13 cm/13 सेमी",
+      "15 cm/15 सेमी",
+      "14 cm/14 सेमी",
+      "16 cm/16 सेमी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which Indian state has the longest coastline?",
+    "h": "किस भारतीय राज्य की तटरेखा सबसे लंबी है?",
+    "o": [
+      "Gujarat / गुजरात",
+      "Tamil Nadu / तमिलनाडु",
+      "Maharashtra / महाराष्ट्र",
+      "Andhra Pradesh / आंध्र प्रदेश"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the full form of NDMA",
+    "h": "NDMA का पूरा नाम क्या है?",
+    "o": [
+      "National Disaster Management Authority /राष्ट्रीय आपदा प्रबंधन प्राधिकरण",
+      "National Disaster Management Association /राष्ट्रीय आपदा प्रबंधन संघ",
+      "National Disaster Management Application /राष्ट्रीय आपदा प्रबंधन एप्लिकेशन",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "As per Accident Manual, 'B'‐class ART does NOT have",
+    "h": "एक्सीडेंट मैनुअल के अनुसार, 'B'- क्लास ART में ये चीज़ें नहीं होती हैं:",
+    "o": [
+      "Tool and equipment van/औज़ार और उपकरण वाली वैन",
+      "Staff Car /स्टाफ़ कार",
+      "140T crane with match truck/मैच ट्रक के साथ 140T क्रेन",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The device used to transmit loco speed from wheels to speedometer is called?",
+    "h": "किस उपकरण द्वारा लोको स्पीड पहिये से स्पीडोमीटर तक भेजा जाता है?",
+    "o": [
+      "Tacho Generator / टेको जेनरेटर",
+      "Axle Generator / एक्स्ल जेनरेटर",
+      "Auxiliary Generator / औक्सिलरी जेनरेटर",
+      "Main Generator / मेन जेनरेटर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which foreign language is included in 8th schedule ?",
+    "h": "आठवीं अनुसूची में कौन-सी विदेशी भाषा शामिल है?",
+    "o": [
+      "Urdu language/उर्दू भाषा",
+      "Sindhi language/सिंधी भाषा",
+      "Braj language/ब्रज भाषा",
+      "Konkani language/कोंकणी भाषा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which operation increases the diameter of an existing hole?",
+    "h": "किस ऑपरेशन से मौजूदा छेद का व्यास बढ़ जाता है?",
+    "o": [
+      "Tapping / टैपिंग",
+      "Reaming / रीमिंग",
+      "Boring / बोरिंग",
+      "Knurling / नर्लिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The Quit India Movement was launched in",
+    "h": "भारत छोड़ो आंदोलन कब शुरू हुआ था?",
+    "o": [
+      "1940",
+      "1942",
+      "1941",
+      "1944"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the role of Traction Motors?",
+    "h": "ट्रैक्शन मोटर क्या काम करता है?",
+    "o": [
+      "Converts Electrical Energy into Mechanical Energy / विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है",
+      "Converts Mechanical Energy into Electrical Energy in the form of AC current / यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलता है एसी करंट के रुप में",
+      "Converts Mechanical energy into Heat energy / यांत्रिक ऊर्जा को ऊष्मीय ऊर्जा में बदलता है",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which is India's largest marshalling yard?",
+    "h": "भारत का सबसे बड़ा मार्शलिंग यार्ड कौनसा है?",
+    "o": [
+      "Deen Dayal Upadhyay / दीनदयाल उपाध्याय",
+      "Bhilai / भिलाई",
+      "Itarsi / इटारसी",
+      "Guntakal / गुंतकल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the maximum ride index of LHB coach?",
+    "h": "LHB कोच का अधिकतम राइड इंडेक्स क्या है?",
+    "o": [
+      "2.75",
+      "3.25",
+      "3.65",
+      "3.45"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is function of safe load indicator in 140 T crane",
+    "h": "140 टन क्रेन में सेफ़ लोड इंडिकेटर का क्या काम होता है?",
+    "o": [
+      "To lock jib if load in hoist increase beyond capacity/अगर होइस्ट पर लोड क्षमता से ज़्यादा हो जाए, तो जिब को लॉक करने के लिए।",
+      "To apply brakes if load a match track increases/अगर लोड या ट्रैक का भार बढ़ता है, तो ब्रेक लगाएं।",
+      "It is a screen indicating load chart to crane driver/यह एक स्क्रीन है जो क्रेन ड्राइवर को लोड चार्ट दिखाती है।",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A trader marks an article 40% above the cost price and allows a 20% discount. His profit percentage is:",
+    "h": "एक व्यापारी किसी वस्तु का अंकित मूल्य क्रय मूल्य से 40% अधिक रखता है तथा 20% की छूट देता है। उसका लाभ प्रतिशत कितना होगा?",
+    "o": [
+      "0.08",
+      "0.12",
+      "0.1",
+      "0.15"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A can finish a work in 12 days and B in 6 days. In how many days will they complete the work together?",
+    "h": "A कार्य को 12 दिनों में तथा B 6 दिनों में पूरा करता है। दोनों मिलकर कार्य कितने दिनों में पूरा करेंगे",
+    "o": [
+      "3 Days / 3 दिन",
+      "4 Days / 4 दिन",
+      "5 Days / 5 दिन",
+      "6 Days / 6 दिन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of traction motor is used in Vande Bharat Express",
+    "h": "वंदे भारत एक्सप्रेस में किस प्रकार की ट्रैक्शन मोटर का उपयोग किया जाता है?",
+    "o": [
+      "DC Compound Motor / डीसी कंपाउंड मोटर",
+      "Three Phase Induction Motor / तीन फेज इंडक्शन मोटर",
+      "Synchronous Motor / सिंक्रोनस मोटर",
+      "Universal Motor / यूनिवर्सल मोटर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Condemn Thickness of Elastomeric Pad is -------------mm.",
+    "h": "अस्वीकार इलास्टोमेरिक पैड की मोटाई --- mm है।",
+    "o": [
+      "40",
+      "42",
+      "46",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Two trains start at same time from Delhi and Agra which are 350 km far from each other. If their speeds are 38 kmph and 32 kmph respectively, then after how much time both will meet to each other?",
+    "h": "दो रेलगाड़ियाँ एक ही समय में दिल्ली और झांसी से प्रारम्भ होती है जो कि एक दूसरे से 350 किमी की दूरी पर है। यदि उनकी गति क्रमशः 38 किमी प्रतिघंटा और 32 किमी प्रतिघंटा है, तो दोनों कितने समय पश्चात एक दूसरे से मिलेगी?",
+    "o": [
+      "5 घंटे / 5 hours",
+      "6 घंटे 40 मिनट / 6 hours 40 minutes",
+      "6 घंटे / 6 hours",
+      "5 घंटे 40 मिनट / 5 hours 40 minutes"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In ABC analysis, which items receive the most attention from an inventory control perspective?",
+    "h": "ABC विश्लेषण में, इन्वेंट्री कंट्रोल के नज़रिए से किन आइटम पर सबसे ज़्यादा ध्यान दिया जाता है?",
+    "o": [
+      "Category A / कैटेगरी A",
+      "Category B / कैटेगरी B",
+      "Category C / कैटेगरी C",
+      "Equal attention to all / सभी पर बराबर ध्यान"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which measuring instrument has the highest accuracy? निम्न में से किस माप उपकरण की शुद्धता सबसे अधिक होती है?",
+    "h": "Which measuring instrument has the highest accuracy? निम्न में से किस माप उपकरण की शुद्धता सबसे अधिक होती है?",
+    "o": [
+      "Steel Rule / स्टील रूल",
+      "Vernier Caliper / वर्नियर कैलिपर",
+      "Micrometer / माइक्रोमीटर",
+      "Measuring Tape / मापने का फीता"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The maximum target time for starting an Accident Relief Train in the daytime is ordinarily (assuming ideal ART placement siding with both side exit))",
+    "h": "दिन के समय एक्सीडेंट रिलीफ ट्रेन (ART) को रवाना करने का अधिकतम लक्षित समय आमतौर पर (यह मानते हुए कि ART को ऐसी साइडिंग पर रखा गया है जहाँ से दोनों तरफ निकलने की सुविधा हो)",
+    "o": [
+      "15 minutes/15 मिनटों",
+      "30 minutes/30 मिनटों",
+      "45 minutes/45 मिनटों",
+      "60 minutes/60 मिनटों"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Who founded the Ramakrishna Mission?",
+    "h": "रामकृष्ण मिशन की स्थापना किसने की थी?",
+    "o": [
+      "Swami Dayanand Saraswati / स्वामी दयानंद सरस्वती",
+      "Swami Vivekananda / स्वामी विवेकानंद",
+      "Raja Ram Mohan Roy / राजा राममोहन राय",
+      "Rabindranath Tagore / रवीन्द्रनाथ ठाकुर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the full form of FDSS?",
+    "h": "FDSS का विस्तारित रूप क्या है?",
+    "o": [
+      "Fire and Smoke Detection System / फायर एंड स्मोक डिटेक्शन सिस्टम",
+      "Fire Delivery and Suppression System / फायर डिलीवरी एंड सप्रेशन सिस्टम",
+      "Fire Detection and Suppression System / फायर डिटेक्शन एंड सप्रेशन सिस्टम",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During RTR Test of Coaching Rakes, how much rate of drop in BP Pressure indicates leakage in the system",
+    "h": "कोचिंग रेक के RTR टेस्ट के दौरान, BP प्रेशर में गिरावट की कितनी दर सिस्टम में लीकेज का संकेत देती है?",
+    "o": [
+      "0.2 Kg/cm2/minute/0.2 किग्रा/सेमी²/मिनट",
+      "0.4 Kg/cm2/minute/0.4 किग्रा/सेमी²/मिनट",
+      "1.0 Kg/cm2/minute/1.0 किग्रा/सेमी²/मिनट",
+      "None of the above /इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of following is not true for vande Bharat train",
+    "h": "इनमें से कौन-सी बात वंदे भारत ट्रेन के बारे में सही नहीं है?",
+    "o": [
+      "It has fast acceleration/यह तेज़ी से रफ़्तार पकड़ती है।",
+      "At Both ends it has Driving Trailer Car/इसके दोनों सिरों पर ड्राइविंग ट्रेलर कार है।",
+      "It needs a locomotive to run/इसे चलाने के लिए एक लोकोमोटिव की ज़रूरत होती है।",
+      "It has wheel mounted Disc Brakes/इसमें पहियों पर डिस्क ब्रेक लगे हैं।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In Air brake passenger train if FP metal pipe is damaged",
+    "h": "एयर ब्रेक वाली पैसेंजर ट्रेन में अगर FP मेटल पाइप खराब हो जाए",
+    "o": [
+      "Work with single pipe/सिंगल पाइप के साथ काम करें",
+      "Work further bypassing the coach/कोच को दरकिनार करके आगे काम करें।",
+      "Both a and b/ a और b दोनों",
+      "Work with FP alone/सिर्फ़ FP के साथ काम करें"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In which language should replies be given to letters received in Hindi?",
+    "h": "हिंदी में प्राप्त शत् प्रतिशत पत्रों के उत्तर किस भाषा में दिए जाने चाहिए?",
+    "o": [
+      "In Hindi / हिंदी में",
+      "In English / अंग्रेज़ी में",
+      "At one's own discretion / अपनी ईछानुसार",
+      "In the mother tongue / मातृ भाषा में"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which system is used to detect defective bearings and wheels by listening for abnormal sounds while the train is in motion?",
+    "h": "ट्रेन के चलते समय असामान्य आवाज़ें सुनकर खराब बेयरिंग और पहियों का पता लगाने के लिए किस सिस्टम का इस्तेमाल किया जाता है?",
+    "o": [
+      "Hot Axle Box Detector (HABD)/हॉट एक्सल बॉक्स डिटेक्टर (HABD)",
+      "OMRS (Online Monitoring of Rolling Stock) /OMRS (रोलिंग स्टॉक की ऑनलाइन निगरानी)",
+      "HAHW (Hot Axle Hot Wheel Detector) /HAHW (हॉट एक्सल हॉट व्हील डिटेक्टर)",
+      "WILD(Wheel Impact Load Detector)/WILD (व्हील इम्पैक्ट लोड डिटेक्टर)"
+    ],
+    "c": 0
+  },
+  {
+    "q": "After giving two successive discounts of 20% and 10%, an article is sold for ₹720. The marked price is",
+    "h": "20% तथा 10% की क्रमिक छूट देने के बाद वस्तु ₹720 में बेची जाती है। अंकित मूल्य ज्ञात कीजिए।",
+    "o": [
+      "900",
+      "950",
+      "1000",
+      "1050"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of these is fitted in the coach of a Vande Bharat trainset?",
+    "h": "वंदे भारत ट्रेनसेट के कोच में इनमें से क्या लगा होता है?",
+    "o": [
+      "Bolster bogie / बोल्स्टर बोगी",
+      "Bolster-less bogie / बोल्स्टर-लेस बोगी",
+      "Bolster with side bearer / साइड बियरर के साथ बोल्स्टर",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The HVAC system in Vande Bharat provides",
+    "h": "वंदे भारत में HVAC प्रणाली प्रदान करती है",
+    "o": [
+      "Heating, Ventilation and Air Conditioning/ऊष्मा देना, हवादार बनाना और वातानुकूलन",
+      "High Voltage Automatic Control/हाई वोल्टेज ऑटोमैटिक कंट्रोल",
+      "Hydraulic Valve Air Control/हाइड्रोलिक वॉल्व एयर कंट्रोल",
+      "Heat Vehicle Adjustment Control/गाड़ी के हीटिंग और एडजस्टमेंट का कंट्रोल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "During Proper pressure in air spring the position of leveling valve becomes",
+    "h": "एयर स्प्रिंग में सही दबाव होने पर लेवलिंग वॉल्व की स्थिति ऐसी हो जाती है…",
+    "o": [
+      "Vertical/खड़ा",
+      "Horizontal/क्षैतिज",
+      "Inclined/झुका",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The present age of a father is three times the age of his son. After 10 years, the father's age will be twice the son's age. What is the son's present age?पिता की वर्तमान आयु उनके पुत्र की आयु की तीन गुनी है। 10 वर्ष बाद, पिता की आयु पुत्र की आयु की दोगुनी होगी। पुत्र की वर्तमान आयु क्या है?",
+    "h": "The present age of a father is three times the age of his son. After 10 years, the father's age will be twice the son's age. What is the son's present age?पिता की वर्तमान आयु उनके पुत्र की आयु की तीन गुनी है। 10 वर्ष बाद, पिता की आयु पुत्र की आयु की दोगुनी होगी। पुत्र की वर्तमान आयु क्या है?",
+    "o": [
+      "8 years (वर्ष)",
+      "10 years (वर्ष)",
+      "12 years (वर्ष)",
+      "15 years (वर्ष)"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the full form of SCTR?",
+    "h": "SCTR का विस्तारित रूप क्या है?",
+    "o": [
+      "Single Car Test Rubber / सिंगल कार टेस्ट रबर",
+      "Single Car Test Rig / सिंगल कार टेस्ट रिग",
+      "Sliding Car Test Rig / स्लाइडिंग कार टेस्ट रिग",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the translation of the word ‘अिधिनयम’ in English?/अंग्रेज़ी में ‘अधिनियम’ शब्द का अनुवाद क्या है?",
+    "h": "What is the translation of the word ‘अिधिनयम’ in English?/अंग्रेज़ी में ‘अधिनियम’ शब्द का अनुवाद क्या है?",
+    "o": [
+      "Regulation",
+      "Rule",
+      "Act",
+      "Guideline"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the distance between the two rails of broad-gauge track (in mm)?",
+    "h": "ब्रॉड गेज (बड़ी लाइन) के दो रेल की बीच की दूरी कितनी होती है (मिमी में)?",
+    "o": [
+      "1200",
+      "1000",
+      "1435",
+      "1676"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A step‐down transformer reduces",
+    "h": "एक स्टेप-डाउन ट्रांसफार्मर कम करता है",
+    "o": [
+      "Current / विद्युत धारा",
+      "Voltage/विद्युत दाब",
+      "Power/शक्ति",
+      "Frequency/आवृत्ति"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which is not a renewable source of energy?",
+    "h": "ऊर्जा का कौन-सा स्रोत नवीकरणीय नहीं है?",
+    "o": [
+      "Hydro / जल",
+      "Wind / पवन",
+      "Solar / सौर",
+      "Natural Gas / प्राकृतिक गैस"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A person borrowed ₹12,000 at 8% simple interest. What amount will he pay after 5 years?एक व्यक्ति ने 8% साधारण ब्याज पर ₹12,000 उधार लिए। 5 साल बाद वह कितनी राशि चुकाएगा?",
+    "h": "A person borrowed ₹12,000 at 8% simple interest. What amount will he pay after 5 years?एक व्यक्ति ने 8% साधारण ब्याज पर ₹12,000 उधार लिए। 5 साल बाद वह कितनी राशि चुकाएगा?",
+    "o": [
+      "15600",
+      "16800",
+      "17200",
+      "18000"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Paternity leave is granted to Employees.",
+    "h": "कर्मचारियों को पितृत्व अवकाश दिया जाता है।",
+    "o": [
+      "Female / महिला",
+      "Male/पुरुष",
+      "Male & Female both/पुरुष और महिला दोनों",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which threshold conditions trigger an alert in HABD",
+    "h": "hot axle systems, as reported in recent Indian Railways deployments? /हाल ही में भारतीय रेलवे में लागू किए गए HABD / हॉट एक्सल सिस्टम में किन थ्रेशोल्ड स्थितियों (सीमा-मानों) पर अलर्ट मिलता है?",
+    "o": [
+      "Always above 100 °C only /हमेशा 100°C से ऊपर ही",
+      "Bearing temperature above ~70 °C for coaching stock, ~80 °C for goods stock, or a temperature difference between sides above a defined limit (20-25 °C)/कोचिंग स्टॉक के लिए बेयरिंग का तापमान ~70 °C से ज़्यादा, मालगाड़ी के स्टॉक के लिए ~80 °C से ज़्यादा, या दोनों तरफ़ के तापमान में तय सीमा (20-25 °C) से ज़्यादा का अंतर।",
+      "Only when axle box visually smokes/केवल तभी जब एक्सल बॉक्स से धुआं निकलता हुआ दिखाई दे।",
+      "When speed drops below 20 kmph /जब रफ़्तार 20 kmph से कम हो जाती है"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The distance between (0,0) and (8,15) is:",
+    "h": "बिंदुओं (0,0) तथा (8,15) के बीच की दूरी है:",
+    "o": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of fire extinguisher must not be used in case of electrical base fire?",
+    "h": "बिजली से लगी आग बुझाने के लिए किस तरह के अग्निशमन यंत्र (fire extinguisher) का इस्तेमाल नहीं करना चाहिए?",
+    "o": [
+      "Halon Extinguisher /हैलोन अग्निशामक",
+      "Carbon chloride extinguisher /कार्बन क्लोराइड अग्निशामक",
+      "Foam extinguisher /फोम अग्निशामक",
+      "Dry Powder extinguisher/ड्राई पाउडर अग्निशामक"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of gear is used to transmit motion between parallel shafts",
+    "h": "समांतर शाफ़्ट के बीच गति संचारित करने के लिए किस प्रकार के गियर का उपयोग किया जाता है?",
+    "o": [
+      "Bevel Gear / बेवल गियर",
+      "Worm Gear / वर्म गियर",
+      "Spur Gear / स्पर गियर",
+      "Cross Helical Gear / क्रॉस हेलिकल गियर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which metal is extracted from bauxite?",
+    "h": "बॉक्साइट से कौन-सी धातु निकाली जाती है?",
+    "o": [
+      "Aluminium / अल्युमीनियम",
+      "Iron / लोहा",
+      "Copper / ताँबा",
+      "Silver / चाँदी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "For wheel Shelling on a wheel set of LHB coach the reason may be",
+    "h": "LHB कोच के व्हील सेट पर व्हील शेलिंग का कारण यह हो सकता है",
+    "o": [
+      "WSP system not function properly/WSP सिस्टम ठीक से काम नहीं कर रहा है।",
+      "Brake caliper may jammed/ब्रेक कैलिपर जाम हो सकता है।",
+      "One or both brake cylinder may defective/एक या दोनों ब्रेक सिलेंडर खराब हो सकते हैं।",
+      "All of the above /ऊपर के सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The bogie center pivot mainly transfers",
+    "h": "बोगी सेंटर पिवट मुख्य रूप से क्या स्थानांतरित करता है?",
+    "o": [
+      "Brake force / ब्रेक बल",
+      "Vertical load and guidance / ऊर्ध्वाधर भार एवं मार्गदर्शन",
+      "Electrical current / विद्युत धारा",
+      "Air pressure / वायु दाब"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which chemical is recommended to clean the water tank of LHB coaches so as to avoid scaling?",
+    "h": "LHB कोच के पानी के टैंक में स्केलिंग (पपड़ी जमने) से बचने के लिए उसे साफ करने के लिए किस केमिकल का इस्तेमाल करने की सलाह दी जाती है?",
+    "o": [
+      "Acetone/ एसीटोन",
+      "Formaldehyde/ फॉर्मेल्डिहाइड",
+      "Hypochlorite/हाइपोक्लोराइट",
+      "Vinegar/सिरका"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Into how many regions has the country been classified for the purpose of the propagation of the Official Language?",
+    "h": "राजभाषा प्रचार-प्रसार के दृष्‍टि से देश को कितने क्षेत्रो में वर्गीकृत किया है?",
+    "o": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Every year 'Hindi Diwas' is celebrated on which date?",
+    "h": "हर साल 'हिंदी दिवस' किस तारीख को मनाया जाता है?",
+    "o": [
+      "14 October/14 अक्टूबर",
+      "16 October/16 अक्टूबर",
+      "14 September/14 सितंबर",
+      "16 September/16सितंबर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What do you understand by CC rake?",
+    "h": "CC रेक से आप क्या समझते हैं?",
+    "o": [
+      "Content Contact rake / कंटेंट कॉन्टैक्ट रेक",
+      "Complete Coal rake / कम्प्लीट कोल रेक",
+      "Closed Circuit rake / क्लोज्ड सर्किट रेक",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the air pressure at which auxillary reservoir of Air Brake system is charged in ICF Coaches",
+    "h": "ICF कोच में एयर ब्रेक सिस्टम का ऑक्सिलरी रिज़र्वॉयर किस एयर प्रेशर पर चार्ज होता है?",
+    "o": [
+      "5 Kg/cm2 /5 किग्रा/सेमी²",
+      "6 Kg/cm2 / 6 किग्रा/सेमी²",
+      "4.5 Kg/cm2/ 4.5 किग्रा/सेमी²",
+      "None of the above/ इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Government Railway Police works under the following:",
+    "h": "राजकीय रेलवे पुलिस निम्नलिखित के अधीन कार्य करती है:",
+    "o": [
+      "Ministry of Home Affairs (Central) / गृह मंत्रालय (केन्द्रीय)",
+      "Concerned State Government / संबंधित राज्य सरकार",
+      "Ministry of Railways / रेल मंत्रालय",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Name the distance between axle box top and axle box crown bolt?",
+    "h": "एक्सल बॉक्स के ऊपरी हिस्से और एक्सल बॉक्स क्राउन बोल्ट के बीच की दूरी को क्या कहते हैं?",
+    "o": [
+      "Clearance A/क्लियरेंस A",
+      "Clearance B/क्लियरेंस B",
+      "Clearance C/क्लियरेंस C",
+      "None of the above/ इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "For finding what defect UST is done?",
+    "h": "UST किस खराबी का पता लगाने के लिए किया जाता है?",
+    "o": [
+      "Internal crack/ आंतरिक दरार",
+      "External crack/बाहरी दरार",
+      "Air flow crack/एयर फ़्लो क्रैक",
+      "None of the above /इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of Roller bearing is used in LHB coaches?",
+    "h": "LHB कोच में किस प्रकार के रोलर बेयरिंग का उपयोग किया जाता है?",
+    "o": [
+      "Spherical Roller bearing/स्फेरिकल रोलर बेयरिंग।",
+      "Plain Roller bearing/प्लेन रोलर बेयरिंग।",
+      "Cartridge Tapered Roller bearing/कार्ट्रिज टेपर्ड रोलर बेयरिंग",
+      "None of the above /इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "For LHB Mail Express Trains run with Round Trip run under 4000 Km (excluding Category 1 Trains) how much minimum halt is required for other end maintenance",
+    "h": "4000 किलोमीटर से कम की राउंड ट्रिप (Category 1 ट्रेनों को छोड़कर) पर चलने वाली LHB मेल एक्सप्रेस ट्रेनों के लिए, दूसरे छोर पर मेंटेनेंस के लिए कम से कम कितना हॉल्ट ज़रूरी है?",
+    "o": [
+      "75 minute/75 मिनट",
+      "3 Hrs/3 घंटे",
+      "6 Hrs/6 घंटे",
+      "None of the above इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following is incorrect as a reason of train parting? Pick the correct option",
+    "h": "इनमें से कौन-सा कारण ट्रेन के अलग होने (ट्रेन पार्टिंग) के लिए गलत है? सही विकल्प चुनें।",
+    "o": [
+      "Lock not properly engaged/लॉक ठीक से नहीं लगा है",
+      "Operating handle supplying bracket broke/ऑपरेटिंग हैंडल को सहारा देने वाला ब्रैकेट टूट गया।",
+      "Falling down of Yoke pin/योका पिन का गिरना",
+      "over speeding of train/ट्रेन की अत्यधिक गति"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What type of coupler is used in BOXN wagon?",
+    "h": "BOXN वैगन में किस प्रकार का कपलर इस्तेमाल किया जाता है?",
+    "o": [
+      "Screw coupling / स्क्रू कपलिंग",
+      "CBC / सीबीसी",
+      "Non-transition / नॉन-ट्रांज़िशन",
+      "Schaku / शाकू"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In LHB Brake accelerator is",
+    "h": "LHB ब्रेक में एक्सेलरेटर क्या है?",
+    "o": [
+      "Brake actuating device /ब्रेक लगाने वाला उपकरण",
+      "Emergency brake application device. /इमरजेंसी ब्रेक लगाने वाला उपकरण।",
+      "Both a & b /a और b दोनों",
+      "None of the above /इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the name of Bio-toilet Bacteria?",
+    "h": "बायो-टॉयलेट बैक्टीरिया का क्या नाम है?",
+    "o": [
+      "Bacterionema Bacteria/बैक्टीरियोनेमा बैक्टीरिया",
+      "Vibrosol Bacteria/विब्रियोसोल बैक्टीरिया",
+      "Anaerobic Bacteria/अवायवीय बैक्टीरिया",
+      "Aerobic Bacteria/एरोबिक बैक्टीरिया"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The main function of anti roll bar is",
+    "h": "एंटी रोल बार का मुख्य काम है",
+    "o": [
+      "To allow rolling action of the coach/कोच की रोलिंग क्रिया को संभव बनाने के लिए",
+      "To prevent Rolling action of the coach/कोच की रोलिंग क्रिया को रोकना के लिए",
+      "To provided strength for bogie/बोगी को मजबूती प्रदान करने के लिए",
+      "To negotiate the track curve/ट्रैक के मोड़ पर गाड़ी को सही ढंग से चलाने के लिए"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A weld used temporarily to hold the work piece in position is called?",
+    "h": "वर्क पीस को अपनी जगह पर बनाए रखने के लिए अस्थायी रूप से किए जाने वाले वेल्ड को क्या कहते हैं?",
+    "o": [
+      "Tack weld / टैक वेल्ड",
+      "Bead weld / बीड वेल्ड",
+      "Fillet weld / फिलेट वेल्ड",
+      "Spot weld / स्पॉट वेल्ड"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Permissible wear in knuckle nose is……….mm",
+    "h": "नकल नोज़ में स्वीकार्य घिसाव .......... mm है।",
+    "o": [
+      "10",
+      "8",
+      "15",
+      "6"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Multimeter is used to measure",
+    "h": "मल्टीमीटर का इस्तेमाल मापने के लिए किया जाता है।",
+    "o": [
+      "voltage only/ सिर्फ़ वोल्टेज",
+      "electric current only/सिर्फ़ इलेक्ट्रिक करंट",
+      "resistance only /सिर्फ़ रेजिस्टेंस",
+      "All of the above/ ऊपर के सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Statement I: Sound waves can travel through vacuum. Statement II: Light is an electromagnetic wave and can travel through vacuum.",
+    "h": "कथन I: ध्वनि तरंगें निर्वात में यात्रा कर सकती हैं। कथन II: प्रकाश एक विद्युत-चुंबकीय तरंग है और निर्वात में यात्रा कर सकता है।",
+    "o": [
+      "Both the statements are individually true and Statement II is the correct explanation of Statement I. / दोनों कथन अलग-अलग सही हैं और कथन II, कथन I की सही व्याख्या है।",
+      "Both the statements are individually true but Statement II is not the correct explanation of Statement I. / दोनों कथन अलग-अलग सही हैं, लेकिन कथन II, कथन I की सही व्याख्या नहीं है।",
+      "Statement I is true but Statement II is false. / कथन I सही है, लेकिन कथन II गलत है।",
+      "Statement II is true but Statement I is false. / कथन II सही है, लेकिन कथन I गलत है।"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which ministry implements the PM Surya Ghar: Muft Bijli Yojana?",
+    "h": "पीएम सूर्य घर: मुफ्त बिजली योजना किस मंत्रालय द्वारा लागू की जा रही है?",
+    "o": [
+      "Ministry of Power / विद्युत मंत्रालय",
+      "Ministry of Finance / वित्त मंत्रालय",
+      "Ministry of Rural Development / ग्रामीण विकास मंत्रालय",
+      "Ministry of Housing / आवासन मंत्रालय"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If the employee has passed the Matriculation or an equivalent or higher examination with Hindi as medium of instruction, he will be considered as having?",
+    "h": "अगर कर्मचारी ने मैट्रिकुलेशन या उसके बराबर या उससे ऊंची परीक्षा हिंदी माध्यम से पास की है, तो उसे क्या माना जाएगा?",
+    "o": [
+      "Proficiency in Hindi / हिंदी में दक्षता",
+      "Working Knowledge of Hindi/हिंदी का व्यावहारिक ज्ञान",
+      "Competency in Hindi/हिंदी में दक्षता",
+      "Mastery in Hindi /हिंदी में महारत"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which heat treatment process relieves internal stresses?",
+    "h": "कौन-सी हीट ट्रीटमेंट प्रक्रिया आंतरिक तनाव को कम करती है?",
+    "o": [
+      "Annealing / एनीलिंग",
+      "Hardening / हार्डनिंग",
+      "Carburizing / कार्बुराइजिंग",
+      "Nitriding / नाइट्राइडिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The sum of the first 20 natural numbers is",
+    "h": "पहली 20 प्राकृतिक संख्याओं का योग है",
+    "o": [
+      "190",
+      "200",
+      "210",
+      "220"
+    ],
+    "c": 0
+  },
+  {
+    "q": "According to which Article of the Constitution shall \"the official language of the Union be Hindi and the script Devanagari\"?",
+    "h": "संविधान के किस अनुच्छेदानुसार “संघ की राजभाषा हिन्दी और लिपि देवनागरी होगी”?",
+    "o": [
+      "Article 343 / अनुच्छेद 343",
+      "Article 344 / अनुच्छेद 344",
+      "Article 345 / अनुच्छेद 345",
+      "Article 346 / अनुच्छेद 346"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If the radius of a sphere is increased by 50%, its volume becomes",
+    "h": "यदि गोले की त्रिज्या 50% बढ़ा दी जाए, तो उसका आयतन होगा:",
+    "o": [
+      "2.25 times/2.25 गुना",
+      "2.5 times/2.5 गुना",
+      "1.25 times/1.25 गुना",
+      "3.375 times/3.375 गुना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "How many members are there in the Parliamentary Official Language Committee?",
+    "h": "संसदीय राजभाषा समिति में कितने सदस्य हैं?",
+    "o": [
+      "30",
+      "28",
+      "20",
+      "25"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Sole bar of ICF coach consists of",
+    "h": "ICF कोच के सोल बार में होते हैं",
+    "o": [
+      "Z Section/Z सेक्शन",
+      "I Section/I सेक्शन",
+      "L Section/L सेक्शन",
+      "U Section/U सेक्शन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Full form of DPT is?",
+    "h": "डीपीटी का विस्तारित रूप क्या है?",
+    "o": [
+      "Dye Potential Test / डाई पोटेंशियल टेस्ट",
+      "Diesel Power Test / डीज़ल पावर टेस्ट",
+      "Diesel Potential Test / डीज़ल पोटेंशियल टेस्ट",
+      "Dye Penetrant Test / डाई पेनेट्रेंट टेस्ट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of these is not a benefit of EMU trains?",
+    "h": "इनमें से कौन-सा EMU ट्रेनों का फ़ायदा नहीं है?",
+    "o": [
+      "Faster acceleration / तेज़ रफ़्तार पकड़ना (एक्सेलरेशन)",
+      "Loco reversal not needed / लोको रिवर्सल की ज़रूरत नहीं",
+      "Higher carrying capacity / ज़्यादा लोगों को ले जाने की क्षमता",
+      "Working without OHE / ओएचई के बिना चलना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "After brake released, isolate the brake cylinder from the auxiliary reservoir by the help of",
+    "h": "ब्रेक रिलीज़ होने के बाद, ब्रेक सिलेंडर को सहायक टैंक से अलग करने के लिए इसकी मदद लें।",
+    "o": [
+      "Distributor valve/ वितरक वाल्व",
+      "Control reservoir/ कंट्रोल रिज़र्वॉयर",
+      "Brake pipe/ ब्रेक पाइप",
+      "Feed pipe/ फीड पाइप"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Oil is strictly prohibited on",
+    "h": "इस पर तेल का इस्तेमाल पूरी तरह मना है।",
+    "o": [
+      "Uncoupling device of CBC/CBC का अनकपलिंग डिवाइस",
+      "Supporting device of CBC/CBC का सपोर्टिंग डिवाइस",
+      "Coupler head knuckle and locks of CBC/CBC के कपलर हेड नकल और लॉक।",
+      "None of the above /इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the diameter of a new LHB wheel disc?",
+    "h": "नए LHB व्हील डिस्क का व्यास कितना होता है?",
+    "o": [
+      "910 mm / 910 मिमी",
+      "915 mm / 915 मिमी",
+      "912 mm / 912 मिमी",
+      "725 mm / 725 मिमी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Who conducts GDR check",
+    "h": "GDR जांच कौन करता है?",
+    "o": [
+      "Guard ( Train Manager) only/सिर्फ़ गार्ड (ट्रेन मैनेजर)",
+      "Loco Pilot only/सिर्फ़ लोको पायलट",
+      "Guard ( Train Manager) and Loco Pilot both/गार्ड (ट्रेन मैनेजर) और लोको पायलट, दोनों",
+      "Guard ( Train Manager) and Loco Pilot and ASM/गार्ड (ट्रेन मैनेजर), लोको पायलट और ASM"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the advantage of dampers",
+    "h": "डैम्पर्स का क्या फ़ायदा है?",
+    "o": [
+      "Suspension may be increased./सस्पेंशन को बढ़ाया जा सकता है।",
+      "Ridding index may be improved./राइडिंग इंडेक्स को बेहतर बनाया जा सकता है।",
+      "Comfort may be increased./आराम बढ़ सकता है।",
+      "All of the above /ऊपर के सभी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which type of brake blocks are used in bogie mounted brake Brake system?",
+    "h": "बोगी माउंटेड ब्रेक सिस्टम में किस प्रकार के ब्रेक ब्लॉक का उपयोग किया जाता है?",
+    "o": [
+      "K type/K प्रकार",
+      "L type/L प्रकार",
+      "Cast iron brake block/कास्ट आयरन ब्रेक ब्लॉक",
+      "M type/M प्रकार"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Who is the ‘vice‐president’ of “Kendriya Hindi Samiti”?",
+    "h": "\"केंद्रीय हिंदी समिति\" के 'उपाध्यक्ष' कौन हैं?",
+    "o": [
+      "Minister of Railways / रेल मंत्री",
+      "Home Minister/ग्रह मंत्री",
+      "Prime Minister/प्रधान मंत्री",
+      "Secretary of the Ministry of Home Affair/गृह मंत्रालय के सचिव"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In what order are signboards displayed in non-Hindi speaking regions?",
+    "h": "गैर हिंदी भाषी क्षेत्रों में बोर्डोंं को किस क्रम में प्रदर्शित किया जाता है?",
+    "o": [
+      "Hindi, English, Regional Language / हिंदी, अंग्रेज़ी, क्षेत्रीय भाषा",
+      "English, Hindi, Regional Language / अंग्रेज़ी, हिंदी, क्षेत्रीय भाषा",
+      "Regional Language, Hindi, English / क्षेत्रीय भाषा, हिंदी, अंग्रेज़ी",
+      "Regional Language, English, Hindi / क्षेत्रीय भाषा, अंग्रेज़ी, हिंदी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The unit of torque is",
+    "h": "आघूर्ण की इकाई है",
+    "o": [
+      "Newton / न्यूटन",
+      "Newton-meter / न्यूटन-मीटर",
+      "Joule / जूल",
+      "Watt / वाट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The purpose of a slack adjuster is to",
+    "h": "स्लैक एडजस्टर का उद्देश्य है",
+    "o": [
+      "To Increase coach speed/कोच की गति बढ़ाने के लिए",
+      "Maintain correct brake rigging clearance/ब्रेक रिगिंग क्लीयरेंस सही बनाए रखें।",
+      "To Lubricate wheels/पहियों को लुब्रिकेट करने के लिए",
+      "To Reduce air pressure/हवा का दबाव कम करने के लिए"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In LHB fins provided between the brake discs",
+    "h": "LHB में ब्रेक डिस्क के बीच फिन्स (fins) दिए गए हैं।",
+    "o": [
+      "For strengthening to the disc/डिस्क को मज़बूत करने के लिए",
+      "For cooling of disc /डिस्क को ठंडा करने के लिए",
+      "Both a & b /a और b दोनों",
+      "None of the above /इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Quality of linen to be inspected……....percentage after receiving washed linen.",
+    "h": "धुले हुए लिनन को प्राप्त करने के बाद कितने प्रतिशत उसकी गुणवत्ता की जाँच की जाएगी।",
+    "o": [
+      "1",
+      "2",
+      "5",
+      "7"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A dimension is stated as 26 ± 0.03 mm in a drawing. What is the tolerance?",
+    "h": "एक ड्राइंग में डाइमेंशन 26 ± 0.03 mm बताया गया है। टॉलरेंस क्या है?",
+    "o": [
+      "25.00 mm",
+      "+0.03 mm",
+      "– 0.03 mm",
+      "0.06 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following is the primary function of Primer application in painting system of coaches and wagons",
+    "h": "कोच और वैगन की पेंटिंग प्रक्रिया में प्राइमर लगाने का मुख्य कार्य क्या है?",
+    "o": [
+      "Aesthetics/सौंदर्यशास्र",
+      "Gloss/चमक",
+      "Colour/रंग",
+      "Corrosion Prevention of Base Metal/बेस मेटल को जंग से बचाना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Who gave the slogan \"Swaraj is my birthright\"?",
+    "h": "स्वराज मेरा जन्मसिद्ध अधिकार है\" का नारा किसने दिया?",
+    "o": [
+      "Mahatma Gandhi / महात्मा गांधी",
+      "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+      "Lala Lajpat Rai / लाला लाजपत राय",
+      "Bipin Chandra Pal / बिपिन चंद्र पाल"
+    ],
+    "c": 0
+  },
+  {
+    "q": "How many NDRF battalions are functioning in India?",
+    "h": "भारत में NDRF की कितनी बटालियनें काम कर रही हैं?",
+    "o": [
+      "10",
+      "16",
+      "11",
+      "15"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the function of air dryer?",
+    "h": "एयर ड्रायर का क्या काम है?",
+    "o": [
+      "Adding moisture to air / हवा में नमी मिलाना",
+      "Decreasing air pressure / हवा का दबाव कम करना",
+      "Removing moisture from air / हवा से नमी हटाना",
+      "Increasing air pressure / हवा का दबाव बढ़ाना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Who is the current Chief Justice of India (2026)",
+    "h": "2026 में भारत के वर्तमान मुख्य न्यायाधीश कौन हैं?",
+    "o": [
+      "D. Y. Chandrachud / डी. वाई. चंद्रचूड़",
+      "Sanjiv Khanna / संजीव खन्ना",
+      "B. R. Gavai / बी. आर. गवई",
+      "U. U. Lalit / यू. यू. ललित"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If AAC is 4800 nos. then what is the monthly requirement?",
+    "h": "अगर AAC की संख्या 4800 नग है, तो मासिक ज़रूरत क्या है?",
+    "o": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The wheel gauge should be measured on",
+    "h": "व्हील गेज को मापा जाना चाहिए",
+    "o": [
+      "Off load condition/बिना लोड वाली स्थिति",
+      "Loaded wagon/भरा हुआ वैगन",
+      "Empty wagon/खाली वैगन",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which casting defect is caused by entrapped gases",
+    "h": "फंसी हुई गैसों के कारण कास्टिंग में कौन सा दोष उत्पन्न होता है?",
+    "o": [
+      "Cold Shut / कोल्ड शट",
+      "Blow Holes / ब्लो होल्स",
+      "Misrun / मिसरन",
+      "Shrinkage Cavity / संकुचन गुहा"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following is NOT a defect that WILD aims to detect?",
+    "h": "इनमें से कौन-सी ऐसी खराबी नहीं है जिसका पता लगाना WILD का मकसद है?",
+    "o": [
+      "Wheel flats /पहिए की चपटी सतह",
+      "Out-of-round wheels /गोल न रहने वाले पहिए",
+      "Cracks in rails due to wheel impact /पहिए की टक्कर से पटरियों में दरारें",
+      "Faulty axle bearings overheating /खराब एक्सल बेयरिंग का ज़्यादा गर्म होना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which of the following measures will not result in increasing average speed of goods train",
+    "h": "इनमें से किस उपाय से मालगाड़ी की औसत गति नहीं बढ़ेगी?",
+    "o": [
+      "Reducing existing speed restriction/मौजूदा गति सीमा को कम करना",
+      "Increasing permissible speed of rolling stock/रोलिंग स्टॉक की अनुमत गति बढ़ाना",
+      "Reducing en route detention of train/रास्ते में ट्रेन को रोके जाने की घटनाओं को कम करना",
+      "Increasing tare weight of wagon/वैगन का खाली वज़न बढ़ना"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A’ schedule of coaching stock is done after --------------month",
+    "h": "कोचिंग स्टॉक का 'A' शेड्यूल ------------- - महीने के बाद किया जाता है।",
+    "o": [
+      "1",
+      "3",
+      "9",
+      "12"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In wagon, the hand brake is used when the train is:",
+    "h": "वैगन में हैंड ब्रेक का इस्तेमाल तब किया जाता है जब ट्रेन:",
+    "o": [
+      "Standing in yard / यार्ड में खड़ी हो",
+      "Running in down gradient / ढलान पर चल रही हो",
+      "Running up in down gradient / ढलान पर ऊपर की ओर दौड़ना",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Choose the rolling stock having lowest numerical value of ride Index amongst given options",
+    "h": "दिए गए विकल्पों में से उस रोलिंग स्टॉक को चुनें जिसका राइड इंडेक्स मान सबसे कम हो।",
+    "o": [
+      "ICF Coach/आईसीएफ कोच",
+      "LHB Coach/एलएचबी कोच",
+      "BLC Wagon/बीएलसी वैगन",
+      "BOXNHS Wagon/बॉ सएनएचएस वैगन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Mechanical Department at Divisional level is directly responsible for which of the following",
+    "h": "डिविजनल स्तर पर मैकेनिकल विभाग सीधे तौर पर इनमें से किसके लिए ज़िम्मेदार है?",
+    "o": [
+      "Facilitating medical attention at site/साइट पर चिकित्सा सुविधा उपलब्ध कराना",
+      "Rescue, Relief & Restoration/बचाव, राहत और पुनर्स्थापना",
+      "Payment of Compensation/मुआवज़े का भुगतान",
+      "Arrangement of alternative trains,routes/वैकल्पिक ट्रेनों और रूटों की व्यवस्था"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which Production unit developed the first indigenously made Trainset of Indian Railways?",
+    "h": "भारतीय रेलवे का पहला स्वदेशी ट्रेनसेट किस प्रोडक्शन यूनिट ने बनाया?",
+    "o": [
+      "RCF/आर सी एफ",
+      "MCF/एमसीएफ",
+      "RWF/आरड यूएफ",
+      "ICF/आईसीएफ Pin QW33552MVE Subject Name JE C W MLDT 8Aug 26 S1 A Subject Id 3427 Subject Time 2026-08-08 10:00:27 Question Number Question Id Correct Option(s)/Answer 1 81914970836 B 2 81914970903 C 3 81914970848 A 4 81914970888 B 5 81914970852 C 6 81914970900 B 7 81914970873 D 8 81914970934 B 9 81914970889 A 10 81914970879 A 11 81914970911 C 12 81914970916 A 13 81914970937 C 14 81914970853 C 15 81914970894 B 16 81914970919 A 17 81914970882 A 18 81914970891 A 19 81914970871 C 20 81914970898 B 21 81914970901 B 22 81914970865 B 23 81914970929 B 24 81914970868 A 25 81914970928 A 26 81914970851 C 27 81914970912 B 28 81914970895 B 29 81914970910 C 30 81914970864 A 31 81914970885 C 32 81914970840 C 33 81914970943 A 34 81914970875 B 35 81914970899 C 36 81914970905 B 37 81914970866 A 38 81914970909 B 39 81914970932 B 40 81914970890 B 41 81914970944 C 42 81914970920 D 43 81914970930 B 44 81914970931 D 45 81914970933 B 46 81914970935 B 47 81914970876 B 48 81914970904 C 49 81914970878 C 50 81914970859 C 51 81914970854 A 52 81914970907 D 53 81914970844 B 54 81914970849 D 55 81914970941 B 56 81914970939 C 57 81914970897 C 58 81914970863 B 59 81914970881 B 60 81914970860 A 61 81914970850 A 62 81914970837 C 63 81914970867 B 64 81914970884 D 65 81914970896 B 66 81914970838 B 67 81914970857 C 68 81914970843 B 69 81914970923 A 70 81914970914 A 71 81914970862 D 72 81914970856 D 73 81914970887 A 74 81914970942 A 75 81914970855 A 76 81914970902 C 77 81914970938 A 78 81914970906 D 79 81914970940 A 80 81914970847 A 81 81914970883 D 82 81914970915 D 83 81914970846 A 84 81914970841 C 85 81914970892 B 86 81914970872 C 87 81914970842 D 88 81914970874 A 89 81914970936 B 90 81914970945 C 91 81914970858 B 92 81914970845 B 93 81914970839 B 94 81914970917 B 95 81914970921 D 96 81914970925 D 97 81914970893 B 98 81914970880 B 99 81914970924 C 100 81914970886 C 101 81914970926 D 102 81914970927 A 103 81914970861 B 104 81914970877 D 105 81914970870 D 106 81914970908 A 107 81914970869 A 108 81914970922 B 109 81914970913 B 110 81914970918 D"
+    ],
+    "c": 0
+  }
+]
