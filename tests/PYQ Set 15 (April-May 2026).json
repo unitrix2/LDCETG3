@@ -1,0 +1,1212 @@
+[
+  {
+    "q": "What is the purpose of \"shim\" in machine alignment? मशीन एलाइनमेंट में “Shim” का उद्देश्य क्या है?",
+    "h": "What is the purpose of \"shim\" in machine alignment? मशीन एलाइनमेंट में “Shim” का उद्देश्य क्या है?",
+    "o": [
+      "To increase speed / गति बढ़ाना",
+      "To reduce noise / शोर कम करना",
+      "To correct vertical misalignment / ऊर्ध्वाधर असंतुलन सुधारना",
+      "To lubricate / स्नेहन करना"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Which welding process uses coated electrodes? किस वेल्डिंग प्रक्रिया में कोटेड इलेक्ट्रोड का उपयोग होता है?",
+    "h": "Which welding process uses coated electrodes? किस वेल्डिंग प्रक्रिया में कोटेड इलेक्ट्रोड का उपयोग होता है?",
+    "o": [
+      "TIG welding",
+      "MIG welding",
+      "Arc welding",
+      "Gas welding"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Feeler gauge is used to measure: फीलर गेज का उपयोग किसे मापने के लिए किया जाता है?",
+    "h": "Feeler gauge is used to measure: फीलर गेज का उपयोग किसे मापने के लिए किया जाता है?",
+    "o": [
+      "Thickness of wire / तार की मोटाई",
+      "Gap clearance / गैप क्लियरेंस",
+      "Pipe diameter / पाइप का व्यास",
+      "Surface finish / सतह की फिनिश"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Choose the synonym of “Rapid”.",
+    "h": "Choose the synonym of “Rapid”.",
+    "o": [
+      "Slow",
+      "Quick",
+      "Weak",
+      "Calm"
+    ],
+    "c": 1
+  },
+  {
+    "q": "National Rail Museum is located at: नेशनल रेल म्यूज़ियम कहाँ स्थित है?",
+    "h": "National Rail Museum is located at: नेशनल रेल म्यूज़ियम कहाँ स्थित है?",
+    "o": [
+      "Mumbai / मुंबई",
+      "Delhi / दिल्ली",
+      "Chennai / चेन्नई",
+      "Bangalore / बेंगलुरु"
+    ],
+    "c": 1
+  },
+  {
+    "q": "What is the periodicity of ROH for BTPN tank wagons? BTPN टैंक वैगनों के ROH की अवधि कितनी होती है?",
+    "h": "What is the periodicity of ROH for BTPN tank wagons? BTPN टैंक वैगनों के ROH की अवधि कितनी होती है?",
+    "o": [
+      "12 months / 12 माह",
+      "16 months / 16 माह",
+      "18 months / 18 माह",
+      "24 months / 24 माह"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Munshi Premchand is known for which novel? मुंशी प्रेमचंद किस उपन्यास के लिए जाने जाते हैं?",
+    "h": "Munshi Premchand is known for which novel? मुंशी प्रेमचंद किस उपन्यास के लिए जाने जाते हैं?",
+    "o": [
+      "Godaan / गोदान",
+      "Kamayani / कामायनी",
+      "Saket / साकेत",
+      "Madhushala / मधुशाला"
+    ],
+    "c": 0
+  },
+  {
+    "q": "SAB adjusts clearance between: SAB किसके बीच का क्लियरेंस समायोजित करता है?",
+    "h": "SAB adjusts clearance between: SAB किसके बीच का क्लियरेंस समायोजित करता है?",
+    "o": [
+      "Wheel and brake block / पहिया और ब्रेक ब्लॉक",
+      "Tie Rod and Brake block / टाई रॉड और ब्रेक ब्लॉक",
+      "Anchor pin to control rod / एंकर पिन और कंट्रोल रॉड",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "केंद्रीय हिंदी समिति के अध्यक्ष कौन होते हैं?",
+    "h": "केंद्रीय हिंदी समिति के अध्यक्ष कौन होते हैं?",
+    "o": [
+      "राष्ट्रपति",
+      "प्रधानमंत्री",
+      "राज्यपाल",
+      "मुख्य न्यायाधीश"
+    ],
+    "c": 1
+  },
+  {
+    "q": "What is the torque value of the Cartridge Tapered Roller Bearing (CTRB) cap screw in freight stock? फ्रेट स्टॉक में CTRB कैप स्क्रू का टॉर्क मान कितना होता है?",
+    "h": "What is the torque value of the Cartridge Tapered Roller Bearing (CTRB) cap screw in freight stock? फ्रेट स्टॉक में CTRB कैप स्क्रू का टॉर्क मान कितना होता है?",
+    "o": [
+      "38 kg-m",
+      "40 kg-m",
+      "42 kg-m",
+      "44 kg-m"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The SI unit of force is: बल की SI इकाई क्या है?",
+    "h": "The SI unit of force is: बल की SI इकाई क्या है?",
+    "o": [
+      "Joule / जूल",
+      "Pascal / पास्कल",
+      "Newton / न्यूटन",
+      "Watt / वाट"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Which Indian state has the longest coastline? भारत के किस राज्य की समुद्री तटरेखा सबसे लंबी है?",
+    "h": "Which Indian state has the longest coastline? भारत के किस राज्य की समुद्री तटरेखा सबसे लंबी है?",
+    "o": [
+      "Maharashtra / महाराष्ट्र",
+      "Tamil Nadu / तमिलनाडु",
+      "Andhra Pradesh / आंध्र प्रदेश",
+      "Gujarat / गुजरात"
+    ],
+    "c": 3
+  },
+  {
+    "q": "भारत के संविधान के अनुसार, संघ की राजभाषा हिन्दी होगी तथा उसकी लिपि ________ होगी?",
+    "h": "भारत के संविधान के अनुसार, संघ की राजभाषा हिन्दी होगी तथा उसकी लिपि ________ होगी?",
+    "o": [
+      "रोमन",
+      "खरोष्ठी",
+      "देवनागरी",
+      "ब्राह्मी"
+    ],
+    "c": 2
+  },
+  {
+    "q": "One inch is equal to: एक इंच बराबर होता है:",
+    "h": "One inch is equal to: एक इंच बराबर होता है:",
+    "o": [
+      "2.54 mm",
+      "25.4 mm",
+      "30 mm",
+      "20 mm"
+    ],
+    "c": 1
+  },
+  {
+    "q": "\\Ultrasonic testing is used to detect: अल्ट्रासोनिक परीक्षण का उपयोग किसका पता लगाने के लिए किया जाता है?",
+    "h": "\\Ultrasonic testing is used to detect: अल्ट्रासोनिक परीक्षण का उपयोग किसका पता लगाने के लिए किया जाता है?",
+    "o": [
+      "Paint thickness / पेंट की मोटाई",
+      "Internal cracks / आंतरिक दरारें",
+      "Wheel diameter only / केवल पहिए का व्यास",
+      "Air leakage / वायु रिसाव"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which word is an adverb?",
+    "h": "Which word is an adverb?",
+    "o": [
+      "Quick",
+      "Quickly",
+      "Quickness",
+      "Quicker"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which test is carried out for Air Reservoirs? एयर रिजर्वायर के लिए कौन-सा परीक्षण किया जाता है?",
+    "h": "Which test is carried out for Air Reservoirs? एयर रिजर्वायर के लिए कौन-सा परीक्षण किया जाता है?",
+    "o": [
+      "Load Test / लोड टेस्ट",
+      "DPT Test / DPT टेस्ट",
+      "Hydraulic Pressure Test / हाइड्रोलिक प्रेशर टेस्ट",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 2
+  },
+  {
+    "q": "7. RDSO stands for: RDSO का पूर्ण रूप क्या है?",
+    "h": "7. RDSO stands for: RDSO का पूर्ण रूप क्या है?",
+    "o": [
+      "Railway Development and Safety Office रेलवे डेवलपमेंट एंड सेफ्टी ऑफिस",
+      "Research Designs and Standards Organisation रिसर्च डिज़ाइन्स एंड स्टैंडर्ड्स्स ऑर्गनाइजेशन",
+      "Regional Department of Station Operations रीजनल डिपार्टमेंट ऑफ स्टेशन ऑपरेशन्स",
+      "Railway Data and Signal Organisation रेलवे डेटा एंड सिग्नल ऑर्गनाइजेशन"
+    ],
+    "c": 1
+  },
+  {
+    "q": "What does LHB coach stand for? LHB कोच का पूर्ण रूप क्या है?",
+    "h": "What does LHB coach stand for? LHB कोच का पूर्ण रूप क्या है?",
+    "o": [
+      "Light Heavy Bogie / लाइट हेवी बोगी",
+      "Linke Hofmann Busch / लिंक हॉफमैन बुश",
+      "Long Haul Bogie / लॉन्ग हॉल बोगी",
+      "Linear Hydraulic Brake / लीनियर हाइड्रोलिक ब्रेक"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Difference between maximum and minimum size allowed in manufactured component is called: किसी निर्मित घटक के अधिकतम और न्यूनतम अनुमत आकार के अंतर को क्या कहते हैं?",
+    "h": "Difference between maximum and minimum size allowed in manufactured component is called: किसी निर्मित घटक के अधिकतम और न्यूनतम अनुमत आकार के अंतर को क्या कहते हैं?",
+    "o": [
+      "Clearance / क्लियरेंस",
+      "Allowance / अलाउंस",
+      "Tolerance / टॉलरेंस",
+      "Limit / लिमिट"
+    ],
+    "c": 2
+  },
+  {
+    "q": "What is the standard pressure reduction rate for the Sensitivity Test on an air brake system? एयर ब्रेक प्रणाली में सेंसिटिविटी टेस्ट हेतु मानक प्रेशर रिडक्शन रेट क्या है?",
+    "h": "What is the standard pressure reduction rate for the Sensitivity Test on an air brake system? एयर ब्रेक प्रणाली में सेंसिटिविटी टेस्ट हेतु मानक प्रेशर रिडक्शन रेट क्या है?",
+    "o": [
+      "0.3 kg/sqcm in 60 seconds",
+      "0.6 kg/sqcm in 6 seconds",
+      "1 kg/sqcm in 10 seconds",
+      "0.5 kg/sqcm in 30 seconds"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The first train in India ran between which two stations? भारत में पहली ट्रेन किन दो स्टेशनों के बीच चली थी?",
+    "h": "The first train in India ran between which two stations? भारत में पहली ट्रेन किन दो स्टेशनों के बीच चली थी?",
+    "o": [
+      "Mumbai and Pune / मुंबई और पुणे",
+      "Bombay and Thane / बॉम्बे और ठाणे",
+      "Bombay and Surat / बॉम्बे और सूरत",
+      "Calcutta and Hooghly / कलकत्ता और हुगली"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which leave cannot be claimed as a matter of right? कौन-सी छुट्टी अधिकार के रूप में दावा नहीं की जा सकती?",
+    "h": "Which leave cannot be claimed as a matter of right? कौन-सी छुट्टी अधिकार के रूप में दावा नहीं की जा सकती?",
+    "o": [
+      "Earned Leave / अर्जित अवकाश",
+      "Half Pay Leave / अर्ध वेतन अवकाश",
+      "Any kind of leave / किसी भी प्रकार की छुट्टी",
+      "Casual Leave only / केवल आकस्मिक अवकाश"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Choose the correct meaning of the idiom “Once in a blue moon”",
+    "h": "Choose the correct meaning of the idiom “Once in a blue moon”",
+    "o": [
+      "Every day",
+      "Very rarely",
+      "At night",
+      "Very quickly"
+    ],
+    "c": 1
+  },
+  {
+    "q": "A number is first increased by 20% and then decreased by 20%. The net change is: किसी संख्या को पहले 20% बढ़ाया जाता है और फिर 20% घटाया जाता है। शुद्ध परिवर्तन क्या होगा?",
+    "h": "A number is first increased by 20% and then decreased by 20%. The net change is: किसी संख्या को पहले 20% बढ़ाया जाता है और फिर 20% घटाया जाता है। शुद्ध परिवर्तन क्या होगा?",
+    "o": [
+      "0",
+      "2% decrease / 2% कमी",
+      "4% decrease / 4% कमी",
+      "4% increase / 4% वृद्धि"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Identify the tense: “They have completed the project.”",
+    "h": "Identify the tense: “They have completed the project.”",
+    "o": [
+      "Simple Present",
+      "Present Continuous",
+      "Present Perfect",
+      "Past Perfect"
+    ],
+    "c": 2
+  },
+  {
+    "q": "CMM in Railways is associated with: रेलवे में CMM किससे संबंधित है?",
+    "h": "CMM in Railways is associated with: रेलवे में CMM किससे संबंधित है?",
+    "o": [
+      "Coach Maintenance Management / कोच मेंटेनेंस मैनेजमेंट",
+      "Central Material Module / सेंट्रल मटेरियल मॉड्यूल",
+      "Central Mechanical Module/ (केंद्रीय यांत्रिक मॉड्यूल)",
+      "Coach Manufacturing Machine / कोच मैन्युफैक्चरिंग मशीन"
+    ],
+    "c": 1
+  },
+  {
+    "q": "fill in the blank Neither Ravi nor his friends _____ present.",
+    "h": "fill in the blank Neither Ravi nor his friends _____ present.",
+    "o": [
+      "was",
+      "were",
+      "is",
+      "has"
+    ],
+    "c": 1
+  },
+  {
+    "q": "In bogie mounted air brake system, number of brake cylinders are: बोगी माउंटेड एयर ब्रेक सिस्टम में ब्रेक सिलेंडरों की संख्या कितनी होती है?",
+    "h": "In bogie mounted air brake system, number of brake cylinders are: बोगी माउंटेड एयर ब्रेक सिस्टम में ब्रेक सिलेंडरों की संख्या कितनी होती है?",
+    "o": [
+      "8",
+      "6",
+      "2",
+      "4"
+    ],
+    "c": 3
+  },
+  {
+    "q": "In metal cutting, use of low feeds and high cutting speeds results in: धातु कटाई में कम फीड एवं अधिक कटिंग स्पीड का परिणाम क्या होता है?",
+    "h": "In metal cutting, use of low feeds and high cutting speeds results in: धातु कटाई में कम फीड एवं अधिक कटिंग स्पीड का परिणाम क्या होता है?",
+    "o": [
+      "Good surface finish / अच्छी सतह फिनिश",
+      "High metal removal / अधिक धातु हटना",
+      "Bad surface finish / खराब सतह फिनिश",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What type of side bearers are fitted in CASNUB 22HS trolley? CASNUB 22HS ट्रॉली में किस प्रकार के साइड बेयरर लगाए जाते हैं?",
+    "h": "What type of side bearers are fitted in CASNUB 22HS trolley? CASNUB 22HS ट्रॉली में किस प्रकार के साइड बेयरर लगाए जाते हैं?",
+    "o": [
+      "Metal CC type / मेटल CC प्रकार",
+      "Spring loaded CC type side bearer & PU type / स्प्रिंग लोडेड CC टाइप एवं PU टाइप",
+      "Roller type / रोलर प्रकार",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Fill in the Blank She is good _____ Mathematics.",
+    "h": "Fill in the Blank She is good _____ Mathematics.",
+    "o": [
+      "in",
+      "at",
+      "on",
+      "or"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The pedestal jaw liner in a CASNUB bogie is provided to: CASNUB बोगी में पेडेस्टल जॉ लाइनर किस उद्देश्य से लगाया जाता है?",
+    "h": "The pedestal jaw liner in a CASNUB bogie is provided to: CASNUB बोगी में पेडेस्टल जॉ लाइनर किस उद्देश्य से लगाया जाता है?",
+    "o": [
+      "Increase wagon speed / वैगन की गति बढ़ाना",
+      "Reduce wear between axle box and pedestal jaw / एक्सल बॉक्स और पेडेस्टल जॉ के बीच घिसाव कम करना",
+      "Support brake beam / ब्रेक बीम को सहारा देना",
+      "Improve paint adhesion / पेंट चिपकने की क्षमता बढ़ाना"
+    ],
+    "c": 1
+  },
+  {
+    "q": "वर्तमान में क्षेत्र ‘B’ के अंतर्गत आने वाला एकमात्र केंद्र शासित प्रदेश कौन-सा है?",
+    "h": "वर्तमान में क्षेत्र ‘B’ के अंतर्गत आने वाला एकमात्र केंद्र शासित प्रदेश कौन-सा है?",
+    "o": [
+      "दिल्ली",
+      "दमन एवं दीव",
+      "पांडिचेरी",
+      "चंडीगढ़"
+    ],
+    "c": 3
+  },
+  {
+    "q": "The primary purpose of CTRB is to: CTRB का मुख्य उद्देश्य क्या है?",
+    "h": "The primary purpose of CTRB is to: CTRB का मुख्य उद्देश्य क्या है?",
+    "o": [
+      "Reduce wagon height / वैगन की ऊँचाई कम करना",
+      "Support axle load and reduce friction / एक्सल भार को सहारा देना एवं घर्षण कम करना",
+      "Increase brake power / ब्रेक शक्ति बढ़ाना",
+      "Improve coupler strength / कपलर की मजबूती बढ़ाना"
+    ],
+    "c": 1
+  },
+  {
+    "q": "A pipe can fill a tank in 6 hours and another pipe can empty the tank in 12 hours. If both the pipes are opened at the same time, the tank can be filled in…....Hrs ? एक पाइप एक टंकी को 6 घंटे में भर सकता है और दूसरा पाइप टंकी को 12 घंटे में खाली कर सकता है। यदि दोनों पाइप एक ही समय पर खोले जाएं, तो टंकी कितने घंटे में भर जाएगी?",
+    "h": "A pipe can fill a tank in 6 hours and another pipe can empty the tank in 12 hours. If both the pipes are opened at the same time, the tank can be filled in…....Hrs ? एक पाइप एक टंकी को 6 घंटे में भर सकता है और दूसरा पाइप टंकी को 12 घंटे में खाली कर सकता है। यदि दोनों पाइप एक ही समय पर खोले जाएं, तो टंकी कितने घंटे में भर जाएगी?",
+    "o": [
+      "10 hours",
+      "12 hours",
+      "14hours",
+      "16hours"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The main function of a side frame in CASNUB bogie is to: CASNUB बोगी में साइड फ्रेम का मुख्य कार्य क्या है?",
+    "h": "The main function of a side frame in CASNUB bogie is to: CASNUB बोगी में साइड फ्रेम का मुख्य कार्य क्या है?",
+    "o": [
+      "Hold brake pipe / ब्रेक पाइप पकड़ना",
+      "upport spring plank and wheelsets / स्प्रिंग प्लैंक एवं व्हीलसेट को सहारा देना",
+      "Increase wagon payload / वैगन पेलोड बढ़ाना",
+      "Connect locomotive / लोकोमोटिव से जोड़ना"
+    ],
+    "c": 1
+  },
+  {
+    "q": "हिंदी दिवस’ प्रत्येक वर्ष कब मनाया जाता है?",
+    "h": "हिंदी दिवस’ प्रत्येक वर्ष कब मनाया जाता है?",
+    "o": [
+      "14 सितंबर",
+      "8 सितंबर",
+      "12 सितंबर",
+      "10 अक्टूबर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "PTO stands for? PTO का पूर्ण रूप क्या है?",
+    "h": "PTO stands for? PTO का पूर्ण रूप क्या है?",
+    "o": [
+      "Privilege Ticket Order / प्रिविलेज टिकट ऑर्डर",
+      "Passenger Travel Order / पैसेंजर ट्रैवल ऑर्डर",
+      "Paid Travel Order / पेड ट्रैवल ऑर्डर",
+      "Personal Ticket Order / पर्सनल टिकट ऑर्डर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the meaning of “PNR” in Railways? रेलवे में “PNR” का अर्थ क्या है?",
+    "h": "What is the meaning of “PNR” in Railways? रेलवे में “PNR” का अर्थ क्या है?",
+    "o": [
+      "Passenger Name Record / पैसेंजर नेम रिकॉर्ड",
+      "Public Number Record / पब्लिक नंबर रिकॉर्ड",
+      "Passenger Number Rail / पैसेंजर नंबर रेल",
+      "Personal Name Reservation / पर्सनल नेम रिजर्वेशन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The probability of getting a head when a coin is tossed once is: एक सिक्के को एक बार उछालने पर हेड आने की प्रायिकता क्या है?",
+    "h": "The probability of getting a head when a coin is tossed once is: एक सिक्के को एक बार उछालने पर हेड आने की प्रायिकता क्या है?",
+    "o": [
+      "0",
+      "1",
+      "1/2",
+      "1/4"
+    ],
+    "c": 2
+  },
+  {
+    "q": "What is the purpose of a \"Wheel Impact Load Detector\" (WILD)? “Wheel Impact Load Detector (WILD)” का उद्देश्य क्या है?",
+    "h": "What is the purpose of a \"Wheel Impact Load Detector\" (WILD)? “Wheel Impact Load Detector (WILD)” का उद्देश्य क्या है?",
+    "o": [
+      "To measure the speed of the wagon / वैगन की गति मापना",
+      "To detect flat spots on wheels / पहियों पर फ्लैट स्पॉट का पता लगाना",
+      ". To detect faulty couplers / खराब कपलर का पता लगाना",
+      "To check axle box temperature / एक्सल बॉक्स का तापमान जांचना"
+    ],
+    "c": 1
+  },
+  {
+    "q": "राजभाषा आयोग की सिफारिश पर गठित समिति के प्रथम अध्यक्ष कौन थे?",
+    "h": "राजभाषा आयोग की सिफारिश पर गठित समिति के प्रथम अध्यक्ष कौन थे?",
+    "o": [
+      "जवाहरलाल नेहरू",
+      "डॉ. राजेंद्र प्रसाद",
+      "डॉ. बी. आर. आंबेडकर",
+      "जी. बी. पंत"
+    ],
+    "c": 3
+  },
+  {
+    "q": "राजभाषा आयोग के प्रथम अध्यक्ष कौन थे?",
+    "h": "राजभाषा आयोग के प्रथम अध्यक्ष कौन थे?",
+    "o": [
+      "जी. बी. पंत",
+      "बी. जी. खेर",
+      "ललित नारायण मिश्र",
+      "ओम मेहता"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which organ purifies blood in the human body? मानव शरीर में रक्त को शुद्ध करने वाला अंग कौन-सा है?",
+    "h": "Which organ purifies blood in the human body? मानव शरीर में रक्त को शुद्ध करने वाला अंग कौन-सा है?",
+    "o": [
+      "Heart / हृदय",
+      "Lungs / फेफड़े",
+      "Kidney / गुर्दा",
+      "Liver / यकृत"
+    ],
+    "c": 2
+  },
+  {
+    "q": "What does NTES stand for in Indian Railways? भारतीय रेलवे में NTES का पूर्ण रूप क्या है?",
+    "h": "What does NTES stand for in Indian Railways? भारतीय रेलवे में NTES का पूर्ण रूप क्या है?",
+    "o": [
+      "National Train Enquiry System / नेशनल ट्रेन इन्क्वायरी सिस्टम",
+      "National Ticket Entry Service / नेशनल टिकट एंट्री सर्विस",
+      "New Train Engine System / न्यू ट्रेन इंजन सिस्टम",
+      ". National Transit Express Service / नेशनल ट्रांजिट एक्सप्रेस सर्विस"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the integrated portion of the axle? एक्सल का अभिन्न भाग कौन-सा है?",
+    "h": "What is the integrated portion of the axle? एक्सल का अभिन्न भाग कौन-सा है?",
+    "o": [
+      "Cap / कैप",
+      "Roller Bearing / रोलर बेयरिंग",
+      "Journal / जर्नल",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 2
+  },
+  {
+    "q": "In DAR proceedings, presenting the case on behalf of administration is done by: DAR कार्यवाही में प्रशासन की ओर से केस प्रस्तुत कौन करता है?",
+    "h": "In DAR proceedings, presenting the case on behalf of administration is done by: DAR कार्यवाही में प्रशासन की ओर से केस प्रस्तुत कौन करता है?",
+    "o": [
+      "Defence Counsel / डिफेन्स काउंसिल",
+      "Presenting Officer / प्रेजेंटिंग ऑफिसर",
+      "Station Master / स्टेशन मास्टर",
+      "Welfare Inspector / वेलफेयर इंस्पेक्टर"
+    ],
+    "c": 1
+  },
+  {
+    "q": "भारतीय संविधान के किस अनुच्छेद में विधानमंडल में प्रयोग की जाने वाली भाषा का उल्लेख है?",
+    "h": "भारतीय संविधान के किस अनुच्छेद में विधानमंडल में प्रयोग की जाने वाली भाषा का उल्लेख है?",
+    "o": [
+      "अनुच्छेद - 120",
+      "अनुच्छेद - 210",
+      "अनुच्छेद - 343",
+      "अनुच्छेद - 345"
+    ],
+    "c": 1
+  },
+  {
+    "q": "IREPS helps Railways in: IREPS रेलवे की किस कार्य में सहायता करता है?",
+    "h": "IREPS helps Railways in: IREPS रेलवे की किस कार्य में सहायता करता है?",
+    "o": [
+      "Ticket cancellation / टिकट रद्द करना",
+      "E-auction and tendering / ई-नीलामी एवं टेंडरिंग",
+      "Passenger complaints / यात्री शिकायतें",
+      "Crew management / क्रू प्रबंधन"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which component is known as the \"heart\" of the air brake system and controls the sensitivity",
+    "h": "insensitivity? एयर ब्रेक प्रणाली का “हृदय” किसे कहा जाता है जो sensitivity/insensitivity नियंत्रित करता है?",
+    "o": [
+      "Brake Cylinder / ब्रेक सिलेंडर",
+      "Auxiliary Reservoir / सहायक रिजर्वायर",
+      "Distributor Valve / डिस्ट्रीब्यूटर वाल्व",
+      "Dirt Collector / डर्ट कलेक्टर"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The amount after 2 years on ₹5000 at 10% compound interest is: ₹5000 पर 10% चक्रवृद्धि ब्याज की दर से 2 वर्ष बाद राशि कितनी होगी?",
+    "h": "The amount after 2 years on ₹5000 at 10% compound interest is: ₹5000 पर 10% चक्रवृद्धि ब्याज की दर से 2 वर्ष बाद राशि कितनी होगी?",
+    "o": [
+      "6000",
+      "6050",
+      "6100",
+      "6200"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The maximum standard buffer height above rail level to center of buffer is: रेल स्तर से बफर केंद्र तक अधिकतम मानक बफर ऊँचाई क्या है?",
+    "h": "The maximum standard buffer height above rail level to center of buffer is: रेल स्तर से बफर केंद्र तक अधिकतम मानक बफर ऊँचाई क्या है?",
+    "o": [
+      "1085 mm",
+      "1100 mm",
+      "1105 mm",
+      "1030 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Unit of pressure is: दाब की इकाई क्या है?",
+    "h": "Unit of pressure is: दाब की इकाई क्या है?",
+    "o": [
+      "kg/sq-cm",
+      "lb/sq-inch",
+      "bar",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Which tool is used to measure the vertical or horizontal alignment of a shaft? शाफ्ट की ऊर्ध्वाधर या क्षैतिज संरेखण मापने के लिए कौन-सा उपकरण उपयोग किया जाता है?",
+    "h": "Which tool is used to measure the vertical or horizontal alignment of a shaft? शाफ्ट की ऊर्ध्वाधर या क्षैतिज संरेखण मापने के लिए कौन-सा उपकरण उपयोग किया जाता है?",
+    "o": [
+      "Micrometer / माइक्रोमीटर",
+      "Dial indicator / डायल इंडिकेटर",
+      "Vernier caliper / वर्नियर कैलिपर",
+      "Surface plate / सरफेस प्लेट2"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which is a synonym of “Surya” (Sun)? ‘सूर्य’ का पर्यायवाची कौन-सा है?",
+    "h": "Which is a synonym of “Surya” (Sun)? ‘सूर्य’ का पर्यायवाची कौन-सा है?",
+    "o": [
+      "Shashi / शशि",
+      "Dinkar / दिनकर",
+      "Pawan / पवन",
+      "Jal / जल"
+    ],
+    "c": 1
+  },
+  {
+    "q": "What is the one-word substitute for “One who has no enemy”? ‘जिसका कोई शत्रु न हो’ के लिए एक शब्द क्या होगा?",
+    "h": "What is the one-word substitute for “One who has no enemy”? ‘जिसका कोई शत्रु न हो’ के लिए एक शब्द क्या होगा?",
+    "o": [
+      "Ajaatshatru / अजातशत्रु",
+      "Nirbhay / निर्भय",
+      "Nishkapat / निष्कपट",
+      "Dayalu / दयालु"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which leave can be accumulated up to a prescribed limit? कौन-सी छुट्टी निर्धारित सीमा तक संचित की जा सकती है?",
+    "h": "Which leave can be accumulated up to a prescribed limit? कौन-सी छुट्टी निर्धारित सीमा तक संचित की जा सकती है?",
+    "o": [
+      "Casual Leave / आकस्मिक अवकाश",
+      "Special Casual Leave / विशेष आकस्मिक अवकाश",
+      "Earned Leave / अर्जित अवकाश",
+      "Restricted Holiday / प्रतिबंधित अवकाश"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Choose the correct passive voice: “They are cleaning the room.”",
+    "h": "Choose the correct passive voice: “They are cleaning the room.”",
+    "o": [
+      "The room cleaned by them.",
+      "The room is being cleaned by them.",
+      "The room was cleaned by them.",
+      "The room has been cleaned by them."
+    ],
+    "c": 1
+  },
+  {
+    "q": "What is the full form of CRIS in Indian Railways? भारतीय रेलवे में CRIS का पूर्ण रूप क्या है?",
+    "h": "What is the full form of CRIS in Indian Railways? भारतीय रेलवे में CRIS का पूर्ण रूप क्या है?",
+    "o": [
+      "Central Railway Information System",
+      "Centre for Railway Information Systems",
+      "Computerized Railway Integrated Services",
+      "Central Reservation Information Service"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Draw and Buffing force transmission in Coach through: कोच में Draw एवं Buffing बल का संचरण किसके माध्यम से होता है?",
+    "h": "Draw and Buffing force transmission in Coach through: कोच में Draw एवं Buffing बल का संचरण किसके माध्यम से होता है?",
+    "o": [
+      "Center Pivot / सेंटर पिवट",
+      "Bogie / बोगी",
+      "Side Bearer / साइड बेयरर",
+      "Wheel / पहिया"
+    ],
+    "c": 2
+  },
+  {
+    "q": "A student needs 40% marks to pass and gets 240 marks but fails by 40 marks. What are the maximum marks? एक छात्र को पास होने के लिए 40% अंक चाहिए। उसे 240 अंक मिले और वह 40 अंकों से फेल हो गया। अधिकतम अंक कितने हैं?",
+    "h": "A student needs 40% marks to pass and gets 240 marks but fails by 40 marks. What are the maximum marks? एक छात्र को पास होने के लिए 40% अंक चाहिए। उसे 240 अंक मिले और वह 40 अंकों से फेल हो गया। अधिकतम अंक कितने हैं?",
+    "o": [
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "c": 0
+  },
+  {
+    "q": "A railway servant is deemed to have been suspended if detained in custody for more than: यदि किसी रेलवे कर्मचारी को हिरासत में _____ से अधिक समय तक रखा जाता है, तो उसे निलंबित माना जाता है।",
+    "h": "A railway servant is deemed to have been suspended if detained in custody for more than: यदि किसी रेलवे कर्मचारी को हिरासत में _____ से अधिक समय तक रखा जाता है, तो उसे निलंबित माना जाता है।",
+    "o": [
+      "24 hours / 24 घंटे",
+      "36 hours / 36 घंटे",
+      "48 hours / 48 घंटे",
+      "72 hours / 72 घंटे"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Which defect occurs due to trapped gas in welding? वेल्डिंग में फंसी हुई गैस के कारण कौन-सा दोष उत्पन्न होता है?",
+    "h": "Which defect occurs due to trapped gas in welding? वेल्डिंग में फंसी हुई गैस के कारण कौन-सा दोष उत्पन्न होता है?",
+    "o": [
+      "Crack / दरार",
+      "Porosity / छिद्रता",
+      "Distortion / विकृति",
+      "Spatter / स्पैटर"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which of the following defects is evaluated using a Tyre Defect Gauge? टायर डिफेक्ट गेज का उपयोग करके निम्नलिखित में से किस दोष की जाँच की जाती है?",
+    "h": "Which of the following defects is evaluated using a Tyre Defect Gauge? टायर डिफेक्ट गेज का उपयोग करके निम्नलिखित में से किस दोष की जाँच की जाती है?",
+    "o": [
+      "Flat tyre/फ्लैट टायर",
+      "Deep flange/गहरा फ्लैंज",
+      "Thin Flange/पतला फ्लैंज",
+      "All of the above / उपरोक्त सभी"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Roller bearing failure in freight wagons is often first indicated by: फ्रेट वैगनों में रोलर बेयरिंग की खराबी का पहला संकेत सामान्यतः क्या होता है?",
+    "h": "Roller bearing failure in freight wagons is often first indicated by: फ्रेट वैगनों में रोलर बेयरिंग की खराबी का पहला संकेत सामान्यतः क्या होता है?",
+    "o": [
+      "Brake pipe leakage / ब्रेक पाइप रिसाव",
+      "Abnormal temperature rise and noise / असामान्य ताप वृद्धि एवं आवाज",
+      "Wagon repainting / वैगन की पुनः पेंटिंग",
+      "Reduced payload / कम पेलोड"
+    ],
+    "c": 1
+  },
+  {
+    "q": "What does MEMU stand for? MEMU का पूर्ण रूप क्या है?",
+    "h": "What does MEMU stand for? MEMU का पूर्ण रूप क्या है?",
+    "o": [
+      "Metro Electric Multiple Unit",
+      "Mainline Electric Multiple Unit",
+      "Modified Electric Motor Unit",
+      "Main Electric Motor Unit"
+    ],
+    "c": 1
+  },
+  {
+    "q": "How does the roller bearing fit on the axle journal? रोलर बेयरिंग एक्सल जर्नल पर किस प्रकार फिट होती है?",
+    "h": "How does the roller bearing fit on the axle journal? रोलर बेयरिंग एक्सल जर्नल पर किस प्रकार फिट होती है?",
+    "o": [
+      "Press fit / प्रेस फिट",
+      "Slide fit / स्लाइड फिट",
+      "Shrink fit / श्रिंक फिट",
+      "None / कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Honing is used for: होनिंग का उपयोग किसके लिए किया जाता है?",
+    "h": "Honing is used for: होनिंग का उपयोग किसके लिए किया जाता है?",
+    "o": [
+      "Gear cutting / गियर कटिंग",
+      "Finishing cylindrical bores / बेलनाकार छिद्रों की फिनिशिंग",
+      "Planing large plates / बड़ी प्लेटों की प्लानिंग",
+      "Turning / टर्निंग"
+    ],
+    "c": 1
+  },
+  {
+    "q": "6. RCF is located at: RCF कहाँ स्थित है?",
+    "h": "6. RCF is located at: RCF कहाँ स्थित है?",
+    "o": [
+      "Chennai / चेन्नई",
+      "Delhi / दिल्ली",
+      "Patiala / पटियाला",
+      "Kapurthala / कपूरथला"
+    ],
+    "c": 3
+  },
+  {
+    "q": "The Palk Strait separates India from: पाल्क जलडमरूमध्य भारत को किस देश से अलग करता है?",
+    "h": "The Palk Strait separates India from: पाल्क जलडमरूमध्य भारत को किस देश से अलग करता है?",
+    "o": [
+      "UAE",
+      "Maldives / मालदीव",
+      "Sri Lanka / श्रीलंका",
+      "Pakistan / पाकिस्तान"
+    ],
+    "c": 2
+  },
+  {
+    "q": "राजभाषा संबंधी संसदीय समिति में कितने सदस्य होते हैं?",
+    "h": "राजभाषा संबंधी संसदीय समिति में कितने सदस्य होते हैं?",
+    "o": [
+      "25",
+      "30",
+      "32",
+      "15"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which gas is commonly used with oxygen in gas welding? गैस वेल्डिंग में ऑक्सीजन के साथ सामान्यतः कौन-सी गैस उपयोग होती है?",
+    "h": "Which gas is commonly used with oxygen in gas welding? गैस वेल्डिंग में ऑक्सीजन के साथ सामान्यतः कौन-सी गैस उपयोग होती है?",
+    "o": [
+      "Nitrogen / नाइट्रोजन",
+      "Acetylene / एसीटिलीन",
+      "Hydrogen / हाइड्रोजन",
+      "Helium / हीलियम"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Degree of closeness of the measured value with its true value is known as: मापे गए मान की वास्तविक मान के निकटता को क्या कहते हैं?",
+    "h": "Degree of closeness of the measured value with its true value is known as: मापे गए मान की वास्तविक मान के निकटता को क्या कहते हैं?",
+    "o": [
+      "Accuracy / शुद्धता",
+      "Precision / परिशुद्धता",
+      "Standard / मानक",
+      "Sensitivity / संवेदनशीलता"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which gas is most abundant in Earth’s atmosphere? पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन-सी गैस पाई जाती है?",
+    "h": "Which gas is most abundant in Earth’s atmosphere? पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन-सी गैस पाई जाती है?",
+    "o": [
+      "Oxygen / ऑक्सीजन",
+      "Nitrogen / नाइट्रोजन",
+      "Carbon Dioxide / कार्बन डाइऑक्साइड",
+      "Hydrogen / हाइड्रोजन"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The circumference of a circle of radius 14 cm is: 14 सेंटीमीटर त्रिज्या वाले वृत्त की परिधि क्या होगी?",
+    "h": "The circumference of a circle of radius 14 cm is: 14 सेंटीमीटर त्रिज्या वाले वृत्त की परिधि क्या होगी?",
+    "o": [
+      "44",
+      "66",
+      "88",
+      "96"
+    ],
+    "c": 2
+  },
+  {
+    "q": "वर्तमान में संविधान की आठवीं अनुसूची में कितनी भाषाएँ शामिल हैं?",
+    "h": "वर्तमान में संविधान की आठवीं अनुसूची में कितनी भाषाएँ शामिल हैं?",
+    "o": [
+      "20",
+      "22",
+      "16",
+      "18"
+    ],
+    "c": 1
+  },
+  {
+    "q": "राजभाषा विभाग भारत सरकार के किस मंत्रालय के अंतर्गत आता है?",
+    "h": "राजभाषा विभाग भारत सरकार के किस मंत्रालय के अंतर्गत आता है?",
+    "o": [
+      "शिक्षा मंत्रालय",
+      "वित्त मंत्रालय",
+      "गृह मंत्रालय",
+      "रेल मंत्रालय"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Which welding defect is caused by excessive heat? अत्यधिक गर्मी के कारण कौन-सा वेल्डिंग दोष उत्पन्न होता है?",
+    "h": "Which welding defect is caused by excessive heat? अत्यधिक गर्मी के कारण कौन-सा वेल्डिंग दोष उत्पन्न होता है?",
+    "o": [
+      "Porosity / छिद्रता",
+      "Distortion / विकृति",
+      "Slag inclusion / स्लैग समावेशन",
+      "Undercut / अंडरकट"
+    ],
+    "c": 1
+  },
+  {
+    "q": "H type of coupler is used in: H प्रकार का कपलर कहाँ उपयोग किया जाता है?",
+    "h": "H type of coupler is used in: H प्रकार का कपलर कहाँ उपयोग किया जाता है?",
+    "o": [
+      "Coaching stock / कोचिंग स्टॉक",
+      "Wagon stock / वैगन स्टॉक",
+      "Engine / इंजन",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Adapter in CASNUB bogie is used to: CASNUB बोगी में Adapter का उपयोग किस लिए होता है?",
+    "h": "Adapter in CASNUB bogie is used to: CASNUB बोगी में Adapter का उपयोग किस लिए होता है?",
+    "o": [
+      "Hold brake block / ब्रेक ब्लॉक पकड़ना",
+      "Connect bearing with bogie side frame / बेयरिंग को बोगी साइड फ्रेम से जोड़ना",
+      "Support coupler / कपलर को सहारा देना",
+      "Hold CBC lock / CBC लॉक पकड़ना"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The insensitivity test is meant to check: इंसेंसिटिविटी टेस्ट का उद्देश्य क्या जांचना है?",
+    "h": "The insensitivity test is meant to check: इंसेंसिटिविटी टेस्ट का उद्देश्य क्या जांचना है?",
+    "o": [
+      "Maximum braking power / अधिकतम ब्रेकिंग शक्ति",
+      "The efficiency of the quick release valve / क्विक रिलीज वाल्व की कार्यक्षमता",
+      "The stability of the DV against minor BP pressure drops / BP प्रेशर में मामूली गिरावट के विरुद्ध DV की स्थिरता",
+      "The leakage in the Brake Cylinder / ब्रेक सिलेंडर में रिसाव"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Fill in the Blank The train _____ before we reached the station.",
+    "h": "Fill in the Blank The train _____ before we reached the station.",
+    "o": [
+      "leaves",
+      "had left",
+      "left",
+      "has left"
+    ],
+    "c": 1
+  },
+  {
+    "q": "What is the use of the UTS App? UTS App का उपयोग किस लिए होता है?",
+    "h": "What is the use of the UTS App? UTS App का उपयोग किस लिए होता है?",
+    "o": [
+      "For ordering food / खाना ऑर्डर करने के लिए",
+      "Unreserved ticket booking / अनारक्षित टिकट बुकिंग",
+      "Hotel booking / होटल बुकिंग",
+      "Parcel service / पार्सल सेवा"
+    ],
+    "c": 1
+  },
+  {
+    "q": "IOH in Railway stands for in rolling stock maintenance ? भारतीय रेलवे में रोलिंग स्टॉक मेंटेनेंस में IOH का क्या अर्थ है?",
+    "h": "IOH in Railway stands for in rolling stock maintenance ? भारतीय रेलवे में रोलिंग स्टॉक मेंटेनेंस में IOH का क्या अर्थ है?",
+    "o": [
+      "Immediate Overhauling/तात्कालिक ओवरहॉलिंग",
+      "Intermediate Overhauling/इंटरमीडिएट ओवरहॉलिंग",
+      "Integral Overhaul History/इंटीग्रल ओवरहॉल हिस्ट्री",
+      "D) Initial Overhaul/प्रारंभिक ओवरहॉल"
+    ],
+    "c": 1
+  },
+  {
+    "q": "To uncouple BP or FP air hose it is essential to: BP या FP एयर होज़ को अलग करने के लिए क्या आवश्यक है?",
+    "h": "To uncouple BP or FP air hose it is essential to: BP या FP एयर होज़ को अलग करने के लिए क्या आवश्यक है?",
+    "o": [
+      "Open adjacent angle cock / समीपस्थ एंगल कॉक खोलना",
+      "Close adjacent angle cocks / समीपस्थ एंगल कॉक बंद करना",
+      "Close supply of air from loco / लोको से वायु आपूर्ति बंद करना",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The sum of first 10 natural numbers is: प्रथम 10 प्राकृतिक संख्याओं का योग कितना है?",
+    "h": "The sum of first 10 natural numbers is: प्रथम 10 प्राकृतिक संख्याओं का योग कितना है?",
+    "o": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Size of anti rotation lug of CBC operating handle in raiwlay wagon is: रेलवे वैगन में सीबीसी ऑपरेटिंग हैंडल के एंटी रोटेशन लग का आकार क्या है",
+    "h": "Size of anti rotation lug of CBC operating handle in raiwlay wagon is: रेलवे वैगन में सीबीसी ऑपरेटिंग हैंडल के एंटी रोटेशन लग का आकार क्या है",
+    "o": [
+      "210×16×16",
+      "220×16×16",
+      "235×12×12",
+      "310×16×16"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Milling machine is mainly used for: मिलिंग मशीन मुख्य रूप से किस कार्य के लिए उपयोग होती है?",
+    "h": "Milling machine is mainly used for: मिलिंग मशीन मुख्य रूप से किस कार्य के लिए उपयोग होती है?",
+    "o": [
+      "Flat and gear cutting operations / समतल एवं गियर कटिंग कार्य",
+      "Welding / वेल्डिंग",
+      "Riveting / रिवेटिंग",
+      "Painting / पेंटिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which is the smallest state of India by area? क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन-सा है?",
+    "h": "Which is the smallest state of India by area? क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन-सा है?",
+    "o": [
+      "Sikkim / सिक्किम",
+      "Goa / गोवा",
+      "Tripura / त्रिपुरा",
+      "Manipur / मणिपुर"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Distance between the control rod head and the barrel of SAB is named as: SAB में कंट्रोल रॉड हेड और बैरल के बीच की दूरी को क्या कहा जाता है?",
+    "h": "Distance between the control rod head and the barrel of SAB is named as: SAB में कंट्रोल रॉड हेड और बैरल के बीच की दूरी को क्या कहा जाता है?",
+    "o": [
+      "E’ dimension",
+      "‘C’ dimension",
+      "A’ dimension",
+      "‘D’ dimension"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which acid is present in lemon? नींबू में कौन-सा अम्ल पाया जाता है?",
+    "h": "Which acid is present in lemon? नींबू में कौन-सा अम्ल पाया जाता है?",
+    "o": [
+      "Acetic Acid / एसीटिक अम्ल",
+      "Citric Acid / साइट्रिक अम्ल",
+      "Sulphuric Acid / सल्फ्यूरिक अम्ल",
+      "Hydrochloric Acid / हाइड्रोक्लोरिक अम्ल"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Dismissal from service differs from removal because dismissal: सेवा से बर्खास्तगी (Dismissal) हटाने (Removal) से इसलिए भिन्न है क्योंकि बर्खास्तगी:",
+    "h": "Dismissal from service differs from removal because dismissal: सेवा से बर्खास्तगी (Dismissal) हटाने (Removal) से इसलिए भिन्न है क्योंकि बर्खास्तगी:",
+    "o": [
+      "Allows reappointment / पुनर्नियुक्ति की अनुमति देती है",
+      "Disqualifies future government employment / भविष्य की सरकारी नौकरी के लिए अयोग्य बनाती है",
+      "Gives extra pension / अतिरिक्त पेंशन देती है",
+      "Is a minor penalty / एक लघु दंड है"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Standard technical guide for maintaining air brake systems on freight wagons is: माल वैगनों की एयर ब्रेक प्रणाली के रखरखाव हेतु मानक तकनीकी गाइड कौन-सी है?",
+    "h": "Standard technical guide for maintaining air brake systems on freight wagons is: माल वैगनों की एयर ब्रेक प्रणाली के रखरखाव हेतु मानक तकनीकी गाइड कौन-सी है?",
+    "o": [
+      "G90",
+      "G81",
+      "G97",
+      "G95"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which is the largest planet in our solar system? हमारे सौरमंडल का सबसे बड़ा ग्रह कौन-सा है?",
+    "h": "Which is the largest planet in our solar system? हमारे सौरमंडल का सबसे बड़ा ग्रह कौन-सा है?",
+    "o": [
+      "Earth / पृथ्वी",
+      "Saturn / शनि",
+      "Jupiter / बृहस्पति",
+      "Mars / मंगल"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Snap gauge is used to measure: स्नैप गेज का उपयोग किसे मापने के लिए किया जाता है?",
+    "h": "Snap gauge is used to measure: स्नैप गेज का उपयोग किसे मापने के लिए किया जाता है?",
+    "o": [
+      "External diameter of cylindrical objects / बेलनाकार वस्तुओं का बाहरी व्यास",
+      "Internal diameter / आंतरिक व्यास",
+      "Height / ऊँचाई",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Fill in the blank: “She _____ to school every day.”",
+    "h": "Fill in the blank: “She _____ to school every day.”",
+    "o": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Employment of children below _____ years is prohibited in factories. कारखानों में _____ वर्ष से कम आयु के बच्चों का रोजगार प्रतिबंधित है।",
+    "h": "Employment of children below _____ years is prohibited in factories. कारखानों में _____ वर्ष से कम आयु के बच्चों का रोजगार प्रतिबंधित है।",
+    "o": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "c": 2
+  },
+  {
+    "q": "UDM in Railways is related to: रेलवे में UDM किससे संबंधित है?",
+    "h": "UDM in Railways is related to: रेलवे में UDM किससे संबंधित है?",
+    "o": [
+      "Passenger reservation / यात्री आरक्षण",
+      "Material and depot management / सामग्री एवं डिपो प्रबंधन",
+      "Track maintenance / ट्रैक रखरखाव",
+      "Crew booking / क्रू बुकिंग"
+    ],
+    "c": 1
+  },
+  {
+    "q": "During POH, magnetic particle testing is commonly used for detecting: POH के दौरान मैग्नेटिक पार्टिकल टेस्टिंग का उपयोग सामान्यतः किसके लिए किया जाता है?",
+    "h": "During POH, magnetic particle testing is commonly used for detecting: POH के दौरान मैग्नेटिक पार्टिकल टेस्टिंग का उपयोग सामान्यतः किसके लिए किया जाता है?",
+    "o": [
+      "Paint thickness / पेंट की मोटाई",
+      "Surface and near-surface cracks in ferromagnetic components / फेरोमैग्नेटिक भागों में सतही एवं निकट-सतही दरारें",
+      "Brake pipe pressure / ब्रेक पाइप प्रेशर",
+      "Wagon oscillation / वैगन दोलन"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Meeting of Rajya Sabha is presided over by: राज्यसभा की बैठक की अध्यक्षता कौन करता है?",
+    "h": "Meeting of Rajya Sabha is presided over by: राज्यसभा की बैठक की अध्यक्षता कौन करता है?",
+    "o": [
+      "Prime Minister / प्रधानमंत्री",
+      "Home Minister / गृह मंत्री",
+      "Vice President / उपराष्ट्रपति",
+      "Leader of Opposition / विपक्ष के नेता"
+    ],
+    "c": 2
+  },
+  {
+    "q": "In ICF coach weight of the body is transferred on trolley through: ICF कोच में बॉडी का भार ट्रॉली पर किसके माध्यम से स्थानांतरित होता है?",
+    "h": "In ICF coach weight of the body is transferred on trolley through: ICF कोच में बॉडी का भार ट्रॉली पर किसके माध्यम से स्थानांतरित होता है?",
+    "o": [
+      "Journal / जर्नल",
+      "Wheel / पहिया",
+      "Side bearer / साइड बेयरर",
+      "Dashpot / डैशपॉट"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Which instrument measures atmospheric pressure? वायुमंडलीय दाब मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+    "h": "Which instrument measures atmospheric pressure? वायुमंडलीय दाब मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+    "o": [
+      "Thermometer / थर्मामीटर",
+      "Barometer / बैरोमीटर",
+      "Hygrometer / हाइग्रोमीटर",
+      "Ammeter / एमीटर"
+    ],
+    "c": 1
+  },
+  {
+    "q": "In ROH attention of CASNUB bogie, wedge height is checked primarily to: CASNUB बोगी के ROH में वेज ऊँचाई मुख्यतः किसलिए जांची जाती है?",
+    "h": "In ROH attention of CASNUB bogie, wedge height is checked primarily to: CASNUB बोगी के ROH में वेज ऊँचाई मुख्यतः किसलिए जांची जाती है?",
+    "o": [
+      "Improve wagon appearance / वैगन की दिखावट सुधारना",
+      "Maintain suspension characteristics / सस्पेंशन गुण बनाए रखना",
+      "Reduce wagon weight / वैगन का वजन कम करना",
+      "Increase payload / पेलोड बढ़ाना"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Least count of micrometer is: माइक्रोमीटर का लीस्ट काउंट कितना होता है?",
+    "h": "Least count of micrometer is: माइक्रोमीटर का लीस्ट काउंट कितना होता है?",
+    "o": [
+      "0.01 mm",
+      "0.02 mm",
+      "0.1 mm",
+      "0.2 mm"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which metal is the best conductor of electricity? बिजली का सबसे अच्छा चालक कौन-सी धातु है?",
+    "h": "Which metal is the best conductor of electricity? बिजली का सबसे अच्छा चालक कौन-सी धातु है?",
+    "o": [
+      "Copper / तांबा",
+      "Iron / लोहा",
+      "Silver / चाँदी",
+      "Aluminium / एल्युमिनियम"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The distance between journal centers on a CASNUB bogie is: CASNUB बोगी में जर्नल सेंटरों के बीच की दूरी कितनी होती है?",
+    "h": "The distance between journal centers on a CASNUB bogie is: CASNUB बोगी में जर्नल सेंटरों के बीच की दूरी कितनी होती है?",
+    "o": [
+      "2200 mm",
+      "2260 mm",
+      "2500 mm",
+      "2300 mm"
+    ],
+    "c": 1
+  },
+  {
+    "q": "WISE in Railways is mainly associated with: रेलवे में WISE मुख्य रूप से किससे संबंधित है?",
+    "h": "WISE in Railways is mainly associated with: रेलवे में WISE मुख्य रूप से किससे संबंधित है?",
+    "o": [
+      "Workshop information management / कार्यशाला सूचना प्रबंधन",
+      "Ticket reservation / टिकट आरक्षण",
+      "Freight operations / माल संचालन",
+      "Crew control / क्रू नियंत्रण"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In M-12 bolt size, “12” stands for: M-12 बोल्ट साइज में “12” किसे दर्शाता है?",
+    "h": "In M-12 bolt size, “12” stands for: M-12 बोल्ट साइज में “12” किसे दर्शाता है?",
+    "o": [
+      "Pitch of the thread / थ्रेड की पिच",
+      "Nominal or major diameter of bolt / बोल्ट का नाममात्र या मुख्य व्यास",
+      "Minor diameter of bolt / बोल्ट का माइनर व्यास",
+      "Length of bolt / बोल्ट की लंबाई"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which blood cells help in fighting diseases? कौन-सी रक्त कोशिकाएँ रोगों से लड़ने में सहायता करती हैं?",
+    "h": "Which blood cells help in fighting diseases? कौन-सी रक्त कोशिकाएँ रोगों से लड़ने में सहायता करती हैं?",
+    "o": [
+      "Red Blood Cells / लाल रक्त कोशिकाएँ",
+      "White Blood Cells / श्वेत रक्त कोशिकाएँ",
+      "Platelets / प्लेटलेट्स",
+      "Plasma / प्लाज़्मा"
+    ],
+    "c": 1
+  }
+]

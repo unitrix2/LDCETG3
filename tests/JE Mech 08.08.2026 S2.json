@@ -1,0 +1,1212 @@
+[
+  {
+    "q": "In WSP fault codes, the letter X represents:",
+    "h": "WSP फॉल्ट कोड में X क्या दर्शाता है?",
+    "o": [
+      "Fault type / फॉल्ट का प्रकार",
+      "Axle number / एक्सल संख्या",
+      "Coach number / कोच संख्या",
+      "Valve number / वाल्व संख्या"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The two extreme permissible sizes for a dimension of a part, between which the actual size should lie is called as-----",
+    "h": "एक भाग के आयाम के लिए दो चरम अनुमेय आकार, जिनके बीच वास्तविक आकार निहीत होता है, उसे----- कहा जाता है |",
+    "o": [
+      "Limits / लिमिट",
+      "Fits / फिटस",
+      "Tolerance / टोलरेन्स",
+      "Allowance / अलावन्स"
+    ],
+    "c": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा राज्य 'क्षेत्र क' में नहीं आता?",
+    "h": "निम्न में से कौन-सा राज्य 'क्षेत्र क' में नहीं आता?",
+    "o": [
+      "उत्तर प्रदेश",
+      "बिहार",
+      "पंजाब",
+      "राजस्थान"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The minimum buffer height of coach should be --- mm after POH.",
+    "h": "कोच की न्यूनतम बफर ऊंचाई POH के बाद --- मिमी होनी चाहिए।",
+    "o": [
+      "1050 / 1050",
+      "1060 / 1060",
+      "1080 / 1080",
+      "1090 / 1090"
+    ],
+    "c": 0
+  },
+  {
+    "q": "APAR Module on SPARROW portal is applicable for-----.",
+    "h": "स्पैरो पोर्टल पर एपीएआर मॉड्यूल ----- के लिए लागू है।",
+    "o": [
+      "Only Non Gazzated Employee / केवल गैर -गज़ट कर्मचारी",
+      "Both Gazzated and Non Gazzated / दोनों ने गजब और गैर -गज़ट कर दिया",
+      "Only Gazzated Officer From Group B / केवल ग्रुप बी से गज़ट अधिकारी",
+      "APAR module is not available at HRMS / APAR मॉड्यूल HRMS पर उपलब्ध नहीं है"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Direct Current Electrode Positive (DCEP) is also commonly known as:",
+    "h": "डायरेक्ट करंट इलेक्ट्रोड पॉजिटिव (DCEP) को सामान्यतः किस नाम से जाना जाता है?",
+    "o": [
+      "Reverse Polarity / रिवर्स पोलैरिटी",
+      "Straight Polarity / स्ट्रेट पोलैरिटी",
+      "Alternating Polarity / अल्टरनेटिंग पोलैरिटी",
+      "Dual Polarity / ड्यूल पोलैरिटी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If the brake pads are wearing out in taper condition, the correct action during POH will be ---- --",
+    "h": "यदि ब्रेक पैड टेपर स्थिति में घिसा हुआ है , तो सही कार्रवाई क्या होगी ?",
+    "o": [
+      "Replace the brake caliper unit immediately / ब्रेक कैलीपर यूनिट को तुरंत बदलें",
+      "Replace the brake pads immediately / ब्रेक पैड को तुरंत बदलें",
+      "Allow the brake pads in same condition / एक ही स्थिति में ब्रेक पैड की अनुमति दें",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Maximum CBC height drop under load and worn condition of LHB coach is --------",
+    "h": "एलएचबी कोच के लोड और घिसाव के तहत अधिकतम सीबीसी ऊंचाई ड्रॉप ----------है।",
+    "o": [
+      "65 mm / 65 मिमी",
+      "75 mm / 75 मिमी",
+      "85 mm / 85 मिमी",
+      "95 mm / 95 मिमी"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Arrange the following parts of BC in the sequence they are arranged in BC assembly- (i) Dome cover (ii) Wear ring (iii) Spring (iv) Piston packing",
+    "h": "बीसी के निम्नलिखित भागों को बीसी असेंबली में स्थापित करने के क्रम में व्यवस्थित करें- (i) डोम कवर (ii) वियर रिंग (iii) स्प्रिंग (iv) पिस्टन पैकिंग",
+    "o": [
+      "i,ii,iv,iii / i,ii,iv,iii",
+      "i,iii,ii,iv / i,iii,ii,iv",
+      "iv,iii,ii,i / iv,iii,ii,i",
+      "iv,i,ii,iii / iv,i,ii,iii"
+    ],
+    "c": 2
+  },
+  {
+    "q": "What is the full form of iGOT in the context of the iGOT Karmayogi platform?",
+    "h": "iGOT कर्मयोगी प्लेटफ़ॉर्म के संदर्भ में iGOT का पूर्ण रूप (Full Form) क्या है?",
+    "o": [
+      "Indian Government Online Training / भारतीय सरकार का ऑनलाइन प्रशिक्षण",
+      "Integrated Government Online Training / एकीकृत सरकारी ऑनलाइन प्रशिक्षण",
+      "International Governance Online Training / अंतरराष्ट्रीय गवरनेन्स ऑनलाइन प्रशिक्षण",
+      "Indian Government Offline Training / स्वतंत्र सरकारी ऑफलाइन प्रशिक्षण"
+    ],
+    "c": 1
+  },
+  {
+    "q": "What is the full form of IPAS?",
+    "h": "IPAS का पूर्ण रूप क्या है?",
+    "o": [
+      "Indian Payroll Automation Software / भारतीय कार्मिक लेखा सॉफ्टवेयर",
+      "Indian Personnel Accounting Software / एकीकृत कार्मिक मूल्यांकन प्रणाली",
+      "Integrated Personnel Assessment System / भारतीय वेतन स्वचालन सॉफ्टवेयर",
+      "Integrated Payroll and Accounting System / एकीकृत वेतन एवं लेखा प्रणाली"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Who among the following was nominated as first Satyagrahi by Mahatma Gandhi for the Individual Satyagarha of 1940?",
+    "h": "निम्नलिखित में से किसे 1940 के व्यक्तिगत सत्याग्रह के लिए महात्मा गांधी द्वारा प्रथम सत्याग्रही के रूप में नामित किया गया था?",
+    "o": [
+      "Vinoba Bhave / विनोबा भावे",
+      "Jawarharlal Nehru / जवाहरलाल नेहरू",
+      "Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+      "S. Satyamurti / एस. सत्यमूर्ति"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The bacteria used in train Biotoilets is developed by DRDO in which lab",
+    "h": "ट्रेन के बायोटोलेट्स में जिस बैक्टीरिया का उपयोग किया जाता है वह DRDO द्वारा किस लैब में विकसित किया गया है",
+    "o": [
+      "CRIS / सी आर आई एस",
+      "DRDE / डी आर डी इ",
+      "BARC / बीएआरसी",
+      "CSIR / सी एसआईआर"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The mass of 150 cm³ of stone is 300 g. Its density is -------- g",
+    "h": "cm³ / 150 सेमी ³ पत्थर का द्रव्यमान 300 ग्राम है , तो उसका घनत्व ----- g/cm³ होगा.",
+    "o": [
+      "0.5 / 0.5",
+      "2 / 2",
+      "4.5 / 4.5",
+      "3 / 3"
+    ],
+    "c": 1
+  },
+  {
+    "q": "‘SS-I’ (Shop Schedule-1) of LHB coach is done after ----- months .",
+    "h": "LHB कोच का 'SS-I' (शॉप शेड्यूल -1) ------ महीने के बाद किया जाता है।",
+    "o": [
+      "12 / 12",
+      "18 / 18",
+      "24 / 24",
+      "36 / 36"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the minimum qualifying service required for issue of a RELHS Card to a retired employee?",
+    "h": "सेवानिवृत्त कर्मचारी को RELHS कार्ड जारी करने के लिए न्यूनतम अर्हकारी सेवा कितनी होनी चाहिए?",
+    "o": [
+      "9 years 9 months / 9 वर्ष 9 माह",
+      "10 years 9 months / 10 वर्ष 9 माह",
+      "20 years 9 months / 20 वर्ष 9 माह",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 3
+  },
+  {
+    "q": "हिन्दी शिक्षण योजना के अंतर्गत कर्मचारियो के लिए कौन सी परीक्षा निर्धारित है?",
+    "h": "हिन्दी शिक्षण योजना के अंतर्गत कर्मचारियो के लिए कौन सी परीक्षा निर्धारित है?",
+    "o": [
+      "प्रबोध",
+      "प्रवीण",
+      "प्रज्ञा",
+      "सभी"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Who is the chairman of the headquarters-level Central Staff Benefit Fund (SBF) Committee in Indian Railways?",
+    "h": "भारतीय रेल में मुख्यालय स्तर की केंद्रीय स्टाफ बेनिफिट फंड (SBF) समिति के अध्यक्ष कौन होते हैं?",
+    "o": [
+      "PFA / पी एफ ए",
+      "PCME / पी सी एम ई",
+      "PCPO / पी सी पी ओ",
+      "AGM / ए जी एम"
+    ],
+    "c": 2
+  },
+  {
+    "q": "As per Guidelines for Corrosion repair in ICF Coaches high performance anticorrosion epoxy primer paint is applied on newly fabricated items like sole bars, side wall and body pillars etc. as per RDSO SpeCification No. M&C",
+    "h": "PCN/------- . / आईसीएफ कोचों में जंग की मरम्मत के लिए दिशा- निर्देशों के अनुसार, आरडीएसओ की विशिष्टता संख्या एमएंडसी/पीसीएन/------- के अनुसार नए फैब्रिकेटेड आइटम जैसे सोल बार्स, साइड वॉल और बॉडी पिलर आदि पर हाई परफॉरमेंस एंटीकोरोजन एपॉक्सी प्राइमर पेंट लगाया जाता है।",
+    "o": [
+      "110 / 110",
+      "111 / 111",
+      "122 / 122",
+      "123 / 123"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Brake caliper unit mounted with the help of bolt size --------",
+    "h": "किस साइज़ के बोल्टकी मदद से ब्रेक कैलीपर यूनिट लगाया जाता है?",
+    "o": [
+      "M16 x 60 bolt / M16x60 बोल्ट",
+      "M 12 x 60 mm bolt / M12x 60 मिमी बोल्ट",
+      "M 24 X 60 mm bolt / M 24X60 मिमी बोल्ट",
+      "M 20 x60 mm bolt / M 20 x60 मिमी बोल्ट"
+    ],
+    "c": 3
+  },
+  {
+    "q": "As per IRSM 28 specification for SMAW welding of Austenitic Stainless steel Class ---- Electrode is to be used",
+    "h": "ऑस्टेनिटिक स्टेनलेस स्टील वर्ग की एसएमएडब्ल्यू वेल्डिंग के लिए आईआरएसएम 28 विनिर्देश के अनुसार ---- इलेक्ट्रोड का उपयोग किया जाना है",
+    "o": [
+      "A2 / A2",
+      "D / D",
+      "M1 / M1",
+      "N4 / N4"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the 4G welding position commonly used for?",
+    "h": "4G वेल्डिंग पोजीशन का सामान्यतः किस कार्य के लिए उपयोग किया जाता है?",
+    "o": [
+      "Flat position / समतल पोजीशन",
+      "Horizontal position / क्षैतिज पोजीशन",
+      "Vertical position / ऊर्ध्वाधर पोजीशन",
+      "Overhead position / ऊपरी पोजीशन"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Air spring working pressure in LHB Coach is --- Kg",
+    "h": "cm2 / एलएचबी कोच में एयर स्प्रिंग वर्किंग प्रेशर _ केजी/सीएम है",
+    "o": [
+      "5 / 5",
+      "6 / 6",
+      "7 / 7",
+      "8 / 8"
+    ],
+    "c": 2
+  },
+  {
+    "q": "A squad completes a job in 1,200 hours and earns an incentive of 25%. What was the allowed time?",
+    "h": "एक स्क्वाड ने किसी कार्य को 1200 घंटे में पूरा किया तथा उसे 25% प्रोत्साहन (Incentive) प्राप्त हुआ। उस कार्य के लिए अनुमेय समय (Allowed Time) कितना था?",
+    "o": [
+      "1450 hrs / 1450 घंटे",
+      "1500 hrs / 1500 घंटे",
+      "1550 hrs / 1550 घंटे",
+      "1600 hrs / 1600 घंटे"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Fire involving magnesium, aluminium, sodium or potassium is classified as ---",
+    "h": "मैग्नीशियम, एल्युमिनियम, सोडियम या पोटैशियम में लगी आग किस श्रेणी की होती है?",
+    "o": [
+      "Class A / श्रेणी A",
+      "Class B / श्रेणी B",
+      "Class D / श्रेणी D",
+      "Class F / श्रेणी F"
+    ],
+    "c": 2
+  },
+  {
+    "q": "HRMS is developed by -----.",
+    "h": "एचआरएमएस ----- द्वारा विकसित किया गया है।",
+    "o": [
+      "IREPS / आई.आर.ई.पी.एस.",
+      "CRIS / क्रिस",
+      "RDSO / आरडीएसओ",
+      "Railway Ministry / रेल मंत्रालय"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Indian Govt has made new labour code effective from which date?",
+    "h": "भारत सरकार ने चार नए श्रम संहिताओं (Labour Codes) को कब से लागू किया है",
+    "o": [
+      "21-OCT-25 / 21- अक्टू-25",
+      "21-NOV-25 / 21- नव-25",
+      "21-DEC-25 / 21- दिस-25",
+      "21-JAN-26 / 21-जन"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Which section of the RTI Act deals with exemptions from disclosure?",
+    "h": "आरटीआई अधिनियम की कौन-सी धारा सूचना के अपवाद (Exemptions) से संबंधित है?",
+    "o": [
+      "Section 4 / धारा 4",
+      "Section 6 / धारा 6",
+      "Section 8 / धारा 8",
+      "Section 10 / धारा 10"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The three-branch pipe attached to common pipe bracket, where the middle pipe lead to",
+    "h": "सामान्य पाइप ब्रैकेट से जुड़ी तीन-शाखा पाइप में मध्य पाइप कहा पे जाता है ?",
+    "o": [
+      "CR / सी आर",
+      "DV / डी वी",
+      "BC / बीसी",
+      "AR / ऐ आर"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Diagonal gauge for BSS bracket of 16.25 t bogie is -",
+    "h": "16.25 -t बोगी के BSS ब्रैकेट का डायगोनल गेज --- ---- का होता है?",
+    "o": [
+      "2573± 1.0 mm / 2573 ± 1.0 मिमी",
+      "2687± 1.0 mm / 2687 ± 1.0 मिमी",
+      "2629± 1.0 mm / 2629 ± 1.0 मिमी",
+      "3612± 1.0 mm / 3612 ± 1.0 मिमी"
+    ],
+    "c": 1
+  },
+  {
+    "q": "------- राज्य की राजभाषा अंग्रेजी है।",
+    "h": "------- राज्य की राजभाषा अंग्रेजी है।",
+    "o": [
+      "मणिपूर",
+      "अरुणाचल प्रदेश",
+      "त्रिपुरा",
+      "केरल"
+    ],
+    "c": 1
+  },
+  {
+    "q": "In High Pressure Water Mist Fire Suppression System capacity of Nitrogen Cylinder in Sanrok make is -------",
+    "h": "हाई प्रेशर वाटर मिस्ट फायर सप्रेसन सिस्टम में सेनरोक मेक नाइट्रोजन सिलेंडर की क्षमता होती है",
+    "o": [
+      "50 lts at 150 Kg / cm2 / 50 lts at 150 कि ग्रा /सेमी2",
+      "60 lts at 150 Kg / cm2 / 60 lts at 150 कि ग्रा /सेमी2",
+      "50 lts at 200 Kg / cm2 / 50 lts at 200 कि ग्रा /सेमी2",
+      "60 lts at 200 Kg / cm2 / 60 lts at 200 कि ग्रा /सेमी2"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Administrative approval of competent Authority for incurring expenditure is accorded at this stage",
+    "h": "\"व्यय करने के लिए सक्षम प्राधिकारी का प्रशासनिक अनुमोदन है इस चरण में प्रदान किया गया\"",
+    "o": [
+      "Detailed Estimate / विस्तृत अनुमान",
+      "Abstract Estimate / सार अनुमान",
+      "Revised Estimate / संशोधित अनुमान",
+      "Completion Estimate / समापन अनुमान"
+    ],
+    "c": 1
+  },
+  {
+    "q": "As per RDSO Specification M&C",
+    "h": "PCN/100, after one year, the minimum gloss retention shall be ---% of the initial gloss.. / RDSO विनिर्देश M&C/PCN/100 के अनुसार, 01 वर्ष के बाद न्यूनतम चमक प्रतिधारण प्रारंभिक चमक का ---% होना चाहिए।",
+    "o": [
+      "100 / 100",
+      "70 / 70",
+      "80 / 80",
+      "90 / 90"
+    ],
+    "c": 2
+  },
+  {
+    "q": "In LHB Coach Flex ball cable directly connected to ----",
+    "h": "LHB कोच में फ्लेक्स बॉल केबल सीधे ---- जुड़ा होता है",
+    "o": [
+      "Brake caliper / ब्रेक कॅलिपर",
+      "Brake cylinder / ब्रेक सिलिंडर",
+      "Both a & b / A और B दोनो",
+      "None of these / इनमे से कोई भी नही"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In LHB Coaches, the Stiffener plate is related to which assembly.",
+    "h": "एल एच बी कोच में स्टीफ़नर प्लेट किस असेंबली से संबंधित है",
+    "o": [
+      "Air brake panel / एयर ब्रेक असेंबली",
+      "Bogie suspension / बोगी सस्पेंशन",
+      "Rectifier assembly / रेक्टिफायर असेंबली",
+      "CBC assembly / सी बी सी असेंबली"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Shortcut key 'Ctrl+Y' stands for ---------",
+    "h": "शॉर्टकट 'Ctrl + Y' किस लिए होती है",
+    "o": [
+      "Paste / पेस्ट",
+      "Save / सेव",
+      "Undo / पिछे जाना",
+      "Redo / दोबारा करना"
+    ],
+    "c": 3
+  },
+  {
+    "q": "The dotted lines shown in an engineering drawing represents --------- .",
+    "h": "एक इंजीनियरिंग ड्राइंग में दिखाई गई बिंदीदार रेखाएं --------- को प्रदर्शित करती हैं।",
+    "o": [
+      "Hidden edges / हिडन एजेस",
+      "Projection edges. / प्रोजेक्शन एजेस",
+      "non seen area / गैर देखा क्षेत्र",
+      "Hatching line / हैचिंग लाइन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "PDCA stands as per ISO 9001 ----",
+    "h": "ISO 9001 के अनुसार PDCA का पूर्ण रूप क्या है?",
+    "o": [
+      "Plan-Do-Check-Act / योजना बनाएं-करें-जाँचें-कार्रवाई करें",
+      "Prepare-Develop-Control-Apply / तैयार करें-विकसित करें-नियंत्रित करें-लागू करें",
+      "Plan-Develop-Correct-Act / योजना बनाएं-विकसित करें-सुधारें-कार्रवाई करें",
+      "Process-Design-Control-Assess / प्रक्रिया-डिज़ाइन-नियंत्रण-मूल्यांकन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "If air spring is failed in LHB coach , the maximum train speed is restricted upto--- KMPH",
+    "h": "एल एच बी कोच में एयर स्प्रिंग फेलियर होने पर गाडी की अधिकतम गति ------- रखी जाती है",
+    "o": [
+      "50/50",
+      "60 / 60",
+      "90 / 90",
+      "100 / 100"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which traction system is used in Amrit Bharat Express?",
+    "h": "अमृत भारत एक्सप्रेस में कौन-सी ट्रैक्शन प्रणाली उपयोग की जाती है?",
+    "o": [
+      "Single Locomotive / एकल लोकोमोटिव",
+      "Push-Pull / पुश-पुल",
+      "Coach Powered / कोच चालित",
+      "Hydrogen Powered / हाइड्रोजन चालित"
+    ],
+    "c": 1
+  },
+  {
+    "q": "विश्व हिंदी दिवस कब मनाया जाता है?",
+    "h": "विश्व हिंदी दिवस कब मनाया जाता है?",
+    "o": [
+      "10 जनवरी",
+      "14 सितंबर",
+      "1 जुलाई",
+      "5 जून"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the maximum Study Leave that may be granted during the entire service?",
+    "h": "पूरी सेवा अवधि में अधिकतम कितनी अध्ययन छुट्टी दी जा सकती है?",
+    "o": [
+      "12 months / 12 माह",
+      "24 months / 24 माह",
+      "36 months / 36 माह",
+      "60 months / 60 माह"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The major component of ABC dry chemical powder is ----.",
+    "h": "ABC ड्राई केमिकल पाउडर का प्रमुख घटक क्या है?",
+    "o": [
+      "Sodium chloride / सोडियम क्लोराइड",
+      "Mono Ammonium Phosphate / मोनो अमोनियम फॉस्फेट",
+      "Potassium nitrate / पोटैशियम नाइट्रेट",
+      "Calcium carbonate / कैल्शियम कार्बोनेट"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Permitted maximum speed for NMGH?",
+    "h": "NMGH के लिए अनुमत अधिकतम गति कितनी है?",
+    "o": [
+      "75 kmph / 75 किमी/घंटा",
+      "100 kmph / 100 किमी/घंटा",
+      "110 kmph / 110 किमी/घंटा",
+      "120 kmph / 120 किमी/घंटा"
+    ],
+    "c": 2
+  },
+  {
+    "q": "WISE stands for .............",
+    "h": "WISE का मतलब ............... है।",
+    "o": [
+      "Workshop Information System / वर्कशॉप इनफार्मेशन सिस्टम",
+      "Workshop Intelligence System enterprise / वर्कशॉप इन्टेलिजन्स सिस्टम एनटरर्प्राइज़",
+      "Workshop Indication System error / वर्कशॉप इंडिकेशन सिस्टम एरर",
+      "None of the above / इनमे से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "निम्न पुरस्कारों में कौन सा पुरस्कार रेलवे के तकनीकी विषय पर हिंदी में पुस्तक लिखने पर दिया जाता है ?",
+    "h": "निम्न पुरस्कारों में कौन सा पुरस्कार रेलवे के तकनीकी विषय पर हिंदी में पुस्तक लिखने पर दिया जाता है ?",
+    "o": [
+      "इन्दिरा गाँधी राजभाषा पुरस्कार",
+      "मैथिली शरण गुप्त पुरस्कार",
+      "प्रेमचन्द पुरस्कार",
+      "लाल बहादुर शास्त्री पुरस्कार"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Maximum diamatrical clearance between guide bush and dash pot is ---- mm",
+    "h": "गाइड बुश और डैश पॉट के बीच अधिकतम डायमैट्रिकल क्लीयरेंस --- मिमी हैं",
+    "o": [
+      "1.2 mm / 1.2 मिमी",
+      "1.4 mm / 1.4 मिमी",
+      "1.6 mm / 1.6 मिमी",
+      "1.8 mm / 1.8 मिमी"
+    ],
+    "c": 3
+  },
+  {
+    "q": "What is the maximum permissible clearance between brake gear pin and bushes?",
+    "h": "ब्रेक गियर पिन और बुशेस के बीच अधिकतम पेरमिससिबल क्लियरेंस कितना होता है?",
+    "o": [
+      "0.5 mm / 0.5 मिमी",
+      "1.0 mm / 1.0 मिमी",
+      "1.5 mm / 1.5 मिमी",
+      "2.0 mm / 2.0 मिमी"
+    ],
+    "c": 1
+  },
+  {
+    "q": "मुंबई तथा सूरत ----------- क्षेत्र में स्थित हैं।",
+    "h": "मुंबई तथा सूरत ----------- क्षेत्र में स्थित हैं।",
+    "o": [
+      "क",
+      "ख",
+      "ग",
+      "क और ख दोनों"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The cutting tools are made from ------",
+    "h": "कटिंग टूल्स किससे बने होते हे?",
+    "o": [
+      "high speed steel / हाई स्पीड स्टील",
+      "Corten steel / कॉर्टन स्टील",
+      "stainless steel / स्टेनलेस स्टील",
+      "malleable cast iron / मेलीएबल कास्ट आयरन"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In one LHB coach ----- No. of Phonic Wheels are there.",
+    "h": "एक LHB कोच में कितने फोनिक व्हीललगे होते हैं",
+    "o": [
+      "2 / 2",
+      "4 / 4",
+      "6 / 6",
+      "8 / 8"
+    ],
+    "c": 3
+  },
+  {
+    "q": "What is the last shop out limit of LHB wheel diameter of having web thickness 17 +3",
+    "h": "-0 mm? / एलएचबी व्हील जिसका वेब मोटाई 17 +3/-0 एमएम है उस का आखरी शॉप आउट व्यास कितना होन चाहिए ?",
+    "o": [
+      "840 mm / 840 मिमी",
+      "845 mm / 845 मिमी",
+      "857 mm / 857 मिमी",
+      "874 mm / 874 मिमी"
+    ],
+    "c": 2
+  },
+  {
+    "q": "‘Jaw gap gauge test’ is performed when knuckle of CBC coupler is in ----",
+    "h": "जौ गैप गेज परीक्षण' तब किया जाता है जब सीबीसी कपलर का नकल-------मे होता है I",
+    "o": [
+      "Closed position / बंद स्थिति",
+      "Open position / खुली स्थिति",
+      "Half Closed position / आधा बंद स्थिति",
+      "None of above / इनमें से कोई भी नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In FIAT Bogie the tractive and braking forces between bogie and the body are transferred through a -------",
+    "h": "फिएट बोगी में बोगी और बॉडी के बीच ट्रैक्टिव और ब्रेकिंग फोर्स को ---- के माध्यम से स्थानांतरित किया जाता है |",
+    "o": [
+      "Anti roll bar / एंटी रोल बार",
+      "Control Arm / कंट्रोल आर्म",
+      "Secondary lateral Damper / सेकेंडरी लैटरल डैम्पर",
+      "Traction Centre / ट्रैक्शन सेंटर"
+    ],
+    "c": 3
+  },
+  {
+    "q": "PVC roll foam to RDSO specification No. is RDSO",
+    "h": "2006/CG--- / पीवीसी रोल फ्लोरिंग के लिए आरडीएसओ विनिर्देश संख्या RDSO/2006/CG---- है।",
+    "o": [
+      "11 / 11",
+      "12 / 12",
+      "13 / 13",
+      "14 / 14"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Expand SMAW?",
+    "h": "SMAW का विस्तार करें?",
+    "o": [
+      "Silver Metal arc welding / सिल्वर मेटल आर्क वेल्डिंग",
+      "submerged material arc welding / सबमर्जड मटेरियल आर्क वेल्डिंग",
+      "Sheet metal arc welding / शीट मेटलआर्क वेल्डिंग",
+      "Shielded Metal arc welding / शिल्देड मेटल आर्क वेल्डिंग"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Length of car body of LHB coach is --------",
+    "h": "एलएचबी कोच की कार बॉडी की लंबाई------- है I",
+    "o": [
+      "23540 mm / 23540 मिमी",
+      "24000 mm / 24000 मि.मी.",
+      "22000 mm / 22000 मि.मी.",
+      "22540 mm / 22540 मिमी"
+    ],
+    "c": 0
+  },
+  {
+    "q": "The FSDS backup battery voltage shall be ---",
+    "h": "FSDS की बैकअप बैटरी का वोल्टेज होना चाहिए:",
+    "o": [
+      "12 V DC / 12 V डी सी",
+      "24 V DC / 24 V डी सी",
+      "48 V DC / 48 V डी सी",
+      "110 V DC / 110 V डी सी"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Expenditure booked under \"Computerisation \" is related to which Plan Head?",
+    "h": "कम्प्यूटरीकरण (Computerisation)\" के अंतर्गत बुक किया गया व्यय किस प्लान हेड (Plan Head) से संबंधित है",
+    "o": [
+      "PH-15 / PH-15",
+      "PH-16 / PH-16",
+      "PH-17 / PH-17",
+      "PH-18 / PH-18"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Which of the following is an example of fusion welding?",
+    "h": "निम्नलिखित में से कौन फ्यूजन वेल्डिंग का एक उदाहरण है?",
+    "o": [
+      "Arc welding / आर्क वेल्डिंग",
+      "Forge welding / फोर्ज वेल्डिंग",
+      "Resistance welding / प्रतिरोध वेल्डिंग",
+      "Thermit welding with pressure / दबाव के साथ थर्मिट वेल्डिंग"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the total surface area of a cube with side 4 cm?",
+    "h": "4 सेमी भुजा वाले घन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+    "o": [
+      "64 cm² / 64 सेमी²",
+      "80 cm² / 80 सेमी²",
+      "96 cm² / 96 सेमी²",
+      "128 cm² / 128 सेमी²"
+    ],
+    "c": 2
+  },
+  {
+    "q": "What is the full form of APAR?",
+    "h": "APAR का पूर्ण रूप क्या है?",
+    "o": [
+      "Annual Performance Appraisal Report / वार्षिक कार्य-निष्पादन मूल्यांकन रिपोर्ट",
+      "Annual Personnel Assessment Record / वार्षिक कार्मिक मूल्यांकन अभिलेख",
+      "Annual Progress Assessment Report / वार्षिक प्रगति आकलन रिपोर्ट",
+      "Administrative Performance Audit Report / प्रशासनिक कार्य-निष्पादन लेखा-परीक्षा रिपोर्ट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Which app allows railway employees to view salary slips?",
+    "h": "रेलवे कर्मचारियों को वेतन पर्ची देखने की सुविधा कौन-सा ऐप देता है?",
+    "o": [
+      "WISE / WISE",
+      "HRMS / HRMS",
+      "UDM / UDM",
+      "RESS / RESS"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Which Standard Form is issued for the appointment of an Investigating Officer?",
+    "h": "जाँच अधिकारी की नियुक्ति के लिए कौन-सा मानक प्रपत्र जारी किया जाता है?",
+    "o": [
+      "SF-2 / SF-2",
+      "SF-5 / SF-5",
+      "SF-11 / SF-11",
+      "SF-7 / SF-7"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Lower Parel workshop is presently awarded by CII in GreenCo rating in ----- Category.",
+    "h": "वर्तमान में लोअर परेल वर्कशॉप को सीआईआई द्वारा ग्रीनको रेटिंग के ----- श्रेणी में प्रमाणित किया गया है।",
+    "o": [
+      "Bronze / कांस्य",
+      "Silver / सिल्वर",
+      "Platinum / प्लेटिनम",
+      "Gold / गोल्ड"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Under which Rule of the Railway Services (Conduct) Rules are movable and immovable properties dealt with?",
+    "h": "रेलवे सेवा (आचरण) नियमों के किस नियम के अंतर्गत चल एवं अचल संपत्ति का प्रावधान है?",
+    "o": [
+      "Rule 17 / नियम 17",
+      "Rule 18 / नियम 18",
+      "Rule 19 / नियम 19",
+      "Rule 22A / नियम 22A"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Hot axle in LHB coach is related to",
+    "h": "LHB कोच में हॉट ऐक्सल संबंधित है",
+    "o": [
+      "Brake block jam / ब्रेक ब्लॉक जाम से",
+      "WSP failure / WSP फैल्यर से",
+      "FIBA failure / फ़ीबा फैल्यर से",
+      "CTRB failure / CTRB फैल्यर से"
+    ],
+    "c": 3
+  },
+  {
+    "q": "What does the acronym EPPFS stand for ---",
+    "h": "EPPFS का पूर्ण रूप क्या है?",
+    "o": [
+      "Electro Pneumatic Pressurised Flushing System / इलेक्ट्रो-प्न्यूमैटिक प्रेशराइज्ड फ्लशिंग सिस्टम",
+      "Electrical Pressure Pump Flushing System / इलेक्ट्रिकल प्रेशर पंप फ्लशिंग सिस्टम",
+      "Electronic Pressurised Pipe Flow System / इलेक्ट्रॉनिक प्रेशराइज्ड पाइप फ्लो सिस्टम",
+      "Electrical Powered Pressure Flow System / इलेक्ट्रिकल पावर्ड प्रेशर फ्लो सिस्टम"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Brake accelerator fitted in LHB coaches is of which type device",
+    "h": "LHB कोचों में लगा हुआ ब्रेक एक्सेलरेटर किस प्रकार का उपकरण है",
+    "o": [
+      "Only pneumatic / केवल न्यूमेटिक",
+      "Only Electrical / केवल इलेक्ट्रिकल",
+      "Electro Pneumatic / एलेक्ट्रों न्यूमेटिकउपरोक्त में से कोई नहीं",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 2
+  },
+  {
+    "q": "As per classification of Revenue Expenditure of Indian Railways, the Repairs and Maintenance of Carriages come under which minor head of demand No. 6",
+    "h": "भारतीय रेलवे के राजस्व व्यय के वर्गीकरण के अनुसार कैरिज मरम्मत और रखरखाव मांग संख्या 6 के किस माइनर हेड के अंतर्गत आते हैं |",
+    "o": [
+      "100 / 100",
+      "200 / 200",
+      "300 / 300",
+      "400 / 400"
+    ],
+    "c": 1
+  },
+  {
+    "q": "In single car testing, when BP pressure is reduced at the rate of 0.6Kg",
+    "h": "Cm2 in 6 seconds and the brakes are applied, the test is called as ---- Test / सिंगल कार टेस्टिंग में, जब बीपी दबाव 6 सेकंड में 0.6Kg / Cm2 की दर से कम किया जाता है और ब्रेक लगाया जाता है, इस परीक्षण को कोनसी टेस्ट कहा जाता है?",
+    "o": [
+      "Sensitivity / सेंसिटिविटी",
+      "Insensitivity / इनसेंसिटिविटी",
+      "Overcharging / ओवरचार्जिंग",
+      "Emergency braking / इमरजेंसी टेस्ट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Failure indication cum brake application (FIBA) device equipment is purely ---- system.",
+    "h": "फेल्यूयर इंडिकेशन कम ब्रेक एप्लिकेशन (फिबा) उपकरण विशुद्ध रूप से ---- प्रणाली है।",
+    "o": [
+      "Pneumatic / न्यूमॅटीक",
+      "Electro pneumatic / इलेक्ट्रो-न्यूमॅटीक",
+      "both (a) & (b) / दोनो A और B",
+      "None of these / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Braking distance of LHB coach from a speed of 160 KMPH is –",
+    "h": "160 KMPH की गति से LHB कोच की ब्रेकिंग दूरी ----- m है",
+    "o": [
+      "800 m / 800 मी",
+      "1000 m / 1000 मी",
+      "1200 m / 1200 मी",
+      "1500 m / 1500 मी"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Clearance between Lateral Bump Stop and Traction Centre",
+    "h": "लेटरल बम्प स्टॉप और ट्रैक्शन सेंटर के बीच क्लीयरेंस कितना है?",
+    "o": [
+      "30mm+5/-2 / 30 मिमी +5/-2",
+      "25mm+5/-2 / 25 मिमी +5/-2",
+      "20mm+5/-2 / 20 मिमी +5/-2",
+      "15mm+5/-2 / 15 मिमी +5/-2"
+    ],
+    "c": 3
+  },
+  {
+    "q": "The distance between the root and toe of a fillet weld is called as ------",
+    "h": "फ़िलेट वेल्ड की रुट और टो के बीच की दूरी को ------ कहा जाता है।",
+    "o": [
+      "root gap / रूट गैप",
+      "leg length / लेग की लंबाई",
+      "reinforcement / रेनफोर्समेंट",
+      "throat thickness / थ्रोट जी मोटाई"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Hatching lines are drawn at ------- degree to reference line",
+    "h": "हैचिंग लाइन को रेफेरेंस लाइन से ___ डिग्री पर खींचा जाता है।",
+    "o": [
+      "30 / 30",
+      "45 / 45",
+      "60 / 60",
+      "90 / 90"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The main function of anti roll bar is -------",
+    "h": "एंटी रोल बार का मुख्य कार्य क्या है?",
+    "o": [
+      "To prevent Rolling action of the coach / कोच के रोलिंग एक्शन को रोकना",
+      "To allow rolling action of the coach / कोच के रोलिंग एक्शन की अनुमति देना",
+      "To provided strength for bogie / बोगी के लिए ताकत प्रदान करने के लिए",
+      "To negotiate the track curve / ट्रैक कर्व पर नेगोशीयट करने के लिए"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Hauling capacity of HT type CBC coupler is -------",
+    "h": "एचटी टाइप CBC कपलर की होलिंग क्षमता ----- होती है",
+    "o": [
+      "7000 ton / 7000 टन",
+      "8000 ton / 8000 टन",
+      "9000 ton / 9000 टन",
+      "10000 ton / 10000 टन"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Maximum permissible flat tyre limit for LHB coaches during train service is?",
+    "h": "LHB कोच की ट्रेन सर्विस के दौरान अधिकतम फ्लैट टायर सीमा है|",
+    "o": [
+      "40 mm / 40 मिमी",
+      "50 mm / 50 मिमी",
+      "60 mm / 60 मिमी",
+      "68 mm / 68 मिमी"
+    ],
+    "c": 1
+  },
+  {
+    "q": "The NRV is provided in ---",
+    "h": "NRV किस लाइन में दिया गया है?",
+    "o": [
+      "BC line / बीसी लाइन",
+      "BP line / बी पी लाईन",
+      "FP line / एफ पी लाईन",
+      "All above / उपर के सभी"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The density of Densified Thermal Bonded Polyester Block (DTBPB) for seats",
+    "h": "lower berths in GS coaches shall be --- kg/m³ as per indian Railways C-K607 specification. / भारतीय रेल विनिर्देश C-K607 के अनुसार GS कोचों की सीटों/निचली बर्थोंं के लिए Densified Thermal Bonded Polyester Block (DTBPB) का घनत्व --- kg/m³ होना चाहिए।",
+    "o": [
+      "50 / 50",
+      "60 / 60",
+      "70 / 70",
+      "80 / 80"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The brass and Bronze are welded by ------ flame.",
+    "h": "पीतल और कांस्य को ------ फ्लेम के द्वारा वेल्डेड किया जाता है।",
+    "o": [
+      "Neutral / न्यूट्रल फ्लेम",
+      "Oxidizing / ऑक्सीडिज़िंग फ्लेम",
+      "Carburising / कार्बुरिजिंग फ्लेम",
+      "Any flame can be used. / कोई भी फ्लेम उपयोग मे ला सकते है"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Full form of ROAMS is --------",
+    "h": "निम्न में से कोनसा \"ROAMS\" का विस्तृत रूप है?",
+    "o": [
+      "Rolling stock Association Management System / रोलिंग स्टॉक एसोसिएशन मैनिज्मन्ट सिस्टम",
+      "Rolling stock Asset Material System / रोलिंग स्टॉक ऐसेट मटेरियल सिस्टम",
+      "Rolling stock Asset Monitoring System / रोलिंग स्टॉक ऐसेट मोनिटरिंग सिस्टम",
+      "Rolling stock Asset Management System / रोलिंग स्टॉक ऐसेट मैनिज्मन्ट सिस्टम"
+    ],
+    "c": 3
+  },
+  {
+    "q": "When brake is manually released by QRV, which pressure will be vent out?",
+    "h": "जब क्यूआरवी द्वारा मैन्युअल रूप से ब्रेक छोड़ा जाता है, तो कौन सा दबाव बाहर निकल जाएगा?",
+    "o": [
+      "BC pressure / बीसी दबाव",
+      "AR pressure / एआर दबाव",
+      "BP pressure / बीपी दबाव",
+      "CR pressure / सिआर दबाव"
+    ],
+    "c": 3
+  },
+  {
+    "q": "कौन सा मंत्रालय राजभाषा से संबंधित महत्वपूर्ण निर्णय लेता है?",
+    "h": "कौन सा मंत्रालय राजभाषा से संबंधित महत्वपूर्ण निर्णय लेता है?",
+    "o": [
+      "गृह मंत्रालय",
+      "शिक्षा मंत्रालय।",
+      "प्रधानमंत्री कार्यालय",
+      "कानून मंत्रालय"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is the weight of water in a fully filled water tank of length – 2m, breadth – 3m and height – 2m?",
+    "h": "लंबाई - 2 मी, चौड़ाई - 3 मी और ऊँचाई - 2 मी की पूरी तरह से भरी हुई पानी की टंकी में पानी का भार कितना है?",
+    "o": [
+      "1200 kg / 1200 किग्रा",
+      "6000 kg / 6000 किग्रा",
+      "12000 kg / 12000 किग्रा",
+      "24000 kg / 24000 किग्रा"
+    ],
+    "c": 2
+  },
+  {
+    "q": "Which ministry launched Mission Karmayogi?",
+    "h": "मिशन कर्मयोगी किस मंत्रालय ने शुरू किया?",
+    "o": [
+      "Ministry of Railways (MoR) / रेल मंत्रालय (MoR)",
+      "Ministry of Defence (MoD) / रक्षा मंत्रालय (MoD)",
+      "Ministry of Finance (MoF) / वित्त मंत्रालय (MF))",
+      "Ministry of Personnel (DoPT) / कार्मिक मंत्रालय (DoPT)"
+    ],
+    "c": 3
+  },
+  {
+    "q": "As per Corrosion repair manual, a component will require repair",
+    "h": "replacement, if it has lost more than ---- % of its thickness otherwise cleaning and repainting shall be done / संक्षारण मरम्मत मैनुअल के अनुसार, अगर कोई पार्ट की मोटाई मे ---% से अधिक की कमी आ जाती है तो उसे मरम्मत / बदली करने की आवश्यकता होगी अन्यथा सफाई और फिर से रंग रोगन किया जा सकता है",
+    "o": [
+      "10 / 10",
+      "20 / 20",
+      "30 / 30",
+      "40 / 40"
+    ],
+    "c": 2
+  },
+  {
+    "q": "End wall of LHB Coaches are manufactured from -------",
+    "h": "LHB कोचो की एंड वाल का निर्माण निम्न से किस मटेरियल से किया जाता है ?",
+    "o": [
+      "Austenitic Steel (SS 304M) / ऑस्टेनिटिक स्टील (एसएस 304 एम)",
+      "Corton Steel (IRSM-41) / कॉरटन स्टील (आयआरएसएम -41)",
+      "Ferritic steel (SS-409M) / फेरिटिक स्टील (एसएस-409एम)",
+      "Nickel Steel / निकेल स्टील"
+    ],
+    "c": 1
+  },
+  {
+    "q": "संसदीय राजभाषा समिति में कुल कितने सदस्य होते हैं?",
+    "h": "संसदीय राजभाषा समिति में कुल कितने सदस्य होते हैं?",
+    "o": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "c": 2
+  },
+  {
+    "q": "The modified WSP junction box is provided with which protection rating?",
+    "h": "संशोधित WSP जंक्शन बॉक्स को कौन-सी सुरक्षा रेटिंग प्रदान की गई है?",
+    "o": [
+      "IP45 / IP45",
+      "IP54 / IP54",
+      "IP65 / IP65",
+      "IP67 / IP67"
+    ],
+    "c": 3
+  },
+  {
+    "q": "What is the symbol ʺΔʺ indicate in machine tool lubrication?",
+    "h": "मशीन टूल लुब्रिकेशन में \"Δ\" प्रतीक का उल्लेख किसे किया गया है?",
+    "o": [
+      "Daily / रोजाना",
+      "Weekly / साप्ताहिक",
+      "Bi-weekly / द्विसाप्ताहिक",
+      "Monthly / मासिक"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Transformer is used in welding to supply -----",
+    "h": "ट्रांसफार्मर का वेल्डिंग में उपयोग किया जाता है, ताकि वह _______ सप्लाई कर सके |",
+    "o": [
+      "Less welding current / कम वेल्डिंग करंट",
+      "Less Welding voltage / कम वेल्डिंग वोल्टेज",
+      "More welding voltage and more welding current / अधिक वेल्डिंग वोल्टेज और अधिक वेल्डिंग करंट",
+      "Less welding voltage and more welding current / कम वेल्डिंग वोल्टेज और अधिक वेल्डिंग करंट"
+    ],
+    "c": 3
+  },
+  {
+    "q": "What is the limit of air gap between sensor and phonic wheel?",
+    "h": "सेंसर और फ़ोनिक व्हील के बीच एयर गैप की सीमा कितनी होती है?",
+    "o": [
+      "1.0 - 5.0 mm / 1.0 - 5.0 मिमी",
+      "1.0 - 10.0 mm / 1.0 - 10.0 मिमी",
+      "1.0 – 2.5 mm / 1.0 - 2.5 मिमी",
+      "0.9 – 1.4 mm / 0.9 - 1.4 मिमी"
+    ],
+    "c": 3
+  },
+  {
+    "q": "Permitted luggage allowed for Ist class pass is--------.",
+    "h": "Ist क्लास पास के लिए कितना सामान अनुमत किया गया है?",
+    "o": [
+      "50 Kg/ head / 50 किलोग्राम /प्रतिव्यति",
+      "60 Kg/ head / 60 किलोग्राम /प्रतिव्यति",
+      "70 Kg/ head / 70 किलोग्राम /प्रतिव्यति",
+      "80 Kg/ head / 80 किलोग्राम / प्रतिव्यति"
+    ],
+    "c": 2
+  },
+  {
+    "q": "संविधान के किस अनुच्छेद के अनुसार राज्यों के विधानमंडल को राज्य की राजभाषा निर्धारित करने का अधिकार प्रदान है |",
+    "h": "संविधान के किस अनुच्छेद के अनुसार राज्यों के विधानमंडल को राज्य की राजभाषा निर्धारित करने का अधिकार प्रदान है |",
+    "o": [
+      "अनुच्छेद 343",
+      "अनुच्छेद 344",
+      "अनुच्छेद 345",
+      "अनुच्छेद 346"
+    ],
+    "c": 2
+  },
+  {
+    "q": "संविधान के किस अनुच्छेद में हिंदी भाषा के विकास का निर्देश दिया गया है?",
+    "h": "संविधान के किस अनुच्छेद में हिंदी भाषा के विकास का निर्देश दिया गया है?",
+    "o": [
+      "344",
+      "345",
+      "350",
+      "351"
+    ],
+    "c": 3
+  },
+  {
+    "q": "After receiving how many promotions is an employee not eligible for the benefit of MACP on completion of 10 years?",
+    "h": "कितनी पदोन्नतियाँ प्राप्त करने के बाद कर्मचारी 10 वर्ष पूरे होने पर MACP लाभ के लिए पात्र नहीं रहता?",
+    "o": [
+      "One promotion / एक पदोन्नति",
+      "Two promotions / दो पदोन्नतियाँ",
+      "Three promotions / तीन पदोन्नतियाँ",
+      "None of the above / उपरोक्त में से कोई नहीं"
+    ],
+    "c": 2
+  },
+  {
+    "q": "First two digits in any price list number (PL no.) related to stock item represent ------ number",
+    "h": "स्टॉक आइटम संबधित किसी भी मूल्य सूची संख्या (पी एल नंबर ) में पहले दो अंक ----- नंबर दर्शाते है।",
+    "o": [
+      "Part / भाग",
+      "Specification / स्पेसिफ़िकेशन",
+      "Sub Group / सब ग्रुप",
+      "Main Group / मेन ग्रुप"
+    ],
+    "c": 3
+  },
+  {
+    "q": "The first Amrit Bharat Express was inaugurated on ---.",
+    "h": "पहली अमृत भारत एक्सप्रेस का उद्घाटन कब हुआ?",
+    "o": [
+      "15 Aug.2023 / 15 अगस्त 2023",
+      "30 Dec. 2023 / 30 दिसंबर 2023",
+      "26 Jan. 2024 / 26 जनवरी 2024",
+      "2 Jan. 2024 / 2 जनवरी 2024"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Name the distance between axle box top and axle box crown bolt is -------",
+    "h": "एक्सल बॉक्स टॉप और एक्सल बॉक्स क्राउन बोल्ट के बीच की दूरी का नाम बताएं",
+    "o": [
+      "Clearance 'A' / क्लेअरन्स 'A'",
+      "Clearance 'B' / क्लेअरन्स 'B'",
+      "Clearance 'C' / क्लेअरन्स 'C'",
+      "Non of the above / इनमें से कोई नहीं"
+    ],
+    "c": 0
+  },
+  {
+    "q": "What is full form of DTBPB material which is used in coach seat ?",
+    "h": "कोच सीट में प्रयोग होने वाले मटेरियल का DTBPB का फुल फॉर्म क्या है?",
+    "o": [
+      "Densified Treated and Bonded Polyester Bond / डेन्सीफाईड ट्रीटेड एण्ड बोंडेड पालीएस्टर बॉन्ड",
+      "Densified Thermal Bonded Polyester Block / डेन्सीफाईड थर्मल बोंडेड पालीएस्टर ब्लॉक",
+      "Direct Total Bonded Polyester Block / डायरेक्ट टोटल बोंडेड पालीएस्टर ब्लॉक",
+      "Direct Treated Bonded Polyester Button / डायरेक्ट ट्रीटिड बोंडेड पालीएस्टर बटन"
+    ],
+    "c": 1
+  },
+  {
+    "q": "Non-stock indents of non-safety items of value of Rs.---- and more are sent to account department for Quantity Vetting.",
+    "h": "----- रुपये या इससे अधिक मूल्य के नॉन सेफ़्टी आयटम्स के नॉन स्टॉक इंडेंट्स को क्वान्टिटी वेटिंग हेतु अकाउंट्स डिपार्टमेंट भेजा जाता है।",
+    "o": [
+      "2.5 Lac / 2.5 लाख",
+      "3 Lac / 3 लाख",
+      "5 Lac / 5 लाख",
+      "10 Lac / 10 लाख"
+    ],
+    "c": 0
+  },
+  {
+    "q": "Wear limit of plunger faceplate in ICF type buffer is ---------",
+    "h": "ICF प्रकार बफर में प्लंजर फेसप्लेट की झीज सीमा------है|",
+    "o": [
+      "9.0 mm / 9.0 मिमी",
+      "11.0 mm / 11.0 मिमी",
+      "12.0 mm / 12.0 मि.मी.",
+      "13.0 mm / 13.0 मिमी"
+    ],
+    "c": 3
+  },
+  {
+    "q": "The RDSO specification for the Fire and Smoke Detection System in Indian Railway AC coaches is:",
+    "h": "भारतीय रेल के वातानुकूलित कोचों में अग्नि एवं धुआँ पहचान प्रणाली के लिए RDSO विनिर्देश है:",
+    "o": [
+      "RDSO/2006/CG-04 / RDSO/2006/CG-04",
+      "RDSO/2008/CG-04 / RDSO/2008/CG-04",
+      "RDSO/2010/CG-06 / RDSO/2010/CG-06",
+      "RDSO/2024/CG-08 / RDSO/2024/CG-08"
+    ],
+    "c": 2
+  },
+  {
+    "q": "What capacity air spring is standardized for LHB Economy AC Coaches (LWACCNEAA)?",
+    "h": "LHB इकोनॉमी AC कोच (LWACCNEAA) के लिए कितनी क्षमता का एयर स्प्रिंग मानकीकृत है?",
+    "o": [
+      "120KN / 120 के एन",
+      "140KN / 140 के एन",
+      "160KN / 160 के एन",
+      "180KN / 180 के एन"
+    ],
+    "c": 2
+  },
+  {
+    "q": "What is the Transportation code of second class coach fitted with self-generating electrical equipment?",
+    "h": "सेल्फ-जेनरेटिंग विद्युत उपकरण के साथ लगे द्वितीय श्रेणी कोच का परिवहन कोड क्या है?",
+    "o": [
+      "SG / एस जी",
+      "GS / जी एस",
+      "GY / जी वाई",
+      "GSD / जी एस डी"
+    ],
+    "c": 1
+  },
+  {
+    "q": "During testing, what is the premissible leakage in FP & BP?",
+    "h": "परीक्षण के दौरान, FP और BP में कितना लीकेज परमिसिबल है?",
+    "o": [
+      "0.14 Kg/cm^2per minutes / 0.14 किलोग्राम / सेमी^ 2 प्रति मिनट",
+      "0.3 Kg/cm^2 per minutes / 0.3 किलोग्राम / सेमी^ 2प्रति मिनट",
+      "0.4 Kg/cm^2per minutes / 0.4 किलोग्राम / सेमी^ 2 प्रति मिनट",
+      "0.2 Kg/cm^2 per minutes / 0.2 किग्रा / सेमी^ 2 प्रति मिनट"
+    ],
+    "c": 0
+  },
+  {
+    "q": "In LHB coaches, Electricity power required for Dump valve operation is --------",
+    "h": "एल एच बी कोचेस में डंप वाल्व ऑपरेशन के लिए -------- इतनी विद्युत शक्ति आवश्यक होती है|",
+    "o": [
+      "72 volt DC / 72 वोल्ट डीसी",
+      "110 volt DC / 110वोल्ट डीसी",
+      "24 Volt DC / 24 वोल्ट डीसी",
+      "12 Volt DC / 12 वोल्ट डीसी"
+    ],
+    "c": 2
+  }
+]
